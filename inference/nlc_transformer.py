@@ -20,7 +20,8 @@ class NLC():
         self.tokenizer = Tokenizer()
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         if method_conv == 'NLG':
-            f = open(param_dir+'/model_nlg.pkl', 'rb')
+            #f = open(param_dir+'/model_nlg.pkl', 'rb')
+            f = open(param_dir+'/best_model_nlg.pkl', 'rb')
             self.model = cloudpickle.load(f)
             f.close()
             f = open(param_dir+'/MR.field', 'rb')
@@ -30,7 +31,8 @@ class NLC():
             self.TRG = dill.load(f)
             f.close()
         else:
-            f = open(param_dir+'/model_nlu.pkl', 'rb')
+            #f = open(param_dir+'/model_nlu.pkl', 'rb')
+            f = open(param_dir+'/best_model_nlu.pkl', 'rb')
             self.model = cloudpickle.load(f)
             f.close()
             f = open(param_dir+'/SEN.field', 'rb')
