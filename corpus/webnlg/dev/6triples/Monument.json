@@ -1,0 +1,186 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "designer",
+                    "Pietro Canonica"
+                ],
+                [
+                    "Turkey",
+                    "leaderName",
+                    "Ahmet Davutoğlu"
+                ],
+                [
+                    "Turkey",
+                    "capital",
+                    "Ankara"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "material",
+                    "\"Bronze\""
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "\"1932-07-27\""
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "Ankara is the Turkish capital and the country's leader's name is Ahmet Davutoglu. The Atatürk Monument (İzmir) can be found in Turkey. Pietro Canonica designed the Monument and it is made of bronze. The Ataturk Monument was inaugurated on 27th July, 1932.",
+            "The Ataturk Monument in Izmir was inaugurated on the 27th July, 1932. It is made of bronze and it was designed by Pietro Canonica. Turkey's leader is called Ahmet Davutoglu and its capital is Ankara.",
+            "The capital city of Turkey is Ankara and the country's leader is Ahmet Davutoglu. The country is the location of Izmir where the bronze Ataturk Monument designed by Pietro Canonica was inaugurated on 27 July 1932."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "leaderTitle",
+                    "Prime Minister of Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "\"Ottoman Army soldiers killed in the Battle of Baku\""
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "nativeName",
+                    "\"Türk Şehitleri Anıtı\""
+                ],
+                [
+                    "Azerbaijan",
+                    "leaderName",
+                    "Artur Rasizad"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "\"Hüseyin Bütüner and Hilmi Güner\""
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs' Memorial (original name: Türk Şehitleri Anıtı) was designed by Huseyin Butuner and Hilmi Guner and is located in Azerbaijan. It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. The leader, the Prime Minister of Azerbaijan is Artur Rasizade.",
+            "The Baku Turkish Martyrs' Memorial is located in Azerbaijan and the country's leader is Prime Minister Artur Rasizade. The Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku and its designers are Huseyin Butuner and Hilmi Guner. The native name for the Baku Turkish Martyrs' Memorial is Türk Şehitleri Anıtı.",
+            "Huseyin Butuner and Hilmi Guner are the designers of the Baku Turkish Martyrs memorial, also known as Turk Sehitleri Aniti. The memorial is located in Azerbaijan and dedicated to the Ottoman army soldiers who died in the battle of Baku. Prime Minister Artur Rasizade is the leader of the country."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Monocacy National Battlefield",
+                    "location",
+                    "Frederick County, Maryland"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "\"1907-07-11\""
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ],
+                [
+                    "Monocacy National Battlefield",
+                    "nearestCity",
+                    "Frederick, Maryland"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "owningOrganisation",
+                    "National Park Servic"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield near Frederick, Frederick County, Maryland. The monument was established 1907-07-11 and belongs to the category of Historic districts in the United States. The monument has been provided by the National Park Service.",
+            "The 14th New Jersey Volunteer Infantry Monument was established on July 11, 1907, in the Monocacy National Battlefield, in Frederick County, Maryland. The monument is categorized as a United States historic district and is under the responsibility of the National Park Service. The closest city to the battlefield is Frederick, Maryland.",
+            "The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) belongs to the category of Historic districts in the United States and is located on Monocacy National Battlefield. The nearest city is Frederick, Frederick County, Maryland. The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Monocacy National Battlefield",
+                    "location",
+                    "Frederick County, Maryland"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "\"1907-07-11\""
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "country",
+                    "\"United States\""
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "owningOrganisation",
+                    "National Park Servic"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield, in Frederick County, Maryland, United States. The monument was established on July 11th, 1907. It is now categorized as a United States historic district and is owned by the National Park Service.",
+            "The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 in the district of the Monocacy National Battlefield, Frederick County, Maryland, United States. It belongs to the category of historic US districts and is owned by the National Park service.",
+            "The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield, in Frederick County, Maryland, USA. Established on July 11, 1907, the monument is categorized as a historic district and is owned by the National Park Service."
+        ]
+    }
+]

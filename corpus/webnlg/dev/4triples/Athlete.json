@@ -1,0 +1,686 @@
+[
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Peñaro"
+                ],
+                [
+                    "Abel Hernández",
+                    "youthclub",
+                    "Central Españo"
+                ],
+                [
+                    "Hull City A.F.C.",
+                    "manager",
+                    "Steve Bruc"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Hull City A.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "A former player of the Central Español youth club, Abel Hernandez belongs to the club Penarol. He also plays for, Steve Bruce managed, Hull City A.F.C.",
+            "Abel Hernandez, who played for Penarol, was a member of the Central Espanol youth team. Abel Hernández's club is Hull City A.F.C. which is managed by, Steve Bruce.",
+            "Abel Hernandez, whose club is Penarol, played youth football for Central Español. his club is also Hull City A.F.C., the manager of which, is Steve Bruce."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id2",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "youthclub",
+                    "Peñaro"
+                ],
+                [
+                    "U.S. Città di Palermo",
+                    "manager",
+                    "Giuseppe Iachin"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ],
+                [
+                    "U.S. Città di Palermo",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernández, who was a member of youth club Peñarol, plays for the club, U.S. Città di Palermo. The club is managed by Giuseppe Iachini and play in the Serie A league.",
+            "When he was younger, Abel Hernández played for Peñarol. He now plays for US Citta di Palermo in the Serie A. League and managed by Giuseppe Iachini.",
+            "Abel Hernández plays for, Giuseppe Iachini managed, U.S. Città di Palermo. in the Serie A league. He has played for Peñarol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id3",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "draftTeam",
+                    "Columbus Blue Jackets"
+                ],
+                [
+                    "Boston Bruins",
+                    "generalManager",
+                    "Don Sweeney"
+                ],
+                [
+                    "Columbus Blue Jackets",
+                    "city",
+                    "Columbus, Ohio"
+                ],
+                [
+                    "Adam McQuaid",
+                    "club",
+                    "Boston Bruins"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was originally drafted to the Columbus Blue Jackets out of Columbus, Ohio. He nows plays with the Boston Bruins whose general manager is Don Sweeney.",
+            "Don Sweeney is general manager for the Boston Bruins, the team Adam McQuaid played for. McQuaid was drafted to the Columbus Blue Jackets, from Columbus, Ohio.",
+            "Adam McQuaid was drafted with the Columbus Blue Jackets in Columbus, Ohio. He played for the Boston Bruins whose manager is Don Sweeney."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "New England Patriots"
+                ],
+                [
+                    "Akeem Ayers",
+                    "birthDate",
+                    "1989-07-10"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ],
+                [
+                    "Akeem Ayers",
+                    "birthYear",
+                    "1989"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers was born on 10th July 1989. He made his debut for the Tennessee Titans and used to play for the New England Patriots.",
+            "Born on July 10th, 1989, Akeem Ayers, made his debut for the Tennessee Titans and used to play for the New England Patriots.",
+            "Akeem Ayers was born on 10th July 1989. His debut team was the Tennessee Titans and his former team is the New England Patriots."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "birthYear",
+                    "1987"
+                ],
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthDate",
+                    "1987-09-27"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent, who used to play for Houston Texans, was born on 27 September 1987 in Atlanta, Georgia.",
+            "Akeem Dent was born in Atlanta, Georgia on 27th September 1987 and played for the Houston Texans.",
+            "Former Houston Texans player, Akeem Dent, was born in Atlanta Georgia, on 09/27/1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id6",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "ground",
+                    "Al Kho"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "manager",
+                    "Amar Os"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC which is located at Al Khor and managed by Amar Osim. The Shabab Al-Ordon club is associated with Alaa Abdul-Zahra.",
+            "Alaa Abdul-Zahra, whose club is Shabab Al-Ordon Club, also plays for Al Kharaitiyat SC. which is located in Al Khor. The manager of Al Kharaitiyat SC is Amar Osim.",
+            "Alaa Abdul Zahra's club is AL Kharaitiyat SC which is managed by Amar Osim and is located in Al Khor. Another club of Alaa Abdul-Zahra, is Shabab Al-Ordon Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id7",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Accrington Stanley F.C."
+                ],
+                [
+                    "Accrington Stanley F.C.",
+                    "ground",
+                    "Accrington"
+                ],
+                [
+                    "Clyde F.C.",
+                    "manager",
+                    "Barry Ferguson"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Clyde F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played football for Clyde F.C., the manager of which, is Barry Ferguson. Alan Martin also played football for Accrington Stanley F.C., which have their ground in Accrington.",
+            "Alan Martin has played footbal for Barry Ferguson managed, Clyde F.C. and Accrington Stanley F.C. of Accrington.",
+            "Alan Martin played football for Clyde FC, which was managed by Barry Ferguson. He also played for Accrington based Accrington Stanley FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Hamilton Academical F.C."
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "birthDate",
+                    "1989-01-01"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "height",
+                    "185.42 (centimetres)"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Crewe Alexandra F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer who is 185.42 cm in height and was born on 1 January 1989. He plays for both Hamilton Academical FC and Crewe Alexandra FC.",
+            "Footballer, Alan Martin, was born on the 1st January 1989. He is 185.42 cm tall and plays for both the Hamilton Academical FC and Crewe Alexandra FC.",
+            "Alan Martin was born on the 1st January 1989 and is 185.42 cm tall. He played football for Hamilton Academical F.C. and is a footballer for the Crewe Alexandra FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id9",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Motherwell F.C."
+                ],
+                [
+                    "Motherwell F.C.",
+                    "ground",
+                    "Fir Park"
+                ],
+                [
+                    "Clyde F.C.",
+                    "manager",
+                    "Barry Ferguson"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Clyde F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a member of Motherwell FC, with its grounds in Fir Park. He also belongs to Clyde FC club, managed by Barry Ferguson.",
+            "Alan Martin played football for Motherwell F.C. whose home territory is Fir Park. Mr. Martin also played with the Clyde FC which is managed by Barry Ferguson.",
+            "Barry Ferguson is the manager of Clyde F.C., the club Alan Martin played for. Martin also played football for Motherwell F.C. which play their home games at Fir Park."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id10",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Samtredia"
+                ],
+                [
+                    "FC Samtredia",
+                    "ground",
+                    "Erosi Manjgaladze Stadiu"
+                ],
+                [
+                    "FC Dinamo Batumi",
+                    "manager",
+                    "Levan Khomerik"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Dinamo Batu"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's club is FC Samtredia who play their home games at Erosi Manjgaladze stadium. Mr. Guruli also once played for the FC Dinamo Batumi that is managed by Levan Khomeriki.",
+            "Aleksandre Guruli plays for FC Dinamo Batumi whose manager is Levan Khomeriki. He also plays for FC Samtredia whose ground is the Erosi Manjgaladze Stadium.",
+            "Aleksandre Guruli plays for both FC Dinamo Batumi (managed by Levan Khomeriki) and FC Samtredia, ground of which is Erosi Manjgaladze Stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "Olympique Lyonnais"
+                ],
+                [
+                    "Olympique Lyonnais",
+                    "chairman",
+                    "Jean-Michel Aulas"
+                ],
+                [
+                    "Olympique Lyonnais",
+                    "ground",
+                    "Parc Olympique Lyonnais"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ]
+            ]
+        },
+        "text": [
+            "Jean-Michel Aulas is the chairman of Olympique Lyonnais which play their home games at the Parc Olympique Lyonnais. Aleksandre Guruli, whose club is Olympique Lyonnais, used to play for FC Karpaty Lviv.",
+            "Aleksandre Guruli, who plays for FC Karpaty Lviv club, used to play for the Olympique Lyonnais club, Jean-Michel Aulas is the chairman of Olympique Lyonnais, the home games of which, are played at the Parc Olympique Lyonnais.",
+            "Aleksandre Guruli played for FC Karpaty Lviv and nw plays for Olympiquw Lyonnais which is based at the Parc Olympique Lyonnais Stadium and has jean-Michel Aulas as chairman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Brandon, Manitoba"
+                ],
+                [
+                    "Alex Plante",
+                    "birthYear",
+                    "1989"
+                ],
+                [
+                    "Alex Plante",
+                    "club",
+                    "Anyang Halla"
+                ],
+                [
+                    "Alex Plante",
+                    "birthDate",
+                    "1989-05-09"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante, who played for the club Anyang Halla, was born on May 9th 1989, in Brandon, Manitoba.",
+            "Alex Plante, whose club is called Anyang Halla, was born on 1989-05-09, in Brandon, Manitoba.",
+            "Born on 09/05/1989 in Brandon, Manitoba, Alex Plante participated in the Anyang Halla Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id13",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Canada",
+                    "anthem",
+                    "O Canada"
+                ],
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Canada",
+                    "ethnicGroup",
+                    "Black Canadians"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Canada where the anthem is, O Canada. Elizabeth II is the leader of Canada where Black Canadians are one of the ethnic groups.",
+            "Alex Plante was born in Canada, which is led by Elizabeth II, has an anthem known as \"O Canada\" and includes the ethnic group of Black Canadians.",
+            "Alex Plante was born in Canada where one of the ethnic groups, are Black Canadians. Canada's anthem is, O Canada and leader is, Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Canada",
+                    "anthem",
+                    "O Canada"
+                ],
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Canada",
+                    "language",
+                    "Slavey languag"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in Canada whose national anthem is called O Canada and its leader is Elizabeth II. Slavey is spoken in Canada.",
+            "Elizabeth II is Canada's leader and the national anthem is \"O Canada\". It is home to Aaron Boogaard and the Slavey language is spoken.",
+            "Aaron Boogaard was born in Canada, where one of the languages is, the Slavey language. The national anthem of Canada is O Canada. and the leader is, Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id15",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Clyde F.C.",
+                    "manager",
+                    "Barry Ferguson"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Clyde F.C."
+                ],
+                [
+                    "Clyde F.C.",
+                    "ground",
+                    "Broadwood Stadiu"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Barrow A.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer for the Clyde FC club but currently plays for Barrow A.F.C. Barry Ferguson is the manager of Clyde F.C. who play at the Broadwood Stadium.",
+            "Alan Martin is a footballer who plays for Barrow AFC and also for Clyde FC which is managed by Barry Ferguson and has their ground at Broadwood Stadium.",
+            "Alan Martin, played football for Clyde F.C. which is managed by, Barry Ferguson. Alan Martin plays football for Barrow A.F.C., the home ground of which, is Broadwood Stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id16",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "FC Karpaty Lviv",
+                    "manager",
+                    "Oleh Luzhny"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Samtredia"
+                ],
+                [
+                    "FC Samtredia",
+                    "ground",
+                    "Erosi Manjgaladze Stadiu"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli is a member of FC Karpaty Lviv, managed by Oleh Luzhny. He is also a member of FC Samtredia, with its grounds at Erosi Manjgaladze Stadium.",
+            "Aleksandre Guruli's club is FC Samtredia who have their home ground at Erosi Manjgaladze Stadium. He has also played for FC Karpaty Lviv who are managed by Oleh Luzhny.",
+            "Aleksandre Guruli's club is FC Samtredia who have their ground at the Erosi Manjgaladze stadium. He also plays for FC Karpaty Lviv who are managed by Oleh Luzhny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "FC Torpedo Moscow",
+                    "season",
+                    "2014–15 Russian Premier Leagu"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ],
+                [
+                    "FC Torpedo Moscow",
+                    "manager",
+                    "Valery Petrakov"
+                ],
+                [
+                    "FC Torpedo Moscow",
+                    "chairman",
+                    "Aleksandr Tukmanov"
+                ]
+            ]
+        },
+        "text": [
+            "Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.",
+            "FC Torpedo Moscow who are managed by Valery Petrakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.",
+            "Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id18",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Houston Texans",
+                    "owner",
+                    "Bob McNa"
+                ],
+                [
+                    "Akeem Dent",
+                    "debutTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ],
+                [
+                    "Atlanta Falcons",
+                    "city",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent debuted with the Atlanta Falcons in Atlanta city. He played prior to this for the Houston Texans which is owned by Bob McNair.",
+            "Akeem Dent's first team was the Atlanta Falcons which play in Atlanta. His former team was the Houston Texans which is owned by Bob McNair.",
+            "Akeem Dent used to play for Houston Texans which is owned by Bob McNair. Akeem Dent's first team were the Atlanta Falcons which play in Atlanta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id19",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "SV Werder Bremen",
+                    "league",
+                    "Bundesliga"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen II"
+                ],
+                [
+                    "SV Werder Bremen",
+                    "manager",
+                    "Viktor Skrypnyk"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt played for the Bundesliga's SV Werder Bremen. He now plays for the club SV Werder Bremen II, where Viktor Skrypnyk is the manager.",
+            "Aaron Hunt plays in the Bundesliga league for SV Werder Bremen II. The manager is Viktor Skrypnyk.",
+            "Aaron Hunt plays for SV Werder Bremen in the Bundesliga. The team are managed by Viktor Skrypnyk. Aaron Hunter played for SV Werder Bremen II."
+        ]
+    }
+]

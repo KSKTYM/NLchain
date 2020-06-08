@@ -1,0 +1,4757 @@
+[
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Taylor County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Taylor County in Texas, in the United States.",
+            "Abilene is located in Taylor County, Texas, United States.",
+            "Abilene is located in Taylor County, Texas in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id2",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene, Texas is part of the United States of America where African Americans are one of the ethnic groups.",
+            "Abilene, Texas is located in the United States where African Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The United States is home to an ethnic group called Asian Americans and is also where you will find Abilene, Texas.",
+            "Abilene, Texas is in the United States, where Asian Americans are an ethnic group.",
+            "Abilene, Texas is located in the United States, a country which has many ethnic groups, such as Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is located in Texas, United States and one of the country's ethnic groups are the Native Americans.",
+            "Abilene is part of Texas in the United States where one of the ethnic groups are Native Americans.",
+            "Abilene, Texas, is located in the United States, where one of the ethnic groups are the Native Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Jones County, Texas"
+                ],
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Jones County, Texas, which is located within the United States.",
+            "Abilene is located in Jones County, Texas, United States.",
+            "Abilene is part of Jones County, Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Jones County, Texas"
+                ],
+                [
+                    "Jones County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Jones County, Texas in the United States.",
+            "Abilene is part of Jones County, Texas, U.S.",
+            "Abilene is found in Jones County, Texas in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Taylor County, Texas"
+                ],
+                [
+                    "Taylor County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Taylor County, Texas, in the United States.",
+            "Abilene, is located in Taylor County, Texas, in the United States.",
+            "Abilene is part of Taylor County in Texas, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene can be located in Texas which is part of the United States of America.",
+            "Abilene is part of Texas, United States.",
+            "Abilene is located in Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id9",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Texas in the United States.",
+            "Abilene is part of Texas which is located in the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "populationDensity",
+                    "429.9 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Abilene, Texas",
+                    "areaTotal",
+                    "286.5 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene, Texas has a population density of 429.9 inhabitants per sq km and a total area of 286.5 sq km.",
+            "Abilene, Texas, covers a total area of 286.5 square kilometres and has 429.9 inhabitants per sq kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id11",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is part of the United States, where African Americans are one of the ethnic groups.",
+            "Akron, Ohio is part of the United States and African Americans are an ethnic group within the U.S.",
+            "African Americans are an ethnic group in the United States and Akron Ohio is part of the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id12",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is part of the U.S. where Native Americans are an ethnic group.",
+            "Akron Ohio is part of the United States of America, in which one of the ethnic groups is Native Americans.",
+            "Akron, Ohio is part of the United States where Native Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "populationDensity",
+                    "1239.3 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Akron, Ohio",
+                    "areaTotal",
+                    "161.54 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Akron, Ohio, is 161.54 square kilometres and the population density is 1239.3 inhabitants per square kilometre.",
+            "Akron, Ohio with a total area of 161.54 sq km, has a population density of 1239.3 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id14",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is located in Alabama, in the United States.",
+            "Auburn is part of Alabama, in the United States.",
+            "Auburn is part of Alabama in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id15",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is found within the United States where one of the ethnic groups are the African Americans.",
+            "Albany, Georgia, is part of the United States, where African Americans are an ethnic group.",
+            "Albany is in Georgia in the United States, the country where African Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id16",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are an ethnic group in the United States, where Albany, Georgia can be found.",
+            "The United States is the location for Albany, Georgia and includes the Native Americans among its ethnic groups.",
+            "Native Americans are one of the ethnic groups in the United States of America where Albany, Georgia is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ],
+                [
+                    "Georgia (U.S. state)",
+                    "capital",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is located in the US state of Georgia, of which Atlanta is the capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id18",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "populationDensity",
+                    "535.0 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Albany, Georgia",
+                    "areaTotal",
+                    "144.7 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density of Albany, Georgia is 535.0 inhabitants per square kilometre and the total area is 144.7 SqKm.",
+            "Albany, Georgia has a total area of 144.7 sq km and a population density of 535.0 inhabitants per square kilometre.",
+            "Albany in Georgia has a population density of 535 people per sq km and has a total area of 144.7 sq kms."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id19",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "areaTotal",
+                    "45.97 (square kilometres)"
+                ],
+                [
+                    "Albany, Oregon",
+                    "populationDensity",
+                    "1104.1 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon has a population density of 1104.1 inhabitants per square kilometre and covers an area of 45.97 sq km.",
+            "Albany, in Oregon has a population density of 1104.1 inhabitants per sq km and a total area of 45.97 sq km.",
+            "The total area of Albany, Oregon is 45.97 sq km and the population density is 1104.1 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id20",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The United States includes the ethnic group of African Americans and is the location of Albany, Oregon.",
+            "Albany, Oregon is in the United States and African Americans are one ethnic group in that country.",
+            "The United States is the location of Albany, Oregon and includes the African Americans among its ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id21",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States has an ethnic group called Native Americans and is where you will find Albany, Oregon.",
+            "Albany, Oregon is part of the U.S. where one of the ethnic groups are Native Americans.",
+            "Albany, Oregon is in the United States, where Native Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id22",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Benton County, Oregon"
+                ],
+                [
+                    "Benton County, Oregon",
+                    "largestCity",
+                    "Corvallis, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is part of Benton County in Oregon, where the largest city is Corvallis.",
+            "Albany is part of Benton County, Oregon, which is home to the largest city of Corvallis.",
+            "Albany is part of Benton County in Oregon, where the largest city, in Benton, is Corvallis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "areaOfLand",
+                    "486.2 (square kilometres)"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "areaTotal",
+                    "490.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The land area of Albuquerque, New Mexico is 486.2 square kilometres while its total area is 490.9 square kilometres.",
+            "The total area of Albuquerque, New Mexico is 490.9 square kilometres, the area of land is 486.2 square kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id24",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "isPartOf",
+                    "New Mexico"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, is in New Mexico, in the United States.",
+            "Albuquerque is part of New Mexico in the United States.",
+            "Albuquerque is located in New Mexico, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id25",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "isPartOf",
+                    "Bernalillo County, New Mexico"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico, is part of Bernalillo County, United States.",
+            "Albuquerque is located in Bernalillo County, New Mexico, United States.",
+            "Albuquerque, New Mexico is part of Bernalillo County, New Mexico, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id26",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "Albuquerque City Council"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, in the United States.",
+            "Albuquerque in New Mexico, United States, is led by the Albuquerque City Council.",
+            "The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id27",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "Mayor"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico, is within the United States and the leader is the Mayor.",
+            "Albuquerque in New Mexico, United States is led by a Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id28",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "Mayor of Albuquerque"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico, U.S. is led by the Mayor of Albuquerque.",
+            "The leader of Albuquerque, New Mexico, US, is the Mayor of Albuquerque."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id29",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "New Mexico House of Representatives"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "areaTotal",
+                    "490.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Albuquerque, New Mexico is 490.9 square kilometres and the city is led by the New Mexico House of Representatives.",
+            "Albuquerque, New Mexico, is led by the New Mexico House of representatives and covers an area of 490.9 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id30",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "New Mexico House of Representatives"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico, United States, is led by the New Mexico house of representatives.",
+            "In the United States, the New Mexico House of Representatives, is what the leader in Albuquerque (New Mexico), is called.",
+            "Albuquerque, New Mexico is in the United States and led by the New Mexico House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id31",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "New Mexico Senate"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico, is within the United States and led by the New Mexico Senate.",
+            "Albuquerque, New Mexico, United States is led by the New Mexico Senate.",
+            "The New Mexico Senate leads Albuquerque in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id32",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "populationDensity",
+                    "1142.3 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "areaTotal",
+                    "490.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.9 sq km.",
+            "Albuquerque, in New Mexico, has a total area of 490.9 square kilometres and its population density is 1142.3 people per sq. km.",
+            "With a total are of 490.9 square kilometres, Albuquerque, in New Mexico, has a population density of 1142.3 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id33",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of the state of Indiana, which can be found in the United States.",
+            "Alexandria can be found in the state of Indiana in the United States.",
+            "Alexandria is located in Indiana, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id34",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ],
+                [
+                    "Madison County, Indiana",
+                    "largestCity",
+                    "Anderson, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is located in Indiana, part of Madison County which has Anderson as its largest city.",
+            "Alexandria is part of Madison County, Indiana, the largest city of that area is Anderson.",
+            "Alexandria is part of Madison County, Indiana where Anderson is the largest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id35",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "areaTotal",
+                    "55.4 (square kilometres)"
+                ],
+                [
+                    "Alpharetta, Georgia",
+                    "populationDensity",
+                    "992.6 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta in Georgia has a total area of 55.4 sq km and a population density of 992.6 inhabitants per sq km.",
+            "Alpharetta, Georgia, has an area of 55.4 square kilometres and a population density of 992.6 inhabitants per square kilometre.",
+            "There are 992.6 people per square kilometres in Alpharetta, Georgia, which has a total area of 55.4 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id36",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta is part of Fulton County in Georgia, in the United States.",
+            "Alpharetta is part of Fulton County, Georgia, United States.",
+            "Alpharetta, Fulton County, Georgia is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id37",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta is located in the state of Georgia in the United States.",
+            "Alpharetta, Georgia is in the U.S.",
+            "Alpharetta, is in the state of Georgia, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id38",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Washington, D.C. is the capital of the United States where Alpharetta, Georgia is also located.",
+            "The capital of the United States is Washington DC, and the country is the location of Alpharetta, in Georgia.",
+            "Alpharetta, is in Georgia, in the United States, where Washington, D.C. is the capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id39",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta is located in Georgia, part of the United States, where African Americans are an ethnic group.",
+            "The African Americans are an ethnic group within the United States where Alpharetta is located in Georgia.",
+            "The United States is the location of Alpharetta, Georgia and includes the African Americans among its ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id40",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, Georgia is located within the United States, where Asian Americans are one of the ethnic groups.",
+            "The United States is the location of Alpharetta, Georgia, and includes the Asian Americans among its ethnic groups.",
+            "Alpharetta, Georgia is part of the United States where one of the ethnic groups are Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id41",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States includes the Native Americans among its ethnic groups and is the location of Alpharetta, Georgia.",
+            "The United States of America include the ethnic group of Native Americans and is the location of Alpharetta, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id42",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, Georgia is located in the United States where English is the official language.",
+            "The English language is spoken in the United States and Alpharetta, Georgia is located in the country.",
+            "Alpharetta, Georgia is in the United States, where the English language is used."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id43",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo, Texas is located within the United States where African Americans are one of the ethnic groups.",
+            "African Americans are an ethnic group in the United States, where Amarillo, Texas is located.",
+            "The United States include the ethnic group of African Americans and is the location of Amarillo, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id44",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is located in Texas in the United States where Asian Americans are an ethnic group.",
+            "The United States is the location of Amarillo, Texas and includes the ethnic group of Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id45",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are one of the ethnic groups in the United States, where Amarillo, Texas can be found.",
+            "Amarillo, Texas is in the U.S. and one ethnic group in that country is Native Americans.",
+            "Native Americans are an ethnic group in the United States, which is the location of Amarillo, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id46",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Potter County, Texas"
+                ],
+                [
+                    "Amarillo, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo, Potter County, Texas is in the U.S.",
+            "Amarillo is located in Potter County, Texas, United States.",
+            "Amarillo is part of Potter County, Texas, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id47",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Randall County, Texas"
+                ],
+                [
+                    "Amarillo, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo, Texas is part of Randall County, Texas, in the United States.",
+            "Amarillo, Texas is part of Randall County in the U.S.",
+            "Amarillo is part of Randall County, Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id48",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Randall County, Texas"
+                ],
+                [
+                    "Randall County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is part of Randall County, Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id49",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is part of Texas, in the United States.",
+            "The city of Amarillo is located in Texas in the United States.",
+            "Amarillo is a city in Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id50",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "populationDensity",
+                    "746.0 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Amarillo, Texas",
+                    "areaTotal",
+                    "233.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Amarillo Texas is 233.9 SqKm and there are 746 people per square km.",
+            "Amarillo, Texas covers an area of 233.9 sq km and has a population density of 746 people per square kilometre.",
+            "746 people per square kilometre inhabit Amarillo, Texas, which has a area of 233.9 square kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id51",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "UTCOffset",
+                    "-7"
+                ],
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.",
+            "Anaheim, California has a UTC offset of -7 and covers a total area of 131.6 square kilometres.",
+            "Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id52",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "UTCOffset",
+                    "-8"
+                ],
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, in California, has a UTC offset of -8, and a total area of 131.6 square kilometres.",
+            "Anaheim, California, covers a total area of 131.6 square kilometres and has the UTC offset of -8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id53",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaCode",
+                    "657, 714"
+                ],
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California has a total area of 131.6 sq km and the area codes are 657 and 714.",
+            "The total area of Anaheim California is 131.6 square kilometres. Its area codes are 657 and 714.",
+            "The total area of Anaheim, California is 131.6 sq km. and the area codes are 657 and 714."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id54",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaCode",
+                    "657"
+                ],
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California covers an area of 131.6 square kilometers and its area code is 657.",
+            "Anaheim, California has a total area of 131.6 square kilometres, and the area code 657.",
+            "Anaheim, which is in California has a total area of 131.6 sq km and an area code 657."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id55",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaOfWater",
+                    "25.2 (square kilometres)"
+                ],
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Anaheim California is 131.6 sq km including 25.2 sq km of water.",
+            "With a total area of 131.6 square kilometres, Anaheim California, has a total area of water of 25.2 square kilometres.",
+            "Anaheim, California has a total area of 131.6 sq kms including a total water area of 25.2 sq kms."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id56",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "Orange County, California"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of Orange County, California, united States.",
+            "Anaheim is in Orange County, California, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id57",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "Anaheim, California",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California, in the United States.",
+            "Anaheim is part of California in the United States of America.",
+            "Anaheim is part of California which is located in the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id58",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California, in the United States.",
+            "Anaheim is part of California in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id59",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "Spanish language"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California, where Spanish is spoken.",
+            "Anaheim is part of California where Spanish is one of the spoken languages.",
+            "Anaheim is part of California where Spanish is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id60",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "Orange County, California"
+                ],
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "California State Assembly"
+                ]
+            ]
+        },
+        "text": [
+            "Led by the California State Assembly, Anaheim is a city in Orange County, which is part of California.",
+            "Anaheim, Orange County, California is led by the California State Assembly.",
+            "Anaheim, Orange County, California, is led by the California State Assembly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id61",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "Orange County, California"
+                ],
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "California State Senate"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Senate leads Anaheim, which is in Orange County, California.",
+            "The California State Senate leads Anaheim, which is part of Orange County in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id62",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "Orange County, California"
+                ],
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of Orange County, California. The U.S. House of Representatives leads Anaheim.",
+            "The United States House of Representatives leads Anaheim, California, which is in Orange County.",
+            "The United States House of Representatives leads Anaheim, a city in Orange County which is part of California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id63",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "Orange County, California"
+                ],
+                [
+                    "Orange County, California",
+                    "isPartOf",
+                    "Greater Los Angeles Area"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of Orange County, California which is located in the greater Los Angeles area.",
+            "Anaheim is a city in Orange County, part of the Greater Los Angeles, area in California.",
+            "Anaheim is in Orange County, California which is part of the Greater Los Angeles area."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id64",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "California State Assembly"
+                ],
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California and led by the California State Assembly.",
+            "Anaheim, which is part of California, is led by the California State Assembly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id65",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "California State Senate"
+                ],
+                [
+                    "California State Senate",
+                    "isPartOf",
+                    "California State Legislature"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Senate is part of the California State Legislature, and leads Anaheim, California.",
+            "Anaheim is led by the California State Senate, which is part of the California State Legislature.",
+            "The California State Senate is part of the California State Legislature and leads Anaheim, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id66",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "areaTotal",
+                    "107.43 (square kilometres)"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "populationDensity",
+                    "523.9 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana has 523.9 people per square kilometer, and a total square area of 107.43 square kilometres.",
+            "Anderson, Indiana; has a population density of 523.9 inhabitants per square kilometre, and a total area of 107.43 square kilometres.",
+            "Anderson, Indiana's population density is 523.9 per sq. kilometre and its total area is 107.43 per sq. kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id67",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Adams Township, Madison County, Indiana"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Anderson Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson (part of Anderson Township), is located within Adams Township, Madison County, Indiana.",
+            "Anderson is part of Adams Township and Anderson Township, Madison County, Indiana.",
+            "Anderson, is part of the Anderson/Adams Township, Madison County in Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id68",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is a city in Indiana, United States.",
+            "Anderson is a city in Indiana, in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id69",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Lafayette Township, Madison County, Indiana"
+                ],
+                [
+                    "Lafayette Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is part of Lafayette Township, Madison County, Indiana in the U.S.",
+            "Anderson, Indiana is part of Lafayette Township, Madison County, Indiana, United States.",
+            "Anderson is part of Lafayette Township, Madison County, Indiana, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id70",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Richland Township, Madison County, Indiana"
+                ],
+                [
+                    "Richland Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is part of Richland Township, Madison County, Indiana, United States.",
+            "Anderson is within Richland Township, Madison County, Indiana, in the United States.",
+            "Anderson is part of Richland Township which is located in Madison County, Indiana. United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id71",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "areaTotal",
+                    "16.55 (square kilometres)"
+                ],
+                [
+                    "Angola, Indiana",
+                    "populationDensity",
+                    "524.5 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana, covers an area of 16.55 sq km and has a population density of 524.5.",
+            "Angola, Indiana has a total area of 16.55 sq km and a population density of 524.5 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id72",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is in the United States, where one of the ethnic groups are Asian Americans.",
+            "Angola, Indiana is located in the United States and one ethnic group there is Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id73",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ]
+            ]
+        },
+        "text": [
+            "Indiana's capital is Indianapolis and the city of Angola is part of Indiana.",
+            "Angola is a city in Indiana, the capital of which is Indianapolis.",
+            "Angola is a city in Indiana which has the capital of Indianapolis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id74",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Asian Americans are one of the ethnic groups in the U.S., the country where Angola, Indiana located.",
+            "Angola, Indiana is part of the U.S. where Asian Americans are one of the country's ethnic groups.",
+            "Angola in Indiana is in the U.S. and one ethnic group in that country is Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id75",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is part of the United States, where Native Americans are an ethnic group.",
+            "Native Americans are one of the ethnic groups in the United States of America, the country where Angola (part of Indiana), is located.",
+            "The United States is the location of Angola, Indiana, and includes the Native Americans among its ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id76",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "Chinese language"
+                ]
+            ]
+        },
+        "text": [
+            "The city of Antioch is found in California, which has some Chinese speaking areas.",
+            "Antioch is in California and the Chinese language is spoken there.",
+            "The city of Antioch is located in California, where Chinese is one of the spoken languages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id77",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "English language"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch is part of California, where English is the language spoken.",
+            "California uses the English language and is the location of the city of Antioch.",
+            "Antioch is part of California, where English is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id78",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "Spanish language"
+                ]
+            ]
+        },
+        "text": [
+            "The city of Antioch is located within California, where one of the languages spoken is Spanish.",
+            "The city of Antioch is located within California where the Spanish language is spoken.",
+            "Antioch is part of California where Spanish is one of the spoken languages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id79",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "Vietnamese language"
+                ]
+            ]
+        },
+        "text": [
+            "The city of Antioch is located in California, a state where one of the languages spoken is Vietnamese.",
+            "Antioch is part of California where Vietnamese language is spoken.",
+            "Antioch is part of California, where Vietnamese is one of the languages spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id80",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "Contra Costa County, California"
+                ],
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch is part of Contra Costa County in California state.",
+            "The city of Antioch is part of Contra Costa County in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id81",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "Contra Costa County, California"
+                ],
+                [
+                    "Contra Costa County, California",
+                    "isPartOf",
+                    "San Francisco Bay Area"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch, is part of Contra Costa County, which is part of the San Francisco Bay area, in California.",
+            "Antioch is located in Contra Costa County which is part of the San Francisco Bay Area in California.",
+            "Antioch is part of Contra Costa County, which in turn is part of the San Francisco Bay area, in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id82",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Tarrant County, in the state of Texas.",
+            "Arlington is part of Tarrant County, Texas.",
+            "Arlington is part of Tarrant County in Texas, U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id83",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Tarrant County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Tarrant County, Texas, United States.",
+            "Arlington is part of Tarrant County in Texas U.S.",
+            "Arlington is part of Tarrant County in Texas, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id84",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Tarrant County, Texas",
+                    "countySeat",
+                    "Fort Worth, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Forth Worth is the county seat of Tarrant County in Texas, where Arlington is located.",
+            "Arlington is part of Tarrant County, the county seat of which, is Fort Worth in Texas.",
+            "Arlington is in Tarrant County, Texas whose county seat is is Fort Worth."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id85",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Tarrant County, Texas",
+                    "largestCity",
+                    "Fort Worth, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Fort Worth, Tarrant County (of which Arlington is part of), is the largest city in Texas.",
+            "Arlington is located in Tarrant County, Texas where the largest city is Fort Worth."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id86",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of the state of Texas where Houston is the largest city.",
+            "Arlington is part of Texas where Houston is the largest city.",
+            "Arlington is part of the state of Texas, where the largest city is Houston."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id87",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "populationDensity",
+                    "1472.0 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Arlington, Texas",
+                    "areaTotal",
+                    "258.2 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington, Texas, has a population density, of 1472.0 inhabitants per square kilometre where the total area is 258.2 Sq.kl.",
+            "Arlington Texas has a population density of 1472 people per square kilometer and a total area of 258.2 SqK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id88",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "areaOfLand",
+                    "344.9 (square kilometres)"
+                ],
+                [
+                    "Atlanta",
+                    "areaTotal",
+                    "347.1 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta covers 344.9 sq km but has a total area of 347.1 sq km.",
+            "Atlanta covers 344.9 square kilometres with a total area of 347.1 sq kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id89",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of Fulton County in Georgia, United States.",
+            "Atlanta is part of Fulton County, Georgia, United States.",
+            "Atlanta is part of Fulton County in Georgia, U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id90",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is located within the state of Georgia, in the United States.",
+            "Atlanta is part of Georgia, United States.",
+            "Atlanta, is a part of the U.S. in the state of Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id91",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta in is the US, the capital of which is Washington DC.",
+            "Atlanta is in the United States, the capital of which is Washington, D.C.",
+            "Atlanta is located in the United States which has the capital city of Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id92",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in the United States (where Atlanta is located) is Asian Americans.",
+            "Atlanta is in the United States, where one of the ethnic groups, is Asian Americans.",
+            "Atlanta is in the United States, the country where Asian Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id93",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is located in the United States and the Native Americans are an ethnic group in the country.",
+            "The United States is the location of Atlanta and includes the Native Americans among its ethnic groups.",
+            "The United States is the location of Atlanta, and includes the ethnic group of Native Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id94",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is in the United States, where the language is English.",
+            "English is the language spoken in the United States where you can find Atlanta.",
+            "English is the language spoken in the United States, the country where Atlanta is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id95",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "DeKalb County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is mostly part of DeKalb County in Georgia.",
+            "Atlanta is part of DeKalb County which is located in Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id96",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "DeKalb County, Georgia"
+                ],
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of DeKalb County, Georgia, United States.",
+            "Most of Atlanta is part of DeKalb County in Georgia, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id97",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "DeKalb County, Georgia"
+                ],
+                [
+                    "DeKalb County, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of DeKalb County in Georgia U.S.",
+            "Atlanta is part of DeKalb County in Georgia, in the United States.",
+            "Most of Atlanta is part of DeKalb County in Georgia which is located in the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id98",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "DeKalb County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of Fulton County but most of it is located in DeKalb County in Georgia.",
+            "Atlanta is part of DeKalb County and Fulton County in Georgia.",
+            "Atlanta is part of Fulton County and DeKalb County in Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id99",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta can be found in the US state of Georgia.",
+            "Atlanta is part of Georgia in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id100",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "populationDensity",
+                    "1299.0 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Atlanta",
+                    "areaTotal",
+                    "347.1 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Atlanta is 347.1 (square kilometres) and the population density is 1299.0 inhabitants per square kilometre.",
+            "Atlanta has a population density of 1299 inhabitants per sq km and a total area of 347.1 sq km.",
+            "Atlanta covers an area of 347.1 sq km and has a population density of 1299 inhabitants per sq kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id101",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Atlantic City, New Jersey",
+                    "isPartOf",
+                    "New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City is part of New Jersey, which is in the United States.",
+            "Atlantic City is part of New Jersey, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id102",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City is part of New Jersey, United States where African Americans are one of the country's ethnic groups.",
+            "Atlantic City, New Jersey is part of the United States of America where one of the ethnic groups are African Americans.",
+            "African Americans are an ethnic group in the United States, where Atlantic City, New Jersey is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id103",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The United States includes the ethnic group of Asian Americans and is the location of Atlantic City, New Jersey.",
+            "Atlantic City, New Jersey is part of the United States of America where Asian Americans are one of the ethnic groups.",
+            "Asian Americans are an ethnic group in the United States, where Atlantic City, New Jersey can be found."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id104",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City is located in New Jersey in the United States, a country which includes the ethnic group of Native Americans.",
+            "The United States includes the ethnic group of native Americans and is the location of Atlantic City, New Jersey.",
+            "Atlantic City, New Jersey, is in the United States, where one of the ethnic groups are Native Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id105",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City, New Jersey, is located in the United States, where there is an ethnic group called White Americans.",
+            "White Americans are an ethnic group in the United States, where Atlantic City, New Jersey is located.",
+            "Atlantic City, New Jersey, is within the United States, a country of multiple ethnic groups, one of which is white Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id106",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "areaTotal",
+                    "4.14 (square kilometres)"
+                ],
+                [
+                    "Attica, Indiana",
+                    "populationDensity",
+                    "783.1 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana covers an area of 4.14 sq km and has 783.1 inhabitants for each of those square kilometres.",
+            "Attica in Indiana, has a total area of 4.14 sq km and a population density of 783.1 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id107",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Fountain County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica is part of Fountain County, Indiana, US.",
+            "Attica, Indiana is in Fountain County, Indiana, which is part of the United States.",
+            "Attica is in Fountain County, Indiana, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id108",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Logan Township, Fountain County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica is a city in Logan Township which is a part of Fountain County in Indiana, in the United States.",
+            "Attica is a city in Logan Township which is a part of Fountain County in Indiana, in the U.S.",
+            "Attica, Indiana is part of Logan Township, Fountain County, Indiana in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id109",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is located in the United States where African Americans are one of the country's ethnic groups.",
+            "The United States includes the ethnic group of African Americans and is the location of Attica, Indiana.",
+            "African Americans are an ethnic group in the United States, the country which Attica, Indiana, is part of."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id110",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is part of the United States of America where one of the ethnic groups are Asian Americans.",
+            "Attica, Indiana is located in the United States where Asian Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id111",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is part of the United States, where the capital is Washington, D.C.",
+            "Attica, Indiana is part of the United States, where the capital city is Washington DC.",
+            "The United States has the capital city of Washington DC, and is the location of Attica, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id112",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "areaTotal",
+                    "140.8 (square kilometres)"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "populationDensity",
+                    "368.65 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama has a population density of 368.65 inhabitants per sq km, and a total area of 140.8 Sq Km.",
+            "Auburn Alabama has a total area of 140.8 Sq Km and a population density of 368.65 inhabitants per square kilometre.",
+            "The city of Auburn, Alabama has a total area of 140.8 sq kms and a population density of 368.65 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id113",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of Alabama in the United States.",
+            "Auburn, Alabama is located in the U.S.",
+            "Auburn, Alabama can be found in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id114",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Lee County, Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Lee County, Alabama is located in the United States.",
+            "Auburn is part of Lee County, Alabama, in the United States.",
+            "Auburn is part of Lee County, Alabama, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id115",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "African Americans are an ethnic group in the United States where Auburn, Alabama is located.",
+            "Auburn, Alabama can be found in the United States, where African Americans are an ethnic group.",
+            "One of the ethnic groups in the United States are the African Americans and the country is the location of Auburn, Alabama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id116",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama is in the United States where the official language is English.",
+            "Auburn, Alabama is located in the United States where English is spoken.",
+            "Auburn Alabama is in the United States, where English is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id117",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Lee County, Alabama"
+                ],
+                [
+                    "Lee County, Alabama",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of Lee County in Alabama, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id118",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "King County, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of King County in Washington, which is located within the United States.",
+            "Auburn is part of King County in Washington, in the U.S.",
+            "Auburn is part of King County, Washington, in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id119",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "African Americans are an ethnic group within the United States where you can find Auburn, Washington.",
+            "Auburn, Washington is located in the United States, where African Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id120",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Pierce County, Washington"
+                ],
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is in Pierce County, Washington, in the United States.",
+            "Auburn is part of Pierce County, Washington, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id121",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Washington (state)"
+                ],
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is located within the state of Washington, United States.",
+            "Auburn is part of Washington (state), located in the United States.",
+            "Auburn is located within the state of Washington in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id122",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Washington (state)"
+                ],
+                [
+                    "Washington (state)",
+                    "capital",
+                    "Olympia, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is located within the state of Washington where Olympia is the capital.",
+            "Auburn is located in Washington state where the capital is Olympia.",
+            "Auburn can be found in the state of Washington, where the capital is Olympia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id123",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Washington (state)"
+                ],
+                [
+                    "Washington (state)",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of the state of Washington in the United States.",
+            "Auburn is part of Washington state, located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id124",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "populationDensity",
+                    "914.8 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Auburn, Washington",
+                    "areaTotal",
+                    "77.41 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density, of Auburn (Washington), is 914.8 inhabitants per square kilometre and its total area is 77.41 sq kms.",
+            "Auburn, Washington has a population density of 914.8 inhabitants per sq km and a total area of 77.41 sq kms."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id125",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Hays County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is in Hays County, Texas in the United States.",
+            "Austin is a part of Hays County in Texas which is a state of the United States.",
+            "Austin is part of Hays County, Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id126",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Williamson County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is part of Williamson County in Texas which is part of the United States of America.",
+            "Austin is part of Williamson County, Texas, United States.",
+            "Austin, Texas, is part of Williamson County, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id127",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Austin, Texas is located within the country of the United States where there are Americans.",
+            "Austin, Texas, is in the United States, the country where the inhabitants, are known as Americans.",
+            "Austin, Texas is located within the United States whose inhabitants are known as Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id128",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "African Americans are an ethnic group in the United States, where Austin, Texas is located.",
+            "One of the ethnic groups in the United States (where Austin, Texas is located) are the African Americans.",
+            "Austin, Texas is part of the United States of America where one of the ethnic groups are African Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id129",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Austin, Texas is located in the United States where Native Americans are among the country's ethnic groups.",
+            "The United States of America is the location of Austin, Texas and includes the Native Americans among its ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id130",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Hays County, Texas"
+                ],
+                [
+                    "Hays County, Texas",
+                    "largestCity",
+                    "San Marcos, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Hays County, Texas is part of Austin and the largest city is San Marcos.",
+            "Austin is in Hays County, Texas, and the largest city of Hays County is San Marcos.",
+            "Austin is in Hays County, Texas where the largest city is San Marcos."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id131",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is located in Texas which has Houston as its largest city.",
+            "Austin is part of the state of Texas where Houston is the largest city.",
+            "Houston is the largest city in Texas where there is also Austin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id132",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "populationDensity",
+                    "1296.65 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Austin, Texas",
+                    "areaTotal",
+                    "703.95 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density of Austin, Texas, is 1296.65 inhabitants per sq km and its area is 703.95 sq. km.",
+            "Austin, Texas covers an area of 703.95 square kilometres and has 1296.65 inhabitants for each of those sq kilometres.",
+            "Austin, Texas has a population density of 1296.65 inhabitants per sq km and a total area of 703.95 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id133",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "California",
+                    "language",
+                    "Chinese language"
+                ],
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California where chinese is spoken.",
+            "Anaheim is part of California where Chinese language is spoken.",
+            "California, where one of the languages spoken is Chinese, includes Anaheim."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id134",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "California",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California which uses the English language.",
+            "Anaheim is part of California where the English language is spoken.",
+            "The English language is spoken in California which includes Anaheim."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id135",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "DeKalb County, Georgia",
+                    "largestCity",
+                    "Dunwoody, Georgia"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "DeKalb County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of DeKalb County in Georgia where Dunwoody is the largest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id136",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Fountain County, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Fountain County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is in Fountain County, Indiana U.S.",
+            "Attica is located in Fountain County, Indiana, United States.",
+            "Attica is located in Fountain County, Indiana in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id137",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Fulton County, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Fulton County is the location of Alpharetta, Georgia, in the United States.",
+            "Alpharetta is part of Fulton County in Georgia, United States.",
+            "Alpharetta, is part of Fulton County, in Georgia, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id138",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Fulton County, Georgia",
+                    "largestCity",
+                    "Atlanta"
+                ],
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta is part of Fulton County in Georgia where the largest city is Atlanta.",
+            "Atlanta is the largest city of Fulton County, Georgia, the county where Alpharetta is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id139",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Georgia (U.S. state)",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta is part of the state of Georgia located in the United States.",
+            "Alpharetta is part of the state of Georgia, in the U.S.",
+            "Alpharetta is part of the state of Georgia in the US."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id140",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ],
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of Indiana, where the capital is Indianapolis.",
+            "Alexandria is located in Indiana where Indianapolis is the capital.",
+            "Alexandria is part of Indiana where the state capital is Indianapolis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id141",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "The city of Anderson is part of Indiana, the capital of which is Indianapolis.",
+            "Anderson is part of Indiana, where Indianapolis is the capital.",
+            "Indiana is home to Anderson city and has Indianapolis as a capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id142",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "King County, Washington",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "King County, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is located in King County, Washington, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id143",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Madison County, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of Madison County, Indiana, United States.",
+            "Alexandria is part of Madison County, Indiana, which is in the country of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id144",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Madison County, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is located in Madison County, Indiana, United States.",
+            "Madison County, Indiana, United States, is home to Anderson.",
+            "Anderson is loctated in Madison County, Indiana, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id145",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Michigan",
+                    "capital",
+                    "Lansing, Michigan"
+                ],
+                [
+                    "Ann Arbor, Michigan",
+                    "isPartOf",
+                    "Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor is located in Michigan where the capital is Lansing.",
+            "Ann Arbor is in the state of Michigan whose capital is Lansing."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id146",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Michigan",
+                    "largestCity",
+                    "Detroit"
+                ],
+                [
+                    "Ann Arbor, Michigan",
+                    "isPartOf",
+                    "Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor is found in Michigan where Detroit (its largest city) is also located.",
+            "Ann Arbor is part of Michigan which has Detroit as its largest city.",
+            "Ann Arbor is located in Michigan where Detroit is the largest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id147",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Monroe Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Monroe Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of the Monroe Township which is in Madison County, in Indiana, in the U.S.",
+            "Alexandria is part of the Monroe Township which is in Madison County, Indiana, in the United States.",
+            "Alexandria is part of Monroe Township, in Madison County, Indiana, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id148",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "New Jersey",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Atlantic City, New Jersey",
+                    "isPartOf",
+                    "New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City is part of New Jersey in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id149",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "New Jersey",
+                    "largestCity",
+                    "Newark, New Jersey"
+                ],
+                [
+                    "Atlantic City, New Jersey",
+                    "isPartOf",
+                    "New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City can be found in New Jersey, where the largest city is Newark.",
+            "Newark is the largest city in New Jersey, Atlantic City is also located in the state.",
+            "Atlantic City is part of New Jersey where the largest city is Newark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id150",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Texas, the capital of which is Austin.",
+            "Arlington is part of the state of Texas, the capital city of which, is Austin.",
+            "Austin is the capital city of Texas and Arlington is part of the state too."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id151",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Texas",
+                    "language",
+                    "Spanish language"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Spanish is spoken in Texas where Arlington is located.",
+            "Arlington is part of the state of Texas, where one of the languages used is Spanish.",
+            "Arlington is part of the state of Texas, where the Spanish language is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id152",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene, Texas is located within the United States, where Washington, D.C. is the country's capital.",
+            "Abilene, Texas is part of the United States of America which has Washington D.C. as the capital.",
+            "The United States capital is Washington DC while Abilene is located in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id153",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The country of Akron, Ohio, is United States, the capital of which, is Washington, D.C.",
+            "Akron, Ohio is located in the United States, the capital city of which, is Washington DC.",
+            "Akron, Ohio is in the U.S. whose capital is Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id154",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is part of the United States, where Washington, D.C. is the capital.",
+            "Akron, Ohio is part of the United States, the capital of which is Washington, D.C.",
+            "Akron Ohio is part of the United States, the capital of which is, Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id155",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is in the United States whose capital city is Washington D.C.",
+            "Albany is in Georgia which is a part of the United States, where Washington, D.C. is the capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id156",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon is located within the United States which has the capital of Washington DC.",
+            "Albany, Oregon is in the United States, the capital of which, is Washington, D.C.",
+            "Albany (Oregon) is in the U.S., the capital of which is Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id157",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola is part of Indiana, United States, the capital of which is Washington, D.C.",
+            "Washington DC is the capital of the United States, where Angola, Indiana can be found.",
+            "Angola is located in Indiana in the United States and the country's capital is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id158",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is in the US, where the capital is Washington DC.",
+            "Attica, Indiana is part of the United States of America which has Washington D.C. as the capital.",
+            "Attica, Indiana is in the United States, where the capital city is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id159",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of the US is Washington DC, and the country is the location of Auburn, Washington.",
+            "Auburn, Washington is located within the United States, the capital of which is Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id160",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Washington is part of the United States which has the capital city of Washington DC.",
+            "Auburn, Washington is part of the United States, where Washington D.C. is the capital.",
+            "Auburn, Washington is part of the United States whose capital is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id161",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "African Americans are an ethnic group in the United States, where Angola, Indiana is located.",
+            "Angola, Indiana is in the U.S where African Americans are an ethnic group.",
+            "Angola, Indiana is located in the United States, where one of the ethnic groups are African Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id162",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is part of the United States, where African Americans are an ethnic group.",
+            "Angola, Indiana is in the United States, where African Americans are an ethnic group.",
+            "African Americans are an ethnic group within the United States where Angola, Indiana is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id163",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The country of Akron, Ohio, is United States, where Asian Americans are one of the ethnic groups.",
+            "The United States is home to the ethnic group of Asian Americans and also the location of Akron, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id164",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is in Georgia in the United States where Asian Americans are an ethnic group.",
+            "The United States includes the Asian Americans among its ethnic groups and is the location of Albany, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id165",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is part of the United States of American where Asian Americans are one of the ethnic groups.",
+            "Albany, Georgia is in the United States, a country where one of the ethnic groups are Asian Americans.",
+            "The Asian Americans are an ethnic group in the United States, where Albany, Georgia can be found."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id166",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon is located within the United States, where one of the ethnic groups is Asian Americans.",
+            "Asian Americans are an ethnic group in the US, where Albany, Oregon is located.",
+            "Albany, Oregon is part of the U.S. and one ethnic group in that country is Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id167",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico is in the United States, where one of the ethnic groups is Asian Americans.",
+            "The United States is the location of Albuquerque, New Mexico and includes the Asian Americans among its ethnic groups.",
+            "The United States is the location of Albuquerque, New Mexico, and includes the Asian Americans among its ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id168",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Washington is located in the U.S. where one ethnic group is the Asian Americans.",
+            "Auburn, Washington is located within the U.S. and Asian Americans are an ethnic group in that country.",
+            "Auburn, Washington is located in the United States, where Asian Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id169",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States include the ethnic group of Asian Americans and is the location of Austin, Texas.",
+            "Asian Americans are an ethnic group in the United States and Austin Texas is also in the same country.",
+            "Austin, Texas is in the United States, where one of the ethnic groups are Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id170",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is located within the United States, home to a number of ethnic groups, including, Native Americans.",
+            "The Native Americans are an ethnic group within the United States, the country where Akron, Ohio is located.",
+            "Akron, Ohio is located in the United States, where Native Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id171",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States includes the ethnic group of Native Americans and is the location of Albuquerque, New Mexico.",
+            "Albuquerque is in New Mexico, United States, the country where you will find an ethnic group called Native Americans.",
+            "Albuquerque, New Mexico is in the United States, where Native Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id172",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is part of the United States where one of the ethnic groups are Native Americans.",
+            "Angola, Indiana is in theUnited States of America, where one of the ethnic groups are Native Americans.",
+            "The United States is the location of Angola, Indiana and includes the Native Americans among its ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id173",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are an ethnic group in the United States, where Attica, Indiana is located.",
+            "Native Americans are one of the ethnic groups in the United States of America which is the location of Attica, Indiana.",
+            "Attica, Indiana, is located in the United States, where Native Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id174",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Washington is located within the United States, in which Native Americans are one of the ethnic groups.",
+            "One of the ethnic groups in the United States are the Native Americans and the country is the location of Auburn, Washington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id175",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ],
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "White Americans are an ethnic group in the United States, which is the location of Abilene, Texas.",
+            "Abilene is in Texas in the United States, the country where White Americans are an ethnic group.",
+            "The United States is the location of Abilene in Texas and the country contains the ethnic group of white americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id176",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is in the United States which uses the English language.",
+            "The United States uses the English language and is where you will find Albany, Georgia.",
+            "Albany, Georgia is located in the United States where English is one of the spoken languages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id177",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "English is spoken in the United States, where Albany, Oregon can be found.",
+            "Albany, Oregon is located within the United States where the main language spoken is English.",
+            "The United States is the location of Albany, Oregon, and uses the English language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id178",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States, where English is spoken, is home to Albuquerque in New Mexico.",
+            "Albuquerque, New Mexico is located in the United States where English is one of the spoken languages.",
+            "English is spoken in the United States, which is where Albuquerque, New Mexico is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id179",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is located in the United States, where English is the official language.",
+            "English is the language of the United States, where you will find Angola, Indiana.",
+            "Angola, Indiana is in the United States where English is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id180",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leader",
+                    "Barack Obama"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is located in the United States where Barack Obama is a leader.",
+            "Akron, Ohio is located within the United States whose leader is Barack Obama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id181",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leader",
+                    "Barack Obama"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico, is located in the United States, where Barack Obama is leader.",
+            "The leader of the United States, where Albuquerque, New Mexico is located is Barack Obama.",
+            "Barack Obama is a leader of the United States where Albuquerque, New Mexico is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id182",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leader",
+                    "Barack Obama"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama is located in the United States, where the leader is Barack Obama.",
+            "Auburn, Alabama is located in the United States where Barack Obama is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id183",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States House of Representatives",
+                    "isPartOf",
+                    "United States Congress"
+                ],
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "The United States House of Representatives leads Anaheim, California, and is part of the United States Congress.",
+            "The House of Representatives, forms part of the United States Congress, and leads Anaheim, California.",
+            "United States House of Representatives is part of United States Congress and leads Anaheim, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id184",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Washtenaw County, Michigan",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Ann Arbor, Michigan",
+                    "isPartOf",
+                    "Washtenaw County, Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor, Michigan is part of Washtenaw County, United States.",
+            "Ann Arbor is located in Washtenaw County, Michigan in the United States of America.",
+            "Ann Arbor is part of Washtenaw County, Michigan in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id185",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Williamson County, Texas",
+                    "largestCity",
+                    "Round Rock, Texas"
+                ],
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Williamson County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "The largest city of Williamson County, Texas is Round Rock and Austin is part of the county as well.",
+            "Austin is part of Williamson County, in Texas, where Round Rock is the largest city.",
+            "Round Rock is the largest city in Williamson County (of which Austin is a part of), Texas."
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its west",
+                    "Franklin County, Pennsylvania"
+                ],
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southwest",
+                    "Frederick County, Maryland"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Franklin County Pennsylvania is to the west and Frederick County to the south west.",
+            "The 11th Mississippi Infantry Monument is located in Adams County Pennsylvania, between Franklin County to the west and Frederick County to the southwest."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "leader",
+                    "Artur Rasizade"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "Ottoman Army soldiers killed in the Battle of Baku"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs' memorial which is dedicated to the soldiers of the Ottoman army who were killed in the Battle of Baku is located in Azerbaijan. At present Artur Rasizade is the leader of the country."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "Ottoman Army soldiers killed in the Battle of Baku"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to Ottoman Army soldiers killed in the Battle of Baku.",
+            "The Baku Turkish Martyrs' Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.",
+            "The Baku Turkish Martyrs' Memorial in Azerbaijan, designed by Hüseyin Bütüner and Hilmi Güner, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id4",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Azerbaijan",
+                    "leaderName",
+                    "Artur Rasizade"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ]
+            ]
+        },
+        "text": [
+            "Azerbaijan, where the leader is Artur Rasizade, is the location of the Baku Turkish Martyrs Memorial. The memorial was designed by Huseyin Butuner and Hilmi Guner.",
+            "The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is located in Azerbaijan, where the leader is Artur Rasizade."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "nativeName",
+                    "Türk Şehitleri Anıtı"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner, and is located in Azerbaijan, where it is called Turk Sehitleri Aniti."
+        ]
+    }
+]

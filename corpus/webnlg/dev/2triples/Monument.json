@@ -1,0 +1,103 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "1932-07-27"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The inauguration date for the Atatürk Monument (İzmir, Turkey) is 1932-07-27.",
+            "The Ataturk Monument is in Izmir Turkey and was founded on July 27, 1932.",
+            "The inauguration date for the Atatürk Monument (İzmir), which is in Turkey, is 1932-07-27."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "Ottoman Army soldiers killed in the Battle of Baku"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "Red granite and white marble"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku and is made of red granite and white marble.",
+            "The Baku Turkish Martyrs Memorial, created in red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "nativeName",
+                    "Türk Şehitleri Anıtı"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "Red granite and white marble"
+                ]
+            ]
+        },
+        "text": [
+            "The native name of the Baku Turkish Martyrs' Memorial is Turk Sehitleri Aniti and is made of red granite and white marble.",
+            "The Baku Turkish Martyrs' Memorial is known in Turkish as Turk Sehitleri Aniti and is created in red granite and white marble.",
+            "Baku Turkish Martyrs' Memorial is made from red granite and white marble and is called Turk Sehitleri Aniti."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "dedicatedTo",
+                    "Æthelwald, Ealdorman of East Anglia"
+                ],
+                [
+                    "Dead Man's Plack",
+                    "material",
+                    "Rock (geology)"
+                ]
+            ]
+        },
+        "text": [
+            "The Dead Man's Plack, which is made of rock, is dedicated to Æthelwald, Ealdorman of East Anglia."
+        ]
+    }
+]

@@ -1,0 +1,1765 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas works in the country of the United States.",
+            "AmeriGas's home country is the United States.",
+            "AmeriGas is working in the United States.",
+            "AmeriGas is located in the country of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "foundingDate",
+                    "1959-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas was founded on 01-01-1959.",
+            "AmeriGas was founded on January 1, 1959.",
+            "AmeriGas was founded on 1959-01-01."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is in the energy industry.",
+            "AmeriGas is a company in the energy industry.",
+            "AmeriGas's industry is classified as the energy industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is located in King of Prussia, Pennsylvania.",
+            "AmeriGas's location is the city of King of Prussia, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "netIncome",
+                    "211200000"
+                ]
+            ]
+        },
+        "text": [
+            "The net income of AmeriGas is 211200000.",
+            "AmeriGas has a net income of $211,200,000.",
+            "AmeriGas earns 211200000 of net income.",
+            "AmeriGas has a net income of 211200000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas has an operating income of $380,700,000.",
+            "The operating income earned by AmeriGas is 380700000.",
+            "The operating income of AmeriGas is 380700000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas provides its services in the United States.",
+            "AmeriGas serves all regions of the United States.",
+            "AmeriGas serves the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brazil",
+                    "areaTotal",
+                    "8514837.14  (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Brazil is 8514837.14 square kilometres.",
+            "Brazil has a total area of 8514837.14 square kilometres.",
+            "The total area of Brazil is 8514837.14 (square kilometres).",
+            "Brazil has a total area of 8514837.14 (square kilometers)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brazil",
+                    "leaderName",
+                    "Michel T"
+                ]
+            ]
+        },
+        "text": [
+            "Michel Temer is the leader of Brazil.",
+            "The leader of Brazil is named Michel Temer.",
+            "Michel Temer was the president of Brazil.",
+            "The name of the leader of Brazil is Michel Temer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brazil",
+                    "leaderTitle",
+                    "President of the Supreme Federal Cou"
+                ]
+            ]
+        },
+        "text": [
+            "Brazil's leader has the title of President of the Supreme Federal Court.",
+            "President of the Supreme Federal Court is one of the leaders in Brazil.",
+            "President of the Supreme Federal Court is a leader title in Brazil.",
+            "One of the leaders in Brazil has the title of President of the Supreme Federal Court."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brazil",
+                    "populationDensity",
+                    "23.8"
+                ]
+            ]
+        },
+        "text": [
+            "Brazil has a population density of 23.8.",
+            "The population density of Brazil is 23.8 per square kilometer.",
+            "The population density in Brazil is 23.8.",
+            "The population density of Brazil is 23.8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in the Insular Government of the Philippine Islands.",
+            "Chinabank's foundation place is the Insular Government of the Philippine Islands.",
+            "Chinabank's founding place was the Insular Government of the Philippine Islands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ]
+            ]
+        },
+        "text": [
+            "Manila is Chinabank’s founding place.",
+            "Manila is the founding place of Chinabank.",
+            "Chinabank was founded in Manila."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded on 08-16-1920.",
+            "Chinabank was founded on 1920-08-16.",
+            "Chinabank was founded on the 16th of August, 1920.",
+            "Chinabank was founded on 08/16/1920."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "numberOfEmployees",
+                    "5594"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank has 5594 employees.",
+            "The number of employees working at Chinabank is 5594.",
+            "Chinabank has 5594 workers.",
+            "Chinabank employs 5,594 employees."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank has 295 locations.",
+            "Chinabank has 295 branches.",
+            "Chinabank has 295 banking centers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank offers banking service.",
+            "Chinabank's service is banking.",
+            "Chinabank provides banking services to customers.",
+            "Chinabank is a company that offers Banking services."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a publicly traded company.",
+            "Chinabank is a public company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Felipe Gozon",
+                    "alternativeName",
+                    "Atty. Felipe L. Gozon, FLG"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon is also known by Attorney Felipe L. Gozon, FLG.",
+            "Felipe Gozon's alternative name is Atty. Felipe L. Gozon, FLG.",
+            "Felipe Gozon is also known as Atty. Felipe L. Gozon, FLG."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Felipe Gozon",
+                    "birthDate",
+                    "1939-12-08"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon's birthdate is 1939-12-08.",
+            "Felipe Gozon was born on December 8, 1939.",
+            "Felipe Gozon was born December 8, 1939."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA Network (company)",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ]
+            ]
+        },
+        "text": [
+            "GMA Network is a company and its key person is Felipe Gozon.",
+            "Felipe Gozon is a key person in the GMA Network company.",
+            "GMA Network’s boss is Felipe Gozon.",
+            "Felipe Gozon is the key person of GMA Network."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA Network (company)",
+                    "locationCity",
+                    "Diliman"
+                ]
+            ]
+        },
+        "text": [
+            "GMA Network is a company located in the city of Diliman.",
+            "GMA Network is a company based in Diliman.",
+            "GMA Network is located in Diliman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA Network Center",
+                    "cost",
+                    "46000000"
+                ]
+            ]
+        },
+        "text": [
+            "The GMA Network Center costs 46000000.",
+            "GMA Network Center costs $46,000,000.",
+            "GMA Network Center costs 46,000,000.",
+            "The GMA Network Center is worth $46,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media was founded on 01/01/2000.",
+            "GMA New Media was founded on 01-01-2000.",
+            "GMA New Media was founded on January 1, 2000.",
+            "The founding date of GMA New Media is 01-01-2000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainmen"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media offers applications in the entertainment industry.",
+            "GMA New Media is an entertainment industry.",
+            "GMA New Media is in the entertainment industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is in the mass media industry.",
+            "GMA New Media is a mass media industry.",
+            "GMA New Media's industry is mass media."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is located in the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is located in the city of Quezon.",
+            "GMA New Media is located in Quezon City.",
+            "GMA New Media headquarters are located in Quezon City.",
+            "The location of GMA New Media is Quezon City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media makes mobile apps.",
+            "GMA New Media makes mobile applications.",
+            "GMA New Media is a company that offers products such as mobile applications.",
+            "GMA New Media produces mobile applications."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Digify, Inc."
+                ]
+            ]
+        },
+        "text": [
+            "Digify Inc. is a subsidiary of GMA New Media.",
+            "Digify Inc is a subsidiary of GMA New Media.",
+            "GMA New Media’s subsidiary is Digify, Inc.",
+            "Digify, Inc. is a subsidiary of GMA New Media."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Porta"
+                ]
+            ]
+        },
+        "text": [
+            "Philippine Entertainment Portal, Inc is a subsidiary of GMA New Media.",
+            "GMA New Media's subsidiary is Philippine Entertainment Portal.",
+            "Philippine Entertainment Portal is a subsidiary of GMA New Media."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is the company founded on January 1, 2001.",
+            "Hypermarcas was founded on January 1, 2001.",
+            "Hypermarcas was founded on 2001-01-01."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is in the pharmaceuticals industry.",
+            "Hypermarcas is a pharmaceutical company.",
+            "Hypermarcas is in the pharmaceutical industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Braz"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is located in Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is located in São Paulo.",
+            "Hypermarcas is located in Sao Paulo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas has a net income of 108,600,000.",
+            "Hypermarcas had a net income of $108,600,000.",
+            "The net income of Hypermarcas is 108,600,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Cosmetics"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas produces cosmetics.",
+            "Hypermarcas also sells cosmetics.",
+            "Hypermarcas also makes cosmetics products.",
+            "Hypermarcas makes cosmetic products."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthca"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas sells healthcare products.",
+            "Hypermarcas makes healthcare products.",
+            "Hypermarcas produces healthcare products."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Manteco"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas has a subsidiary called Mantecorp.",
+            "Mantecorp is a subsidiary of Hypermarcas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a type of S.A (corporation).",
+            "Hypermarcas is an S.A. corporation.",
+            "Hypermarcas is a type of S.A. corporation.",
+            "Hypermarcas is an S.A. company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Insular Government of the Philippine Islands",
+                    "foundingDate",
+                    "1901-07-01"
+                ]
+            ]
+        },
+        "text": [
+            "The Insular Government of the Philippine Islands was founded on 1901-07-01.",
+            "The Insular Government of the Philippine Islands was established on July 1, 1901.",
+            "The founding date of the Insular Government of the Philippine Islands was 07-01-1901.",
+            "The Insular Government of the Philippine Islands was founded on July 1, 1901."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ireland",
+                    "location",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "Ireland is located in Europe.",
+            "Ireland is a country in Europe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "King of Prussia, Pennsylvania",
+                    "timeZone",
+                    "North American Eastern Time Zon"
+                ]
+            ]
+        },
+        "text": [
+            "King of Prussia, Pennsylvania is in the North American Eastern time zone.",
+            "The time zone for King of Prussia, Pennsylvania is the North American Eastern Time Zone.",
+            "King of Prussia, Pennsylvania is in the North American Eastern Time Zone."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "King of Prussia, Pennsylvania",
+                    "type",
+                    "Census-designated plac"
+                ]
+            ]
+        },
+        "text": [
+            "King of Prussia, Pennsylvania is a census-designated place.",
+            "King of Prussia in Pennsylvania is a census-designated place."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "La Crosse, Wisconsin",
+                    "isPartOf",
+                    "Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "La Crosse is located in Wisconsin.",
+            "La Crosse Wisconsin is part of Wisconsin.",
+            "La Crosse is a city in the U.S. state of Wisconsin.",
+            "La Crosse is part of Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Manila",
+                    "leaderTitle",
+                    "City Counc"
+                ]
+            ]
+        },
+        "text": [
+            "Manila is led by the City Council.",
+            "Manila is ruled by the City Council.",
+            "Manila is governed by the City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Manila",
+                    "type",
+                    "Capital city"
+                ]
+            ]
+        },
+        "text": [
+            "Manila is the capital.",
+            "Manila is the capital city.",
+            "Manila is a capital city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippine Entertainment Portal",
+                    "parentCompany",
+                    "Summit Media"
+                ]
+            ]
+        },
+        "text": [
+            "Philippine Entertainment Portal's parent company is Summit Media.",
+            "Philippine Entertainment Portal is a subsidiary of the Summit Media company.",
+            "Summit Media is the parent company of Philippine Entertainment Portal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "capital",
+                    "Manila"
+                ]
+            ]
+        },
+        "text": [
+            "Manila is the capital city of the Philippines.",
+            "Manila is the capital of the Philippines.",
+            "The capital of the Philippines is Manila."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "foundingDate",
+                    "1898-06-12"
+                ]
+            ]
+        },
+        "text": [
+            "The Philippines were founded on 12/06/1898.",
+            "The Philippines were founded on 1898-06-12.",
+            "The founding date of the Philippines was 6-12-1898."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "leaderName",
+                    "Aquilino Pimentel III"
+                ]
+            ]
+        },
+        "text": [
+            "Aquilino Pimentel III is the leader of Philippines.",
+            "The leader of the Philippines is Aquilino Pimentel III.",
+            "Aquilino Pimentel III is a Filipino leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "leaderName",
+                    "Maria Lourdes Sereno"
+                ]
+            ]
+        },
+        "text": [
+            "Maria Lourdes Sereno is the leader of the Philippines.",
+            "Filipina leader's name: Maria Lourdes Sereno.",
+            "The leader of the Philippines is Maria Lourdes Sereno.",
+            "Maria Lourdes Sereno is a Filipina leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "leaderName",
+                    "Pantaleon Alvarez"
+                ]
+            ]
+        },
+        "text": [
+            "The name of the leader of the Philippines is Pantaleon Alvarez.",
+            "Pantaleon Alvarez is a political leader in the Philippines.",
+            "Pantaleon Alvarez is a Filipino leader.",
+            "The leader of the Philippines is Pantaleon Alvarez."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "leaderTitle",
+                    "Presiden"
+                ]
+            ]
+        },
+        "text": [
+            "The President is the leader title of the Philippines.",
+            "The leader of the Philippines has the title of President.",
+            "The title of the leader of the Philippines is president."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "motto",
+                    "&quot;Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa&quot;"
+                ]
+            ]
+        },
+        "text": [
+            "The motto of the Philippines is Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa.",
+            "&quot;Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa&quot; is a motto of the Philippines.",
+            "The motto of the Philippines is &quot;Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa&quot;."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "officialLanguage",
+                    "Filipino languag"
+                ]
+            ]
+        },
+        "text": [
+            "Filipino language is the official language in the Philippines.",
+            "The official language of the Philippines is Filipino.",
+            "The official language of the Philippines is the Filipino language.",
+            "Filipino Language is the official language of the Philippines.",
+            "The official language of the Philippines is Filipino language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "officialLanguage",
+                    "Philippine English"
+                ]
+            ]
+        },
+        "text": [
+            "Philippine English is the official language of the Philippines.",
+            "The official language of the Philippines is Philippine English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "timeZone",
+                    "Philippine Standard T"
+                ]
+            ]
+        },
+        "text": [
+            "The time zone used by the Philippines is Philippine Standard time.",
+            "The Philippines' time zone is Philippine Standard Time.",
+            "The Philippines is in the Philippine Standard Time Zone.",
+            "The time zone for the Philippines is Philippine Standard Time."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Quezon City",
+                    "areaTotal",
+                    "165.33"
+                ]
+            ]
+        },
+        "text": [
+            "Quezon City has a total area of 165.33.",
+            "The total area of Quezon City is 165.33."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Quezon City",
+                    "leaderParty",
+                    "Liberal Party (Philippines)"
+                ]
+            ]
+        },
+        "text": [
+            "The leader party of Quezon City is the Liberal Party.",
+            "The leader party for Quezon City is the Liberal Party (Philippines).",
+            "The leader Party of Quezon City is the Liberal Party of the Philippines.",
+            "The leader party of Quezon City in the Philippines is the Liberal Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Quezon City",
+                    "type",
+                    "Cities of the Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "Quezon City is one of the cities in the Philippines.",
+            "Quezon City is a city in the Philippines.",
+            "Quezon City is one of the cities of the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Swords, Dublin",
+                    "areaUrban",
+                    "11.35"
+                ]
+            ]
+        },
+        "text": [
+            "Swords, Dublin has an urban area of 11.35 square kilometres.",
+            "The urban area of Swords Dublin is 11.35.",
+            "The urban area of Swords, Dublin is 11.35.",
+            "The urban area of the city of Swords, Dublin is 11.35."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Swords, Dublin",
+                    "isPartOf",
+                    "Leins"
+                ]
+            ]
+        },
+        "text": [
+            "Swords, Dublin is part of Leinster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Swords, Dublin",
+                    "part",
+                    "Donaba"
+                ]
+            ]
+        },
+        "text": [
+            "Donabate is part of Swords, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Swords, Dublin",
+                    "part",
+                    "Kinsealy"
+                ]
+            ]
+        },
+        "text": [
+            "Kinsealy is a part of Swords.",
+            "Kinsealy is a part of Swords, Dublin.",
+            "Kinsealy is part of Swords, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "The foundation place of Trane is La Crosse, Wisconsin.",
+            "Trane was founded in La Crosse, Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Trane was founded on 01-01-1913.",
+            "The founding date of Trane is 1913-01-01.",
+            "Trane was founded on 1913-01-01.",
+            "Trane was founded on January 1, 1913.",
+            "Trane was founded on January 1st 1913."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ]
+            ]
+        },
+        "text": [
+            "The Trane industry is building materials.",
+            "Trane is in the building materials industry.",
+            "Trane's industry is building materials.",
+            "Trane produces building materials."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane has a net income of $556,300,000.",
+            "Trane has a net income of about $556 million.",
+            "The net income of Trane is $556,300,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ]
+            ]
+        },
+        "text": [
+            "The number of employees in Trane is 29,000.",
+            "There are 29000 people employed by Trane.",
+            "The number of employees at Trane is 29,000.",
+            "Trane has 29,000 employees."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management Sys"
+                ]
+            ]
+        },
+        "text": [
+            "Trane makes building management systems.",
+            "Trane produces building management systems.",
+            "Trane manufactures building management systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane manufactures HVAC.",
+            "One of Trane’s products is HVAC.",
+            "Trane produces HVAC.",
+            "HVAC is one of Trane's products.",
+            "Trane produces HVAC products."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ]
+            ]
+        },
+        "text": [
+            "The revenue of Trane is 10264000000.",
+            "Trane has a revenue of $10,264,000,000.",
+            "The revenue of Trane is $10,264,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a subsidiary company.",
+            "Trane is a subsidiary.",
+            "The Trane company is a subsidiary."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "areaTotal",
+                    "9833516.63  (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The United States covers a total area of 9833516.63 (square kilometres).",
+            "The total area of the United States is 9833516.63 (square kilometres).",
+            "The total area of the United States is 9,833,516.63 square kilometers.",
+            "The total area of the United States is 9833516.63 in square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African-American"
+                ]
+            ]
+        },
+        "text": [
+            "African-American is an ethnic grouping in the United States.",
+            "One ethnic group in the United States is African-American.",
+            "African-American is an ethnic group in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native American"
+                ]
+            ]
+        },
+        "text": [
+            "Native-American is a United States ethnic grouping.",
+            "Native American is one of the ethnic groups in the United States.",
+            "One ethnic group in the United States is Native American.",
+            "Native Americans are an ethnic group in the United States.",
+            "Native American is a United States ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White American"
+                ]
+            ]
+        },
+        "text": [
+            "White-American is an ethnic grouping in the United States.",
+            "One of the ethnic groups of the United States is White Americans.",
+            "White American is one of the ethnic groups in the United States.",
+            "One ethnic group in the United States is White American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "foundingDate",
+                    "1776-07-04"
+                ]
+            ]
+        },
+        "text": [
+            "The United States was founded on July 4, 1776.",
+            "The United States was founded on 07-04-1776.",
+            "The founding date of the United States was 1776-07-04."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "governmentType",
+                    "Federalis"
+                ]
+            ]
+        },
+        "text": [
+            "The type of government in the United States is federalism.",
+            "Federalism is the type of government in the United States.",
+            "The United States has a Federalism government type.",
+            "The United States operates a federal government system."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ]
+            ]
+        },
+        "text": [
+            "Paul Ryan is the leader of the United States.",
+            "One of the leaders of the United States is named Paul Ryan.",
+            "Paul Ryan is the name of one of the government leaders in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "Vice Presiden"
+                ]
+            ]
+        },
+        "text": [
+            "Vice President is a United States leadership title.",
+            "One of the leaders of the United States has the title of Vice President.",
+            "Vice President is one of the titles of government leaders in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "percentageOfAreaWater",
+                    "6.97"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of the United States covered by water is 6.97 percent.",
+            "6.97 percent of the area of the United States is water.",
+            "The percentage of the United States covered by water is 6.97%."
+        ]
+    }
+]

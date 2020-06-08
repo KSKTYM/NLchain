@@ -1,0 +1,596 @@
+[
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "architect",
+                    "John Madin"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row was designed by the architect, John Madin.",
+            "103 Colmore Row was designed by the architect John Madin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row is located at Colmore Row.",
+            "103 Colmore Row is located in Colmore Row."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "completionDate",
+                    "1983"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street was completed in 1983."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "completionDate",
+                    "1985"
+                ]
+            ]
+        },
+        "text": [
+            "The 200 Public Square was completed in 1985.",
+            "200 Public Square was completed in 1985."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "buildingStartDate",
+                    "January 2009"
+                ]
+            ]
+        },
+        "text": [
+            "The building at 20 Fenchurch Street was started in January 2009.",
+            "The construction of 20 Fenchurch Street began in January 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "United Kingdo"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street is located in the United Kingdom.",
+            "20 Fenchurch Street is located within the United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "floorCount",
+                    "60"
+                ]
+            ]
+        },
+        "text": [
+            "There are 60 floors at 300 North LaSalle.",
+            "300 North LaSalle has 60 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "architect",
+                    "HOK SVE"
+                ]
+            ]
+        },
+        "text": [
+            "HOK SVE was the architect of 3Arena.",
+            "HOK SVE was the architect of the 3Arena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "East Link Bridge"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena is located at East Link Bridge.",
+            "The 3Arena is located on the East Link Bridge.",
+            "3Arena is located at East Link Bridge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "buildingStartDate",
+                    "1700"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manor's building start was in 1700.",
+            "The building of the Adare Manor was started in 1700."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "country",
+                    "Republic of Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manor is located in the Republic of Ireland.",
+            "The Adare Manor is in the Republic of Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "inaugurationDate",
+                    "2013-09-28"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art was inaugurated on 28th September 2013."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "currentTenants",
+                    "Mason School of Business"
+                ]
+            ]
+        },
+        "text": [
+            "The Mason School of Business are the current tenants of Alan B Miller Hall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "architect",
+                    "B. V. Dosh"
+                ]
+            ]
+        },
+        "text": [
+            "The architect B V Doshi designed Amdavad Ni Gufa.",
+            "B V Doshi is the architect who designed Amdavad ni Gufa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is located in Sri Lanka.",
+            "Ampara Hospital is in Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "added to the National Register of Historic Places",
+                    "1988-11-22"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on \"1988-11-22\".",
+            "The Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places, on 22nd November 1988."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "yearOfConstruction",
+                    "1904"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths was built in 1904.",
+            "Asser Levy Public Baths were constructed in 1904."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "postalCode",
+                    "B postcode area"
+                ]
+            ]
+        },
+        "text": [
+            "Birmingham has the postcode area 'B'.",
+            "The B postcode area is the postal code of Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chicago",
+                    "isPartOf",
+                    "DuPage County, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Chicago is part of DuPage County in Illinois.",
+            "Chicago is part of DuPage County Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dublin",
+                    "country",
+                    "Republic of Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Dublin is in the Republic of Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dublin",
+                    "isPartOf",
+                    "Leins"
+                ]
+            ]
+        },
+        "text": [
+            "Dublin is part of Leinster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "India",
+                    "leaderName",
+                    "Sumitra Mahajan"
+                ]
+            ]
+        },
+        "text": [
+            "Sumitra Mahajan is an Indian leader.",
+            "The name of the leader in India is Sumitra Mahajan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "ethnicGroup",
+                    "Brazilians in Japan"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in Japan is the Brazilians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "leaderName",
+                    "Tarō Asō"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Japan is Tarō Asō."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Marriott International",
+                    "keyPerson",
+                    "Bill Marrio"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Marriott is the key person at Marriott International.",
+            "One of the key people in Marriott International is Bill Marriott."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Republic of Ireland",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "Ireland official language is English.",
+            "The English language is the main language of the Republic of Ireland.",
+            "One language used in the Republic of Ireland is English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Africa",
+                    "capital",
+                    "Cape Town"
+                ]
+            ]
+        },
+        "text": [
+            "Cape Town is the capital of South Africa.",
+            "The capital of South Africa is Cape Town."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "capital",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of the United Kingdom is London.",
+            "London is the capital of the United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are an ethnic group in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ]
+            ]
+        },
+        "text": [
+            "Paul Ryan is the leader of the United States.",
+            "The leader of the United States is Paul Ryan."
+        ]
+    }
+]

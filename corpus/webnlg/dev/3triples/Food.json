@@ -1,0 +1,1202 @@
+[
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "alternativeName",
+                    "Ajo blanco"
+                ],
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Bread"
+                ]
+            ]
+        },
+        "text": [
+            "From Spain, Ajoblanco (alternatively known as Ajo blanco) has bread as an ingredient.",
+            "Ajoblanco, also known as \"Ajo blanco\", comes from Spain. Bread is one of the ingredients.",
+            "Bread is an ingredient of Ajoblanco, which is from Spain and an alternative name to Ajo blanco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "region",
+                    "Andalusia"
+                ],
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Water"
+                ]
+            ]
+        },
+        "text": [
+            "Ajoblanco is from Andalusia, in Spain. Ajoblanco contains water.",
+            "Water is an ingredient in Ajoblanco, which is a food found in Andalusia, in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id3",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Joko Widodo"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Jusuf Kalla"
+                ]
+            ]
+        },
+        "text": [
+            "Arem arem originates from the country of Indonesia, where two of the leaders are, Joko Widodo and Jusuf Kalla.",
+            "Arem arem originates from Indonesia where two of the leaders are Joko Widodo and Jusuf Kalla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id4",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Jusuf Kalla"
+                ],
+                [
+                    "Arem-arem",
+                    "region",
+                    "Nationwide in Indonesia, but more specific to Java"
+                ]
+            ]
+        },
+        "text": [
+            "Arem-arem is a food found nationwide in Indonesia, but is more specific to Java. Jusuf Kalla is the leader of Indonesia.",
+            "Jusuf Kalla is the leader of Indonesia, the country which serves Arem-arem. While Arem-arem is nationwide in Indonesia, it is more specific to Java.",
+            "Jusuf Kalla is a leader in Indonesia, where the dish arem-arem is found nationwide, though it is more specific to Java."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id5",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian language"
+                ],
+                [
+                    "Italy",
+                    "leaderName",
+                    "Sergio Mattarella"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Italy is Sergio Mattarella, it is also where Italian is spoken and the arrabbiata sauce is from.",
+            "Sergio Mattarella is a leader of Italy where the Italian language is spoken and Arrabbiata sauce can be found.",
+            "Arrabbiata sauce is from Italy, where the spoken language is Italian and a leader is Sergio Mattarella."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "ingredient",
+                    "Chili pepper"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "region",
+                    "Rome"
+                ]
+            ]
+        },
+        "text": [
+            "Arrabbiata sauce, a traditional dish from Rome in Italy, has chili pepper as one of its important ingredients.",
+            "Arrabbiata sauce from Rome in Italy contains chili pepper.",
+            "Arrabbiata sauce is from the region of Rome in Italy and one of the main ingredients is chili pepper."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "ingredient",
+                    "Garlic"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "region",
+                    "Rome"
+                ]
+            ]
+        },
+        "text": [
+            "Garlic is an ingredient in arrabbiata sauce which originates from the region of Rome, in Italy.",
+            "Arrabbiata sauce contains garlic and comes from the Rome region of italy.",
+            "Garlic is an ingredient in arrabbiata sauce, which is a traditional dish from Rome, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Arròs negre",
+                    "region",
+                    "Catalonia"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Squid"
+                ]
+            ]
+        },
+        "text": [
+            "Arros negre contains Squid and comes from the Catalonia region of Spain.",
+            "Squid is an ingredient of arros negre which is from the region of Catalonia in Spain.",
+            "Arros negre is from the region of Catalonia, Spain, and one of its ingredients is Squid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "region",
+                    "Valencian Community"
+                ],
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Cuttlefish"
+                ]
+            ]
+        },
+        "text": [
+            "Cuttlefish is an ingredient in Arròs negre which comes from the region of the Valencian Community, in Spain.",
+            "Cuttlefish is an ingredient of the dish Arròs negre, which is a dish that comes from the Valencian community in Spain.",
+            "Cuttlefish is an ingredient in Arròs negre, which is a traditional dish from the Valencian community in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Asam pedas",
+                    "country",
+                    "Malaysia"
+                ],
+                [
+                    "Asam pedas",
+                    "region",
+                    "Sumatra and Malay Peninsula"
+                ],
+                [
+                    "Asam pedas",
+                    "mainIngredients",
+                    "Fish cooked in sour and hot sauce"
+                ]
+            ]
+        },
+        "text": [
+            "The main ingredients of asam pedas, a food from the Sumatra and Malay Peninsula regions of Malaysia, consist of fish cooked in a sour and hot sauce.",
+            "Asam pedas is made from fish cooked in a sour and hot sauce and comes from the Sumatra and Malay Peninsula regions in Malaysia.",
+            "The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula. Malaysia and the main ingredients are fish cooked in sour and hot sauce."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Malaysia"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ],
+                [
+                    "Ayam penyet",
+                    "mainIngredients",
+                    "Squeezed or smashed fried chicken served with sambal"
+                ]
+            ]
+        },
+        "text": [
+            "Ayam penyet is made from squeezed or squashed chicken served with sambal and is a popular dish in Java, Malaysia.",
+            "Ayam penyet's main ingredients are squeezed or smashed fried chicken served with sambal. It is a popular dish in Malaysia and also found in Java.",
+            "Ayam penyet originates from Malaysia and Java. The main ingredients are squeezed or smashed fried chicken served with sambal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Bacon Explosion",
+                    "ingredient",
+                    "Bacon"
+                ],
+                [
+                    "Bacon Explosion",
+                    "mainIngredients",
+                    "Sausage"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon and sausage are the main ingredients in a Bacon Explosion, which comes from the United States.",
+            "Bacon Explosion, whose name comes from the United States, has bacon and sausage."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id13",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in the United States are native Americans, the country is also the home of the dish bacon explosion and has Washington D.C. as its capital city.",
+            "Bacon Explosion originated in the United States, where the capital is Washington DC and Native Americans are an ethnic group.",
+            "Bacon Explosion comes from the United States where Washington D.C. is the capital and Native Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Barack Obama"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "The United States is the country of Bacon Explosion. Barack Obama is the leader and Washington D.C. is the capital.",
+            "The Bacon Explosion comes from the United States where Barack Obama is a leader and the capital city is Washington DC.",
+            "The Bacon Explosion originates from the United States where the leader is Barack Obama and the capital is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id15",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "John Roberts"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The Bacon Explosion originated in the United States, where African Americans are an ethnic group and John Roberts is a leader.",
+            "Bacon Explosion comes from the United States where African Americans are an ethnic group and John Roberts is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bacon sandwich",
+                    "dishVariation",
+                    "BLT"
+                ],
+                [
+                    "Bacon sandwich",
+                    "country",
+                    "United Kingdom"
+                ],
+                [
+                    "Bacon sandwich",
+                    "ingredient",
+                    "Condiment"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon sandwiches are variations of BLT and come from the U.K. Condiments are found in these sandwiches.",
+            "The UK dish, the bacon sandwich uses condiments as an ingredient and has the variation BLT.",
+            "The bacon sandwich, a variation of the BLT, comes from the UK and contains condiments."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id17",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "country",
+                    "France"
+                ],
+                [
+                    "Baked Alaska",
+                    "region",
+                    "New York"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Meringue"
+                ]
+            ]
+        },
+        "text": [
+            "Meringue is an ingredient of a Baked Alaska, which is from the New York region and France.",
+            "Meringue is an ingredient of a Baked Alaska, which is reputed to come from both France and New York.",
+            "An ingredient of baked Alaska is meringue which originates in France and the New York regions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Baked Alaska",
+                    "region",
+                    "New York"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Sponge cake"
+                ]
+            ]
+        },
+        "text": [
+            "Sponge cake is one of the ingredients in Baked Alaska, a dish from the New York region and found in the United States.",
+            "Sponge cake is an ingredient of Baked Alaska, which comes from the region of New York and can be found in the U.S.",
+            "An ingredient of baked Alaska is sponge cake, the dish originates from New York, USA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id19",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "course",
+                    "Dessert"
+                ],
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Cookie"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Christmas pudding"
+                ]
+            ]
+        },
+        "text": [
+            "Christmas pudding is an ingredient in the dessert Baked Alaska. Cookie is also a dessert.",
+            "A cookie can be a dessert, as can baked alaska which has christmas pudding as an ingredient.",
+            "Cookies are a dessert item, as is Baked Alaska that has Christmas pudding as one of its ingredients."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id20",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "course",
+                    "Dessert"
+                ],
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Sandesh (confectionery)"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Christmas pudding"
+                ]
+            ]
+        },
+        "text": [
+            "Sandesh (confectionery) is a dish that can be served as a dessert. Another dish that is a dessert is Baked Alaska which has Christmas pudding as an ingredient.",
+            "Sandesh and Baked Alaska are desserts. Baked Alaska uses Christmas pudding as an ingredient.",
+            "Christmas pudding is an ingredient in Baked Alaska, which is a dessert, same as sandesh."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bandeja paisa",
+                    "country",
+                    "Colombian cuisine"
+                ],
+                [
+                    "Bandeja paisa",
+                    "ingredient",
+                    "Kidney bean"
+                ],
+                [
+                    "Bandeja paisa",
+                    "region",
+                    "Antioquia Department"
+                ]
+            ]
+        },
+        "text": [
+            "Part of Colombian cuisine, Bandeja paisa (which has kidney beans as one of the ingredients), comes from Antioquia Department area.",
+            "Bandeja paisa, which contains kidney beans, is a traditional dish found in the Antioquia Department of Colombia.",
+            "Kidney beans are an ingredient of Bandeja paisa which is a Colombian dish from the Antioquia department."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id22",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "country",
+                    "France"
+                ],
+                [
+                    "France",
+                    "leaderName",
+                    "Gérard Larcher"
+                ],
+                [
+                    "France",
+                    "leaderName",
+                    "Claude Bartolone"
+                ]
+            ]
+        },
+        "text": [
+            "Barny Cakes come from France where Gerard Larcher and Claude Bartolone are leaders.",
+            "Barny cakes are found in France where Gerard Larcher and Claude Bartolone are leaders.",
+            "Barny cakes are found in France where both Gerard Larcher and Claude Bartolone are leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "dishVariation",
+                    "Apple"
+                ],
+                [
+                    "Barny Cakes",
+                    "carbohydrate",
+                    "18.0 g"
+                ],
+                [
+                    "Barny Cakes",
+                    "protein",
+                    "1.8 g"
+                ]
+            ]
+        },
+        "text": [
+            "Barny cakes can be made with apple and have 18 grams of carbs and 1.8 g of protein.",
+            "Barny cakes can be made with apple and contain 1.8g protein and 18g of carbs.",
+            "Barny cakes may be made with apple and have 1.8g of protein and 18g of carbohydrates."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id24",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Singapore"
+                ],
+                [
+                    "Singapore",
+                    "currency",
+                    "Singapore dollar"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Halimah Yacob"
+                ]
+            ]
+        },
+        "text": [
+            "Beef kway teow is a dish from the country of Singapore, where the leader is Halimah Yacob and the currency is the Singapore dollar.",
+            "Beef kway teow is a popular dish in Singapore, where the Singapore dollar is the currency and the leader is Halimah Yacob."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "ingredient",
+                    "Oyster sauce"
+                ],
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Indonesia"
+                ],
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Singapore and Indonesia"
+                ]
+            ]
+        },
+        "text": [
+            "A dish commonly found in Singapore and Indonesia is beef kway teow which has oyster sauce as a main ingredient.",
+            "Beef kway teow contains oyster sauce and is found in Indonesia and Singapore."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id26",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Singapore"
+                ],
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Tony Tan"
+                ]
+            ]
+        },
+        "text": [
+            "A popular food in Indonesia, Beef kway teow originates from Singapore. The country where Tony Tan is the leader.",
+            "Tony Tan is a leader in Singapore where the dish Beef kway teow originates from. It is also found in Indonesia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Bhajji",
+                    "mainIngredients",
+                    "Gram flour, vegetables"
+                ],
+                [
+                    "Bhajji",
+                    "ingredient",
+                    "Gram flour"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji originates from India, its main ingredients are gram flour and vegetables.",
+            "The key ingredients of a Bhajji from India are gram flour and vegetables.",
+            "The main ingredients in Bhajji, which originates from Indiam are gram flour and vegetables."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id28",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "demonym",
+                    "Indian people"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thakur"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji originates from India, country of Indians where the leader is T. S. Thakur.",
+            "Bhajji originates from India, where the leader is called T S Thakur and the people who live there are called Indians.",
+            "Bhajji originate from India where T S Thakur leads the Indian people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id29",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thakur"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Narendra Modi"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji comes from the country of India, where two of the leaders are, T. S. Thakur and Narendra Modi.",
+            "Bhajji originates from India, where two of the leaders are Narendra Modi and T.S. Thakur.",
+            "The dish bhajji originates in India where T.S. Thakur and Narendra Modi are leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id30",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bhajji",
+                    "region",
+                    "Karnataka"
+                ],
+                [
+                    "Bhajji",
+                    "mainIngredients",
+                    "Gram flour, vegetables"
+                ],
+                [
+                    "Bhajji",
+                    "ingredient",
+                    "Gram flour"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji originates from the Karnataka region and the main ingredients are vegetables and gram flour.",
+            "The main ingredients in Bhajji are gram flour and vegetables, this comes from the Karnataka region.",
+            "Bhajji are found in the region of Karnataka, its main ingredients are gram flour and vegetables."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id31",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Binignit",
+                    "ingredient",
+                    "Sweet potato"
+                ],
+                [
+                    "Binignit",
+                    "mainIngredients",
+                    "Banana"
+                ],
+                [
+                    "Binignit",
+                    "country",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "The binignit dish can be found in the Philippines. Two of the main ingredients in it are banana and sweet potato.",
+            "The main ingredients of Binignit are banana and sweet potatoes, and it can be found in the Philippines.",
+            "Binignit is a dish from the Philippines made from banana and sweet potato."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id32",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dessert"
+                ],
+                [
+                    "Bionico",
+                    "ingredient",
+                    "Sour cream"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico is a dessert containing sour cream from Mexico.",
+            "Sour cream is an ingredient of Bionico, that is a dessert course found in Mexico.",
+            "Sour cream is used to serve Bionico, a dessert food found in Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id33",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Bionico",
+                    "region",
+                    "Jalisco"
+                ],
+                [
+                    "Bionico",
+                    "ingredient",
+                    "Raisin"
+                ]
+            ]
+        },
+        "text": [
+            "Containing raisins, Bionico is found in the region of Jalisco, in Mexico.",
+            "Raisins are found in bionico which comes from the region of Jalisco in Mexico.",
+            "Raisins are an ingredient of Bionico which is from the region Jalisco, Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id34",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Celery",
+                    "genus",
+                    "Apium"
+                ],
+                [
+                    "Bakso",
+                    "ingredient",
+                    "Celery"
+                ],
+                [
+                    "Celery",
+                    "family",
+                    "Apiaceae"
+                ]
+            ]
+        },
+        "text": [
+            "One ingredient in Bakso is celery, which is a member of the genus Apium in the family Apiaceae.",
+            "Celery is from the genus apium and the family Apiaceae. It is an ingredient of Bakso.",
+            "Celery is a member of the family Apiaceae, it is from the genus apium and is an ingredient of Bakso."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id35",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Cake"
+                ],
+                [
+                    "Bionico",
+                    "ingredient",
+                    "Granola"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dessert"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico is a dessert that requires granola as one of its ingredients; it can be eaten as an alternative to cake.",
+            "Bionico requires granola as one of its ingredients, it is served at the dessert course, like cake."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id36",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Indonesia",
+                    "capital",
+                    "Jakarta"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Jusuf Kalla"
+                ],
+                [
+                    "Bakso",
+                    "country",
+                    "Indonesia"
+                ]
+            ]
+        },
+        "text": [
+            "Bakso is a dish from the country of Indonesia, where the capital is Jakarta and one of the leaders is Jusuf Kalla.",
+            "The dish bakso comes from Indonesia where Jusuf Kalla is the leader and Jakarta is the capital city.",
+            "Bakso is a dish from the country of Indonesia, where the capital is Jakarta and the leader is Jusuf Kalla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id37",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Baduy"
+                ],
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Singapore"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ]
+            ]
+        },
+        "text": [
+            "From the Singapore region, Ayam penyet, is a food found in Java where an ethnic group is the Baduy.",
+            "Ayam penyet is a dish from the region of Singapore and is also found in Java where the Baduy are an ethnic group.",
+            "Ayam penyet is from Singapore and also Java, where the Baduy are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id38",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Banyumasan people"
+                ],
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Nationwide, also can be found in Malaysia and Singapore"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ]
+            ]
+        },
+        "text": [
+            "Ayam penyet originates from Java where the Banyumasan are an ethnic group. It can be found nationwide and also in Singapore and Malaysia.",
+            "The dish Ayam penyet originates from Java where the Banyumasan people are an ethnic group. The dish can also be found in Malaysia and Singapore."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id39",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Spain",
+                    "language",
+                    "Spanish language"
+                ],
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Spain",
+                    "leaderName",
+                    "Felipe VI of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Spain is Felipe VI and it is also where Spanish is spoken and the dish arros negre is from.",
+            "Arros Negre is a traditional dish from Spain where they speak Spanish and the leader is Felipe VI.",
+            "Arros negre comes from Spain where Felipe VI is the leader and the Spanish language is spoken."
+        ]
+    }
+]

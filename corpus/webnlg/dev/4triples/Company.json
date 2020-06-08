@@ -1,0 +1,290 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "King of Prussia, Pennsylvania",
+                    "timeZone",
+                    "North American Eastern Time Zon"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "areaTotal",
+                    "9833516.63  (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is located in King of Prussia, Pennsylvania which is in the North American Eastern Time Zone. AmeriGas is working in the United States which has a total area of 9,833,516.63 square kilometers.",
+            "Located in King of Prussia, Pennsylvania, AmeriGas serves customers in the United States, which covers a total area of 9833516.63 square kilometers. King of Prussia is in the North American Eastern time zone.",
+            "AmeriGas, located in the city of King of Prussia, Pennsylvania, is in the North American Eastern Time Zone of the United States. The United States has a total area of 9833516.63 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "United States",
+                    "areaTotal",
+                    "9833516.63  (square kilometres)"
+                ],
+                [
+                    "United States",
+                    "foundingDate",
+                    "1776-07-04"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States, founded on July 4, 1776 covers a total area of 9833516.63 (square kilometres). AmeriGas works in the United States while located at King of Prussia, Pennsylvania.",
+            "King of Prussia, Pennsylvania is the base of the American company of AmeriGas. The United States was founded on July 4, 1776 and has a total area of 9833516.63 (square kilometres).",
+            "AmeriGas, based in King of Prussia, Pennsylvania, United States. The US was founded on July 4th, 1776 and has a total area of 9,833,516.63 square kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfEmployees",
+                    "5594"
+                ],
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded on August 16th 1920. It has 295 banking center with 5594 worker and a net income of 15,100,000,000.",
+            "Chinabank was founded on 16 August, 1920. It has 295 locations, 5594 employees and a net income of 15,100,000,000.",
+            "Chinabank (founded 1920-08-16) employs 5594 people with 295 branch locations, earning net income of 15100000000 currently."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainmen"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Porta"
+                ]
+            ]
+        },
+        "text": [
+            "The entertainment company, GMA New Media, is based in Quezon City. It, and its subsidiary, Philippine Entertainment Portal, offer World Wide Web services.",
+            "GMA New Media, located in the city of Quezon, produces web services and develops applications for the entertainment industry. Philippine Entertainment Portal, Inc. is a subsidiary of GMA New Media.",
+            "GMA New Media is an entertainment industry maker of websites headquartered in Quezon City. Philippine Entertainment Portal is a GMA New Media subsidiary."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Cen"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media makes mobile apps and is located in the GMA Network Center. Felipe Gozon is the key person of GMA New Media, which is located in the Philippines.",
+            "The Philippine mobile application company, GMA New Media, is based in the GMA Network Center. One of GMA New Media's leaders is Felipe Gozon.",
+            "Felipe Gozon is a key person at GMA New Media, a company located in the GMA Network Center in the Philippines with product offerings that include mobile applications."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ],
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a type of S.A (corporation) that is managed by its CEO. On January 1, 2001 Hypermarcas began its forage into the pharmaceuticals industry.",
+            "The CEO is the key person in Hypermarcas, a type of S.A. corporation in the pharmaceutical industry, founded on 2001-01-01.",
+            "Hypermarcas is a pharmaceutical S.A. corporation founded on January 1, 2001 with a CEO serving as its key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ],
+                [
+                    "Brazil",
+                    "leaderTitle",
+                    "President of the Supreme Federal Cou"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Braz"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas which produces pharmaceutical drugs, is location in Sao Paulo, Brazil. President of the Supreme Federal Court is one of the leaders in Brazil.",
+            "Sao Paulo, Brazil is the location of Hypermarcas. This drug company is under the rule of the President of the Supreme Federal Court (title of Brazil's leader).",
+            "Hypermarcas is located in Sao Paulo, Brazil. Their main product is drugs, and their leader has the title of President of the Supreme Federal Court."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthca"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is located in Sao Paulo and has 10,252 employees. They make healthcare products and their revenue is $1,800,000,000.",
+            "Located in São Paulo, Hypermarcas has 10252 employees, and produces healthcare products. Hypermarcas makes $1,800,000,000 a year.",
+            "Hypermarcas, which as 10252 employees and earns 1800000000 yearly selling healthcare products, is located in Sao Paulo."
+        ]
+    }
+]

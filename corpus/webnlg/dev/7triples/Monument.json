@@ -1,0 +1,154 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 7,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "country",
+                    "\"United States\""
+                ],
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southeast",
+                    "Carroll County, Maryland"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its north",
+                    "Cumberland County, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "municipality",
+                    "Gettysburg, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The Municipality of Gettysburg is located in Adams County, Pennsylvania which lies to the south of Cumberland County and to the northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.",
+            "The 11th Mississippi Infantry monument which was erected in the municipality of Gettysburg, Adams County, Pennsylvania, US in 2000 is categorised as a contributing property. Adams County is located south of Cumberland County in the same state, and Carroll County, Maryland is situated to the southeast."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 7,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "designer",
+                    "Pietro Canonica"
+                ],
+                [
+                    "Turkey",
+                    "leaderName",
+                    "Ahmet Davutoğlu"
+                ],
+                [
+                    "Turkey",
+                    "capital",
+                    "Ankara"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "material",
+                    "\"Bronze\""
+                ],
+                [
+                    "Turkey",
+                    "currency",
+                    "Turkish lira"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "\"1932-07-27\""
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "Ankara is the capital of Turkey where the currency is the Turkish lira and the leader is Ahmet Davutoglu. Izmir is located in the country and is the site of the bronze Ataturk Monument which was inaugurated in Izmir on 27 July 1932, having been designed by Pietro Canonica.",
+            "The Atatürk Monument is located in İzmir, in the country of Turkey, whose leader is Ahmet Davutoğlu. The monument is made of bronze, was designed by Pietro Canonica and was inaugurated on the 27th of July, 1932. Turkey's capital city is Ankara and the currency is the Turkish lira.",
+            "The Turkish lira is the currency of Turkey where Ahmet Davutoglu is the leader and Ankara is the capital. The Ataturk Monument designed in bronze by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 7,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "capital",
+                    "Baku"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "\"Red granite and white marble\""
+                ],
+                [
+                    "Azerbaijan",
+                    "leaderTitle",
+                    "Prime Minister of Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "\"Ottoman Army soldiers killed in the Battle of Baku\""
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "\"Hüseyin Bütüner and Hilmi Güner\""
+                ],
+                [
+                    "Azerbaijan",
+                    "legislature",
+                    "National Assembly (Azerbaijan)"
+                ]
+            ]
+        },
+        "text": [
+            "The National Assembly is the official legislature of Azerbaijan which is led by a Prime Minister. The capital city is Baku which is the location of the Turkish Martyrs' memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku.",
+            "Baku is the capital of Azerbaijan where the leader's title is Prime Minister and the legislature is the National Assembly. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.",
+            "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Memorial. It is located in Baku, Azerbaijan, which has legislature of National Assembly, and led by the Prime Minster. The memorial is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku."
+        ]
+    }
+]

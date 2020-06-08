@@ -1,0 +1,1430 @@
+[
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "mainIngredients",
+                    "Bread, almonds, garlic, water, olive oil"
+                ],
+                [
+                    "Ajoblanco",
+                    "region",
+                    "Andalusia"
+                ],
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Bread"
+                ]
+            ]
+        },
+        "text": [
+            "Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco, a food which originates from Andalusia, in Spain.",
+            "Ajoblanco is from Andalusia Spain and ingredients include bread, almonds, garlic, water, and olive oil.",
+            "Ajoblanco, a dish from the Andalusia region of Spain, has the main ingredients bread, almonds, garlic, water and olive oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "region",
+                    "Andalusia"
+                ],
+                [
+                    "Ajoblanco",
+                    "alternativeName",
+                    "Ajo blanco"
+                ],
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Water is an ingredient in Ajoblanco, also known as Ajo blanco, a dish that comes from Andalusia Spain.",
+            "Ajoblanco is a food originates from the Andalusian region of Spain and contains water. An other alternative name of the dish is Ajo blanco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "dishVariation",
+                    "L"
+                ],
+                [
+                    "Arem-arem",
+                    "ingredient",
+                    "Banana leaf"
+                ],
+                [
+                    "Arem-arem",
+                    "mainIngredients",
+                    "compressed rice cooked in banana leaf with vegetables or minced meat fillings"
+                ],
+                [
+                    "Arem-arem",
+                    "region",
+                    "Javanese cuisin"
+                ]
+            ]
+        },
+        "text": [
+            "Lemper, a dish variation of Arem-Arem contains Banana leaf in which is cooked compressed rice with vegetables or minced meat fillings and is a form of Javanese cuisine.",
+            "The main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings. The dish is of Javanese cuisine and has a variation known as Lemper."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "ingredient",
+                    "Banana leaf"
+                ],
+                [
+                    "Arem-arem",
+                    "course",
+                    "Main course"
+                ],
+                [
+                    "Arem-arem",
+                    "mainIngredients",
+                    "compressed rice cooked in banana leaf with vegetables or minced meat fillings"
+                ],
+                [
+                    "Arem-arem",
+                    "region",
+                    "Nationwide in Indonesia, but more specific to Java"
+                ]
+            ]
+        },
+        "text": [
+            "Arem-arem is a food that is found nationwide in Indonesia, but more specific to Java, it can be served as a main course and has a banana leaf in it. Its main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.",
+            "The main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings. It is served as a main course and is found nationwide in Indonesia and more specifically in Java."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "ingredient",
+                    "Chili"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "mainIngredients",
+                    "Tomatoes, red chili, garlic, olive oil"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "region",
+                    "Ro"
+                ]
+            ]
+        },
+        "text": [
+            "Arrabbiata sauce originates from the region of Rome in Italy. It is made with tomatoes, red chili, garlic and olive oil.",
+            "Arrabbiata sauce is a traditional dish from Rome, Italy. The main ingredients of it are tomatoes, red chili pepper, garlic and olive oil.",
+            "Arrabbiata sauce is a traditional dish from Rome in Italy. An important ingredient is chili pepper and it also contains tomatoes, red chili, garlic and olive oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Arròs negre",
+                    "mainIngredients",
+                    "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+                ],
+                [
+                    "Arròs negre",
+                    "region",
+                    "Catalonia"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Cephalopod ink"
+                ]
+            ]
+        },
+        "text": [
+            "Arros Negre is a traditional dish from the Catalonia region of Spain. The main ingredients of Arros negre are white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers.",
+            "Arros negre is from the region of Catalonia in Spain. The main ingredients of Arros negre are white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers.",
+            "Arros negre, from the Catalonia region of Spain, includes Cephalopod ink, white rice, cuttlefish/squid and cubanelle peppers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Arròs negre",
+                    "mainIngredients",
+                    "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+                ],
+                [
+                    "Arròs negre",
+                    "region",
+                    "Catalonia"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Cuban"
+                ]
+            ]
+        },
+        "text": [
+            "The main ingredients of Arròs negre, which is from Spain, are white rice, cuttlefish or squid, cephalopod ink, cubanelle and cubanelle peppers. Arròs negre is from the Catalonia region.",
+            "The main ingredients in arròs negre are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers. It is a traditional dish from the Catalonia region of Spain.",
+            "The main ingredients in arròs negre are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers. It is a traditional Spanish dish from the Catalonia region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "region",
+                    "Valencian Community"
+                ],
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Arròs negre",
+                    "mainIngredients",
+                    "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Cuban"
+                ]
+            ]
+        },
+        "text": [
+            "Arros negre is a traditional dish from the Valencian Community, Spain. It has the main ingredients of white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.",
+            "Arros negre comes from the region of the Valencian Community, Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.",
+            "Arros negre comes from the region of the Valencian Community in Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink, cubanelle peppers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Asam pedas",
+                    "country",
+                    "Malaysia"
+                ],
+                [
+                    "Asam pedas",
+                    "region",
+                    "Sumatra and Malay Peninsula"
+                ],
+                [
+                    "Asam pedas",
+                    "mainIngredients",
+                    "Fish cooked in sour and hot sauce"
+                ],
+                [
+                    "Asam pedas",
+                    "alternativeName",
+                    "Asam padeh"
+                ]
+            ]
+        },
+        "text": [
+            "Asam pedas is found in the region of Sumatra and Malay peninsula in Malaysia. It can also be called Asam padeh and its ingredients are fish cooked in sour and hot sauce.",
+            "Asam pedas (aka asam padeh) is from the Sumatra and Malay Peninsula regions of Malaysia. The main ingredients are fish cooked in sour and hot sauce.",
+            "Asam padeh is also known as asam pedas and is a food found in Malaysia originating from the Sumatra and Malay Peninsula regions. The main ingredients is fish cooked in a sour and hot sauce."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id10",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Asam pedas",
+                    "country",
+                    "Malaysia"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Malay"
+                ],
+                [
+                    "Sumatra",
+                    "ethnicGroup",
+                    "Minangkabau peo"
+                ],
+                [
+                    "Asam pedas",
+                    "region",
+                    "Sumatra"
+                ]
+            ]
+        },
+        "text": [
+            "Asam pedas is a food found in Malaysia and Sumatra. Malaysian Malay is an ethnic group in Malaysia and Sumatra has an ethnic group called the Minangkabau people.",
+            "Asam pedas is a food found in Malaysia and Sumatra. Malay is the ethnic group of Malaysia and the Minangkabau people are an ethnic group of Sumatra.",
+            "Asam pedas is found in Malaysia, originating from Sumatra. Sumatra is home to the Minangkabau people and Malaysia--to the Malay people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Bacon Explosion",
+                    "ingredient",
+                    "Sausag"
+                ],
+                [
+                    "Bacon Explosion",
+                    "region",
+                    "Kansas City metropolitan area"
+                ],
+                [
+                    "Bacon Explosion",
+                    "mainIngredients",
+                    "Bacon"
+                ]
+            ]
+        },
+        "text": [
+            "The Bacon Explosion comes from the Kansas city metro area in the U.S. The main ingredient in it is bacon and also includes sausage.",
+            "Bacon Explosion comes from the Kansas City metropolitan area of the United States and includes the main ingredient of sausage and bacon.",
+            "Bacon Explosion is from the Kansas City metropolitan area of the United States. The main ingredient is bacon along with sausage."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id12",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Bacon Explosion comes from the United States, where one of the leaders is Paul Ryan. It is also where Asian Americans are one of the ethnic groups and Washington, D.C. is the capital.",
+            "The United States is the country of the Bacon Explosion and the leader is Paul Ryan. Asian Americans are an ethnic group in the United States and the capital is Washington, D.C.",
+            "The Bacon Explosion originates from the United States. The U.S. boasts leader Paul Ryan, is home to Asian Americans and has its capital in Washington D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bacon sandwich",
+                    "dishVariation",
+                    "BLT"
+                ],
+                [
+                    "Bacon sandwich",
+                    "country",
+                    "United Kingdo"
+                ],
+                [
+                    "Bacon sandwich",
+                    "alternativeName",
+                    "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"
+                ],
+                [
+                    "Bacon sandwich",
+                    "ingredient",
+                    "Bacon"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon sandwiches are popular in the UK, have a variant called a BLT, include the ingredient bacon and sometimes go by the name of: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.",
+            "The bacon sandwich, of which an ingredient is bacon, has a variation called the BLT and has different names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin. It originates from the U.K.",
+            "A bacon sandwich, which is a variation of the BLT, can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin. It is a dish containing bacon and comes from the United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bacon sandwich",
+                    "dishVariation",
+                    "BLT"
+                ],
+                [
+                    "Bacon sandwich",
+                    "country",
+                    "United Kingdo"
+                ],
+                [
+                    "Bacon sandwich",
+                    "alternativeName",
+                    "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"
+                ],
+                [
+                    "Bacon sandwich",
+                    "ingredient",
+                    "Brown sauc"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon sandwich is a dish from the United Kingdom and a variation is the BLT. An ingredient used is brown sauce and its different names include Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.",
+            "The country that bacon sandwich comes from is the United Kingdom, it is also known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin. Brown sauce can be served with it and a variation is the BLT.",
+            "Bacon sandwiches are popular in the UK and can contain the ingredient brown sauce. A variation of the sandwich is a BLT and it can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id15",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bacon sandwich",
+                    "mainIngredients",
+                    "Bread and bacon, with a condiment, often ketchup or brown sauce"
+                ],
+                [
+                    "Bacon sandwich",
+                    "country",
+                    "United Kingdo"
+                ],
+                [
+                    "Bacon sandwich",
+                    "ingredient",
+                    "Ketchu"
+                ],
+                [
+                    "Bacon sandwich",
+                    "alternativeName",
+                    "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"
+                ]
+            ]
+        },
+        "text": [
+            "From the United Kingdom, the bacon sandwich's main ingredients are bread and bacon and a condiment, often ketchup or brown sauce. It can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.",
+            "Bacon sandwich originates from the United Kingdom and its main ingredients are bread, bacon with ketchup or brown sauce. It has different names including:Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.",
+            "The main ingredients of a bacon sandwich, (popular in the UK), are bread, bacon and ketchup or brown sauce as a condiment. The bacon sandwich has several alternative names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "mainIngredients",
+                    "Meringue, ice cream, sponge cake or Christmas pudding"
+                ],
+                [
+                    "Baked Alaska",
+                    "country",
+                    "France, United States or China"
+                ],
+                [
+                    "Baked Alaska",
+                    "region",
+                    "Paris, New York or Hong Kong"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Meringu"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska has the main ingredients of meringue, ice cream and sponge cake (or Christmas pudding). It is found in France, the US, China, Hong Kong, New York and Paris.",
+            "Baked Alaska contains: ice cream, sponge cake (Christmas pudding) and meringue. It is found in Hong Kong, New York and Paris. The origins are either France, China or the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id17",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "mainIngredients",
+                    "Meringue, ice cream, sponge cake or Christmas pudding"
+                ],
+                [
+                    "Baked Alaska",
+                    "region",
+                    "Paris, New York or Hong Kong"
+                ],
+                [
+                    "Baked Alaska",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Ice crea"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska comes from either Paris, New York, USA, or Hong Kong. Meringue, ice cream, sponge cake or Christmas pudding are main ingredients in baked Alaska.",
+            "The American dish Baked Alaska is found in Hong Kong, New York and Paris. Meringue, ice cream, sponge cake or Christmas pudding are its main ingredients."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id18",
+            "shape": "(X (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bakewell pudding",
+                    "dishVariation",
+                    "Bakewell ta"
+                ],
+                [
+                    "Bakewell tart",
+                    "region",
+                    "Derbyshire Dales"
+                ],
+                [
+                    "Derbyshire Dales",
+                    "isPartOf",
+                    "Derbysh"
+                ],
+                [
+                    "Bakewell tart",
+                    "ingredient",
+                    "Frangipan"
+                ]
+            ]
+        },
+        "text": [
+            "The bakewell tart is popular in the Derbyshire Dales area which is part of Derbyshire. It's a variant of bakewell pudding and uses frangipane.",
+            "Bakewell tart, a variation of Bakewell pudding, includes the ingredient frangipane and originates from the Derbyshire Dales region of Derbyshire.",
+            "Bakewell tart is a variant of bakewell pudding and comes from the Derbyshire Dales. It contains frangipane."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bakewell pudding",
+                    "region",
+                    "Derbyshire Dales"
+                ],
+                [
+                    "Bakewell pudding",
+                    "dishVariation",
+                    "Bakewell ta"
+                ],
+                [
+                    "Bakewell pudding",
+                    "course",
+                    "Dessert"
+                ],
+                [
+                    "Bakewell pudding",
+                    "mainIngredients",
+                    "Ground almond, jam, butter, eggs"
+                ]
+            ]
+        },
+        "text": [
+            "Bakewell tart is a variation of Bakewell pudding that originates from the Derbyshire Dales. It is a dessert that has the main ingredients of ground almond, jam, butter and eggs.",
+            "Bakewell tart is a variation of Bakewell pudding which is a dessert that comes from the Derbyshire Dales area and has the main ingredients ground almonds, jam, butter and eggs.",
+            "Bakewell pudding is a dessert from the Derbyshire Dales region and contains the ingredients ground almonds, jam, butter and eggs. It has a variation called Bakewell tart."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id20",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bakewell pudding",
+                    "region",
+                    "Derbyshire Dales"
+                ],
+                [
+                    "Bakewell pudding",
+                    "dishVariation",
+                    "Bakewell ta"
+                ],
+                [
+                    "Derbyshire Dales",
+                    "isPartOf",
+                    "Derbysh"
+                ],
+                [
+                    "Bakewell tart",
+                    "ingredient",
+                    "Shortcrust pastry"
+                ]
+            ]
+        },
+        "text": [
+            "From the Derbyshire Dales region (in Derbyshire), is Bakewell pudding. A variation of which, is Bakewell tart, its main ingredient is shortcrust pastry.",
+            "Bakewell tart is a variation of Bakewell pudding which uses shortcrust pastry and comes from the Derbyshire Dales in Derbyshire.",
+            "Bakewell tart is a variant of bakewell pudding from the Derbyshire Dales in Derbyshire. The main ingredient is shortcrust pastry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bandeja paisa",
+                    "ingredient",
+                    "Ric"
+                ],
+                [
+                    "Bandeja paisa",
+                    "mainIngredients",
+                    "red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon"
+                ],
+                [
+                    "Bandeja paisa",
+                    "region",
+                    "Paisa Region"
+                ],
+                [
+                    "Bandeja paisa",
+                    "country",
+                    "Colombian cuisin"
+                ]
+            ]
+        },
+        "text": [
+            "Bandeja paisa is a Colombian dish from the Paisa region. Its main ingredients include red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.",
+            "Bandeja paisa originates from the Paisa region, Colombia. The main ingredients are: red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.",
+            "Bandeja paisa is a typical Colombian dish from the Paisa region and contains the ingredients: red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Batagor",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Batagor",
+                    "ingredient",
+                    "Peanut sauc"
+                ],
+                [
+                    "Batagor",
+                    "dishVariation",
+                    "Siomay"
+                ],
+                [
+                    "Batagor",
+                    "mainIngredients",
+                    "fried fish dumpling with tofu and vegetables in peanut sauce"
+                ]
+            ]
+        },
+        "text": [
+            "Batagor is an Indonesian food and a variation of the Siomay dish. It contains a fried fish dumpling with tofu and vegetables in peanut sauce.",
+            "Batagor, (a variation of Siomay), is a dish found in Indonesia and its main ingredients are fried fish dumpling with tofu and vegetables in peanut sauce.",
+            "Batagor, from Indonesia, is a dish consisting of fried fish dumplings, tofu and vegetables in peanut sauce. Siomay is a variation of batagor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id23",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Batagor",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Shumai",
+                    "dishVariation",
+                    "Siomay"
+                ],
+                [
+                    "Shumai",
+                    "ingredient",
+                    "Shiitak"
+                ],
+                [
+                    "Batagor",
+                    "dishVariation",
+                    "Shuma"
+                ]
+            ]
+        },
+        "text": [
+            "Batagor is found in the country of Indonesia. It is a variation on Siomay or Shumai, the latter of which includes Shiitake.",
+            "Shumai, which has shiitake as a component and is similar to Siomay, is a variation of the Indonesian dish batagor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "mainIngredients",
+                    "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+                ],
+                [
+                    "Beef kway teow",
+                    "ingredient",
+                    "Palm suga"
+                ],
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Indonesia"
+                ],
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Singapore and Indonesia"
+                ]
+            ]
+        },
+        "text": [
+            "Beef kway teow is found in the countries of Indonesia and Singapore. Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, palm sugar, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are main ingredients in beef kway teow.",
+            "The main ingredients for Beef Kway Teow, a dish commonly found in Indonesia and Singapore, are: Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli, palm sugar and sesame oil.",
+            "Beef Kway Teow is a dish served in Indonesia and Singapore and the ingredients are: kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, palm sugar, chilli and sesame oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "mainIngredients",
+                    "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+                ],
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Nationwide in Singapore and Indonesia"
+                ],
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Beef kway teow",
+                    "ingredient",
+                    "Oyster sauc"
+                ]
+            ]
+        },
+        "text": [
+            "The Indonesian dish Beef kway teow is popular nationwide in Singapore and Indonesia. Its ingredients include kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.",
+            "Beef kway teow is available nationwide in Singapore and Indonesia and includes the ingredients: kway teow, beef tenderloin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.",
+            "The main ingredients for Beef Kway Teow are Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. It is a popular food and found nationwide in both Indonesia and Singapore."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Singapo"
+                ],
+                [
+                    "Beef kway teow",
+                    "mainIngredients",
+                    "Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil"
+                ],
+                [
+                    "Beef kway teow",
+                    "ingredient",
+                    "Palm suga"
+                ],
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Singapore and Indonesia"
+                ]
+            ]
+        },
+        "text": [
+            "Beef kway teow is a dish found in Indonesia and Singapore. Its main ingredients are Kway teow, beef tender loin, gula Melaka, sliced dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. It also includes palm sugar.",
+            "Beef kway teow is a dish commonly found in Singapore and Indonesia. The ingredients include Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli, sesame oil and palm sugar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Bhajji",
+                    "mainIngredients",
+                    "Gram flour, vegetables"
+                ],
+                [
+                    "Bhajji",
+                    "alternativeName",
+                    "Bhaji, bajji"
+                ],
+                [
+                    "Bhajji",
+                    "ingredient",
+                    "Gram flou"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji comes from the country India and has Gram flour and vegetables as its main ingredients. Bhaji and bajji are alternative names for Bhajji.",
+            "Bhajji is also known as Bhaji or bajji. It comes from India and includes gram flour and vegetables.",
+            "Bhaji and bajji are alternative names for Bhajji which come from India. The main ingredients of Bhajji are gram flour and vegetables."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id28",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Narendra Mod"
+                ],
+                [
+                    "Bhajji",
+                    "region",
+                    "Karnataka"
+                ],
+                [
+                    "Karnataka",
+                    "leaderName",
+                    "Vajubhai Vala"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji comes from the Karnataka region of India. Narendra Modi is a leader in India and Vajubhai Vala is also a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id29",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Sumitra Mahajan"
+                ],
+                [
+                    "Bhajji",
+                    "region",
+                    "Karnataka"
+                ],
+                [
+                    "Karnataka",
+                    "leaderName",
+                    "Vajubhai Vala"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji comes from the country India in the Karnataka region where the leaders are Sumitra Mahajan and Vajubhai Vala.",
+            "Bhajji come from the Karnataka region in India. Vajubhai Vala is the leader of Karnataka and Sumitra Mahajan is a leader in India.",
+            "Bhajji originate from the Karnataka region of India. The leader in Karnataka is Vajubhai Vala, and in India is Sumitra Mahajan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id30",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thaku"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Narendra Mod"
+                ],
+                [
+                    "Bhajji",
+                    "region",
+                    "Karnataka"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji are found in the region of Karnataka; it originates from India. TS Thakur is the leader of India and Narendra Modi is also a leader.",
+            "Bhajji comes from the Karnataka region in India. Two leaders of India are T. S. Thakur and Narendra Modi.",
+            "Bhajji come from the Karnataka region of India, T.S. Thakur is the leader of India and Narendra Modi is also one of the names of one of the leaders in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id31",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Binignit",
+                    "ingredient",
+                    "Sweet potato"
+                ],
+                [
+                    "Binignit",
+                    "region",
+                    "Visayas"
+                ],
+                [
+                    "Binignit",
+                    "mainIngredients",
+                    "Coconut milk"
+                ],
+                [
+                    "Binignit",
+                    "country",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "Binignit comes from the Visayas region of the Philippines. Its main ingredients are sweet potato and coconut milk.",
+            "Sweet potato and coconut milk are ingredients in the dish binignit, which comes from the Visayas region of the Philippines.",
+            "Binignit, which contains sweet potato and coconut milk, is a dish from the Visayas region of the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id32",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Bionico",
+                    "mainIngredients",
+                    "Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins"
+                ],
+                [
+                    "Bionico",
+                    "region",
+                    "Guadalajara"
+                ],
+                [
+                    "Bionico",
+                    "ingredient",
+                    "Sour crea"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico is a food found in Guadalajara, Mexico. Sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut are the main ingredients in Bionico.",
+            "Bionico is a food originates from the Guadalajara region of Mexico. The main ingredients of the dish are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.",
+            "The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is a Mexican food from the Guadalajara region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id33",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Mexico",
+                    "leaderName",
+                    "Enrique Peña Nieto"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dess"
+                ],
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Sandesh (confectionery)"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico is a dessert found in Mexico, whose leader is Enrique Pena Nieto. Sandesh is a nice confectionary dessert.",
+            "Bionico is a dessert found in Mexico where the leader is Enrique Peña Nieto. Sandesh is also a nice confectionery dessert."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id34",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Indonesia",
+                    "language",
+                    "Indonesian languag"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Jusuf Kalla"
+                ],
+                [
+                    "Bakso",
+                    "region",
+                    "Indonesia"
+                ],
+                [
+                    "Bakso",
+                    "country",
+                    "Chinese cuisin"
+                ]
+            ]
+        },
+        "text": [
+            "Indonesian language is the language spoken in Indonesia, and Jusuf Kalla is a leader there. Bakso is a Chinese food that can be found also in Indonesia.",
+            "Bakso is a food found in Indonesia and China. Jusuf Kalla is a leader in Indonesia where they speak Indonesian.",
+            "Indonesia has Jusuf Kalla as a leader, Indonesian as a language and Bakso (from Chinese cuisine) as a traditional dish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id35",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "leaderName",
+                    "Laura Boldrin"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "Amatriciana sauce is a traditional sauce in Italy. The country where Rome is the capital, the language is Italian and Laura Boldrini is the leader.",
+            "Italy has the capital city of Rome, the leader called Laura Boldrini, the Italian language and the sauce called amatriciana.",
+            "Amatriciana sauce can be found in Italy where the capital is Rome and the language is Italian. The leader in Italy is Laura Boldrini."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id36",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Italy",
+                    "leaderName",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "leaderName",
+                    "Sergio Mattarella"
+                ]
+            ]
+        },
+        "text": [
+            "Pietro Grasso and Sergio Mattarella are the leaders of Italy. The capital is Rome and Amatriciana sauce is a traditional Italian sauce.",
+            "Pietro Grasso and Sergio Mattarella are leaders of Italy whose capital is Rome. Amatriciana sauce is a traditional sauce served in Italy.",
+            "Amatriciana sauce can be found in Italy where the capital is Rome and the leaders include Pietro Grasso and Sergio Mattarella."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id37",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Banyumasan peo"
+                ],
+                [
+                    "Singapore",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Singapo"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ]
+            ]
+        },
+        "text": [
+            "The Banyumasan are an ethnic group from Java which has ayam penyet as one of its foods. Ayam penyet is a food dish from Singapore where English is also spoken.",
+            "Ayam penyet, a dish from Singapore, is also found in Java, where the Banyumasan people are an ethnic group. The English language is spoken in Singapore.",
+            "Ayam penyet is a dish from Singapore and Java. One language spoken in Singapore is English and the Banyumasan people are an ethnic group from Java."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id38",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Banyumasan peo"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Halimah Yacob"
+                ],
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Singapo"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ]
+            ]
+        },
+        "text": [
+            "There is an ethnic group from Java, a region of Singapore, called the Banyumasan people. Ayam penyet is a dish from the region. The leader, Halimah Yacob, a leader, is from Singapore.",
+            "The Banyumasan people are an ethnic group in Java, where the dish ayam penyet can be found. The dish comes from Singapore, where Halimah Yacob is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id39",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Zamboangans"
+                ],
+                [
+                    "Philippines",
+                    "language",
+                    "Philippine Spanish"
+                ],
+                [
+                    "Batchoy",
+                    "country",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Chinese Filipino"
+                ]
+            ]
+        },
+        "text": [
+            "Zamboangans are a group in the Philippines and the Chinese Filipino are also an ethnic group in the Philippines, the language in the Philippines is Philippine Spanish, Batchoy is eaten in the Philippines.",
+            "Batchoy comes from the Philippines, where the language used is Philippine Spanish and Chinese Filipino and Zamboangans are ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id40",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Spain",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Spain",
+                    "ethnicGroup",
+                    "Spaniards"
+                ],
+                [
+                    "Spain",
+                    "leaderName",
+                    "Felipe VI of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Arròs negre is a traditional dish from Spain whose leader is Felipe VI and Euro is its currency. Spaniards are the ethnic group of Spain.",
+            "The Euro is the currency in Spain, where the leader is Felipe VI and Spaniards are an ethnic group. Spain is also the home of the traditional dish Arròs negre.",
+            "Arròs negre is a dish from Spain where the leader is Felipe VI. Spaniards are an ethnic group of Spain and the currency used is the euro."
+        ]
+    }
+]

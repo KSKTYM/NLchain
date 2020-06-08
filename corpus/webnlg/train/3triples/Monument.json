@@ -1,0 +1,1283 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument, USA, is categorised as a contributing property and was established in 2000.",
+            "The 11th Mississippi Infantry monument was established in the US in 2000 and falls under the category of Contributing property.",
+            "The 11th Mississippi Infantry Monument in the United States was established in the year 2000, and is categorized as a Contributing Property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument, categorized as a Contributing Property, is located in Adams County, Pennsylvania, US.",
+            "The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania in the United States, and falls under the category of Contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "municipality",
+                    "Gettysburg, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry monument which was erected in 2000 falls under the category of Contributing property. It is located in the municipality of Gettysburg, Pennsylvania.",
+            "The 11th Mississippi Infantry Monument (established in 2000) is located in Gettysburg, Pennsylvania, and falls under the category of Contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "municipality",
+                    "Gettysburg, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "Gettysburg, Adams County, Pennsylvania is the location of the 11th Mississippi Infantry Monument which is categorised as contributing property.",
+            "The 11th Mississippi Infantry Monument, categorised as a contributing property, is found in the municipality of Gettysburg, Adams County, Pennsylvania.",
+            "The 11th Mississippi Infantry Monument, categorized as a Contributing Property, is placed in the municipality of Gettysburg, the Adams County of Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument which is located in Adams County, Pennsylvania. It was established in 2000 and falls under the category of contributing property.",
+            "The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and was established in 2000 where it is categorised as contributing property.",
+            "The 11th Mississippi Infantry Monument (completed in 2000) is located in Adams County, Pennsylvania, and falls under the category of Contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "state",
+                    "Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "municipality",
+                    "Gettysburg, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument, in the municipality of Gettysburg Pennsylvania, falls under the category of Contributing property.",
+            "Gettysburg, Pennsylvania is the location of the 11th Mississippi Infantry monument which falls under the category of contributing property.",
+            "The 11th Mississippi Infantry Monument, located in Gettysburg in the state of Pennsylvania, is categorised as a contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "state",
+                    "Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument in Pennsylvania was completed in 2000 and is categorized as a contributing property.",
+            "The 11th Mississippi Infantry Monument, Pennsylvania, is categorised as a contributing property and was established in 2000.",
+            "The 11th Mississippi Infantry Monument (established in 2000) stands in the state of Pennsylvania, and is categorised as a contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "1907-07-11"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument which is located in the Monocacy National Battlefield was established on 11 July 1907. It falls within the category of Historic districts in the US.",
+            "Monocacy National Battlefield is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907 and belongs to the category of historic districts in the US.",
+            "The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 and is located in the Monocacy National Battlefield. being a historic district in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id9",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ],
+                [
+                    "Monocacy National Battlefield",
+                    "nearestCity",
+                    "Frederick, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Frederick, Maryland is the nearest city to Monocacy National Battlefield which is the location of the 14th New Jersey Volunteer Infantry Monument. The monument is categorised as a historic district in the US.",
+            "The 14th New Jersey Volunteer Infantry Monument, categorised as a historic district in the United States, is located in the Monocacy National Battlefield and has Frederick, Maryland as its nearest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "owningOrganisation",
+                    "National Park Service"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "1907-07-11"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument (est. July 11th, 1907) is a historic district in the US provided by the National Park Service.",
+            "The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is categorised as a historic district in the United States, and is owned by the National Park Service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "1907-07-11"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument in the United States was established on 11th July 1907, and belongs to the category of Historic districts.",
+            "The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is located in the United States, where it belongs to the category of Historic districts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id12",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "1907-07-11"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ],
+                [
+                    "Monocacy National Battlefield",
+                    "nearestCity",
+                    "Frederick, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Frederick Maryland is the nearest city to Monocacy National Battlefield where the 14th New Jersey Volunteer infantry monument is located. It was established on 11 July 1907.",
+            "The Monocacy National Battlefield is where the 14th New Jersey Volunteer Infantry Monument, established on 11 July 1907, is located. The closest city is Frederick, Maryland.",
+            "The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is located in the Monocacy National Battlefield, with Frederick, Maryland as its nearest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id13",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its north",
+                    "Cumberland County, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument is contained within the category of Contributing property and is located in Adams County, Pennsylvania. Adams County is south of Cumberland County, Pennsylvania.",
+            "Cumberland County is located to the north of Adams County, Pennsylvania where the 11th Mississippi Infantry monument is located and categorised as contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id14",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southeast",
+                    "Carroll County, Maryland"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "Carroll County Maryland is located to the southeast of Adams County, Pennsylvania where the 11th Mississippi Infantry Monument is located. The monument is categorised as a contributing property.",
+            "The 11th Mississippi Infantry Monument, a contributing property, is located in Adams County, Pennsylvania, which has Carroll County to its southeast.",
+            "11th Mississippi Infantry Monument, located in Adams County, Pennsylvania, northwest of Carroll County, Maryland is categorised as a contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id15",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southeast",
+                    "Carroll County, Maryland"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument which was completed in 2000 is located in Adams County, Pennsylvania. Adams County is to the north west of Carroll County, Maryland.",
+            "The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County Pennsylvania, with Carroll County to the southeast."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id16",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southeast",
+                    "Carroll County, Maryland"
+                ],
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its north",
+                    "Cumberland County, Pennsylvania"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll County to its southeast and Cumberland County at its north.",
+            "The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll county, Maryland to its southeast and Cumberland county, Pennsylvania to its north."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southeast",
+                    "Carroll County, Maryland"
+                ],
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southwest",
+                    "Frederick County, Maryland"
+                ],
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "Adams County Pennsylvania is the location of the 11th Mississippi Infantry monument. Frederick County, Maryland is to the southwest and Carroll County to the southeast.",
+            "The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania. It is easily reachable from Maryland, having Carroll County to its southeast, and Frederick County to the southwest."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "designer",
+                    "Pietro Canonica"
+                ],
+                [
+                    "Turkey",
+                    "capital",
+                    "Ankara"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The Atatürk Monument (İzmir) was designed by Pietro Canonica, and can be found in Turkey, where the capital is Ankara.",
+            "Pietro Canonica is the designer of the Ataturk Monument (Izmir) in Turkey, where the capital is Ankara."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "1932-07-27"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "designer",
+                    "Pietro Canonica"
+                ]
+            ]
+        },
+        "text": [
+            "The Pietro Canonica designed Ataturk Monument was inaugurated on 27th July, 1932 and is located in Turkey.",
+            "Pietro Canonica designed the Ataturk monument which is located in Izmir, Turkey. It was inaugurated on 27 July 1932.",
+            "The Ataturk Monument in Turkey, designed by Pietro Canonica, was inaugurated on the 1932-07-27."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "1932-07-27"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "material",
+                    "Bronze"
+                ]
+            ]
+        },
+        "text": [
+            "The inauguration date of the Atatürk Monument, made of Bronze, in Izmir is the 27th of July, 1932 and located in İzmir, Turkey.",
+            "The bronze Ataturk monument is located in Izmir, Turkey and was inaugurated on 27 July 1932."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id21",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "capital",
+                    "Baku"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Azerbaijan",
+                    "leaderName",
+                    "Artur Rasizade"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs' Memorial is located in the capital city Baku in Azerbaijan where its leader is Artur Rasizade.",
+            "Artur Rasizade is the leader of Azerbaijan. The capital is Baku where the Turkish martyrs memorial is located.",
+            "The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan, led by Artur Rasizade."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id22",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "leaderTitle",
+                    "Prime Minister of Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Azerbaijan",
+                    "leaderName",
+                    "Artur Rasizade"
+                ]
+            ]
+        },
+        "text": [
+            "The Turkish martyrs memorial is located in Baku, Azerbaijan, which has Artur Rasizade as its Prime Minister and leader.",
+            "The Baku Turkish Martyrs' Memorial is found in Azerbaijan, a country led by the Prime Minister Artur Rasizade."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id23",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "leaderTitle",
+                    "Prime Minister of Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ]
+            ]
+        },
+        "text": [
+            "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial which is located in Azerbaijan. The official title of the leader of that country is the Prime Minister of Azerbaijan.",
+            "The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is located in Azerbaijan, where the title of the leader is Prime Minister of Azerbaijan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "Ottoman Army soldiers killed in the Battle of Baku"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "Red granite and white marble"
+                ]
+            ]
+        },
+        "text": [
+            "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. It is dedicated to the soldiers of the Ottoman army who died in the battle of Baku.",
+            "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. It is dedicated to the Ottoman Army soldiers who died in the battle of Baku.",
+            "The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "nativeName",
+                    "Türk Şehitleri Anıtı"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "Red granite and white marble"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs memorial is made of red granite and white marble and can be found in Azerbaijan. It is also known as Turk Sehitleri Aniti.",
+            "The red granite and white marble Baku Turkish Martyrs memorial, the native name being Turk Sehitleri Aniti, is found in Azerbaijan.",
+            "The red granite and white marble Baku Turkish Martyrs' Memorial is located in Azerbaijan, where its local name is Turk Sehitleri Aniti."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "nativeName",
+                    "Türk Şehitleri Anıtı"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ],
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "Red granite and white marble"
+                ]
+            ]
+        },
+        "text": [
+            "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial from red granite and white marble. The native name for this memorial is Turk Sehitleri Aniti.",
+            "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. The native name of the memorial is Turk Sehitleri Aniti.",
+            "The Baku Turkish Martyrs Memorial was designed in red granite and white marble by Hüseyin Bütüner and Hilmi Güner, and is known in Turkish as Turk Sehitleri Aniti."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ],
+                [
+                    "Dead Man's Plack",
+                    "dedicatedTo",
+                    "Æthelwald, Ealdorman of East Anglia"
+                ],
+                [
+                    "Dead Man's Plack",
+                    "material",
+                    "Rock (geology)"
+                ]
+            ]
+        },
+        "text": [
+            "The Dead Man's Plack in England, made with rock, is dedicated to Æthelwald, Ealdorman of East Anglia.",
+            "Dead Man's Plack in England is made of rock and dedicated to AEthelwald, Ealdorman of East Anglia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id28",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ],
+                [
+                    "Dead Man's Plack",
+                    "dedicatedTo",
+                    "Æthelwald, Ealdorman of East Anglia"
+                ],
+                [
+                    "England",
+                    "languages",
+                    "Cornish language"
+                ]
+            ]
+        },
+        "text": [
+            "Dead Man's Plack, which is located in England is dedicated to AEthelwald, Ealdorman of East Anglia. England is also home of the Cornish language which is still spoken.",
+            "The Dead Man's Plack, dedicated to Æthelwald, Ealdorman of East Anglia, is located in England, where one of the languages spoken is Cornish (in the Cornwall region).",
+            "The Dead Man's Plack, dedicated to Æthelwald, Ealdorman of East Anglia, is located in England, where the Cornish language is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id29",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ],
+                [
+                    "England",
+                    "capital",
+                    "London"
+                ],
+                [
+                    "Dead Man's Plack",
+                    "dedicatedTo",
+                    "Æthelwald, Ealdorman of East Anglia"
+                ]
+            ]
+        },
+        "text": [
+            "The Dead Man's Plack is found in England (capital: London), and is dedicated to Æthelwald, Ealdorman of East Anglia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id30",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ],
+                [
+                    "England",
+                    "ethnicGroups",
+                    "British Arabs"
+                ],
+                [
+                    "England",
+                    "capital",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in England is the British Arabs. The capital of England is London and England is also the home of Dead Mans Plack.",
+            "The British Arabs is an English ethnic group. In the country, you can also find the monument called the Dead Man's Plack, and the capital city of London.",
+            "The Dead Man's Plack is located in England whose capital is London; the British Arabs are an English ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id31",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ],
+                [
+                    "England",
+                    "ethnicGroups",
+                    "British Arabs"
+                ],
+                [
+                    "England",
+                    "languages",
+                    "Cornish language"
+                ]
+            ]
+        },
+        "text": [
+            "England is a country where Cornish is spoken in the Cornwall region, British Arabs are an ethnic group and Dead Man's Plack is found.",
+            "The Cornish language is still spoken in England where one can find Dead Man's Plack. One of the ethnic groups to be found in England is that of the British Arabs.",
+            "The Dead Man's Plack is in England, a country which includes the ethnic group of British Arabs, and has Cornish as one of its languages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id32",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ],
+                [
+                    "England",
+                    "religion",
+                    "Church of England"
+                ],
+                [
+                    "Dead Man's Plack",
+                    "material",
+                    "Rock (geology)"
+                ]
+            ]
+        },
+        "text": [
+            "Dead Man's Plack, made of rock, is in England, where the established religion in England is The Church of England.",
+            "Dead Man's Plack is a rock monument found in England where the established religion is The Church of England.",
+            "Dead Mans Plack is made of rock and located in England where the established religion is The Church of England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id33",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Monocacy National Battlefield",
+                    "location",
+                    "Frederick County, Maryland"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ]
+            ]
+        },
+        "text": [
+            "Frederick County, Maryland is the location of the Monocacy National Battlefield. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument, which is categorised as a historic district of the US.",
+            "The 14th New Jersey Volunteer Infantry Monument, a historic district in the United States, is located in the district of the Monocacy National Battlefield in Frederick County, Maryland.",
+            "The 14th New Jersey Volunteer Infantry Monument, located on the Monocacy National Battlefield in Frederick County, Maryland, is categorised as a historic district in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id34",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Monocacy National Battlefield",
+                    "location",
+                    "Frederick County, Maryland"
+                ],
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ],
+                [
+                    "Monocacy National Battlefield",
+                    "nearestCity",
+                    "Frederick, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Frederick, Maryland, is the nearest city to the Monocacy National Battlefields situated in Frederick County. This district is the location of the 14th New Jersey Volunteer Infantry Monument.",
+            "The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield in Frederick County, Maryland, which is also its nearest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id35",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "capital",
+                    "Ankara"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "1932-07-27"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The Ataturk monument was inaugurated on 27 July 1932 in Izmir, Turkey. The capital of Turkey is Ankara.",
+            "The Atatürk Monument (inaugurated July 27th, 1932) is located in İzmir, Turkey, where the capital city is Ankara.",
+            "The Atatürk Monument in Izmir was inaugurated on the 27th of July, 1932, and is found in Turkey (capital: Ankara)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id36",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "capital",
+                    "Ankara"
+                ],
+                [
+                    "Turkey",
+                    "largestCity",
+                    "Istanbul"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The Ataturk monument (Izmir) is located in Turkey, where the largest city is Istanbul and the capital is Ankara.",
+            "The Atatürk Monument is located in Turkey, where the capital city is Ankara and the largest city is Istanbul.",
+            "The Atatürk Monument is located in İzmir, Turkey, where the capital is Ankara and the largest city is Istanbul."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id37",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "largestCity",
+                    "Istanbul"
+                ],
+                [
+                    "Turkey",
+                    "currency",
+                    "Turkish lira"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "Turkey's largest city is Istanbul, its currency is the lira and it has the Ataturk Monument in Izmir.",
+            "Istanbul is the largest city in Turkey but the Ataturk monument is located in Izmir. The Turkish currency is known as the Turkish lira."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id38",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "leader",
+                    "Ahmet Davutoğlu"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "material",
+                    "Bronze"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "Turkey, where the leader is Ahmet Davutoglu, is the location of the bronze Ataturk monument in Izmir.",
+            "The bronze Atatürk Monument (İzmir) is found in Turkey, where the leader is Ahmet Davutoglu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id39",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "leaderName",
+                    "Ahmet Davutoğlu"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "material",
+                    "Bronze"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The bronze Atatürk monument is in Turkey, where the leader is Ahmet Davutoğlu.",
+            "The Atatürk Monument made of bronze is located in İzmir, Turkey, whose leader is Ahmet Davutoğlu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id40",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "leaderName",
+                    "Ahmet Davutoğlu"
+                ],
+                [
+                    "Turkey",
+                    "currency",
+                    "Turkish lira"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The Ataturk Monument (Izmir) is located in Turkey, where the leader is Ahmet Davutoglu and the currency is the Turkish Lira.",
+            "The Atatürk Monument is located in İzmir, Turkey, where the leader is Ahmet Davutoğlu and the currency is the lira."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id41",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "leaderTitle",
+                    "President of Turkey"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "1932-07-27"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "Turkey, where the official title of the leader is President, is the location of the Ataturk Monument. The monument was inaugurated on 27 July 1932.",
+            "The Atatürk Monument (İzmir) was inaugurated on July 27th, 1932 and can be found in Turkey, where the title of the leader is President of Turkey.",
+            "The Atatürk Monument, located in Izmir, Turkey (led by the President of Turkey), was inaugurated on the 27th of July, 1932."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id42",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Turkey",
+                    "leaderTitle",
+                    "President of Turkey"
+                ],
+                [
+                    "Turkey",
+                    "leader",
+                    "Ahmet Davutoğlu"
+                ],
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmet Davutoglu is the President of Turkey. The Ataturk Monument (Izmir) is located in Turkey.",
+            "Ahmet Davutoglu is the leader of Turkey, officially known as the President of Turkey. This country is where the Ataturk monument (Izmir) can be located.",
+            "The Atatürk Monument is in Turkey, where Ahmet Davutoglu is the leader and holds the title of President of Turkey."
+        ]
+    }
+]

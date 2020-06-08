@@ -1,0 +1,1586 @@
+[
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "almaMater",
+                    "UT Austin, B.S. 1955"
+                ]
+            ]
+        },
+        "text": [
+            "The alma mater of Alan Bean is UT Austin. He graduated from it with a B.S. in 1955.",
+            "Alan Bean graduated in 1955 from UT Austin with a B.S.",
+            "Alan Bean graduated from UT Austin in 1955 with a B.S.",
+            "Alan Bean graduated from UT Austin in 1955 with a Bachelor of Science degree.",
+            "Alan Bean received a Bachelor of Science degree at the University of Texas at Austin in 1955."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "birthDate",
+                    "1932-03-15"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean was born on the 15th of March 1932.",
+            "Alan Bean was born on Mar 15, 1932.",
+            "Alan Bean was born on March 15, 1932."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "birthName",
+                    "Alan LaVern Bean"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean's full name was \"Alan LaVern Bean\".",
+            "Alan Bean was born Alan LaVern Bean.",
+            "Alan Bean's birth name was Alan LaVern Bean.",
+            "Alan Bean's birth name is Alan LaVern Bean."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "birthPlace",
+                    "Wheeler, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean was born in Wheeler, Texas.",
+            "Alan Bean's birthplace is Wheeler, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "dateOfRetirement",
+                    "June 1981"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean retired on June 1981.",
+            "Alan Bean retired in June of 1981.",
+            "Alan Bean retired in June 1981.",
+            "Alan Bean's retirement was in June 1981.",
+            "Alan Bean retired in June, 1981."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "occupation",
+                    "Test pilo"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean was a test pilot.",
+            "Alan Bean served as a test pilot.",
+            "Alan Bean performed as a test pilot.",
+            "Alan Bean performs as a test pilot."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "status",
+                    "Retired"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean is retired.",
+            "Alan Bean has retired.",
+            "Alan Bean is now retired."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "timeInSpace",
+                    "100305.0(minutes)"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean spent 100305.0 minutes in Space.",
+            "Alan Bean spent 100305 minutes in space.",
+            "100305.0 minutes is the time Alan Bean spent in Space.",
+            "Alan Bean was in space 100305 minutes.",
+            "Alan Bean spent over 69 days in space, 100305 minutes to be exact!",
+            "Alan Bean's time in space was 100305.0 minutes.",
+            "Alan Bean spend a total of 100305 minutes in space."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "was a crew member of",
+                    "Apollo 12"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean was a part of the crew of Apollo 12.",
+            "Alan Bean served as a crew member of Apollo 12.",
+            "Alan Bean was a member of the Apollo 12 crew.",
+            "Alan Bean was a crew member aboard Apollo 12.",
+            "Alan Bean was on the crew of Apollo 12.",
+            "Alan Bean was a crew member of Apollo 12.",
+            "Alan Bean was a crew member on the Apollo 12 flight mission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Bean",
+                    "was selected by NASA",
+                    "1963"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Bean was selected by Nasa in 1963.",
+            "Alan Bean was chosen by NASA in 1963.",
+            "Alan Bean was hired by NASA in 1963."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "almaMater",
+                    "NWC, M.A. 1957"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard graduated from NWC with an M.A. in 1957.",
+            "Alan Shepard graduated from NWC in 1957 with an M.A.",
+            "Alan Shepard went to school at NWC and graduated with an MA in 1957.",
+            "Alan Shepard graduated from NWC with the master of arts degree in 1957."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "birthDate",
+                    "1923-11-18"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard was born November 18th, 1923.",
+            "Alan Shepard was born on November 18, 1923.",
+            "Alan Shepard was born on Nov 18, 1923.",
+            "Alan Shepard was born on 1923-11-18.",
+            "Alan Shepard was born on the 18th of November 1923."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "birthPlace",
+                    "New Hampsh"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard's birth place was New Hampshire.",
+            "Alan Shepard was born in New Hampshire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "dateOfRetirement",
+                    "1974-08-01"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard retired on 1974-08-01.",
+            "Alan Shepard retired August 1st, 1974.",
+            "Alan Shepard retired 1st of August 1974.",
+            "Alan Shepard retired on August 1, 1974.",
+            "Alan Shepard retired on Aug 1, 1974.",
+            "Alan Shepard retired 1974-08-01.",
+            "Alan Shepard retired on 1st August 1974."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "deathDate",
+                    "1998-07-21"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard died on the 21st of July, 1998.",
+            "Alan Shepard died July 21st, 1998.",
+            "Alan Shepard died on July 21, 1998.",
+            "Alan Shepard died on 1998-07-21.",
+            "Alan Shepard died 1998-07-21."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The nationality of Alan Shepard is United States.",
+            "Alan Shepard's nationality is the United States.",
+            "Alan Shepard is an American.",
+            "Alan Shepard is from the United States.",
+            "Alan Shepard was from the United States.",
+            "Alan Shepard was American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "occupation",
+                    "Test pilo"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard's occupation was a test pilot.",
+            "Alan Shepard served as a Test pilot.",
+            "Alan Shepard was a test pilot."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "served as Chief of the Astronaut Office in",
+                    "1963"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard was the Chief of the Astronaut Office in 1963.",
+            "Alan Shepard served as Chief of the Astronaut Office in 1963."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "status",
+                    "Deceased"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard is dead.",
+            "Alan Shepard is deceased."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "timeInSpace",
+                    "13017.0(minutes)"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard's time in space amounted to 13017.0 minutes.",
+            "Alan Shepard spent 13017 minutes in space.",
+            "13017,0 minutes is the time Alan Shepard spent in space.",
+            "Alan Shepard was 13017 minutes in space.",
+            "Alan Shepard spent just over 9 days in space.",
+            "Alan Shepard's time in space is 13017 minutes.",
+            "Alan Shepard spent 13017.0 minutes in space."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "title",
+                    "Chief of the Astronaut Offic"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard was the Chief of the Astronaut Office.",
+            "Alan Shepard served as the Chief of the Astronaut Office.",
+            "Alan Shepard performed as the Chief of the Astronaut Office."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "was a crew member of",
+                    "Apollo 14"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard was a crew member of Apollo 14.",
+            "Alan Shepard served as a crew member of Apollo 14.",
+            "Alan Shepard was a member of the Apollo 14 crew.",
+            "Alan Shepard was a crew member aboard Apollo 14.",
+            "Alan Shepard was on the crew of Apollo 14.",
+            "Alan Shepard was a member of the crew of Apollo 14."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "was awarded",
+                    "American Defense Service ribbon.svg"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Shepard was awarded the american defence service ribbon.",
+            "Alan Shepard was awarded American Defense Service ribbon.",
+            "Alan Shepard was awarded the American Defense Service Ribbon.",
+            "Alan Shepard won the American Defense Service ribbon.",
+            "Alan Shepard was awarded with the American Defense Service ribbon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Shepard",
+                    "was selected by NASA",
+                    "1959"
+                ]
+            ]
+        },
+        "text": [
+            "NASA selected Alan Shepard in 1959.",
+            "In 1959, Alan Shepard was selected by NASA.",
+            "Alan Shepard was selected by NASA in 1959.",
+            "Alan Shepard was chosen by NASA in 1959.",
+            "Alan Shepard was hired by NASA in 1959."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Apollo 11",
+                    "operator",
+                    "NASA"
+                ]
+            ]
+        },
+        "text": [
+            "Apollo 11 was operated by NASA.",
+            "The Apollo 11 program was organized by NASA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Apollo 12",
+                    "backup pilot",
+                    "Alfred Worden"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Worden was a backup pilot of Apollo 12.",
+            "Apollo 12's backup pilot was Alfred Worden.",
+            "Alfred Worden was the backup pilot of Apollo 12."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Apollo 12",
+                    "commander",
+                    "David Sco"
+                ]
+            ]
+        },
+        "text": [
+            "Apollo 12 was commanded by David Scott.",
+            "David Scott was the commander of Apollo 12."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Apollo 12",
+                    "operator",
+                    "NASA"
+                ]
+            ]
+        },
+        "text": [
+            "The operator of Apollo 12 was NASA.",
+            "The Apollo 12 operator is NASA.",
+            "NASA operated Apollo 12.",
+            "The Apollo 12 mission was operated by NASA.",
+            "Apollo 12 is operated by NASA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Apollo 8",
+                    "commander",
+                    "Frank Borman"
+                ]
+            ]
+        },
+        "text": [
+            "Frank Borman was an Apollo 8 Commander.",
+            "Frank Borman was the Apollo 8 commander.",
+            "The Apollo 8 commander was Frank Borman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Apollo 8",
+                    "crewMembers",
+                    "Frank Borman"
+                ]
+            ]
+        },
+        "text": [
+            "Frank Borman was a member of the crew on Apollo 8.",
+            "Frank Borman was a crew member of Apollo 8.",
+            "Apollo 8 crew members included Frank Borman.",
+            "Frank Borman was a crewman aboard Apollo 8.",
+            "Frank Borman was a crew member on Apollo 8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "British Hong Kong",
+                    "representative",
+                    "Chris Patten"
+                ]
+            ]
+        },
+        "text": [
+            "Chris Patten served as a representative of British Hong Kong.",
+            "Chris Patten represented British Hong Kong.",
+            "Chris Patten is a representative of British Hong Kong.",
+            "The British Hong Kong representative is Chris Patten."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "alternativeNames",
+                    "Edwin E. Aldrin, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Edwin E. Aldrin, Jr. was commonly known as Buzz Aldrin.",
+            "Buzz Aldrin's real name was Edwin E. Aldrin, Jr.",
+            "Buzz Aldrin is also called Edwin E. Aldrin Jr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "awards",
+                    "20"
+                ]
+            ]
+        },
+        "text": [
+            "The number of Buzz Aldrin's awards are 20.",
+            "Buzz Aldrin won 20 awards.",
+            "Buzz Aldrin received 20 awards.",
+            "Buzz Aldrin has won 20 awards.",
+            "Buzz Aldrin had 20 awards."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "birthDate",
+                    "1930-01-20"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin's birth date was 1930 01 20.",
+            "Buzz Aldrin was born January 20, 1930.",
+            "Buzz Aldrin was born on 1930-01-20.",
+            "Buzz Aldrin's birth date is January 20, 1930.",
+            "Buzz Aldrin was born on January 20th, 1930.",
+            "Buzz Aldrin was born on the 20th of January 1930.",
+            "Buzz Aldrin was born on January 20,1930."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "birthName",
+                    "Edwin Eugene Aldrin Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin's birth name is Edwin Eugene Aldrin Jr.",
+            "Buzz Aldrin was born as Edwin Eugene Aldrin Jr.",
+            "Buzz Aldrin was born Edwin Eugene Aldrin Jr.",
+            "Buzz Aldrin's birth name was Edwin Eugene Aldrin Jr.",
+            "Buzz Aldrin was born with the name Edwin Eugene Aldrin Jr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "birthPlace",
+                    "Glen Ridge, New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin was born in Glen Ridge, New Jersey.",
+            "Buzz Aldrin was born in Glen Ridge New Jersey.",
+            "Buzz Aldrin's birth place was Glen Ridge, New Jersey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "dateOfRetirement",
+                    "1971-07-01"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin retired on the 7th of January 1971.",
+            "Buzz Aldrin date of retirement was 1971/07/01.",
+            "Buzz Aldrin's retirement date is \"1971-07-01\".",
+            "Buzz Aldrin retired on July 1st, 1971.",
+            "Buzz Aldrin retired on July 1, 1971.",
+            "Buzz Aldrin retired on the 1st of July 1971.",
+            "Buzz Aldrin retired on 1971-07-01.",
+            "Buzz Aldrin retired on Jul 1, 1971."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "occupation",
+                    "Fighter pilo"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin was a fighter pilot.",
+            "Buzz Aldrin served as a Fighter pilot.",
+            "Buzz Aldrin's occupation was a fighter pilot.",
+            "Buzz Aldrin performed as a fighter pilot."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "status",
+                    "Retired"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin is retired.",
+            "Buzz Aldrin is now retired.",
+            "Buzz Aldrin has retired."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "timeInSpace",
+                    "52.0(minutes)"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin was in space for 52 minutes.",
+            "Buzz Aldrin spent a total of 52.0 minutes in space.",
+            "Buzz Aldrin spent 52.0 minutes in Space.",
+            "Buzz Aldrin spent 52 minutes in space.",
+            "Buzz Aldrin walked in space 52.0 minutes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buzz Aldrin",
+                    "was awarded",
+                    "Legion of Merit ribbon.svg"
+                ]
+            ]
+        },
+        "text": [
+            "Buzz Aldrin was awarded the Legion of Merit ribbon.",
+            "Buzz Aldrin was awarded with Legion of Merit ribbon.",
+            "Buzz Aldrin won the Legion of Merit ribbon.",
+            "Buzz Aldrin was awarded the \"Legion of Merit\" ribbon.",
+            "Buzz Aldrin was awarded the 'Legion of Merit' ribbon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California",
+                    "fossil",
+                    "Smilodon"
+                ]
+            ]
+        },
+        "text": [
+            "Smilodon is a fossil from California.",
+            "California have fossils of the Smilodon.",
+            "A Smilodon is a fossil from California.",
+            "The Smilodon fossil was found in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California",
+                    "senators",
+                    "Dianne Feinstein"
+                ]
+            ]
+        },
+        "text": [
+            "The Senator representing California was Dianne Feinstein.",
+            "One of California's senators is Dianne Feinstein.",
+            "Dianne Feinstein is a senator in California.",
+            "Dianne Feinstein is a senator in the State of California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dallas",
+                    "part",
+                    "Collin County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Dallas is in Collin County, Texas.",
+            "Dallas is located in the Collin County in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dallas",
+                    "partsType",
+                    "List of counties in Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Dallas is a county in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Distinguished Service Medal (United States Navy)",
+                    "higher",
+                    "Department of Commerce Gold Meda"
+                ]
+            ]
+        },
+        "text": [
+            "The Distinguished service medal from the Navy is higher than the department of commerce gold medal.",
+            "The Distinguished Service Medal of the United States Navy is higher than the Department of Commerce Gold Medal.",
+            "Distinguished Service Medal from United States Navy ranks higher than Department of Commerce Gold Medal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Elliot See",
+                    "almaMater",
+                    "University of Texas at Austin"
+                ]
+            ]
+        },
+        "text": [
+            "Elliot See was a student at University of Texas at Austin.",
+            "Elliot See attended the University of Texas at Austin.",
+            "Elliot See graduated from the University of Texas at Austin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Elliot See",
+                    "birthDate",
+                    "1927-07-23"
+                ]
+            ]
+        },
+        "text": [
+            "Elliot See was born on the 23rd of July 1927.",
+            "Elliot See was born on July 23, 1927.",
+            "Elliot See was born on July 23rd, 1927.",
+            "Elliot See was born on 23rd July 1927.",
+            "Elliot See was born on 07/23/1927."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Elliot See",
+                    "birthPlace",
+                    "Dallas"
+                ]
+            ]
+        },
+        "text": [
+            "Elliot See was born in Dallas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Elliot See",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The nationality of Elliot See is United States.",
+            "Elliot See had a nationality that was of the United States.",
+            "Elliot See is from the United States.",
+            "Elliot See is a United States national."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Elliot See",
+                    "was selected by NASA",
+                    "1962"
+                ]
+            ]
+        },
+        "text": [
+            "NASA selected Elliot See in 1962.",
+            "Elliot See joined NASA in 1962.",
+            "Elliot See was selected by NASA in 1962.",
+            "Elliot See started working for NASA in 1962.",
+            "Elliot See was chosen by NASA in 1962."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Glen Ridge, New Jersey",
+                    "isPartOf",
+                    "Essex County, New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Glen Ridge is in the Essex County in New Jersey.",
+            "Glen Ridge is located in the Essex County in New Jersey.",
+            "Glen Ridge, New Jersey is situated in the Essex County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Hampshire",
+                    "bird",
+                    "Purple finch"
+                ]
+            ]
+        },
+        "text": [
+            "The purple finch is a native bird to New Hampshire.",
+            "The Purple finch is a bird found in New Hampshire.",
+            "The Purple Finch is a New Hampshire bird.",
+            "The Purple Finch is a bird living in New Hampshire.",
+            "The New Hampshire state bird is the purple finch."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "isPartOf",
+                    "Kingdom of Franc"
+                ]
+            ]
+        },
+        "text": [
+            "St. Louis was situated in the Kingdom of France.",
+            "St. Louis was part of the Kingdom of France.",
+            "St. Louis is part of the Kingdom of France.",
+            "St. Louis was a part of the kingdom of France."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "leaderName",
+                    "Francis G. Slay"
+                ]
+            ]
+        },
+        "text": [
+            "The name of St Louis' leader is Francis G. Slay.",
+            "Francis G Slay is the Mayor of St Louis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leader",
+                    "Joe Biden"
+                ]
+            ]
+        },
+        "text": [
+            "Joe Biden is the United States leader.",
+            "Joe Biden is a United States leader.",
+            "Joe Biden was a representative of the United States.",
+            "Joe Biden is a leader of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Joe Biden"
+                ]
+            ]
+        },
+        "text": [
+            "The United States leader was called Joe Biden.",
+            "Joe Biden served as United State's vice president.",
+            "Joe Biden is a United States leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "University of Texas at Austin",
+                    "affiliation",
+                    "University of Texas Sys"
+                ]
+            ]
+        },
+        "text": [
+            "University of Texas at Austin is affiliated with University of Texas System.",
+            "The University of Texas, Austin, is affiliated with the University of Texas System."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "University of Texas at Austin",
+                    "compete in",
+                    "Big 12 Conferenc"
+                ]
+            ]
+        },
+        "text": [
+            "The University of Texas at Austin is competing in the Big 12 Conference.",
+            "The University of Texas, Austin, will compete in the Big 12 Conference.",
+            "The University of Texas at Austin competed in the Big 12 Conference."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "University of Texas at Austin",
+                    "president",
+                    "Gregory L. Fenves"
+                ]
+            ]
+        },
+        "text": [
+            "Gregory L. Fenves is the President of University of Texas at Austin.",
+            "Gregory L. Fenves is the appointed president of the University of Texas at Austin.",
+            "Gregory L. Fenves was appointed as the president of the University of Texas at Austin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "almaMater",
+                    "AFIT, M.S. 1962"
+                ]
+            ]
+        },
+        "text": [
+            "In 1962, William Anders received an M.S. from his alma mater AFIT.",
+            "William Anders graduated, with an M.S., from AFIT in 1962.",
+            "William Anders graduated from AFIT in 1962 with an M.S.",
+            "William Anders graduated from AFIT, M.S. in 1962."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "birthDate",
+                    "1933-10-17"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders was born on October 17th, 1933.",
+            "William Anders was born October 17th 1933.",
+            "William Anders was born on October 17, 1933.",
+            "William Anders was born 1933-10-17.",
+            "William Anders was born on the 17th of October 1933."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "birthPlace",
+                    "British Hong Kong"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders was born in British Hong Kong."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "dateOfRetirement",
+                    "1969-09-01"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders retired on September 1st, 1969.",
+            "William Anders retired Sept 1st 1969.",
+            "William Anders retired on September 1, 1969.",
+            "William Anders retired in 1969-09-01.",
+            "William Anders retired 1969-09-01.",
+            "William Anders retired on the 1st of September 1969."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders has a nationality that is of the United States.",
+            "William Anders is an American.",
+            "The nationality of William Anders is United States.",
+            "William Anders is from the United States.",
+            "William Anders was from the United STates.",
+            "William Anders is a US national."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "occupation",
+                    "Fighter pilo"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders was a Fighter pilot.",
+            "William Anders served as a Fighter pilot.",
+            "William Anders is a fighter pilot."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "served as Chief of the Astronaut Office in",
+                    "1976"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders served as Chief of the Astronaut Office in 1976."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "status",
+                    "Retired"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders is retired.",
+            "William Anders is now retired.",
+            "William Anders has retired."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "timeInSpace",
+                    "8820.0(minutes)"
+                ]
+            ]
+        },
+        "text": [
+            "William anders spent 8820 minutes in space.",
+            "William Anders spent 8820.0 minutes in space.",
+            "William Anders' time in space has been 8820.0 minutes.",
+            "William Anders walked in space 8820.0 minutes.",
+            "William Anders' time in space is 8820.0 minutes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "title",
+                    "United States Ambassador to Norway"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders serves as Ambassador to Norway in the United States.",
+            "William Anders official title is the United States Ambassador to Norway.",
+            "United States's Ambassador to Norway is William Anders.",
+            "William Anders is the US Ambassador to Norway.",
+            "William Anders' title is the US Ambassador to Norway.",
+            "William Anders' title is the United States Ambassador to Norway.",
+            "William Anders is the United States Ambassador to Norway."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "was a crew member of",
+                    "Apollo 8"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders served as a crew member on Apollo 8.",
+            "William Anders served as a crew member of Apollo 8.",
+            "William Anders crewed Apollo 8.",
+            "William Anders was a crew member on Apollo 8.",
+            "William Anders was a member of the Apollo 8 crew.",
+            "William Anders was a member of Apollo 8's crew."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Astronaut",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William Anders",
+                    "was selected by NASA",
+                    "1963"
+                ]
+            ]
+        },
+        "text": [
+            "William Anders was selected by NASA in 1963.",
+            "William Anders joined NASA in 1963.",
+            "William Anders was chosen by NASA in 1963."
+        ]
+    }
+]

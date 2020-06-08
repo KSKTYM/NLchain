@@ -1,0 +1,862 @@
+[
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "V8 engine"
+                ],
+                [
+                    "1955 Dodge",
+                    "alternativeName",
+                    "Dodge Coronet"
+                ],
+                [
+                    "1955 Dodge",
+                    "bodyStyle",
+                    "Hardtop"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge, also called the Dodge Coronet, has a hardtop and a V8 engine.",
+            "The 1955 Dodge, or Dodge Coronet, is a hardtop with a V8 engine.",
+            "The 1955 Dodge, also known as the Dodge Coronet, has a hardtop and a V8 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "V8 engine"
+                ],
+                [
+                    "1955 Dodge",
+                    "transmission",
+                    "3-speed automatic"
+                ],
+                [
+                    "1955 Dodge",
+                    "alternativeName",
+                    "Dodge Coronet"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge, with an alternative name of Dodge coronet, has a V8 engine and 3-speed automatic transmission.",
+            "The 1955 Dodge, also named the Dodge Coronet, has a 3-speed automatic transmission and a V8 engine.",
+            "The 1955 Dodge, which has the alternative name of Dodge Coronet, has a V8 engine and uses a 3-speed automatic transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipClass",
+                    "Cruise ship"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "length",
+                    "125800.0 (millimetres)"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "shipOrdered",
+                    "2004-01-22"
+                ]
+            ]
+        },
+        "text": [
+            "Ordered on January 22nd, 2004, the A-Rosa Luna, is classed as a Cruise ship and has a length of 125.8 metres.",
+            "A-Rosa Luna, a cruise ship 125800.0 millimetres in length, was ordered on January 22, 2004."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id4",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AIDA Cruises",
+                    "location",
+                    "Germany"
+                ],
+                [
+                    "AIDAstella",
+                    "operator",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAstella",
+                    "owner",
+                    "Costa Crociere"
+                ]
+            ]
+        },
+        "text": [
+            "The operator of AIDAstella is German-based AIDA Cruises. The AIDAstella is owned by Costa Crociere.",
+            "The AIDAstella is owned by Costa Crociere and its operator is German-based AIDA Cruises.",
+            "AIDA Cruises are based in Germany and owned by Costa Crociere. They operate the AIDAstella."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "cylinderCount",
+                    "12"
+                ],
+                [
+                    "ALCO RS-3",
+                    "builder",
+                    "Montreal Locomotive Works"
+                ],
+                [
+                    "ALCO RS-3",
+                    "length",
+                    "17068.8 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 was built by the Montreal Locomotive Works, has 12 cylinders and is 17068.8 mms long.",
+            "The ALCO RS-3 was built by the Montreal Locomotive Works, has a cylinder count of 12 and is 17068.8 mms in length.",
+            "Built by the Montreal Locomotive Works, the ALCO RS-3 has 12 cylinders and is 17068.8 (millimetres) in length."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id6",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Originating in the United States and by Americans, some of African decent is the ALV X-1.",
+            "ALV X-1 comes from the US where Americans live and African Americans are an ethnic group.",
+            "The country of origin of the ALV X-1 is the United States, home to Americans and where African Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Kenosha, Wisconsin"
+                ],
+                [
+                    "AMC Matador",
+                    "modelYears",
+                    "1974"
+                ],
+                [
+                    "AMC Matador",
+                    "relatedMeanOfTransportation",
+                    "AMC Ambassador"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador was assembled in Kenosha, Wisconsin, is available in a 1974 model, and is a relative means of transportation to the AMC Ambassador."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Port Melbourne, Victoria"
+                ],
+                [
+                    "AMC Matador",
+                    "modelYears",
+                    "1971"
+                ],
+                [
+                    "AMC Matador",
+                    "relatedMeanOfTransportation",
+                    "AMC Ambassador"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador, including the 1971 model, and the Ambassador are related. The assembly line is in Port Melbourne, Victoria.",
+            "The AMC Matador is assembled in Port Melbourne, Victoria. One of the model years include 1971. It is elated to the AMC Ambassador.",
+            "The AMC Matador, related to the AMC Ambassador, is produced in Port Melbourne, Victoria, including in the year 1971."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id9",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "designer",
+                    "Gruppo Bertone"
+                ],
+                [
+                    "Gruppo Bertone",
+                    "foundationPlace",
+                    "Turin"
+                ],
+                [
+                    "Gruppo Bertone",
+                    "locationCountry",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Gruppo Bertone, of Turin Italy, designed the Abarth 1000 GT Coupe.",
+            "The Abarth 1000 GT Coupe was designed by Gruppo Bertone (Italy). The Gruppo Bertone originates from Turin.",
+            "Gruppo Bertone, founded in Turin, Italy, was the designer of the Abarth 1000 GT Coupé."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id10",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ],
+                [
+                    "Finland",
+                    "demonym",
+                    "Finns"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Arctech Helsinki Shipyard"
+                ]
+            ]
+        },
+        "text": [
+            "Finland is home to the Finns and the icebreaker Aleksey Chirikov, built at the Arctech Helsinki Shipyard.",
+            "The icebreaker ship Aleksey Chirikov was built in Finland where the natives are known as Finns by Arctech Helsinki Shipyard."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Rome"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Lancia Thema"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164, which was assembled in Italy, and the Lancia Thema are related types of transportation. The capital of Italy is Rome.",
+            "The Lancia Thema and the Alfa Romeo 164 are related. The latter is built in Italy where the capital is Rome.",
+            "The Alfa Romeo 164 was made in Italy and is related to the Lancia Thema vehicle. Rome is the capital of Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Fiat Croma"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Arese"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Lancia Thema"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 was assembled in Arese and is a similar means of transport to the Fiat Croma and also related to the Lancia Thema.",
+            "The Arese assembled, Alfa Romeo 164 and the Fiat Croma as well as the Lancia Thema, are related types of transportation.",
+            "The Arese assembled Alfa Romeo 164, the Fiat Croma and the Lancia Thema are all related."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alhambra",
+                    "shipBeam",
+                    "8.3 m"
+                ],
+                [
+                    "Alhambra",
+                    "length",
+                    "63800.0 (millimetres)"
+                ],
+                [
+                    "Alhambra",
+                    "status",
+                    "Wrecked"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra, which was wrecked, had an 8.3 m ship beam and was 63800.0 mms in length.",
+            "Before it was wrecked the Alhambra had a length of 63800.0 millimetres and a beam of 8.3m.",
+            "The Alhambra had wrecked, it had a ship beam of 8.3m and was 63800.0 millimetres long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "manufacturer",
+                    "Alvis Car and Engineering Company"
+                ],
+                [
+                    "Alvis Car and Engineering Company",
+                    "foundationPlace",
+                    "Coventry"
+                ],
+                [
+                    "Alvis Car and Engineering Company",
+                    "successor",
+                    "Rover Company"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Car and Engineering Company, founded in Coventry and succeeded by the Rover Company, manufactured the Alvis Speed 25.",
+            "The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company, which was succeeded by the Rover Co.",
+            "The Alvis Speed 25 was made by Coventry based Alvis Car and Engineering Company which was succeeded by The Rover Co."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id15",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "American Motors",
+                    "successor",
+                    "Eagle (automobile)"
+                ],
+                [
+                    "AMC Matador",
+                    "manufacturer",
+                    "American Motors"
+                ],
+                [
+                    "American Motors",
+                    "keyPerson",
+                    "Roy D. Chapin, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Eagle is the successor of American Motors who manufactured the AMC Matador and had Roy D Chapin Jr among their key personnel.",
+            "AMC Matador is manufactured by American Motors, a key person of which, is Roy D. Chapin Jr. American Motors successor is Eagle.",
+            "Eagle succeeded American Motors who made the AMC Matador in conjunction with Roy D Chapin Jr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "manufacturer",
+                    "Yuzhnoye Design Office"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0"
+                ],
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2013-04-21"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket, is manufactured by the Yuzhnoye Design Office, its maiden flight was on April 21st, 2013, launched from the Mid-Atlantic Regional Spaceport Launch Pad 0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Argentina",
+                    "capital",
+                    "Buenos Aires"
+                ],
+                [
+                    "Argentina",
+                    "leaderName",
+                    "Mauricio Macri"
+                ],
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "country",
+                    "Argentina"
+                ]
+            ]
+        },
+        "text": [
+            "The ARA Veinticinco De mayo (V-2) comes from the country of Argentina which is led by Mauricio Macri and has the capital city of Buenos Aires.",
+            "The ARA Veinticinco de Mayo (V-2) comes from Argentina. Argentina's capital is Buenos Aires and its leader is Mauricio Macri.",
+            "ARA Veinticinco de Mayo (V-2) comes from Argentina, where the capital is Buenos Aires and Mauricio Macri is the leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "Newport Pagnell, Buckinghamshire, England, United Kingdom"
+                ],
+                [
+                    "Aston Martin V8",
+                    "engine",
+                    "5.3 (litres)"
+                ],
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin RHAM/1"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and has a 5.3 litre engine.",
+            "The Aston Martin V8, (related to the Aston Martin RHAM/1), assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom, has a 5.3 liter engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin DBS"
+                ],
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "Newport Pagnell, Buckinghamshire, England, United Kingdom"
+                ],
+                [
+                    "Aston Martin V8",
+                    "engine",
+                    "5.3 (litres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 is similar to the DBS and has a 5.3 litre engine. It is made in Newport Pagnell, Buckinghamshire, England, UK.",
+            "The Aston Martin V8 assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8(has a engine volume of 5.3 litres) and the Aston Martin DBS are related means of transport.",
+            "The Aston Martin V8 has a 5.3 litre engine and its assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8 and the Aston Martin DBS are related means of transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id20",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin RHAM/1"
+                ],
+                [
+                    "Aston Martin V8",
+                    "successor",
+                    "Aston Martin Virage"
+                ],
+                [
+                    "Aston Martin Virage",
+                    "manufacturer",
+                    "Aston Martin"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin Virage is made by the company Aston Martin, and it was preceded by the Aston Martin V8, which is a related means of transportation to the Aston Martin RHAM/1.",
+            "The Aston Martin Virage was manufactured by Aston Martin. It was the successor to the Aston Martin V8 which was related to the Aston Martin RHAM/1."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id21",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Atlas II",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Atlas II comes from the US where Native Americans are an ethnic group and the leader is the President.",
+            "The Atlas II originated from the United States, where Native Americans are an ethnic group. The leader of the United States has the title President of the United States.",
+            "The Atlas II originated from the U.S. where the President is the leader and Native Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Audi A1",
+                    "engine",
+                    "1.2 (litres)"
+                ],
+                [
+                    "Audi A1",
+                    "assembly",
+                    "Audi Brussels"
+                ],
+                [
+                    "Audi A1",
+                    "bodyStyle",
+                    "Hatchback"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 is a hatchback assembled by Audi Brussels and has a 1.2 litre engine.",
+            "The Audi A1, a hatchback, has a 1.2 liter engine and is assembled by Audi Brussels.",
+            "The Audi A1 is built at Audi Brussels. It is a hatchback with a 1.2 litre engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Audi A1",
+                    "manufacturer",
+                    "Audi"
+                ],
+                [
+                    "Audi A1",
+                    "relatedMeanOfTransportation",
+                    "SEAT Ibiza"
+                ],
+                [
+                    "Audi A1",
+                    "relatedMeanOfTransportation",
+                    "Volkswagen Polo"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 is manufactured by Audi. It is a similar means of transport as the Seat Ibiza and Volkswagen Polo since they are all cars.",
+            "Audi's A1 is similar to the Seat Ibiza and the VW Polo.",
+            "Audi is the manufacturer of the Audi A1. It, the Seat Ibiza and VW Polo are all cars and therefore related modes of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id24",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "foundationPlace",
+                    "California"
+                ],
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "Peoria, Illinois"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "AIDAluna is powered by Caterpillar Inc. which was founded in California and is located in Peoria, Illinois.",
+            "Caterpillar Inc., founded in California and located in Peoria, Illinois, powers the AIDAluna.",
+            "The AIDAluna is powered by a Caterpillar Inc. engine. Caterpillar Inc was founded in California and is now located in Peoria, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id25",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "keyPerson",
+                    "Douglas R. Oberhelman"
+                ],
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "United States"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "AIDAluna is powered by U.S. based Caterpillar Inc. Douglas R Oberhelman is a key person at Caterpillar Inc.",
+            "AIDAluna is powered by Caterpillar Inc, located in the United States. The key person of Caterpillar Inc. is Douglas R. Oberhelman.",
+            "The power type of the AIDAluna is the Caterpillar Inc. engine where Douglas R Oberhelman is a key person located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id26",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Guiana Space Centre",
+                    "headquarter",
+                    "Kourou, French Guiana"
+                ],
+                [
+                    "ELA-3",
+                    "site",
+                    "Guiana Space Centre"
+                ],
+                [
+                    "Ariane 5",
+                    "launchSite",
+                    "ELA-3"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 was launched at ELA-3 which is located at the Guiana Space Centre whose headquarters are at Kourou in French Guiana.",
+            "The launch site of the Ariane 5 was ELA-3 launchpad was is at Guiana Space Centre in Kourou in French Guiana.",
+            "The Ariane 5 was launched at ELA-3 at the Guiana Space Centre which has its headquarters at Kourou in French Guiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id27",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Guiana Space Centre",
+                    "location",
+                    "French Guiana"
+                ],
+                [
+                    "ELA-3",
+                    "site",
+                    "Guiana Space Centre"
+                ],
+                [
+                    "Ariane 5",
+                    "launchSite",
+                    "ELA-3"
+                ]
+            ]
+        },
+        "text": [
+            "Located in French Guiana, the Guiana Space Centre is the site of the ELA-3 which was where the Ariane 5 was launched.",
+            "ELA-3, located at the Guiana Space Centre in French Guiana, launched the Ariane 5.",
+            "French Guiana is the location of the Guiana Space Centre where the site of ELA-3 is located which was the launch site of the Ariane 5."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id28",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ],
+                [
+                    "ALV X-1",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The ALV X-1 originated in the United States where the people are called Americans and include the ethnic group of White Americans.",
+            "The ALV X-1 is from the Us where Americans live and where White Americans are an ethnic group.",
+            "The country of origin of the ALV X-1 is the United States where the people are called Americans and White Americans are an ethnic group."
+        ]
+    }
+]

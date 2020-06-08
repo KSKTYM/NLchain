@@ -1,0 +1,615 @@
+[
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id1",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abilene Regional Airport",
+                    "cityServed",
+                    "Abilene, Texas"
+                ],
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is in Texas and is served by the Abilene regional airport.",
+            "Abilene, part of Texas, is served by the Abilene regional airport.",
+            "Abilene regional airport serves the city of Abilene which is in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "Alcobendas"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "runwayLength",
+                    "3500.0"
+                ]
+            ]
+        },
+        "text": [
+            "Adolfo Suárez Madrid–Barajas Airport is in Alcobendas and has a runway length of 3500.",
+            "Located in Alcobendas, Adolfo Suarez Madrid-Barajas Airport has a runway with the length of 3500.0 metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "runwayLength",
+                    "3500.0"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "San Sebastián de los Reyes"
+                ]
+            ]
+        },
+        "text": [
+            "The Adolfo Suárez Madrid–Barajas Airport located at San Sebastian de los Reyes has a runway length of 3500.",
+            "The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes and has a runway length of 3500.0 metres.",
+            "Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes and has a runway length of 3500."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Agra Airport",
+                    "location",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thakur"
+                ]
+            ]
+        },
+        "text": [
+            "Agra Airport is in India where one of its leaders is T.S. Thakur.",
+            "Agra Airport is in India, where the leader is TS Thakur.",
+            "Agra Airport is located in India, where the leader is T S Thakur."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "elevationAboveTheSeaLevel (in feet)",
+                    "618"
+                ],
+                [
+                    "Al Asad Airbase",
+                    "location",
+                    "Al Anbar Province, Iraq"
+                ]
+            ]
+        },
+        "text": [
+            "Al Asad Airbase is 618 ft above sea level and is located in Al Anbar Province, Iraq.",
+            "The Al Asad Airbase which is elevated 618 feet above sea level, is located in the Al Anbar Province in Iraq.",
+            "The Al Asad Airbase, which is 618 ft above sea level, is located in Al Anbar Province, Iraq."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "operatingOrganisation",
+                    "United States Air Force"
+                ],
+                [
+                    "United States Air Force",
+                    "battles",
+                    "Operation Enduring Freedom"
+                ]
+            ]
+        },
+        "text": [
+            "Al Asad Airbase is operated by the United States Air Force who fought in The Operation of Enduring Freedom battle.",
+            "Operation Enduring Freedom was a battle involving the United States Air Force who operate Al Asad airbase."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "operatingOrganisation",
+                    "United States Air Force"
+                ],
+                [
+                    "United States Air Force",
+                    "battles",
+                    "United States invasion of Panama"
+                ]
+            ]
+        },
+        "text": [
+            "The United States invasion of Panama was a battle involving the United States Air Force who operate the Al Asad Airbase.",
+            "The United States invasion of Panama was a battle involving the United States Air Force who are the operating organisation for Al Asad airbase.",
+            "The United States Air Force was involved in the invasion of Panama and is also the operating organisation for Al Asad air base."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id8",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alcobendas",
+                    "isPartOf",
+                    "Community of Madrid"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "Alcobendas"
+                ]
+            ]
+        },
+        "text": [
+            "Adolfo Suárez Madrid–Barajas Airport is located in Alcobendas which is part of the Community of Madrid.",
+            "Adolfo Suárez Madrid–Barajas Airport is in Alcobendas which is part of the community of Madrid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alderney Airport",
+                    "1st runway SurfaceType",
+                    "Poaceae"
+                ],
+                [
+                    "Alderney Airport",
+                    "runwayLength",
+                    "877.0"
+                ]
+            ]
+        },
+        "text": [
+            "Poaceae is the surface of the 1st runway at Alderney Airport which has a runway with the length of 877.0 metres.",
+            "The 1st runway length of Alderney Airport is 877.0 and the surface is poaceae."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id10",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Allama Iqbal International Airport",
+                    "operatingOrganisation",
+                    "Pakistan Civil Aviation Authority"
+                ],
+                [
+                    "Pakistan Civil Aviation Authority",
+                    "headquarter",
+                    "Jinnah International Airport"
+                ]
+            ]
+        },
+        "text": [
+            "Allama Iqbal International Airport is operated by Pakistan Civil Aviation Authority, the HQ of which is at Jinnah International Airport.",
+            "The Pakistan Civil Aviation Authority, which has its HQ at Jinnah International Airport, governs Allama Iqbal International Airport.",
+            "Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority, which is headquartered at Jinnah International Airport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id11",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alpena County Regional Airport",
+                    "location",
+                    "Wilson Township, Alpena County, Michigan"
+                ],
+                [
+                    "Wilson Township, Alpena County, Michigan",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The location of Alpena County Regional Airport is Wilson Township, Alpena County, Michigan, United States.",
+            "Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan, United States.",
+            "Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan, USA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amsterdam Airport Schiphol",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "-3.3528"
+                ],
+                [
+                    "Amsterdam Airport Schiphol",
+                    "operatingOrganisation",
+                    "Schiphol Group"
+                ]
+            ]
+        },
+        "text": [
+            "The Schiphol Group are the operators of Amsterdam Airport Schiphol, which is -3.3528 above sea level.",
+            "Schiphol Group operates the Amsterdam Airport Schiphol which is -3.3528m a.s.l.",
+            "Amsterdam airport Schiphol is operated by the Schiphol group and is -3.3528 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "4th runway SurfaceType",
+                    "Asphalt"
+                ],
+                [
+                    "Andrews County Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "973.0"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County Airport is 973 metres above sea level and The 4th runway is made of Asphalt.",
+            "The fourth runway at Andrews County Airport is made of asphalt and the airport is 973 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id14",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "location",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County Airport is located in Texas, the capital of which is Austin.",
+            "Andrews County Airport is located in Texas which has the capital of Austin.",
+            "Andrews County Airport is located in Texas, where Austin is the capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola International Airport",
+                    "cityServed",
+                    "Luanda"
+                ],
+                [
+                    "Angola International Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "159"
+                ]
+            ]
+        },
+        "text": [
+            "Angola International Airport serves the city of Luanda, it is 159m above sea level.",
+            "The Angola International Airport, 159 m above sea level serves Luanda."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id16",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Angola International Airport",
+                    "location",
+                    "Ícolo e Bengo"
+                ],
+                [
+                    "Ícolo e Bengo",
+                    "country",
+                    "Angola"
+                ]
+            ]
+        },
+        "text": [
+            "Angola International Airport is located in Ícolo e Bengo, Angola."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id17",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Antwerp International Airport",
+                    "operatingOrganisation",
+                    "Flemish department of Mobility and Public Works"
+                ],
+                [
+                    "Antwerp International Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "12.0"
+                ]
+            ]
+        },
+        "text": [
+            "Antwerp International Airport, operated by The Flemish department of Mobility and Public Works, is 12 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Appleton International Airport",
+                    "cityServed",
+                    "Appleton, Wisconsin"
+                ],
+                [
+                    "Appleton, Wisconsin",
+                    "isPartOf",
+                    "Grand Chute, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "Appleton, Grand Chute, Wisconsin is a city which is served by Appleton International Airport.",
+            "Appleton, Wisconsin is part of Grand Chute, Wisconsin and is served by Appletone International Airport.",
+            "Appleton International Airport serves the city of Appleton which is part of Grand Chute, Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "2nd runway SurfaceType",
+                    "Poaceae"
+                ],
+                [
+                    "Poaceae",
+                    "order",
+                    "Poales"
+                ]
+            ]
+        },
+        "text": [
+            "New Zealand's Ardmore Airport's second runway has the surface type Poaceae which is part of the Poales order.",
+            "The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae, which is a member of the order of Poales.",
+            "Poaceae (part of the Poales order) is the surface type of the second runway of Ardmore Airport, New Zealand."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id20",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "3rd runway SurfaceType",
+                    "Poaceae"
+                ],
+                [
+                    "Poaceae",
+                    "class",
+                    "Monocotyledon"
+                ]
+            ]
+        },
+        "text": [
+            "Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae of the class Monocotyledon.",
+            "The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae which is included in the class Monocotyledon.",
+            "Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae which is included in the class of Monocotyledon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ashgabat International Airport",
+                    "runwayLength",
+                    "3800.0"
+                ],
+                [
+                    "Ashgabat International Airport",
+                    "location",
+                    "Ashgabat"
+                ]
+            ]
+        },
+        "text": [
+            "The runway length at Ashgabat International airport, located in Ashgabat, is 3800.0.",
+            "Ashgabat International Airport is located in Ashgabat and its runway length is 3800.",
+            "The runway length of Ashgabat International Airport in Ashgabat is 3800.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Athens International Airport",
+                    "cityServed",
+                    "Athens"
+                ],
+                [
+                    "Athens International Airport",
+                    "location",
+                    "Spata"
+                ]
+            ]
+        },
+        "text": [
+            "Athens International Airport is in Spata and serves the city of Athens.",
+            "Athens International Airport, which is located in Spata, serves the city of Athens.",
+            "Athens International Airport in Spata serves the city of Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Athens International Airport",
+                    "cityServed",
+                    "Athens"
+                ],
+                [
+                    "Athens International Airport",
+                    "runwayLength",
+                    "3800.0"
+                ]
+            ]
+        },
+        "text": [
+            "Athens International Airport serves the city of Athens and has a runway length of 3800.0.",
+            "Athens International Airport serves the city of Athens and has a runway length of 3.800 metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id24",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "San Sebastián de los Reyes",
+                    "isPartOf",
+                    "Community of Madrid"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "San Sebastián de los Reyes"
+                ]
+            ]
+        },
+        "text": [
+            "San Sebastian de los Reyes is part of the Community of Madrid and is also the location of Adolfo Suárez Madrid–Barajas Airport.",
+            "Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes, part of the Community of Madrid.",
+            "The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes which is part of the Community of Madrid."
+        ]
+    }
+]

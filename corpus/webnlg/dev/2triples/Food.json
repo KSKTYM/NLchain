@@ -1,0 +1,902 @@
+[
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Bread"
+                ]
+            ]
+        },
+        "text": [
+            "Bread is an ingredient of Ajoblanco which originates from Spain.",
+            "One of the ingredients of Ajoblanco is bread and it originates from Spain.",
+            "Bread is an ingredient of Ajoblanco which comes from Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Almond"
+                ],
+                [
+                    "Ajoblanco",
+                    "region",
+                    "Andalusia"
+                ]
+            ]
+        },
+        "text": [
+            "Ajoblanco, from Andalusia, has almond as one of its ingredients.",
+            "Almond is an ingredient in ajoblanco, from Andalusia.",
+            "Ajoblanco is from the Andalusia region and has almond as one of its ingredients."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amatriciana sauce",
+                    "region",
+                    "Lazio"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "ingredient",
+                    "Tomato"
+                ]
+            ]
+        },
+        "text": [
+            "Tomato is an ingredient in Amatriciana sauce which comes from Lazio.",
+            "Amatriciana sauce is from the Lazio region and tomato is one of the ingredients.",
+            "Tomato is an ingredient in Amatriciana sauce which comes from the region of Lazio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Antioquia Department",
+                    "country",
+                    "Colombia"
+                ],
+                [
+                    "Bandeja paisa",
+                    "region",
+                    "Antioquia Department"
+                ]
+            ]
+        },
+        "text": [
+            "Bandeja paisa comes from the Antioquia Department of Colombia.",
+            "Bandeja paisa is a dish found in the Antioquia Department of Colombia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "region",
+                    "Indonesia"
+                ],
+                [
+                    "Arem-arem",
+                    "ingredient",
+                    "Banana leaf"
+                ]
+            ]
+        },
+        "text": [
+            "Arem-arem uses the ingredient banana leaf, it is a common dish in Indonesia.",
+            "Banana leaf is an ingredient in arem arem, which comes from Indonesia.",
+            "Arem arem which includes banana leaf, comes from Indonesia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "ingredient",
+                    "Olive oil"
+                ]
+            ]
+        },
+        "text": [
+            "Olive oil is an ingredient used in the preparation of Arrabbiata sauce, found in Italy.",
+            "Olive Oil is used to create Italian Arrabbiata sauce.",
+            "Olive oil is an ingredient in Arrabbiata sauce, which can be found in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Rome"
+                ]
+            ]
+        },
+        "text": [
+            "Arrabbiata sauce is found in Italy where the capital city is Rome.",
+            "Rome is the capital of Italy which is where Arrabbiata sauce comes from.",
+            "Arrabbiata sauce is from Italy which has the capital city of Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "ingredient",
+                    "Tomato"
+                ],
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Tomatoes are found in Arrabbiata sauce which comes from Italy.",
+            "Tomatoes are an ingredient of Arrabbiata sauce from Italy.",
+            "Tomatoes are found in Arrabbiata sauce, which originated in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Squid"
+                ]
+            ]
+        },
+        "text": [
+            "Arròs negre is from Spain, it includes squid.",
+            "Arròs negre is a traditional dish from Spain, it includes squid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "region",
+                    "Valencian Community"
+                ],
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Cuttlefish"
+                ]
+            ]
+        },
+        "text": [
+            "Cuttlefish is an ingredient in Arros negre which comes from the region of Valencian Community.",
+            "An ingredient of arros negre is cuttlefish, the dish comes from the Valencian community region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ],
+                [
+                    "Ayam penyet",
+                    "mainIngredients",
+                    "Squeezed or smashed fried chicken served with sambal"
+                ]
+            ]
+        },
+        "text": [
+            "Ayam penyet is a food found in Java and the main ingredients are \"squeezed\" or \"smashed\" chicken served with sambal.",
+            "Ayam penyet (Javanese) includes squeezed/smashed fried chicken and is served with sambal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Bacon Explosion",
+                    "ingredient",
+                    "Sausage"
+                ]
+            ]
+        },
+        "text": [
+            "A sausage is used when making a Bacon Explosion which has The United states to thank for inventing it.",
+            "Bacon Explosion is a dish from the United States that contains sausage.",
+            "Bacon Explosion comes from the United States and includes sausage among its ingredients."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id13",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "John Roberts"
+                ]
+            ]
+        },
+        "text": [
+            "The United States, where John Roberts is a leader, is the country of the Bacon Explosion.",
+            "The Bacon Explosion comes from the United States where John Roberts is a leader.",
+            "The United States (with a leader, John Roberts) boasts the Bacon Explosion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "ingredient",
+                    "Bacon"
+                ],
+                [
+                    "Bacon Explosion",
+                    "course",
+                    "Main course"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon is an ingredient in the main course dish 'Bacon Explosion'.",
+            "Bacon is an ingredient in a main course called Bacon Explosion.",
+            "Bacon Explosion is an entree that includes bacon, the main ingredient."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bacon sandwich",
+                    "alternativeName",
+                    "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"
+                ],
+                [
+                    "Bacon sandwich",
+                    "ingredient",
+                    "Bread"
+                ]
+            ]
+        },
+        "text": [
+            "A bacon sandwich on bread is also known as bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.",
+            "The bacon sandwich, which one of two ingredients is bread, has different names including: Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "country",
+                    "France, United States or China"
+                ],
+                [
+                    "Baked Alaska",
+                    "ingredient",
+                    "Christmas pudding"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska is thought to have originated in the United States, France or China, and contains Christmas pudding as an ingredient.",
+            "France, United States and China all claim to have invented Baked Alaska which can have Christmas pudding as an ingredient.",
+            "Christmas pudding is an ingredient in Baked Alaska which is from France, the United States and China."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "country",
+                    "China"
+                ],
+                [
+                    "China",
+                    "language",
+                    "Standard Chinese"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska comes from China, where Standard Chinese is spoken.",
+            "Standard Chinese is spoken in China where baked Alaska is a dish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "course",
+                    "Dessert"
+                ],
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Cookie"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska and cookies are types of dessert.",
+            "Baked Alaska and a cookie are both desserts.",
+            "A Baked Alaska is a dessert along with cookies which you can also eat as a dessert."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id19",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bakewell pudding",
+                    "creator",
+                    "Rutland Arms, Bakewell, in 1820"
+                ],
+                [
+                    "Bakewell pudding",
+                    "mainIngredients",
+                    "Ground almond, jam, butter, eggs"
+                ]
+            ]
+        },
+        "text": [
+            "Bakewell pudding was created in 1820 at the Rutland Arms, Bakewell and has ground almond, jam, butter and eggs as main ingredients.",
+            "The main ingredients of Bakewell pudding, which was invented in Rutland Arms, Bakewell, in 1820, are ground almond, jam, butter and eggs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id20",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Bakewell pudding",
+                    "dishVariation",
+                    "Bakewell tart"
+                ],
+                [
+                    "Bakewell tart",
+                    "ingredient",
+                    "Shortcrust pastry"
+                ]
+            ]
+        },
+        "text": [
+            "Bakewell tart, made with shortcrust pastry, is a variation of Bakewell pudding.",
+            "A variant of bakewell pudding is bakewell tart, made with shortcrust pastry.",
+            "A variant of bakewell pudding is bakewell tart which uses shortcrust pastry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id21",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Bandeja paisa",
+                    "ingredient",
+                    "Lemon"
+                ],
+                [
+                    "Lemon",
+                    "genus",
+                    "Citrus"
+                ]
+            ]
+        },
+        "text": [
+            "Lemon (part of genus Citrus) is an ingredient in Bandeja paisa.",
+            "Lemon, from the genus citrus, is an ingredient in Bandeja paisa.",
+            "Lemon (genus; citrus) is an ingredient found in Bandeja paisa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Batchoy",
+                    "country",
+                    "Philippines"
+                ],
+                [
+                    "Batchoy",
+                    "ingredient",
+                    "Shrimp"
+                ]
+            ]
+        },
+        "text": [
+            "Batchoy is a food in the Philippines and one of its ingredient is shrimp.",
+            "The Philippines is the country of origin for the dish Batchoy, of which shrimp is one of the main ingredients.",
+            "The Philippines is the country that Batchoy, a dish containing shrimp, comes from."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id23",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Batchoy",
+                    "country",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Chinese Filipino"
+                ]
+            ]
+        },
+        "text": [
+            "The Chinese Filipino is an ethnic group in the Philippines, where batchoy is a traditional dish.",
+            "Chinese Filipino are from the Philippines, where batchoy is eaten.",
+            "Batchoy is a food from the Philippines, the country where there is an ethnic group called the Chinese Filipino."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id24",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Singapore"
+                ],
+                [
+                    "Singapore",
+                    "language",
+                    "Standard Chinese"
+                ]
+            ]
+        },
+        "text": [
+            "Beef kway teow originates from Singapore, where Standard Chinese is spoken.",
+            "Standard Chinese speaking Singapore is the origin of beef kway teow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id25",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Singapore"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Tony Tan"
+                ]
+            ]
+        },
+        "text": [
+            "Beef kway teow is a dish of Singapore where Tony Tan is a leader.",
+            "Tony Tan is the leader of Singapore, from where Beef kway teow originates.",
+            "Beef kway teow originates from Singapore and its leader is Tony Tan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id26",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Sumitra Mahajan"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji originates from India and Sumitra Mahajan is its leader.",
+            "Bhajji comes from India where the leader is Sumitra Mahajan.",
+            "Bhajji originates from India where the leader is Sumitra Mahajan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id27",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bhajji",
+                    "similarDish",
+                    "Pakora and other fritters made from wheat or corn flour"
+                ],
+                [
+                    "Bhajji",
+                    "ingredient",
+                    "Gram flour"
+                ]
+            ]
+        },
+        "text": [
+            "Bhajji, which uses gram flour, is a dish similar to pakora and other fritters made from wheat or corn flour.",
+            "Gram flour is an ingredient of a Bhajji, which is a similar dish to pakora and other fritters made from wheat or corn flour."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id28",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Binignit",
+                    "ingredient",
+                    "Sweet potato"
+                ],
+                [
+                    "Binignit",
+                    "mainIngredients",
+                    "Banana"
+                ]
+            ]
+        },
+        "text": [
+            "An ingredient of Binignit is sweet potato, and one of the main ingredients is the banana.",
+            "Banana is a main ingredient of Binignit and sweet potato is also an ingredient.",
+            "The main ingredient of Binignit is banana, and also important is the inclusion of sweet potatoes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id29",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Binignit",
+                    "ingredient",
+                    "Sweet potato"
+                ],
+                [
+                    "Binignit",
+                    "mainIngredients",
+                    "Sago"
+                ]
+            ]
+        },
+        "text": [
+            "Sago is the main ingredient in binignit but sweet potatoes are also used in it.",
+            "Binignit has the ingredients sweet potato and sago.",
+            "Sweet potato and sago are main ingredients in Binignit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id30",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Binignit",
+                    "ingredient",
+                    "Sweet potato"
+                ],
+                [
+                    "Sweet potato",
+                    "division",
+                    "Flowering plant"
+                ]
+            ]
+        },
+        "text": [
+            "Sweet potatoes (a kind of flowering plant) are used in binignit recipes.",
+            "Sweet potato belongs to flowering plants and is an ingredient of Binignit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id31",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Binignit",
+                    "mainIngredients",
+                    "Sweet potato"
+                ],
+                [
+                    "Sweet potato",
+                    "order",
+                    "Solanales"
+                ]
+            ]
+        },
+        "text": [
+            "Sweet potatoes are the main ingredient of binignit and the potatoes are part of the order of Solanales.",
+            "Sweet potatoes are members of the Solanales order of plants. They are the main ingredient of binignit.",
+            "Sweet potato is of the order Solanales and are a main ingredient of binignit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id32",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bionico",
+                    "course",
+                    "Dessert"
+                ],
+                [
+                    "Bionico",
+                    "ingredient",
+                    "Granola"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico is a dessert and it requires granola as one of its ingredients.",
+            "Bionico is a dessert, requiring granola as one of its ingredients.",
+            "Bionico is a dessert that includes the ingredient granola."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id33",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bionico",
+                    "dishVariation",
+                    "Honey"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dessert"
+                ]
+            ]
+        },
+        "text": [
+            "A popular dessert is Bionico and a variation of this dish can be honey.",
+            "Honey can be used as a variation in Bionico which is a dessert.",
+            "Honey can be added to bionico, a dessert dish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id34",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Ice cream"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dessert"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico and ice cream are both served as a dessert course.",
+            "Bionico and ice cream are types of dessert.",
+            "Bionico and Ice Cream are served at the dessert course."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id35",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Siomay",
+                    "ingredient",
+                    "Peanut sauce"
+                ],
+                [
+                    "Batagor",
+                    "dishVariation",
+                    "Siomay"
+                ]
+            ]
+        },
+        "text": [
+            "Batagor and Siomay (which has peanut sauce as an ingredient) are variations of the same dish.",
+            "Peanut sauce is an ingredient in Siomay and Batagor is a variation of this dish.",
+            "Batagor is a variation of the dish Siomay, of which peanut sauce is an ingredient."
+        ]
+    }
+]

@@ -1,0 +1,461 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Cen"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a mass media company which makes mobile applications. They were founded on Jan 1, 2000 in the Philippines. They are headed up by Felipe Gozon, and are headquartered in the GMA Network Center.",
+            "GMA New Media is a media company in the Philippines. They were founded on Jan 1 2000, and are headed up by Felipe Gozon. Located in the GMA Network Center, they develop mobile applications.",
+            "GMA New Media, Inc., a mass media company that offers products such as mobile applications, was founded on January 1, 2000. GMA New Media, whose key person is Felipe Gozon, is located in the GMA Network Center in the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Porta"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Digify, Inc."
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, led by Felipe Gozon, is a mobile app creating media company. Established on New Years Day of the new millennium, the company provides Internet services. Philippine Entertainment Portal and Digify Inc are just two of the company’s subsidiaries.",
+            "GMA New Media is a media company that creates mobile apps and produces services for the web. Primarily led by Felipe Gozon, the company was created on January 1, 2000. Two of their subsidiaries include Philippine Entertainment Portal, Inc and Digify Inc.",
+            "GMA New Media, founded in January, 2000, is a media company which make websites and offers mobile application products. Its chairman and CEO is Felipe Gozon. GMA New Media subsidiaries include Philippine Entertainment Portal and Digify, Inc."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainmen"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Online Ga"
+                ],
+                [
+                    "GMA New Media",
+                    "parentCompany",
+                    "GMA Network (company)"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a mass media company in the entertainment industry. They are headed up by Felipe Gozon, and are owned by GMA Network. They develop web sites and online games.",
+            "GMA New Media, Inc. is a media company that offers services in the entertainment industry: different internet services and online games. It is managed by Felipe Gozon, and it is a subsidiary of GMA Network.",
+            "GMA New Media, a mass media entertainment industry company, produces, offers World Wide Web-related services. The company also produces online games. The company is a subsidiary of parent company, GMA Network, and features Felipe Gozon as a key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Braz"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ],
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a pharmaceutical drug company in Brazil. They were founded on Jan 1, 2001 as an S.A. corporation. Their key person is their CEO, and they have a net income of 108,600,000.",
+            "Hypermarcas was founded in Brazil on Jan 1, 2001. They are an S.A. corporation which produces pharmaceutical drugs. Their key person is their CEO, and they have a net income of $108,600,000.",
+            "Hypermarcas is an S.A. corporation who sells pharmaceuticals in Brazil. Their primary product is drugs. Managed by their CEO, they were founded on 1/1/2001 and have a $108,600,000 net income."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Braz"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ],
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Manteco"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas was founded in Brazil on 2001-01-01. They are an S.A. corporation making drugs in the pharmaceutical industry. Their key person is a CEO, and they are the owners of the subsidiary Mantecorp.",
+            "Hypermarcas is a Brazilian pharmaceutical company whose main product is drugs. They were founded on January 1, 2001 as an S.A. corporation. They are managed by a CEO, and own the subsidiary Mantecorp.",
+            "Mantecorp is a subsidiary of the pharmaceutical company Hypermarcas, an S.A. Corporation located in Brazil, which was founded on January 1, 2001. Hypermarcas is ruled by a CEO."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Manteco"
+                ],
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthca"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ]
+            ]
+        },
+        "text": [
+            "Mantecorp is a subsidiary of Hypermarcas, located in Sao Paulo, which is a maker of healthcare products including producing pharmaceutical drugs. Hypermarcas employs 10,252 people, has a net income of $108,600,000, and their revenue is $1,800,000,000.",
+            "Hypermarcas is primarily a drug company, which also sells healthcare products. They are located in Sao Paulo and employ 10,252 people. They are the owners of the subsidiary Mantecorp, and they have a net income of 108,600,000. They earn 18,000,00,000 yearly.",
+            "Hypermarcas, a producer of healthcare products and drugs, is located in São Paulo. They have a subsidary called Mantecorp. Hypermarcas employs 10,252 people and makes $1,800,000,000 a year with a net income of $108,600,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ],
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ]
+            ]
+        },
+        "text": [
+            "The 29,000 employee building materials company Trane, the manufacturer of HVAC, which was founded in La Crosse, Wisconsin, is located in Swords, Dublin, Ireland.",
+            "Trane was founded in La Crosse, Wisconsin on 01-01-1913 but has since moved to Swords, Dublin in Ireland. Trane's 29,000 employees are involved in the manufacturing of HVAC building materials.",
+            "Trane, Inc., an international company in the building materials industry, was founded in La Crosse, Wisconsin in 1913. Today 29,000 people are employed by Trane, whose corporate headquarters are located in Swords, Dublin, Ireland. Trane is best known for manufacturing heating, ventilating and air conditioning (HVAC) systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management Sys"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ],
+                [
+                    "Trane",
+                    "operatingIncome",
+                    "875400000"
+                ],
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a subsidiary company producing building management systems. They were founded on Jan 1 1913, and are located in Swords, Dublin. They have an operating income of 875.4 million USD, a net income of about $556 million, and a revenue of $10,264,000,000.",
+            "Trane, located in Swords, Dublin, a subsidiary company making building management systems that was founded on 01-01-1913, has a net income of $556,300,000 and an operating income of $875,400,000 from a revenue of $10,264,000,000.",
+            "Trane is a building management systems manufacturer located in Swords, Dublin. A subsidiary company, they were founded on Jan 1 1913. They have an operating income of $875,400,000, a net income of $556,300,000 and a revenue of $10,264,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 7,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management Sys"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ],
+                [
+                    "Trane",
+                    "operatingIncome",
+                    "875400000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a subsidiary company, located in Ireland, in the city of Swords, Dublin. Tran makes building management systems and has a revenue of 10264000000 with a net income of $556,300,000. Its operating income is $875,400,000.",
+            "Trane is an Irish building management systems manufacturer is Swords, Dublin They are a subsidiary with an operating income of $875,400,000. Their revenue is $10,264,000,000, and their net income is $556,300,000.",
+            "Trane, a subsidiary that produces of building management systems, is located in Ireland - Swords, Dublin - and boasts revenues totaling 10.3 billion USD, an operating income of 875.4 million USD, and a net income of around 556 million USD."
+        ]
+    }
+]

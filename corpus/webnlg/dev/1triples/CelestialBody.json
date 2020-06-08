@@ -1,0 +1,436 @@
+[
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "(29075) 1950 DA",
+                    "discoverer",
+                    "Carl A. Wirtanen"
+                ]
+            ]
+        },
+        "text": [
+            "(29075) 1950 DA was discovered by Carl A Wirtanen.",
+            "Carl A Wirtanen discovered (29075) 1950 DA.",
+            "Carl A Wirtanen was the discoverer of 29075 1950 DA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "(410777) 2009 FD",
+                    "apoapsis",
+                    "259776702.47055 (kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres.",
+            "The apoapsis of (410777) 2009 FD is 259776702.47055 kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "(66063) 1998 RO1",
+                    "epoch",
+                    "2013-11-04"
+                ]
+            ]
+        },
+        "text": [
+            "66063 1998 RO1 has an epoch date of 4 November 2013.",
+            "(66063) 1998 RO1 has an epoch date of 2013-11-04.",
+            "The epoch of (66063) 1998 RO1 is on the 13th of January 2016."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "(66391) 1999 KW4",
+                    "periapsis",
+                    "29919600000.0"
+                ]
+            ]
+        },
+        "text": [
+            "(66391) 1999 KW4 has a periapsis of 29919600000.0.",
+            "The apoapsis of (66391) 1999 KW4 is 29919600000.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "101 Helena",
+                    "mass",
+                    "3.0 (kilograms)"
+                ]
+            ]
+        },
+        "text": [
+            "101 Helena has a mass of 3.0 kgs.",
+            "101 Helena has a mass of 3.0 kilograms."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "101 Helena",
+                    "orbitalPeriod",
+                    "1516.6700000000003 (days)"
+                ]
+            ]
+        },
+        "text": [
+            "101 Helena has an orbital period of 1516.6700000000003 days.",
+            "The orbital period for 101 Helena is 1516.6700000000003 (days).",
+            "101 Helena has an orbit of 1516.6700000000003 days."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1036 Ganymed",
+                    "averageSpeed",
+                    "16.86 (kilometrePerSeconds)"
+                ]
+            ]
+        },
+        "text": [
+            "1036 Ganymed has an average speed of 16.86 km per sec.",
+            "1036 Ganymed travels at an average speed of 16.86 kilometres per second.",
+            "The celestial body known as 1036 Ganymed has an average speed of 16.86 k.p.s."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1036 Ganymed",
+                    "temperature",
+                    "160.0 (kelvins)"
+                ]
+            ]
+        },
+        "text": [
+            "1036 Ganymed has a temperature of 160.0 kelvins.",
+            "The celestial body known as 1036 Ganymed has a temperature of 160 kelvins.",
+            "The temperature of 1036 Ganymed is 160 kelvins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "107 Camilla",
+                    "discoverer",
+                    "F. Vilas"
+                ]
+            ]
+        },
+        "text": [
+            "107 Camilla was discovered by F. Vilas.",
+            "F Vilas discovered 107 Camilla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "107 Camilla",
+                    "discoverer",
+                    "N. R. Pogson"
+                ]
+            ]
+        },
+        "text": [
+            "107 Camilla was discovered by N.R. Pogson.",
+            "N.R. Pogson was the discoverer of 107 Camilla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1089 Tama",
+                    "escapeVelocity",
+                    "0.0068 (kilometrePerSeconds)"
+                ]
+            ]
+        },
+        "text": [
+            "1089 Tama has an escape velocity of 0.0068 kilometres per second.",
+            "The escape velocity of 1089 Tama is 0.0068 km/sec."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1097 Vicia",
+                    "rotationPeriod",
+                    "95040.0"
+                ]
+            ]
+        },
+        "text": [
+            "The rotation period of 1097 Vicia is 95040.0.",
+            "1097 Vicia has a rotation period of 95040.0.",
+            "The rotation period of 1097 Vicia is 95040."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1099 Figneria",
+                    "escapeVelocity",
+                    "0.0155 (kilometrePerSeconds)"
+                ]
+            ]
+        },
+        "text": [
+            "1099 Figneria has an escape velocity of 0.0155 kilometres per second.",
+            "0.0155 km per second is the escape velocity of 1099 Figneria.",
+            "0.0155 kilometer per second is the escape velocity of 1099 Figneria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1099 Figneria",
+                    "mass",
+                    "2.7 (kilograms)"
+                ]
+            ]
+        },
+        "text": [
+            "1099 Figneria has a mass of 2.7 kilograms.",
+            "The mass of 1099 Figneria is 2.7 kg.",
+            "1099 Figneria has a mass of 2.7kg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "109 Felicitas",
+                    "periapsis",
+                    "283326000000.0"
+                ]
+            ]
+        },
+        "text": [
+            "109 Felicitas has a periapsis of 283326000000.0.",
+            "The periapsis of 109 Felicitas is 283326000000.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "109 Felicitas",
+                    "temperature",
+                    "170.0 (kelvins)"
+                ]
+            ]
+        },
+        "text": [
+            "109 Felicitas has a temperature of 170 kelvins.",
+            "The celestial body known as 109 Felicitas has a temperature of 170 kelvins.",
+            "The temperature of the asteroid called 109 Felicitas is 170.0 kelvins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "10 Hygiea",
+                    "orbitalPeriod",
+                    "5.57 (days)"
+                ]
+            ]
+        },
+        "text": [
+            "10 Hygiea has an orbital period of 5.57 days.",
+            "5.57 days is the orbital period for 10 Hygiea.",
+            "10 Hygiea takes 5.57 days to orbit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1101 Clematis",
+                    "periapsis",
+                    "445895000000.0"
+                ]
+            ]
+        },
+        "text": [
+            "The periapsis of 1101 Clematis is 445895000000.0.",
+            "1101 Clematis has a periapsis of 445895000000.0.",
+            "1101 Clematis has a periapsis of 445895000000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "110 Lydia",
+                    "epoch",
+                    "2006-12-31"
+                ]
+            ]
+        },
+        "text": [
+            "110 Lydia has an epoch date of December 31st 2006.",
+            "31 December 2006 is the epoch of 110 Lydia.",
+            "110 Lydia's epoch is 31st December 2006."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "110 Lydia",
+                    "periapsis",
+                    "377016000000.0"
+                ]
+            ]
+        },
+        "text": [
+            "110 Lydia has a periapsis measurement of 377016000000.0.",
+            "110 Lydia has a periapsis of 377016000000.0.",
+            "The periapsis of 110 Lydia is 377016000000.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "CelestialBody",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "N. R. Pogson",
+                    "nationality",
+                    "England"
+                ]
+            ]
+        },
+        "text": [
+            "N. R. Pogson was English.",
+            "N. R. Pogson is British.",
+            "N.R. Pogson was an English national."
+        ]
+    }
+]

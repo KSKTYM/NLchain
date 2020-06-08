@@ -1,0 +1,1960 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Airman (comicsCharacter)",
+                    "creator",
+                    "Harry Sahle"
+                ],
+                [
+                    "Airman (comicsCharacter)",
+                    "alternativeName",
+                    "Drake Stevens"
+                ],
+                [
+                    "Airman (comicsCharacter)",
+                    "creator",
+                    "George Kapitan"
+                ]
+            ]
+        },
+        "text": [
+            "Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.",
+            "The alternative name of the comic character Airman is \"Drake Stevens\". He was created by Harry Sahle and George Kapitan.",
+            "The comic character Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Arion (comicsCharacter)",
+                    "creator",
+                    "Jan Duursema"
+                ],
+                [
+                    "Arion (comicsCharacter)",
+                    "alternativeName",
+                    "Ahri'ahn"
+                ],
+                [
+                    "Arion (comicsCharacter)",
+                    "creator",
+                    "Paul Kupperberg"
+                ]
+            ]
+        },
+        "text": [
+            "Jan Duursema and Paul Kupperberg created the comic book character of Arion who is also known as Ahri'ahn.",
+            "The comic book character Arion, aka Ahri'ahn, was created by Jan Duursema and Paul Kupperberg.",
+            "The comic character Arion is also known as Ahri'ahn and was created by Jan Duursema and Paul Kupperberg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id3",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Arion (comicsCharacter)",
+                    "creator",
+                    "Jan Duursema"
+                ],
+                [
+                    "Jan Duursema",
+                    "award",
+                    "Eisner Award"
+                ],
+                [
+                    "Arion (comicsCharacter)",
+                    "creator",
+                    "Paul Kupperberg"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book character Arion was created by Paul Kupperberg and Jan Duursema, a winner of the Eisner Award.",
+            "Jan Duursema won the Eisner Award and is the creator of the comic book character Arion along with Paul Kupperberg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "René Goscinny"
+                ],
+                [
+                    "Asterix (comicsCharacter)",
+                    "alternativeName",
+                    "Astérix"
+                ],
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "Albert Uderzo"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Asterix, was created by René Goscinny and Albert Uderzo.",
+            "Asterix the comic character whose alternative name is Asterix was created by Albert Uderzo and Rene Goscinny.",
+            "Asterix, alternatively \"Astérix\", is a comic book character created by René Goscinny and Albert Uderzo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id5",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "René Goscinny"
+                ],
+                [
+                    "René Goscinny",
+                    "nationality",
+                    "French people"
+                ],
+                [
+                    "Asterix (comicsCharacter)",
+                    "alternativeName",
+                    "Astérix"
+                ]
+            ]
+        },
+        "text": [
+            "Frenchman, Rene Goscinny created Asterix, the comic character who is sometimes called \"Astérix\".",
+            "The comic character Asterix (also known as Astérix), was created by René Goscinny, who is French.",
+            "The comic character Asterix, also know as Astérix, was created by the Frenchman René Goscinny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aurakles",
+                    "creator",
+                    "Dick Dillin"
+                ],
+                [
+                    "Aurakles",
+                    "creator",
+                    "Len Wein"
+                ],
+                [
+                    "Aurakles",
+                    "alternativeName",
+                    "Aurakles"
+                ]
+            ]
+        },
+        "text": [
+            "The character of Aurakles has the alternative name of Aurakles and was created by Len Wein and Dick Dillin.",
+            "Dick Dillin and Len Wein created the character Aurakles."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id7",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aurakles",
+                    "creator",
+                    "Dick Dillin"
+                ],
+                [
+                    "Dick Dillin",
+                    "nationality",
+                    "United States"
+                ],
+                [
+                    "Aurakles",
+                    "alternativeName",
+                    "Aurakles"
+                ]
+            ]
+        },
+        "text": [
+            "Dick Dillin, from the United States, created the comic book character known as Aurakles (alternatively called Aurakles).",
+            "The comic book character Aurakles (alternative name Aurakles) was created by Dick Dillin from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aurakles",
+                    "creator",
+                    "Dick Dillin"
+                ],
+                [
+                    "Dick Dillin",
+                    "nationality",
+                    "United States"
+                ],
+                [
+                    "Aurakles",
+                    "creator",
+                    "Len Wein"
+                ]
+            ]
+        },
+        "text": [
+            "Dick Dillin, an American along with Len Wein were the creators of Aurakles, a fictional character.",
+            "The comic book character Aurakles was created by Len Wein and the American Dick Dillin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Karl Kesel"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Marv Wolfman"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "fullName",
+                    "Lambien"
+                ]
+            ]
+        },
+        "text": [
+            "Marv Wolfman and Karl Kesel are the creators of the comic character Auron, whose full name is Lambien.",
+            "The comic character Auron, whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.",
+            "Auron, a comic book character whose full name is Lambien, was created by Karl Kesel and Marv Wolfman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Karl Kesel"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Walt Simonson"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "fullName",
+                    "Lambien"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book character Auron, full name Lambien was created by Karl Kesel and Walt Simonson.",
+            "Karl Kesel and Walt Simonson created the comic book character of Auron who has the full name Lambien.",
+            "The comic character Auron, full name Lambien, was created by Karl Kesel and Walt Simonson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Karl Kesel"
+                ],
+                [
+                    "Karl Kesel",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Marv Wolfman"
+                ]
+            ]
+        },
+        "text": [
+            "American Karl Kesel and Marv Wolfman created the comic character Auron.",
+            "The comic character Auron was created by Marv Wolfman and American Karl Kesel.",
+            "The comic book character Auron was created by Marv Wolfman and Karl Kesel who is an American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Marv Wolfman"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Walt Simonson"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "fullName",
+                    "Lambien"
+                ]
+            ]
+        },
+        "text": [
+            "Marv Wolfman and Walt Simonson created the comic book character Auron, whose full name is Lambien.",
+            "Auron, a comic character whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.",
+            "The comic character Auron, whose full name is Lambien, was created by Marv Wolfman and Walt Simonson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id13",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "BBC",
+                    "keyPerson",
+                    "Rona Fairhead"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "BBC",
+                    "locationCity",
+                    "Broadcasting House"
+                ]
+            ]
+        },
+        "text": [
+            "Rona Fairhead is the key person for the BBC which broadcast Bananaman and has its home at Broadcasting House in London.",
+            "The key person for BBC is Rona Fairhead and it's located in Broadcasting House in London and shows Bananaman TV Series."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "BBC",
+                    "keyPerson",
+                    "Rona Fairhead"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "BBC",
+                    "locationCity",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "Rona Fairhead is a key person at the BBC, which is located in London. Bananaman was broadcast by the BBC.",
+            "The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairhead.",
+            "The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id15",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "BBC",
+                    "keyPerson",
+                    "Tony Hall, Baron Hall of Birkenhead"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "BBC",
+                    "locationCity",
+                    "Broadcasting House"
+                ]
+            ]
+        },
+        "text": [
+            "Tony Hall, Baron Hall of Birkenhead is a key person at the BBC which has headquarters at Broadcasting House and broadcast Bananaman.",
+            "Bananaman, the TV series was shown on the BBC which has its home at Broadcasting House in London. A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.",
+            "Bananaman, the TV series, was shown on the BBC. Broadcasting House in London is the location of the BBC and a key person there is Tony Hall or Baron Hall of Birkenhead to give him his full title."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Jack Kirby"
+                ],
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Stan Lee"
+                ],
+                [
+                    "Balder (comicsCharacter)",
+                    "alternativeName",
+                    "Balder Odinson"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character of Balder has the alternative name of Balder Odinson and was created by Jack Kirby and Stan Lee.",
+            "The comic character of Balder Odinson is also known by the name Balder and was created by Stan Lee and Jack Kirby.",
+            "Balder a comic character AKA Balder Odinson, was created by Jack Kirby and Stan Lee."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Jack Kirby"
+                ],
+                [
+                    "Jack Kirby",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Balder (comicsCharacter)",
+                    "alternativeName",
+                    "Balder Odinson"
+                ]
+            ]
+        },
+        "text": [
+            "Balder Odinson - also known as Balder - is a comic character created by the American Jack Kirby.",
+            "The American, Jack Kirby created the comic character of Balder who has the alternative name of Balder Odinson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Jack Kirby"
+                ],
+                [
+                    "Jack Kirby",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Stan Lee"
+                ]
+            ]
+        },
+        "text": [
+            "Stan Lee and American Jack Kirby created the comic character Balder.",
+            "Stan Lee and the American, Jack Kirby created the comic character of Balder."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ballistic (comicsCharacter)",
+                    "creator",
+                    "Doug Moench"
+                ],
+                [
+                    "Ballistic (comicsCharacter)",
+                    "alternativeName",
+                    "Kelvin Mao"
+                ],
+                [
+                    "Ballistic (comicsCharacter)",
+                    "creator",
+                    "Michael Manley"
+                ]
+            ]
+        },
+        "text": [
+            "Ballistic, also known as Kelvin Mao, is a fictional comic superhero created by Michael Manley and Doug Moench.",
+            "The comic character, Ballistic (a.k.a. Kelvin Mao) was created by Douglas Moench and Michael Manley.",
+            "Ballistic is a fictional comic superhero who is sometimes known as Kelvin Mao and was created by Doug Moench and Michael Manley."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id20",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "BBC",
+                    "locationCity",
+                    "Broadcasting House"
+                ],
+                [
+                    "BBC",
+                    "foundedBy",
+                    "John Reith, 1st Baron Reith"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman the TV series was shown on the BBC which was founded by John Reith, 1st Baron Reith and is located in the Broadcasting House in London.",
+            "1st Baron, John Reith was the founder of BBC whose location is the Broadcasting House in London, and Bananaman was shown on the channel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id21",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "BBC",
+                    "locationCity",
+                    "London"
+                ],
+                [
+                    "BBC",
+                    "foundedBy",
+                    "John Reith, 1st Baron Reith"
+                ]
+            ]
+        },
+        "text": [
+            "The BBC, which is located in London and broadcast Bananaman, was founded by John Reith 1st Baron Reith.",
+            "The BBC, which broadcast Bananaman, is located in London and was founded by John Reith, 1st Baron Reith."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Bill Oddie"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Oddie starred in Bananaman which was broadcast by the BBC and first aired on 3 October 1983.",
+            "Bananaman a BBC TV series which stars Bill Oddie first aired on 3rd of October, 1983.",
+            "Bill Oddie stars in Bananaman which first aired on 3 October 1983 and was broadcast by the BBC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ]
+            ]
+        },
+        "text": [
+            "Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.",
+            "Bananaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.",
+            "Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Jill Shilling"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman, starring Jill Shilling, is broadcast by the BBC and first aired on 3rd October 1983.",
+            "The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Jill Shilling."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id25",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Bill Oddie"
+                ],
+                [
+                    "Bill Oddie",
+                    "child",
+                    "Kate Hardie"
+                ],
+                [
+                    "Bill Oddie",
+                    "birthPlace",
+                    "Lancashire"
+                ]
+            ]
+        },
+        "text": [
+            "Billie Oddie who starred in Bananaman is Kate Hardie's son and was born in Lancashire.",
+            "Bill Oddie, who stars in Bananaman, was born in Lancashire and has a child called Kate Hardie.",
+            "Bill Oddie, who starred in Bananaman, was born in Lancashire and has a daughter called Kate Hardie."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id26",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Bill Oddie"
+                ],
+                [
+                    "Bill Oddie",
+                    "child",
+                    "Kate Hardie"
+                ],
+                [
+                    "Bill Oddie",
+                    "birthPlace",
+                    "Rochdale"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Oddie, who starred in Bananaman, was born in Rochdale and has a child called Kate Hardie.",
+            "Billie Oddie starred in Bananaman was born in Rochdale and Kate Hardie is his child.",
+            "Bill Oddie, who starred in Bananaman, was born in Rochdale and has a daughter called Kate Hardie."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman was broadcasted by STV, starring Graeme Garden it first aired on 3rd October 1983.",
+            "Graeme Garden stars in Bananaman which first aired on 3 October 1983 and was broadcast by STV.",
+            "Bananaman which first aired 10/03/1983, stars Graeme Garden and was broadcasted by STV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id28",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Jill Shilling"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Jill Shilling starred in Bananaman which is broadcast by STV and first aired on 3 October 1983.",
+            "Bananaman starred Jill Shilling and first aired on the 3rd of October, 1983 being broadcast by STV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id29",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylor"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ]
+            ]
+        },
+        "text": [
+            "The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Tim Brooke-Taylor.",
+            "Bananaman which first aired on October 3rd, 1983 on the BBC, starred Tim Brooke-Taylor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id30",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylor"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman starred Tim Brooke-Taylor and was first broadcast by STV on 3 October 1983.",
+            "Tim Brooke-Taylor starred as Bananaman, which was first aired on 10/03/1983 and was broadcast by STV.",
+            "Bananaman, starring Tim Brooke-Taylor, was first broadcast by STV on the 3rd October 1983."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id31",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylor"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman starred Tim Brooke-Taylor and was broadcast for the last time by STV on 15 April 1986.",
+            "Bananaman was broadcasted by STV, it starred Tim Brooke-Taylor and last aired on 15th April 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id32",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Baymax",
+                    "firstAppearanceInFilm",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "distributor",
+                    "Walt Disney Studios Motion Pictures"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Alan Tudyk"
+                ]
+            ]
+        },
+        "text": [
+            "Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6, the film that stars Alan Tudyk and in which the character Baymax makes his first appearance."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id33",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Baymax",
+                    "firstAppearanceInFilm",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Ryan Potter"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "distributor",
+                    "Walt Disney Studios Motion Pictures"
+                ]
+            ]
+        },
+        "text": [
+            "Big Hero 6, distributed by Walt Disney Studios Motion Pictures, starred Ryan Potter and was Baymax's first film appearance.",
+            "Big Hero 6 stars Ryan Potter and was Baymax's first film appearance. It was distributed by Walt Disney Studios Motion Pictures.",
+            "Baymax first appeared in the Walt Disney Studios distributed film Big Hero 6, starring Ryan Potter."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id34",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seagle"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax is a character in Big Hero 6 and was created by Duncan Rouleau and Steven T. Seagle.",
+            "Steven T Seagle and Duncan Rouleau created the character of Baymax who appeared in Big Hero 6.",
+            "Baymax, a character in Big Hero 6, was created by Duncan Rouleau and Steven T. Seagle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id35",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Baymax",
+                    "voice",
+                    "Scott Adsit"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seagle"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax was created by Duncan Rouleau and Steven T Seagle and is voiced by Scott Adsit.",
+            "Duncan Rouleau and Steven T Seagle created the character of Baymax who is voiced by Scott Adsit.",
+            "Scott Adsit voiced the character Baymax which was created by Duncan Rouleau and Steven T. Seagle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id36",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Roger McKenzie (comic book writer)"
+                ],
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Gene Colan"
+                ],
+                [
+                    "Ben Urich",
+                    "fullName",
+                    "Benjamin Urich"
+                ]
+            ]
+        },
+        "text": [
+            "The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer, Roger Mckenzie.",
+            "Ben(jamin) Urich was created by the comic book writer Roger McKenzie and Gene Colan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id37",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Roger McKenzie (comic book writer)"
+                ],
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Gene Colan"
+                ],
+                [
+                    "Gene Colan",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The character of Ben Urich was created by the American, Gene Colan, and the comic book writer, Roger McKenzie.",
+            "Roger McKenzie and the American, Gene Colan created the comic book character of Ben Urich.",
+            "Ben Urich was created by the American, Gene Colan and the comic book writer, Roger McKenzie."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id38",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Roger McKenzie (comic book writer)"
+                ],
+                [
+                    "Roger McKenzie (comic book writer)",
+                    "nationality",
+                    "United States"
+                ],
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Gene Colan"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book character Ben Urich was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.",
+            "Gene Colan and the US National comic book writer, Roger McKenzie created Ben Urich.",
+            "The comic book character of Ben Urich was created by Gene Colan and Roger McKenzie who is an American writer of comic books."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id39",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bibbo Bibbowski",
+                    "creator",
+                    "Jerry Ordway"
+                ],
+                [
+                    "Jerry Ordway",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Bibbo Bibbowski",
+                    "creator",
+                    "Marv Wolfman"
+                ]
+            ]
+        },
+        "text": [
+            "Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway who is an American.",
+            "Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway, Jerry Ordway is American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id40",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "distributor",
+                    "Walt Disney Studios Motion Pictures"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Jamie Chung"
+                ]
+            ]
+        },
+        "text": [
+            "The distributor of the film Big Hero 6, which stars Jamie Chung, is Walt Disney Studios Motion Pictures. The character Baymax appears in this film.",
+            "Big Hero 6, a film distributed by Walt Disney Studios Motion Pictures, starred Jamie Chung and included the character Baymax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id41",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "distributor",
+                    "Walt Disney Studios Motion Pictures"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Maya Rudolph"
+                ]
+            ]
+        },
+        "text": [
+            "Walt Disney Studios Motion Pictures distributed the movie Big Hero 6 which starred Maya Rudolph. Baymax is a character in this film.",
+            "Big Hero 6 is distributed by Walt Disney Studios Motion Pictures and has Baymax as a character and stars Maya Rudolph.",
+            "Baymax is a character in the film Big Hero 6, which was distributed by Walt Disney Studios Motion Pictures and starred Maya Rudolph."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id42",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "distributor",
+                    "Walt Disney Studios Motion Pictures"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Alan Tudyk"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ]
+            ]
+        },
+        "text": [
+            "Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6 that stars Alan Tudyk and in which Baymax is a character.",
+            "Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.",
+            "Alan Tudyk stars in the film Big Hero 6 in which Baymax is a character. The film is distributed by Walt Disney Studios Motion Pictures."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id43",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Mark Desmond"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Carmine Infantino"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Tom Lyle"
+                ]
+            ]
+        },
+        "text": [
+            "\"Mark Desmond,\" also known as the comic character Blockbuster, was created by Carmine Infantino and Tom Lyle.",
+            "\"Mark Desmond\" is also known as the comic character Blockbuster who was created by Tom Lyle and Carmine Infantino.",
+            "The comic character Blockbuster is also known as Mark Desmond, the character was created by Carmine Infantino and Tom Lyle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id44",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Gardner Fox"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Roland Desmond"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Tom Lyle"
+                ]
+            ]
+        },
+        "text": [
+            "Tom Lyle and Gardner Fox created the comic book character of Blockbuster who has the alternative name of Roland Desmond.",
+            "The comic character, Blockbuster, whose alternative name is Roland Desmond, was created by Gardner Fox and Tom Lyle.",
+            "The comic book character Blockbuster, whose alter ego is Roland Desmond, was created by Gardner Fox and Tom Lyle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id45",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Gardner Fox"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Carmine Infantino"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Roland Desmond"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Blockbuster is also known as Roland Desmond and was created by Gardner Fox and Carmine Infantino.",
+            "Roland Desmond is the alternative name for the comic book character Blockbuster, who was created by Carmine Infantino and Gardner Fox."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id46",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Gardner Fox"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Roger Stern"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Mark Desmond"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Blockbuster is also known as Mark Desmond and was created by Roger Stern and Gardner Fox.",
+            "Blockbuster (also known as Mark Desmond) is a comic book character created by Roger Stern and Gardner Fox.",
+            "The comic character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Roger Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id47",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Gardner Fox"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Roger Stern"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Roland Desmond"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Blockbuster's alternative name is Roland Desmond and was created by Gardner Fox and Roger Stern.",
+            "The comic character, Blockbuster (a.k.a. Roland Desmond) was created by Gardner Fox and Roger Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id48",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Gardner Fox"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Tom Lyle"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Mark Desmond"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Tom Lyle.",
+            "The comic character, Blockbuster, has the alternative name, Mark Desmond and was created by Tom Lyle and Gardner Fox.",
+            "The comic character, Blockbuster (a.k.a. Mark Desmond) was created by Gardner Fox and Tom Lyle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id49",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Roger Stern"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Mark Desmond"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Carmine Infantino"
+                ]
+            ]
+        },
+        "text": [
+            "\"Mark Desmond\", also known as Blockbuster, is a comic character created by Roger Stern and Carmine Infantino.",
+            "Blockbuster is a comic character with the alternative name of Mark Desmond and was created by Carmine Infantino and Roger Stern.",
+            "The comic book character Blockbuster, also known as Mark Desmond, was created by Roger Stern and Carmine Infantino."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id50",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Roger Stern"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Mark Desmond"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Tom Lyle"
+                ]
+            ]
+        },
+        "text": [
+            "\"Mark Desmond\" is also known as the comic character Blockbuster who was created by Roger Stern and Tom Lyle.",
+            "Tom Lyle and Roger Stern created the comic character Blockbuster who has the alternative name of Mark Desmond.",
+            "The comic character Blockbuster, with the alternative name Mark Desmond, was created by Tom Lyle and Roger Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id51",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Dan Mishkin"
+                ],
+                [
+                    "Ernie Colón",
+                    "nationality",
+                    "Puerto Ricans"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ]
+            ]
+        },
+        "text": [
+            "Ernie Colon, a Puerto Rican national created Bolt along with Dan Mishkin.",
+            "Dan Mishkin and the Puerto Rican national Ernie Colon created the comic character of Bolt.",
+            "The comic character Bolt was created by Dan Mishkin and Ernie Colon who is Puerto Rican."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id52",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ],
+                [
+                    "Ernie Colón",
+                    "nationality",
+                    "Puerto Ricans"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Gary Cohn (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Bolt was created by Gary Cohn and Ernie Colon, the latter of which is a Puerto Rican national.",
+            "The comic character of Bolt was created by Gary Cohn and the Puerto Rican national, Ernie Colon.",
+            "Gary Cohn and the Puerto Rican national, Ernie Colon created the comic character Bolt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id53",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "alternativeName",
+                    "Larry Bolatinsky"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Gary Cohn (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Paris Cullins.",
+            "The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Paris Cullins and Gary Cohn.",
+            "The creators of Bolt, the comic character with the alternative name of Larry Bolatinsky, are Gary Cohn and Paris Cullins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id54",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "alternativeName",
+                    "Larry Bolatinsky"
+                ]
+            ]
+        },
+        "text": [
+            "Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Ernie Colon and Paris Cullins.",
+            "Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Paris Cullins and Ernie Colon.",
+            "Bolt, a comic character AKA Larry Bolatinsky, was created by Paris Cullins and Ernie Colon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id55",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Ernie Colón",
+                    "nationality",
+                    "Puerto Ricans"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ]
+            ]
+        },
+        "text": [
+            "Bolt is a comic character created by Paris Cullins and the Puerto Rican national, Ernie Colon.",
+            "Puerto Rican Ernie Colon and Paris Cullins created the comic character Bolt.",
+            "Ernie Colón is a national of Puerto Rico so he is considered Puerto Rican and along with Paris Cullins is the creator of the comic character Bolt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id56",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Paris Cullins",
+                    "nationality",
+                    "United States"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Dan Mishkin"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Bolt was created by Dan Mishkin and Paris Cullins who is an American.",
+            "The comic character Bolt, was created by Paris Cullins from the United States and Dan Mishkin.",
+            "The comic character of Bolt was created by Dan Mishkin and the US National, Paris Cullins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id57",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Paris Cullins",
+                    "nationality",
+                    "United States"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ]
+            ]
+        },
+        "text": [
+            "Ernie Colon and Paris Cullins created the comic character Bolt. Cullins is from the US.",
+            "Bolt was created by Ernie Colon and Paris Cullins who is an American.",
+            "The comic character of Bolt is created by Ernie Colon and the US National, Paris Cullins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id58",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Paris Cullins",
+                    "nationality",
+                    "United States"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Gary Cohn (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book writer Gary Cohn and US National Paris Cullins created the comic character of Bolt.",
+            "The comic character Bolt was created by Paris Cullins and Gary Cohn, the former being a United States national."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id59",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "creator",
+                    "John Buscema"
+                ],
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "creator",
+                    "Roy Thomas"
+                ],
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "alternativeName",
+                    "Dane Whitman"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Dane Whitman Black Knight, created by Roy Thomas and John Buscema, is also known as simply Dane Whitman.",
+            "Dane Whitman, aka Black Knight, was created by John Buscema and Roy Thomas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id60",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "creator",
+                    "John Buscema"
+                ],
+                [
+                    "John Buscema",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "creator",
+                    "Roy Thomas"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Dane Whitman Black Knight was created by Roy Thomas and the American, John Buscema.",
+            "The comic book character Dane Whitman, also known as the Black Knight, was created by Roy Thomas and the American, John Buscema in the comics genre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id61",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seagle"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax was created by Steven T Seagle and the American, Duncan Rouleau.",
+            "Baymax was created by Steven T. Seagle and Duncan Rouleau who is an American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id62",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Karl Kesel",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "fullName",
+                    "Lambien"
+                ],
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Karl Kesel"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Auron's full name is Lambien and he was created by the American, Karl Kesel.",
+            "Auron - full name Lambien - is a comic character created by the American Karl Kesel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id63",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Sheldon Moldoff",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Black Pirate",
+                    "creator",
+                    "Sheldon Moldoff"
+                ],
+                [
+                    "Black Pirate",
+                    "alternativeName",
+                    "Jon Valor"
+                ]
+            ]
+        },
+        "text": [
+            "American Sheldon Moldoff created the Black Pirate who is sometimes known as Jon Valor.",
+            "Sheldon Moldoff, an American national is the creator of Black Pirate AKA Jon Valor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id64",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Sheldon Moldoff",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Black Pirate",
+                    "creator",
+                    "Sheldon Moldoff"
+                ],
+                [
+                    "Sheldon Moldoff",
+                    "award",
+                    "Inkpot Award"
+                ]
+            ]
+        },
+        "text": [
+            "The American, Sheldon Moldoff, won the Inkpot Award for creating the Black Pirate.",
+            "The Black Pirate was created by the American Sheldon Moldoff, who went on to win the Inkpot Award.",
+            "Sheldon Moldoff was an American National who won the Inkpot Award and created the Black Pirate."
+        ]
+    }
+]

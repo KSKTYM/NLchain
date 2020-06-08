@@ -1,0 +1,5052 @@
+[
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "numberOfMembers",
+                    "50000"
+                ]
+            ]
+        },
+        "text": [
+            "1. FC Köln has 50000 members.",
+            "F.C. Koln have 50000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "1 FC Köln played in the 2014 season.",
+            "2014 saw 1. FC Koln participating."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "season",
+                    "2014–15 Bundesliga"
+                ]
+            ]
+        },
+        "text": [
+            "1. FC Köln were in the 2014–15 Bundesliga season.",
+            "FC Köln played the 2014-15 season in the Bundesliga."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "league",
+                    "3. Liga"
+                ]
+            ]
+        },
+        "text": [
+            "1 FC Magdeburg is in the 3 Liga league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Hä"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of FC Magdeburg is Jens Härtel.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "numberOfMembers",
+                    "27250"
+                ]
+            ]
+        },
+        "text": [
+            "1.FC Magdeburg has 27250 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "season",
+                    "2014–15 Regionalliga"
+                ]
+            ]
+        },
+        "text": [
+            "FC Magdeburg played in the Regionalliga in 2014-15 season.",
+            "In 2014-15 season, 1 FC Magdeburg played in the Regionalliga.",
+            "FC Magedburg was in Regionalliga in 2014-2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Cesena"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Cesena ground is in Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Cesena's ground is located in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Stadio Dino Manuzz"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Cesena's ground is Stadio Dino Manuzzi.",
+            "A.C. Cesena's ground is the Stadio Dino Manuzzi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ]
+            ]
+        },
+        "text": [
+            "AC Cesena are in the Serie B league.",
+            "A.C. Cesena is in the Serie B league.",
+            "A.C. Cesena play in Serie B."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago has been the manager of A C Cesena.",
+            "Massimo Drago manages A.C. Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "numberOfMembers",
+                    "23900"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Cesena has 23900 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "fullname",
+                    "Associazione Calcio ChievoVerona S.r.l."
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AC Chievo Verona is \"Associazione Calcio ChievoVerona S.r.l.\"",
+            "The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona, Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Verona, Italy is the home to A.C. Chievo Verona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Stadio Marc'Antonio Bentegod"
+                ]
+            ]
+        },
+        "text": [
+            "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi.",
+            "AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Chievo Verona is playing in his ground at Verona.",
+            "A.C. Chievo Verona play in Verona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "AC Chievo Verona play in the Serie A league.",
+            "A.C. Chievo Verona is in the league, Serie A.",
+            "A.C. Chievo Verona play in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "numberOfMembers",
+                    "39371"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Chievo Verona has 39371 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AC Chievo Verona competed in the 2014 season.",
+            "A.C. Chievo Verona played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "season",
+                    "2014–15 Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Chievo Verona played the 2014-15 season in Serie A.",
+            "A.C. Chievo Verona were in the 2014–15 Serie A season.",
+            "A.C. Chievo Verona were in Serie A in 2014-15."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "fullname",
+                    "Associazione Calcio Lumezzane SpA"
+                ]
+            ]
+        },
+        "text": [
+            "The \"Associazione Calcio Lumezzane SpA\" is the full name of A.C. Lumezzane.",
+            "Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane.",
+            "The full name of A.C. Lumezzane is Associazione Calcio Lumezzane SpA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Lumezzane play in italy.",
+            "A.C. Lumezzane's ground is in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "league",
+                    "Lega Pro/A"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Lumezzane is in the Lega Pro/A league.",
+            "A.C Lumezzane play in the Lega Pro/A.",
+            "A.C. Lumezzane play in Lega Pro/A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "league",
+                    "Lega Pro"
+                ]
+            ]
+        },
+        "text": [
+            "AC Lumezzane play in the Lega Pro league.",
+            "A.C. Lumezzane play in the Lega Pro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolin"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini has been manager of AC Lumezzane.",
+            "Michele Marcolini manages the A.C. Lumezzane.",
+            "The manager of A.C. Lumezzane is Michele Marcolini."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "numberOfMembers",
+                    "4150"
+                ]
+            ]
+        },
+        "text": [
+            "AC Lumezzane has 4150 members.",
+            "The A.C. Lumezzane has 4150 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AC Lumezzane played in the 2014 season.",
+            "I am interested in the 2014 A.C. Lumezzane season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Isidro Metapán"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.D. Isidro Metapan is Isidro Metapan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Metapán, El Salvador"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of AD Isidro Metapán is located in Metapán, El Salvador.",
+            "A.D. Isidro Metapan's ground is in Metapan, El Salvador."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Estadio Jorge Calero Suárez"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. Isidro Metapán are at Estadio Jorge Calero Suárez.",
+            "A.D. Isidro Metapan play at the Estadio Jorge Calero Suarez."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Metapán"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. Isidro Metapán's ground is in Metapán.",
+            "A.D. Isidro Metapán is playing in its ground at Metapán."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "manager",
+                    "Jorge Humberto Rodríguez"
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodriguez has been manager of A D Isidro Metapán.",
+            "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan.",
+            "A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "numberOfMembers",
+                    "10000"
+                ]
+            ]
+        },
+        "text": [
+            "AD Isidro Metapan has 10000 members.",
+            "A.D. Isidro Metapán has 10000 members.",
+            "The number of members of Isidro Metapán is 10000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "chairman",
+                    "Antonis Milionis"
+                ]
+            ]
+        },
+        "text": [
+            "Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis.",
+            "Antonis Milionis is the chairman of A.E Dimitra Efxeinoupolis.",
+            "The chairman of A.E Dimitra Efxeinoupolis is Antonis Milionis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "ground",
+                    "Efxeinoupo"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "league",
+                    "A EPSTH 2nd GROUP"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP.",
+            "A.E Dimitra Efxeinoupolis play in the A EPSTH 2nd GROUP."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece.",
+            "A.E Dimitra Efxeinoupolis is located in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "numberOfMembers",
+                    "1500"
+                ]
+            ]
+        },
+        "text": [
+            "AE Dimitra Efxeinoupolis has 1500 members.",
+            "A.E. Dimitra Efxeinoupolis has 1500 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Jepson Way,"
+                ]
+            ]
+        },
+        "text": [
+            "Jepson Way is the grounds for A.F.C. Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "league",
+                    "English football league sys"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C Blackpool play in the English Football League system.",
+            "A.F.C. Blackpool play in the English Football League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "league",
+                    "North West Counties Football Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Blackpool play in the North West Counties Football League.",
+            "A.F.C. Blackpool is part of the North West Counties Football League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Blackpool have had Stuart Parker as their manager.",
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Blackpool competed in the 2014 season.",
+            "A.F.C. Blackpool play in season 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "season",
+                    "2014–15 North West Counties Football Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "In the season 2014-2015 Blackpool played in the North West Counties Football League.",
+            "AFC Blackpool played in the 2014-15 North West Counties Football League season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "fullname",
+                    "Association Football Club Fylde"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of the A.F.C. Fylde is \"Association Football Club Fylde\".",
+            "AFC Fylde has the full name \"Association Football Club Fylde\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Bryning Lane"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Fylde are based at Bryning Lane."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Kellamergh Park"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Fylde's ground is Kellamergh Park."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Warton, Fylde, Lancashire"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Fylde are based at Warton, Fylde, Lancashire.",
+            "A.F.C. Fylde's ground is in Warton, Fylde, Lancashire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Lancash"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of AFC Fylde can be found in the county of Lancashire.",
+            "A.F.C. Fylde's ground is in Lancashire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Warton, Fyld"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde's ground is located in Warton, Fylde.",
+            "A.F.C. Fylde ground is Warton Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "league",
+                    "National League North"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Fylde is a member of the National League North.",
+            "Fylde played in the National League North league.",
+            "A.F.C. Fylde play in National League North."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "manager",
+                    "Dave Challino"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde's manager is Dave Challinor.",
+            "Dave Challinor is the manager of AFC Fylde.",
+            "Dave Challinor manages A.F.C. Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde has 3180 members.",
+            "A.F.C. Fylde has 3180 members.",
+            "A.F.C Fylde has 3180 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde competed in the 2014 season.",
+            "A.F.C. Fylde played in 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "season",
+                    "2014–15 Football Conferenc"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde played the 2014-15 season in the Football Conference."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "fullname",
+                    "Associazione Sportiva Gubbio 1910 Srl"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AS Gubbio 1910 is \"Associazione Sportiva Gubbio 1910 Srl\".",
+            "The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl.",
+            "Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Stadio Pietro Barb"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of AS Gubbio 1910 is called Stadio Pietro Barbetti."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "league",
+                    "Serie D"
+                ]
+            ]
+        },
+        "text": [
+            "The A.S. Gubbio 1910 football club play in Serie D.",
+            "A.S. Gubbio 1910 is in the Serie D league.",
+            "A.S. Gubbio 1910 play in Serie D."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AS Gubbio 1910 competed in the 2014 season.",
+            "A.S Gubbio 1910 played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "season",
+                    "2014–15 Lega Pro"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Gubbio 1910 was a part of the 2014–15 Lega Pro season.",
+            "A.S. Gubbio 1910 were in the Lega Pro in the 2014-15 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Associazione Sportiva"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Sportiva Livorno Calcio is the full name of A.S.Livorno Calcio.",
+            "The full name of A.S. Livorno Calcio is Associazione Sportiva."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Livorno Calcio S.p.A."
+                ]
+            ]
+        },
+        "text": [
+            "AS Livorno Calcio has the full name of \"Livorno Calcio S.p.A\".",
+            "Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio.",
+            "The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Livorno, Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Livorno, Italy is the location of the ground of AS Livorno Calcio.",
+            "A.S. Livorno Calcio is based in Livorno, Italy.",
+            "A.S. Livorno Calcio's ground is in Livorno, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Livorno"
+                ]
+            ]
+        },
+        "text": [
+            "A.S Livorno Calcio ground is in Livorno."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Stadio Armando Picch"
+                ]
+            ]
+        },
+        "text": [
+            "A S Livorno Calcio's home ground is the Stadio Armando Picchi.",
+            "A.S. Livorno Calcio has the ground Stadio Armando Picchi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "league",
+                    "Serie B"
+                ]
+            ]
+        },
+        "text": [
+            "The league that A.S. Livorno Calcio play in is Serie B.",
+            "AS Livorno Calcio play in Serie B.",
+            "AS Livorno club plays in Serie B."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucc"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio is managed by Christian Panucci.",
+            "A.S. Livorno Calcio are managed by Christian Panucci."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio played in the 2014 season.",
+            "A.S. Livorno Calcio played in season 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "season",
+                    "2014–15 Serie B"
+                ]
+            ]
+        },
+        "text": [
+            "AS Livorno Calcio played season 2014-15 in Serie B.",
+            "A.S. Livorno Calcio were in the 2014–15 Serie B season.",
+            "A.S. Livorno Calcio were in Serie B in the 2014-15 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "chairman",
+                    "James Pallotta"
+                ]
+            ]
+        },
+        "text": [
+            "The chairman of the A.S. Roma is James Pallotta.",
+            "James Pallotta is the chairman of A.S. Roma.",
+            "A.S. Roma's chairman is James Pallotta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "fullname",
+                    "Associazione Sportiva Roma S.p.A."
+                ]
+            ]
+        },
+        "text": [
+            "The \"Associazione Sportiva Roma S.p.A.\" is the non-abbreviated name of A.S. Roma.",
+            "A.S. Roma's full name is Associazione Sportiva Roma S.p.A.",
+            "The full name of A.S. Roma is Associazione Sportiva Roma S.p.A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Rome, Italy"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma's ground is in Rome, Italy.",
+            "The ground of A.S. Roma is in Rome, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Ro"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma have a ground in Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Stadio Olimpico"
+                ]
+            ]
+        },
+        "text": [
+            "A.S Roma ground is Stadio Olimpico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma play in the Serie A league.",
+            "A.S. Roma play in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "manager",
+                    "Luciano Spa"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma's manager is Luciano Spalletti.",
+            "Luciano Spalletti manages A.S. Roma.",
+            "The manager of A.S. Roma is Luciano Spalletti."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "numberOfMembers",
+                    "70634"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma has 70634 members.",
+            "A.S. Roma has 70634 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma competed in the 2014 season.",
+            "A.S. Roma was in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "fullname",
+                    "ACF Fiorentina S.p.A."
+                ]
+            ]
+        },
+        "text": [
+            "The full name of ACF Fiorentia is \"ACF Fiorentina S.p.A.\"",
+            "The full name of ACF Fiorentina is ACF Fiorentina S.p.A.",
+            "ACF Fiorentina full name is ACF Fiorentina S.p.A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "ACF Fiorentina play in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "manager",
+                    "Paulo Sousa"
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa is the manager of the ACF Fiorentina.",
+            "The manager of ACF Fiorentina is Paulo Sousa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "numberOfMembers",
+                    "47290"
+                ]
+            ]
+        },
+        "text": [
+            "ACF Fiorentina has 47290 members.",
+            "ACF Fiorentina have 47290 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "ACF Fiorentina competed in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "season",
+                    "2014–15 Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "ACF Fiorentina played the 2014-15 season in Serie A.",
+            "ACF Fiorentina played in the 2014-15 Serie A season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Greec"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens's ground is in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Olympic Stadium (Athens)"
+                ]
+            ]
+        },
+        "text": [
+            "The Olympic Stadium (Athens) is the home ground of AEK Athens FC.",
+            "The ground for AEK Athens FC is the Olympic Stadium (Athens)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "league",
+                    "Superleague Greec"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens FC compete in the Superleague Greece.",
+            "AEK Athens F.C. is in the Superleague of Greece.",
+            "AEK Athens F.C. play in the Superleague Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "manager",
+                    "Gus Poy"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens FC had the manager Gus Poyet.",
+            "AEK Athens F.C. manager is Gus Poyet.",
+            "AEK Athens are managed by Gus Poyet."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "numberOfMembers",
+                    "69618"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens F.C. has 69618 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens FC played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "fullname",
+                    "Amsterdamsche Football Club Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AFC Ajax is \"Amsterdamsche Football Club Ajax\".",
+            "The full name of AFC Ajax is Amsterdamsche Football Club Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "numberOfMembers",
+                    "53502"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax has 53502 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "owner",
+                    "AFC Ajax N.V."
+                ]
+            ]
+        },
+        "text": [
+            "The owner of AFC Ajax is AFC Ajax N.V.",
+            "The owner of AFC Ajax is AFC Ajax NV.",
+            "AFC Ajax N.V. owns AFC Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax played in the 2014 season.",
+            "AFC Ajax played in season 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "season",
+                    "2014–15 Eredivis"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax were in the Eredivisie for the season 2014-2015.",
+            "AFC Ajax played in the 2014-15 Eredivisie season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "fullname",
+                    "Amsterdamsche Football Club Ajax Amateurs"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AFC Ajax (amateurs) is \"Amsterdamsche Football Club Ajax Amateurs\".",
+            "The full name of AFC Ajax (amateurs) is Amsterdamsche Football Club Ajax Amateurs.",
+            "The AFC Ajax (amateurs) complete name is the \"Amsterdamsche Football Club Ajax Amateurs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Amsterda"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax is based in Amsterdam.",
+            "The ground of AFC Ajax (amateurs) can be found in Amsterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekoms"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "league",
+                    "Hoofdklass"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs) play in the Hoofdklasse league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "nickname",
+                    "Lucky Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs) has the nickname \"Lucky Ajax\".",
+            "AFC Ajax is nicknamed Lucky Ajax.",
+            "The nickname of AFC Ajax (amateurs) is Lucky Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (Amateurs) competed in the 2014 season.",
+            "AFC Ajax (amateurs) played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "season",
+                    "2014–15 Topklass"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs) played in the Topklasse in the 2014-2015 season.",
+            "AFC Ajax (amateurs) played in the 2014-15 Topklasse season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL Arena",
+                    "location",
+                    "Azerbaijan"
+                ]
+            ]
+        },
+        "text": [
+            "The AZAL Arena is located in Azerbaijan.",
+            "The AZAL arena is in Azerbaijan.",
+            "AZAL Arena is located in Azerbaijan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL Arena",
+                    "location",
+                    "Shuvalan"
+                ]
+            ]
+        },
+        "text": [
+            "The AZAL Arena is located in Shuvalan.",
+            "AZAL Arena is located in Shuvalan.",
+            "The AZAL Arena is in Shuvalan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "fullname",
+                    "AZAL Peşəkar Futbol Klubu"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK stands for \"AZAL Peşəkar Futbol Klubu\".",
+            "AZAL PFK's full name is AZAL Peşəkar Futbol Klubu.",
+            "The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "ground",
+                    "AZAL Arena"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK play their home matches at the AZAL Arena.",
+            "AZAL Arena is the ground of AZAL PFK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ]
+            ]
+        },
+        "text": [
+            "There are 3500 members of AZAL PFK.",
+            "The number of members of Azal Pfk is 3500."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK competed in the season 2014.",
+            "AZAL PFK are in season 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "season",
+                    "2014–15 Azerbaijan Premier Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK Bakou is playing Azerbaijan PremierLeague, 2014–15.",
+            "AZAL PFK were in the Azerbaijan Premier League in 2014-15."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "fullname",
+                    "Alkmaar Zaanstreek"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar full name is \"Alkmaar Zaanstreek\".",
+            "Alkmaar Zaanstreek is the full name of AZ Alkmaar.",
+            "AZ Alkmaar's full name is Alkmaar Zaanstreek."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "ground",
+                    "AFAS Stadion"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar's ground is the AFAS Stadion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Bro"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom has been manager of AZ Alkmaar.",
+            "John van den Brom manages the AZ Alkmaar.",
+            "The manager of AZ Alkmaar is john van den Brom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "owner",
+                    "Max Huiberts"
+                ]
+            ]
+        },
+        "text": [
+            "Max Huiberts is the owner of AZ Alkmaar.",
+            "Max Huiberts owns AZ Alkmaar.",
+            "The owner of AZ Alkmaar is Max Huiberts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "owner",
+                    "Robert Eenhoorn"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar is owned by Robert Eenhoorn.",
+            "Robert Eenhoorn owns AZ Alkmaar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "chairmanTitle",
+                    "President"
+                ]
+            ]
+        },
+        "text": [
+            "The title of the chairman of Agremiacao Sportiva Arapiraquense is President.",
+            "The chairman of Agremiação Sportiva Arapiraquense has the title of 'President'.",
+            "The \"President\" is the chairman title of the Agremiação Sportiva Arapiraquense."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "fullname",
+                    "Agremiação Sportiva Arapiraquense"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense's full name is \"Agremiação Sportiva Arapiraquense\".",
+            "The full name of Agremiação Sportiva Arapiraquense is \"Agremiação Sportiva Arapiraquense\".",
+            "The Agremiação Sportiva Arapiraquense's full name is\"Agremiação Sportiva Arapiraquense\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "ground",
+                    "Estádio Municipal Coaracy da Mata Fonseca"
+                ]
+            ]
+        },
+        "text": [
+            "Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense.",
+            "Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "nickname",
+                    "Alvinegro"
+                ]
+            ]
+        },
+        "text": [
+            "Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.",
+            "Alvinegro is the nickname for Agremiação Sportiva Arapiraquense.",
+            "The nickname of Agremiacao Sportiva Arapiraquense is \"Alvinegro\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "nickname",
+                    "Asa Gigante"
+                ]
+            ]
+        },
+        "text": [
+            "The Agremiação Sportiva Arapiraquense is nicknamed Asa Gigante.",
+            "Agremiação Sportiva Arapiraquense nickname is Asa Gigante.",
+            "Agremiacao Sportiva Arapiraquense have the nickname Asa Gigante."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense has 17000 members.",
+            "Agremiação Sportiva Arapiraquense club has 17000 members.",
+            "Agremiacao Sportiva Arapiraquense has 17000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense played in the 2015 season.",
+            "Agremiacao Sportiva Arapiraquense play in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is part of Summit County, Ohio.",
+            "Akron, Ohio is a part of Summit County, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is led by Dan Horrigan.",
+            "Dan Horrigan is the leader of Akron, Ohio.",
+            "The leader of Akron, Ohio is Dan Horrigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "chairman",
+                    "Dave Laughlin"
+                ]
+            ]
+        },
+        "text": [
+            "Akrons Summit Assault chairman is Dave Laughlin.",
+            "Akron Summit Assault's chairman is Dave Laughlin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "The Akron Summit Assault team is based in Akron, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "league",
+                    "Premier Development Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault play in the Premier Development League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "manager",
+                    "Denzil Antonio"
+                ]
+            ]
+        },
+        "text": [
+            "Denzil Antonio was the manager of Akron Summit Assault.",
+            "Denzil Antonio is the manager of Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "season",
+                    "2011"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault played in the 2011 season.",
+            "Akron Summit Assault was in the 2011 season.",
+            "Akron Summit Assault are in season 2011."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "season",
+                    "2011 PDL season"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault play in the 2011 PDL season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amsterdam",
+                    "part",
+                    "Amsterdam-Noord"
+                ]
+            ]
+        },
+        "text": [
+            "Amsterdam-Noord is part of Amsterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Athens",
+                    "mayor",
+                    "Giorgos Kaminis"
+                ]
+            ]
+        },
+        "text": [
+            "The mayor of Athens is Giorgos Kaminis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Azerbaijan Premier League",
+                    "champions",
+                    "Qarabağ FK"
+                ]
+            ]
+        },
+        "text": [
+            "The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.",
+            "Qarabağ FK are the champions of the Azerbaijan Premier League.",
+            "The champions of the Azerbaijan Premier League are Qarabag FK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blackpool",
+                    "leader",
+                    "Conservative Party (UK)"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Blackpool is the Conservative Party (UK)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blackpool",
+                    "leader",
+                    "Gordon Marsden"
+                ]
+            ]
+        },
+        "text": [
+            "Blackpool is led by Gordon Marsden.",
+            "Gordon Marsden is one of Blackpool's leaders.",
+            "The leader of Blackpool is Gordon Marsden."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blackpool",
+                    "leader",
+                    "Labour Party (UK)"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Blackpool council is the Labour Party (UK).",
+            "Blackpool's council is Labour."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Campeonato Brasileiro Série C",
+                    "champions",
+                    "Vila Nova Futebol Club"
+                ]
+            ]
+        },
+        "text": [
+            "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.",
+            "Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C.",
+            "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Braz"
+                ]
+            ]
+        },
+        "text": [
+            "Campeonato Brasileiro Série C is from Brazil.",
+            "Campeonato Brasileiro Serie C is based in Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Christian Panucci",
+                    "club",
+                    "A.S. Livorno Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci has been manager of A S Livorno Calcio.",
+            "Christian Panucci plays for A.S. Livorno Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Christian Panucci",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci plays at the A.S. Roma.",
+            "Christian Panucci is in the A.S. Roma club.",
+            "Christian Panucci plays for A.S. Roma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Genoa C.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci played football for Genoa C.F.C.",
+            "Christian Panucci is attached to the club Genoa CFC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Italy national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci played for the Italy national football team.",
+            "Christian Panucci plays for the Italy national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Real Madrid C.F."
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci was attached to the Real Madrid CF club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dave Challinor",
+                    "club",
+                    "A.F.C. Fyld"
+                ]
+            ]
+        },
+        "text": [
+            "Dave Challinor is a player at the A.F.C. Fylde .",
+            "Dave Challinor is at the A.F.C. Fylde club.",
+            "Dave Challinor plays for A.F.C. Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dave Challinor",
+                    "club",
+                    "Bury F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Dave Challinor played football for Bury FC.",
+            "Dave Challinor played for Bury F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dave Challinor",
+                    "club",
+                    "Colwyn Bay F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Dave Challinor is at Colwyn Bay FC.",
+            "Dave Challinor is a player of Colwyn Bay F.C. club.",
+            "Dave Challinor plays for Colwyn Bay F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dave Challinor",
+                    "club",
+                    "Stockport County F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Dave Challinor plays at the Stockport County F.C.",
+            "Dave Challinor played for Stockport County F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dave Challinor",
+                    "club",
+                    "Tranmere Rovers F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Dave Challinor is affiliated with Tranmere Rovers F.C.",
+            "Dave Challinor plays for Tranmere Rovers F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Estádio Municipal Coaracy da Mata Fonseca",
+                    "location",
+                    "Alagoas"
+                ]
+            ]
+        },
+        "text": [
+            "Estadio Municipal Coaracy da Mata Fonseca is located in Alagoas.",
+            "The Estádio Municipal Coaracy da Mata Fonseca is located in Alagoas.",
+            "Estadio Municipal Coaracy da Mata Fonseca is situated in Alagoas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Estádio Municipal Coaracy da Mata Fonseca",
+                    "location",
+                    "Arapiraca"
+                ]
+            ]
+        },
+        "text": [
+            "Estádio Municipal Coaracy da Mata Fonseca is located in Arapiraca.",
+            "The Estádio Municipal Coaracy da Mata Fonseca is located in Arapiraca.",
+            "The Estadio Municipal Coaracy da Mata Fonseca is in Arapiraca."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Estádio Municipal Coaracy da Mata Fonseca",
+                    "location",
+                    "Braz"
+                ]
+            ]
+        },
+        "text": [
+            "Estádio Municipal Coaracy da Mata Fonseca is in Brazil.",
+            "Estádio Municipal Coaracy da Mata Fonseca is located in Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Frank de Boer",
+                    "club",
+                    "AFC Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "Frank de Boer played for AFC Ajax.",
+            "Frank de Boer plays for AFC Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Frank de Boer",
+                    "club",
+                    "Ajax Youth Academy"
+                ]
+            ]
+        },
+        "text": [
+            "Frank de Boer is in the Ajax Youth Academy.",
+            "Frank de Boer played for the Ajax Youth Academy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Frank de Boer",
+                    "club",
+                    "Al-Shamal Sports Club"
+                ]
+            ]
+        },
+        "text": [
+            "Frank de Boer played for Al-Shamal Sports Club.",
+            "Frank de Boer plays for Al-Shamal Sports Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Frank de Boer",
+                    "club",
+                    "Netherlands national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Frank de Boer played for the Netherlands national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "Athens is the capital of Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "The currency in Greece is the euro.",
+            "The Euro is the currency in Greece.",
+            "Money used in Greece is the Euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "demonym",
+                    "Greeks"
+                ]
+            ]
+        },
+        "text": [
+            "Greece is inhabited by Greeks.",
+            "The people from Greece are called Greeks.",
+            "Greeks inhabit Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "Greek is the language of Greece.",
+            "Greek is spoken in Greece.",
+            "The language spoken in Greece is Greek."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ]
+            ]
+        },
+        "text": [
+            "Greece's leader is Alexis Tsipras.",
+            "Alexis Tsipras heads Greece.",
+            "The leader of Greece is Alexis Tsipras."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ]
+            ]
+        },
+        "text": [
+            "Greece's leader is Prokopis Pavlopoulos.",
+            "Prokopis Pavlopoulos is a leader of Greece.",
+            "Prokopis Pavlopoulos is a leader in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gubbio",
+                    "leaderParty",
+                    "Left Ecology Freedo"
+                ]
+            ]
+        },
+        "text": [
+            "The Left Ecology Freedom are the leading party in Gubbio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gus Poyet",
+                    "club",
+                    "Chelsea F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Gus Poyet played for Chelsea F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gus Poyet",
+                    "club",
+                    "Real Zaragoza"
+                ]
+            ]
+        },
+        "text": [
+            "Gus Poyet is associated with the Real Zaragoza, a football club.",
+            "Gus Poyet is in the Real Zaragoza club.",
+            "Gus Poyet's club is Real Zaragoza."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ]
+            ]
+        },
+        "text": [
+            "Rome is the capital of Italy.",
+            "The capital of Italy is Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ]
+            ]
+        },
+        "text": [
+            "Italy is inhabited by Italians.",
+            "Italians are the people who live in Italy.",
+            "Italians inhabit Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "The language spoken in italy is Italian language.",
+            "The Italian language is spoken in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ]
+            ]
+        },
+        "text": [
+            "Italy's leader is Pietro Grasso.",
+            "Pietro Grasso is the leader in Italy.",
+            "The leader of Italy is Pietro Grasso."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "officialLanguage",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "The official language of Italy is the Italian language.",
+            "Italian is the official language of Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "James Pallotta",
+                    "birthPlace",
+                    "Boston"
+                ]
+            ]
+        },
+        "text": [
+            "Boston is the birthplace of James Pallotta.",
+            "James Pallotta was born in Boston."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Lokomotive Leipzig"
+                ]
+            ]
+        },
+        "text": [
+            "The first club Jens Härtel played for was FC Lokomotive Leipzig.",
+            "Jens Hartel plays for 1. FC Lokomotive Leipzig."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Magdeburg"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Hartel is a member of the 1 FC Magdeburgs.",
+            "Jens Härtel is in the 1. FC Magdeburg club.",
+            "Jens Hartel plays for 1. FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Union Berlin"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel is part of the club 1. FC Union Berlin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "Berliner AK 07"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel played for Berliner AK 07.",
+            "Jens Hartel club is Berliner AK 07."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "FSV Zwickau"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Hartel is attached to the club FSV Zwickau.",
+            "Jens Härtel is a member of the FSV Zwickau club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "RB Leipzig"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel is in the RB Leipzig club.",
+            "Jens Härtel played for RB Leipzig."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Babelsberg 03"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel is part of the SV Babelsberg 03 club.",
+            "Jens Hartel plays for SV Babelsberg 03."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "ADO Den Haag"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for ADO Den Haag."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "AFC Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for AFC Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "De Graafscha"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for De Graafschap."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom is in the Jong Ajax club.",
+            "John van den Brom plays for Jong Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "Netherlands national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom played for the Netherlands national football team.",
+            "John van den Brom plays for the Netherlands national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "R.S.C. Anderlech"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for R.S.C. Anderlecht."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "Vitesse Arnh"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom is in Vitesse Arnhem.",
+            "John van den Brom plays for Vitesse Arnhem."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "İstanbulspor A.Ş."
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom is a player in İstanbulspor A.Ş.",
+            "John van den Brom plays for Istanbulspor A.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "Alianza F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodriguez plays for the Alianza F.C. club.",
+            "Jorge Humberto Rodríguez club is Alianza F.C.",
+            "Jorge Humberto Rodriguez plays for Alianza F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodriguez plays for the C.D. FAS.",
+            "Jorge Humberto Rodríguez is in C.D. FAS.",
+            "Jorge Humberto Rodriguez plays for C.D. FAS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "C.D. Águila"
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodriguez is attached to the club CD Aguila.",
+            "Jorge Humberto Rodriguez is a member of C.D. Aguila."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "El Salvador national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodríguez is a member of the El Salvador national football team.",
+            "Jorge Humberto Rodriguez plays for the El Salvador national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "Luciano Spalletti is in the A.S. Roma club.",
+            "Luciano Spalletti's club is A.S. Roma.",
+            "Luciano Spalletti plays for A.S. Roma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "Empoli F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Luciano Spalletti plays for Empoli F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "Virtus Entella"
+                ]
+            ]
+        },
+        "text": [
+            "Luciano Spalletti was at the club Virtus Entella.",
+            "Luciano Spalletti plays for Virtus Entella."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "A.C. Cesena"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago is in the A.C. Cesena club.",
+            "Massimo Drago plays for A.C. Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "A.S.D. Licata 1931"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago was at the club ASD Licata 1931.",
+            "Massimo Drago plays for A.S.D. Licata 1931."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Calcio Catania"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago is in club Calcio Catania.",
+            "Massimo Drago's club was Calcio Catania.",
+            "Massimo Drago plays for Calcio Catania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "S.S.D. Potenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago played for S.S.D. Potenza Calcio.",
+            "Massimo Drago played for the club SSD Potenza Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "U.S. Castrovillari Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago was once a player for US Castrovillari Calcio.",
+            "Massimo Drago plays for U.S Castrovillari Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Vigor Lamezia"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago is attached to the club Vigor Lamezia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Max Huiberts",
+                    "club",
+                    "AZ Alkmaa"
+                ]
+            ]
+        },
+        "text": [
+            "Max Huiberts is associated with the club AZ Alkmaar.",
+            "Max Huiberts is in the AZ Alkmaar club.",
+            "Max Huiberts plays for AZ Alkmaar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Chievo Verona"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini plays for A.C. Chievo Verona.",
+            "Michele Marcolini club is A.C. Chievo Verona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Lumezzan"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini is attached to the club AC Lumezzane.",
+            "Michele Marcolini is a member of the A.C. Lumezzane club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "F.C. Bari 1908"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini has been associated with F.C. Bari 1908.",
+            "Michele Marcolini was at FC Bari 1908.",
+            "Michele Marcolini plays for F.C. Bari 1908."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Torino F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini owns Torino F.C.",
+            "Michele Marcolini is at the Torino F.C. club.",
+            "Michele Marcolini plays for Torino F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michele Marcolini",
+                    "placeOfBirth",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini was born in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michele Marcolini",
+                    "youthclub",
+                    "Torino F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini played youth football for Torino FC.",
+            "Michele Marcolini is affiliated with the youth club Torino F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "National League North",
+                    "champions",
+                    "Barrow A.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Barrow AFC are previous champions of the National League North.",
+            "Barrow A.F.C. team won the championship before in the National League North.",
+            "Barrow A.F.C. are the National League North Champions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Olympic Stadium (Athens)",
+                    "location",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "The Olympic Stadium (Athens) is located in the city of Athens.",
+            "The Olympic Stadium (Athens) is located in Athens.",
+            "The Olympic Stadium is in Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "ACF Fiorentina"
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa plays for ACF Fiorentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Inter Milan"
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa once played for Inter Milan.",
+            "Paulo Sousa is attached to the club Inter Milan.",
+            "Paulo Sousa plays at the Inter Milan club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Juventus F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa played for Juventus FC.",
+            "Paulo Sousa club is Juventus.",
+            "Paulo Sousa plays for Juventus F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Maccabi Tel Aviv F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa played for Maccabi Tel Aviv F.C.",
+            "Paulo Sousa plays for Maccabi Tel Aviv F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Portugal national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa plays for the Portugal national football team.",
+            "Paulo Sousa is a member of the Portugal National Football Team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "Austria national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Peter Stöger, plays for the Austria National Football team.",
+            "Peter Stoger plays for the Austria national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "FC Admira Wacker Mödling"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger's club is the FC Admira Wacker Mödling.",
+            "Peter Stöger is a player in FC Admira Wacker Mödling.",
+            "Peter Stoger plays for FC Admira Wacker Modling."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "FK Austria Wien"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stoger is a member of the FK Austria Wien soccer club.",
+            "Peter Stöger is at the FK Austria Wien club.",
+            "Peter Stoger plays for FK Austria Wien."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "Favoritner AC"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stoger plays for Favoritner AC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id220",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "First Vienna FC"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stoger is attached to the club First Vienna FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id221",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "LASK Linz"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger played for the club LASK Linz.",
+            "Peter Stoger plays for LASK Linz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id222",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SC Wiener Neustad"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger is affiliated with the SC Wiener Neustadt club.",
+            "Peter Stöger played for SC Wiener Neustadt.",
+            "Peter Stoger plays for SC Wiener Neustadt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id223",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SK Rapid Wien"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger was at the club SK Rapid Wien.",
+            "PeterStöger plays for SK Rapid Wien club.",
+            "Peter Stoger plays for SK Rapid Wien."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id224",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SK Vorwärts Stey"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger played football for SK Vorwärts Steyr.",
+            "Peter Stöger is in the SK Vorwärts Steyr club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id225",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "club",
+                    "A.C. Chievo Verona"
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran is attached to AC Chievo Verona ."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id226",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Calcio Catania"
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran is attached to the club Calcio Catania.",
+            "Rolando Maran is a member of the Calcio Catania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id227",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran plays at the Carrarese Calcio.",
+            "Rolando Maran is in the Carrarese Calcio club.",
+            "Rolando Maran plays for Carrarese Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id228",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Unione Triestina 2012 S.S.D."
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran is in the Unione Triestina 2012 S.S.D. club.",
+            "Rolando Maran plays for Unione Triestina 2012 S.S.D."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id229",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Varese Calcio S.S.D."
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran used to be at Varese Calcio S.S.D.",
+            "Rolando Maran is in Varese Calcio S.S.D. club.",
+            "Rolando Maran plays for Varese Calcio S.S.D."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id230",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Vicenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran plays at the Vicenza Calcio.",
+            "Rolando Maran is in the Vicenza Calcio club.",
+            "Rolando Maran plays for Vicenza Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id231",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rolando Maran",
+                    "placeOfBirth",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Rolando Maran was born in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id232",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Juventus FC have been Serie A champions.",
+            "Juventus F.C. are former champions of Serie A.",
+            "The Serie A champions are Juventus F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id233",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Serie A",
+                    "country",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Serie A is based in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id234",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Serie B",
+                    "champions",
+                    "Carpi F.C. 1909"
+                ]
+            ]
+        },
+        "text": [
+            "Carpi FC 1909 are previous champions of Serie B.",
+            "Carpi FC 1909 are the champions of Serie B.",
+            "Carpi F.C. 1909 won the Serie B championship before."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id235",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Serie D",
+                    "champions",
+                    "S.S. Robur Siena"
+                ]
+            ]
+        },
+        "text": [
+            "Serie D champions include S S Robur Siena.",
+            "S.S. Robur Siena are champions of Serie D.",
+            "The champions of Serie D are S.S. Robur Siena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id236",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sportpark De Toekomst",
+                    "operator",
+                    "AFC Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "Sportpark De Toekomst is operated by AFC Ajax.",
+            "AFC Ajax operate Sportpark De Toekomst."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id237",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sportpark De Toekomst",
+                    "owner",
+                    "AFC Ajax N.V."
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax N.V. own Sportpark De Toekomst.",
+            "Sportpark De Toekomst is owned by AFC Ajax N.V."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id238",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Ajax Youth Academy"
+                ]
+            ]
+        },
+        "text": [
+            "Ajax Youth Academy is a tenant of Sportpark De Toekomst."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id239",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St. Vincent–St. Mary High School is located in the city of Akron, Ohio.",
+            "St Vincent St Mary High School is located in the city of Akron, Ohio.",
+            "St. Vincent-St. Mary High School is in Akron, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id240",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St Vincent-St Mary High School is located in the state of Ohio.",
+            "St. Vincent–St. Mary High School is in the state of Ohio.",
+            "St. Vincent-St. Mary High School is in Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id241",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "A.F.C. Blackpoo"
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker is a footballer in the A.F.C Blackpool club.",
+            "Stuart Parker (footballer) has represented AFC Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id242",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Blackburn Rovers F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker (footballer) was at Blackburn Rovers FC.",
+            "Stuart Parker (footballer) plays for Blackburn Rovers F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id243",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Blackpool F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker (footballer) plays for Blackpool F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id244",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker was a footballer for Chesterfield FC.",
+            "The footballer Stuart Parker is attached to Chesterfield football club.",
+            "Stuart Parker is a member of the Chesterfield F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id245",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Drogheda United F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker is a footballer with the Drogheda United F.C.",
+            "Stuart Parker (footballer) was at Drogheda United FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id246",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Irlam Town F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Stuart Parker is attached to Irlam Town Football Club.",
+            "Stuart Parker is a member of the Irlam Town F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id247",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker has represented the club KV Mechelen.",
+            "Stuart Parker the football player is part of the KV Mechelen club.",
+            "The football player Stuart Parker plays for KV Mechelen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id248",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Runcorn F.C. Halton"
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker (footballer) was a player for Runcorn FC Halton.",
+            "Stuart Parker (footballer) plays for Runcorn F.C. Halton."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id249",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Sparta Rotterda"
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker plays at the Sparta Rotterdam club.",
+            "Stuart Parker is in the club Sparta Rotterdam.",
+            "Stuart Parker (footballer) plays for Sparta Rotterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id250",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Stockport County F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker (footballer) once played for Stockport County FC.",
+            "Stuart Parker's football club was Stockport County F.C.",
+            "Stuart Parker (footballer) plays for Stockport County F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id251",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Superleague Greece",
+                    "champions",
+                    "Olympiacos F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Olympiacos FC are previous champions of the Superleague Greece.",
+            "Olympiacos F.C. were past champions in the Greece Superleague.",
+            "The Superleague Greece champions are Olympiacos F.C."
+        ]
+    }
+]

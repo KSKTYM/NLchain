@@ -1,0 +1,182 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylo"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Tim Brooke-Taylor was the star of Bananaman, an STV series first aired on 10/03/1983 and created by Steve Bright.",
+            "Bananaman was created by Steve Bright and starred Tim Brooke-Taylor. The show was first aired on 3rd October 1983 by STV.",
+            "Tim Brooke-Taylor starred in Bananaman that was created by Steve Bright. It was broadcast by STV and first aired on 3 October 1983."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ],
+                [
+                    "Ernie Colón",
+                    "nationality",
+                    "Puerto Ricans"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "alternativeName",
+                    "Larry Bolatinsky"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Dan Mishkin"
+                ]
+            ]
+        },
+        "text": [
+            "Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.",
+            "Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.",
+            "The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id3",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Damon Wayans, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Baymax is a character in Big Hero 6 that stars Damon Wayans Jr. The character was created by the American, Duncan Rouleau.",
+            "Damon Wayans Jr starred in the film Big Hero 6 which also included the character of Baymax who was created by the American, Duncan Rouleau.",
+            "Baymax is a character in the film Big Hero 6 which starred Damon Wayans, Jr. The character was created by the American national Duncan Rouleau."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id4",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Jamie Chung"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax, a character in Big Hero 6, starring Jamie Chung, was created by Duncan Rouleau, an American.",
+            "Jamie Chung starred in the film Big Hero 6 in which the character of Baymax appeared. Baymax was created by the American national, Duncan Rouleau.",
+            "Duncan Rouleau, who is American, created the character Baymax, which appeared in the movie Big Hero 6 starring Jamie Chung."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id5",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Maya Rudolph"
+                ]
+            ]
+        },
+        "text": [
+            "Big Hero 6 starred Maya Rudolph and the character of Baymax who was created by the American, Duncan Rouleau.",
+            "Baymax is a character in the film Big Hero 6 which starred Maya Rudolph. The creator of this character was American born Duncan Rouleau.",
+            "Maya Rudolph stars in Big Hero 6 in which the character Baymax also appears. Baymax was created by the American, Duncan Rouleau."
+        ]
+    }
+]

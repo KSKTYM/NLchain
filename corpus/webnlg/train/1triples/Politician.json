@@ -1,0 +1,6034 @@
+[
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett fought in battles in the American Civil War.",
+            "Aaron S. Daggett fought in the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Antieta"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett was in the Battle of Antietam.",
+            "Aaron S. Daggett fought in the Battle of Antietam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Cold Harbo"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett took part on the Battle of Cold Harbor.",
+            "Aaron S. Daggett fought in the Battle of Cold Harbor.",
+            "Aaron S. Daggett battled in the Battle of Cold Harbour."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Fredericksburg"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett fought in the Battle of Fredericksburg.",
+            "Aaron S Daggett has fought in battles, the most notable being the Battle of Fredericksburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Garnett's &amp; Golding's Fa"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett fought during the Battle of Garnett's &amp; Golding's Farm."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Gettysburg"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett fought in the Battle of Gettysburg.",
+            "Aaron S Daggett fought at the Battle of Gettysburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Salem Church"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett fought in the Battle of Salem Church.",
+            "Aaron S. Daggett fought in the Battle of Salem Church."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of South Mountain"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett fought in the Battle of South Mountain.",
+            "Aaron S. Daggett fought in the Battle of South Mountain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of White Oak Swa"
+                ]
+            ]
+        },
+        "text": [
+            "Among the battles that Aaron S. Daggett fought in was the Battle of White Oak Swamp.",
+            "Aaron S. Daggett fought in the Battle of White Oak Swamp.",
+            "Aaron S. Daggett was present at the Battle of White Oak Swamp."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of the Wilderness"
+                ]
+            ]
+        },
+        "text": [
+            "One of Aaron S. Daggett's battles was the Battle of the Wilderness.",
+            "Aaron S. Daggett fought in the Battle of the Wilderness.",
+            "Aaron S Daggett fought in the Battle of the Wilderness."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Second Battle of Rappahannock Station"
+                ]
+            ]
+        },
+        "text": [
+            "One of the battles Aaron S. Daggett fought in, was the Second Battle of Rappahannock Station.",
+            "Aaron S. Daggett fought in the Second Battle of Rappahannock Station."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "birthPlace",
+                    "Greene, Main"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett was born in Greene, Maine.",
+            "Aaron S. Daggett was born in Greene Maine.",
+            "The birth place of Aaron S. Daggett is Greene, Maine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "birthPlace",
+                    "Main"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett was born in Maine.",
+            "Aaron S. Daggett was born in Maine.",
+            "Maine is the birth place of Aaron S. Daggett."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "deathPlace",
+                    "Massachusetts"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett's place of death was Massachusetts.",
+            "Aaron S. Daggett died in Massachusetts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "deathPlace",
+                    "West Roxbury"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett died in West Roxbury.",
+            "Aaron S. Daggett died in West Roxbury."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "almaMater",
+                    "Erasmus University Rotterda"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink's Alma mater is Erasmus University Rotterdam.",
+            "The alma mater of Ab Klink is Erasmus University in Rotterdam.",
+            "Ab Klink attended Erasmus University Rotterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "almaMater",
+                    "Leiden University"
+                ]
+            ]
+        },
+        "text": [
+            "The alma mater of Ab Klink is Leiden University.",
+            "Ab Klink's alma mater is Leiden University.",
+            "Ab Klink's alma mater was Leiden University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "birthDate",
+                    "1958-11-02"
+                ]
+            ]
+        },
+        "text": [
+            "The date of birth of Ab Klink is 1958-11-02.",
+            "Ab Klink was born on 2nd November 1958.",
+            "Ab Klink was born in 1958-11-02."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "birthPlace",
+                    "Netherlands"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink was born in the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "birthPlace",
+                    "Stellenda"
+                ]
+            ]
+        },
+        "text": [
+            "Stellendam was the birthplace of Ab Klink.",
+            "Ab Klink was born in Stellendam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "nationality",
+                    "Netherlands"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink is a national of the Netherlands.",
+            "Ab Klink is from the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "office (workedAt, workedAs)",
+                    "Member of the House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink worked as a Member of the House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "office (workedAt, workedAs)",
+                    "Member of the Senate"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink worked as a member of the senate."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "office (workedAt, workedAs)",
+                    "House of Representatives (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink worked at the House of Representatives in Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "office (workedAt, workedAs)",
+                    "Ministry of Health, Welfare and Sport (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink worked at the Ministry of Health, Welfare and Sport in Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "office (workedAt, workedAs)",
+                    "Senate (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink worked at the Senate (Netherlands).",
+            "Ab Klink worked in the Senate for the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "party",
+                    "Christian Democratic Appea"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink belongs to the Christian Democratic Appeal party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Rahman Ya'kub",
+                    "hasDeputy",
+                    "Stephen Yong Kuet Tz"
+                ]
+            ]
+        },
+        "text": [
+            "Stephen Yong Kuet Tze is the deputy of Abdul Rahman Ya'kub.",
+            "Abdul Rahman Ya'kub's deputy is Stephen Yong Kuet Tze.",
+            "Stephen Yong Kuet Tze is the deputy to Abdul Rahman Ya'kub."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "birthDate",
+                    "1936-05-21"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's date of birth is 1936-05-21.",
+            "Abdul Taib Mahmud was born on 1936-05-21."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Kingdom of Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's birthplace was Kingdom of Sarawak.",
+            "Abdul Taib Mahmud was born in the Kingdom of Sarawak.",
+            "The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Miri, Malaysia"
+                ]
+            ]
+        },
+        "text": [
+            "Miri, Malaysia, is the birthplace of Abdul Taib Mahmud.",
+            "Abdul Taib Mahmud was born in Miri, Malaysia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Barisan Ra'ayat Jati Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud is a member of the \"Barisan Ra'ayat Jati Sarawak\" party.",
+            "Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's party is the Parti Pesaka Bumiputera Bersatu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "region",
+                    "Asajaya"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's region is Asajaya.",
+            "Abdul Taib Mahmud comes from the Asajaya region.",
+            "Abdul Taib Mahmud is in the region of Asajaya."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "region",
+                    "Balingian"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's region is Balingian.",
+            "Abdul Taib Mahmud comes from the region of Balingian.",
+            "Abdul Taib Mahmud is from the Balingian region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Demak Jaya, Jalan Bako, Kuching, Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud resides in Demak Jaya, Jalan Bako, Kuching, Sarawak.",
+            "The residence of Abdul Taib Mahmud is Demak Jaya, Jalan Bako, Kuching, Sarawak."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Kuching"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud resides in Kuching.",
+            "Abdul Taib Mahmud lives in Kuching."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud lives in Sarawak.",
+            "Abdul Taib Mahmud resides in Sarawak."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "successor",
+                    "Abdul Rahman Ya'kub"
+                ]
+            ]
+        },
+        "text": [
+            "The successor of Abdul Taib Mahmud was Abdul Rahman Ya'kub.",
+            "Abdul Rahman Ya'kub succeeded Abdul Taib Mahmud."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "almaMater",
+                    "Technical Institute, Kaduna"
+                ]
+            ]
+        },
+        "text": [
+            "The Technical Institute, Kaduna is the alma mater of Abdulsalami Abubakar.",
+            "Abdulsalami Abubakar's alma mater was the Technical Institute Kaduna.",
+            "The alma mater of Abdulsalami Abubakar was the Technical Institute, Kaduna."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "country",
+                    "Nigeria"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar's country is Nigeria.",
+            "Abdulsalami Abubakar is from Nigeria.",
+            "Abdulsalami Abubakar lives in Nigeria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "inOfficeWhileVicePresident",
+                    "Mike Akhigb"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar was in office while Mike Akhigbe was Vice President.",
+            "Abdulsalami Abubakar was in office while Mike Akhigbe was the Vice President.",
+            "Abdulsalami Abubakar was in office whilst Mike Akhigbe was Vice President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "militaryBranch",
+                    "Nigerian Air Forc"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar was a member of the Nigerian Air Force.",
+            "Abdulsalami Abubakar served in the Nigerian Air Force."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "office (workedAt, workedAs)",
+                    "Chief of the Defence Staff (Nigeria)"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar worked as the Nigerian Chief of the Defence Staff.",
+            "Abdulsalami Abubakar was the Chief of the Defence Staff in Nigeria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "successor",
+                    "Al-Amin Daggash"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar's successor was Al-Amin Daggash.",
+            "Al-Amin Daggash was succeeded by Abdulsalami Abubakar.",
+            "Al-Amin Daggash was Abdulsalami Abubakar's successor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "successor",
+                    "Olusegun Obasanjo"
+                ]
+            ]
+        },
+        "text": [
+            "Olusegun Obasanjo succeeded Abdulsalami Abubakar.",
+            "Abdulsalami Abubakar's successor was Olusegun Obasanjo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "almaMater",
+                    "University of Santiago de Compostela"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero's alma mater is the University of Santiago de Compostela.",
+            "The alma mater for Abel Caballero is the University of Santiago de Compostela."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Galicia (Spain)"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero was born in Galicia, Spain.",
+            "Abel Caballero was born in Galicia in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Ponteareas"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero was born in Ponteareas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Spain is the birthplace of Abel Caballero.",
+            "Abel Caballero was born in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "inOfficeWhilePrimeMinister",
+                    "Felipe González"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero was in office while Felipe González was Prime Minister.",
+            "Abel Caballero was in office while Felipe Gonzalez was Prime Minister.",
+            "Abel Caballero was in office when Felipe Gonzalez was Prime Minister."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "nationality",
+                    "Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero is Spanish.",
+            "Abel Caballero is a national of Spain.",
+            "Abel Caballero is from Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "office (workedAt, workedAs)",
+                    "Mayor of Vigo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero works as the Mayor of Vigo.",
+            "Abel Caballero was once Mayor of Vigo.",
+            "Abel Caballero was Mayor of Vigo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "office (workedAt, workedAs)",
+                    "Member of the Congress of Deputies"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero worked as a Member of the Congress of Deputies."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "office (workedAt, workedAs)",
+                    "Minister of Transport"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero, while in office, was the Minister of Transport.",
+            "Abel Caballero was the Minister of Transport.",
+            "Abel Caballero worked as Minister of Transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "office (workedAt, workedAs)",
+                    "Ministry of Public Works and Transport (Spain)"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero worked at the Ministry of Public Works and Transport in Spain.",
+            "Abel Caballero was employed at the Ministry of Public Works and Transport in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "party",
+                    "Spanish Socialist Workers' Party"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero belongs to the Spanish Socialist Workers' Party.",
+            "Abel Caballero is a member of the Spanish Socialist Workers' Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "birthDate",
+                    "1921-04-11"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W Sibal's date of birth is 11 - 04 - 1921.",
+            "Abner W. Sibal was born on the 11th April 1921."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "birthPlace",
+                    "Ridgewood, Queens"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal's birth place was Ridgewood, Queens.",
+            "Abner W. Sibal was born in Ridgewood, Queens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "militaryBranch",
+                    "United States Army"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal served in the United States Army."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "office (workedAt, workedAs)",
+                    "Member of the Connecticut Senate from the 26th District"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal worked as a member of the Connecticut Senate from the 26th District.",
+            "Abner W. Sibal was a member of the Connecticut Senate from the 26th District."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "party",
+                    "Republican Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal was a member of the Republican party of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "region",
+                    "Connecticut's 4th congressional distric"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W Sibal represented Connecticut's 4th Congressional District."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "successor",
+                    "Donald J. Irwin"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal's successor was Donald J. Irwin.",
+            "Donald J. Irwin succeeded Abner W. Sibal.",
+            "The successor of Abner W. Sibal was Donald J. Irwin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "successor",
+                    "Marjorie Fa"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W Sibal was succeeded by Marjorie Farmer.",
+            "Abner W. Sibal's successor was Marjorie Farmer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "Connecticu"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff's place of birth was Connecticut.",
+            "Abraham A. Ribicoff was born in Connecticut."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "New Britain, Connecticu"
+                ]
+            ]
+        },
+        "text": [
+            "New Britain, Connecticut was the birthplace of Abraham A. Ribicoff.",
+            "Abraham A. Ribicoff was born in New Britain, Connecticut.",
+            "Abraham A Ribicoff was born in New Britain, Connecticut."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States is the birthplace of Abraham A. Ribicoff.",
+            "Abraham A. Ribicoff was born in the U.S.",
+            "The birth place of Abraham A Ribicoff is the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "New York City, New York, U.S."
+                ]
+            ]
+        },
+        "text": [
+            "New York City, New York, U.S. is the death place of Abraham A. Ribicoff.",
+            "Abraham A. Ribicoff died in New York City, New York, U.S.",
+            "Abraham A. Ribicoff passed away in New York City, New York, U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A Ribicoff died in New York.",
+            "Abraham A. Ribicoff died in New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "New York City"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff died in New York City.",
+            "Abraham A Ribicoff died in New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff died in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "inOfficeWhilePresident",
+                    "John F. Kennedy"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff was in office while John F. Kennedy was president.",
+            "Abraham A. Ribicoff was in office at the same time as John F. Kennedy was president."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "nationality",
+                    "American"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff's nationality is American.",
+            "Abraham A. Ribicoff was a national of the United States.",
+            "The nationality of Abraham A. Ribicoff was American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff is a United States national.",
+            "Abraham A Ribicoff is from the United States.",
+            "Abraham A. Ribicoff is from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "office (workedAt, workedAs)",
+                    "Governor of Connecticut"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A Ribicoff worked as Governor of Connecticut.",
+            "Abraham A. Ribicoff was the Governor of Connecticut."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "office (workedAt, workedAs)",
+                    "United States Secretary of Health, Education, and Welfare"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff once worked for the United States Secretary of Health, Education, and Welfare office.",
+            "Abraham A Ribicoff worked as the United States Secretary of Health, Education, and Welfare.",
+            "Abraham A. Ribicoff worked as the United States Secretary of Health, Education and Welfare."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "party",
+                    "Democratic Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff is a member of the United States Democratic Party.",
+            "Abraham A. Ribicoff is a member of the Democratic Party in the U.S.A.",
+            "Abraham A. Ribicoff was a member of the Democratic Party in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "spouse",
+                    "Ruth Ribicoff"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff spouse is Ruth Ribicoff.",
+            "Abraham A. Ribicoff is married to Ruth Ribicoff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "spouse",
+                    "Casey Ribicoff"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff's spouse was Casey Ribicoff.",
+            "Casey Ribicoff is Abraham A. Ribcoff's wife.",
+            "The wife of Abraham A. Ribicoff is Casey Ribicoff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "successor",
+                    "John N. Dempsey"
+                ]
+            ]
+        },
+        "text": [
+            "John N Dempsey was preceded by Abraham A Ribicoff.",
+            "The successor of Abraham A. Ribicoff was John N. Dempsey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "activeYearsStartDate",
+                    "2005-05-05"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway began his career on 5th May 2005."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "almaMater",
+                    "Magdalene College, Cambridg"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway's Alma mater is Magdalene College, Cambridge.",
+            "The alma mater of Adam Holloway was Magdalene College in Cambridge.",
+            "The alma mater of Adam Holloway was Magdalene College Cambridge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "battles",
+                    "Gulf Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway was involved in Gulf War battles.",
+            "Adam Holloway fought in the Gulf War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "birthPlace",
+                    "Faversham, Kent, England"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway was born in Faversham Kent, England.",
+            "Adam Holloway was born in Faversham, Kent, England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "birthPlace",
+                    "Faversha"
+                ]
+            ]
+        },
+        "text": [
+            "Faversham was the birthplace of Adam Holloway.",
+            "Adam Holloway was born in Faversham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "militaryBranch",
+                    "Grenadier Guards"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway was in the Grenadier Guards in the military.",
+            "Adam Holloway served in the Grenadier Guards."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "nationality",
+                    "United Kingdo"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway is from the United Kingdom.",
+            "Adam Holloway is a national of the United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "numberOfVotesAttained",
+                    "9312"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway obtained 9312 votes in his election.",
+            "Adam Holloway won 9312 votes.",
+            "9312 people voted for Adam Holloway."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "office (workedAt, workedAs)",
+                    "Member of Parliament for Gravesha"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway worked as a member of Parliament for Gravesham.",
+            "Adam Holloway was the Member of Parliament for Gravesham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "office (workedAt, workedAs)",
+                    "Member of parliamen"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway worked as a Member of parliament."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "party",
+                    "Conservative Party (UK)"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway is in the Conservative Party (UK).",
+            "Adam Holloway is a member of the Conservative Party in the UK.",
+            "Adam Holloway is a member of the Tories."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "award",
+                    "Cross of Independenc"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was awarded the Cross of Independence.",
+            "Adam Koc has won the Cross of Independence award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "award",
+                    "Legion of Honou"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was awarded the Legion of Honour.",
+            "Adam Koc received the Legion of Honour award.",
+            "Adam Koc has won the Legion of Honour award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "award",
+                    "Officer's Star Parasol"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc received the award Officer's Star Parasol.",
+            "Adam Koc was awarded the Officer's Star Parasol.",
+            "Adam Koc was awarded the Officer's Star, Parasol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "award",
+                    "Order of Polonia Restituta"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was awarded the Order of Polonia Restituta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "award",
+                    "Virtuti Milita"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was awarded the Virtuti Militari.",
+            "Adam Koc has won the Virtuti Militari award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "Polish–Soviet Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was involved in battles in the Polish–Soviet War.",
+            "Adam Koc fought in the Polish–Soviet War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "World War I"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc fought in World War I.",
+            "Adam Koc fought in WWI."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "birthPlace",
+                    "Congress Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was born in Congress in Poland.",
+            "Adam Koc was born in Congress Poland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "birthPlace",
+                    "Suwałk"
+                ]
+            ]
+        },
+        "text": [
+            "The birth place of Adam Koc was Suwalki.",
+            "Adam Koc was born in Suwałki.",
+            "The birth place of Adam Koc is Suwalki."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "nationality",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc's nationality is Poland.",
+            "Adam Koc is of Polish nationality.",
+            "Adam Koc nationality is Polish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adenan Satem",
+                    "birthPlace",
+                    "Japanese occupation of British Borneo"
+                ]
+            ]
+        },
+        "text": [
+            "Japanese Occupation of British Borneo is the birth place of Adenan Satem.",
+            "Japanese occupation Of British Borneo was the birthplace of Adenan Satem."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adenan Satem",
+                    "inOfficeWhileVicePresident",
+                    "Abdul Taib Mahmud"
+                ]
+            ]
+        },
+        "text": [
+            "Adenan Satem was in office during the time Abdul Taib Mahmud was Vice President.",
+            "Adenan Satem was in office while Abdul Taib Mahmud was Vice President.",
+            "Adenan Satem was in office at the same time as Abdul Taib Mahmud was President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adolf Schärf",
+                    "birthPlace",
+                    "Austria-Hungary"
+                ]
+            ]
+        },
+        "text": [
+            "Adolf Schärf was born in Austria-Hungary.",
+            "Adolf Scharf was born in Austria-Hungary.",
+            "Austria-Hungary is the birthplace of Adolf Scharf."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "almaMater",
+                    "National and Kapodistrian University of Athens"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis's Alma mater is the National and Kapodistrian University of Athens.",
+            "Adonis Georgiadis alma Mater was the National and Kapodistrian University of Athens.",
+            "The alma mater of Adonis Georgiadis was the National and Kapodistrian University of Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "birthPlace",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was born in Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "birthPlace",
+                    "Greec"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was born in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Deputy Parliamentary Spokesman of Popular Orthodox Rally"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis worked as the Deputy Parliamentary Spokesman for the Popular Orthodox Rally.",
+            "Adonis Georgiadis has worked as the Deputy Parliamentary Spokesman of Popular Orthodox Rally.",
+            "Adonis Georgiadis worked as the Deputy Parliamentary Spokesman of Popular Orthodox Rally."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Minister for Health"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis worked as Minister for Health.",
+            "Adonis Georgiadis held office as the Minister for Health."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Spokesman of Popular Orthodox Rally"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis worked for the office of the Spokesman of Popular Orthodox Rally.",
+            "Adonis Georgiadis held office as \"Spokesman of Popular Orthodox Rally\".",
+            "Adonis Georgiadis worked as the Spokesman of Popular Orthodox Rally."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Vice-President of New Democracy"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis works at office as \"Vice-President of New Democracy\".",
+            "Adonis Georgiadis held the office \"Vice-President of New Democracy\".",
+            "Adonis Georgiadis was the Vice President of New Democracy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Member of the Hellenic Parliamen"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was a member of the Hellenic Parliament.",
+            "Adonis Georgiadis worked as a Member of the Hellenic Parliament."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Ministry of Economy, Development and Tourism (Greece)"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis worked for the Ministry of Economy, Development and Tourism in Greece.",
+            "Adonis Georgiadis worked at the Ministry of Economy, Development and Tourism in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Ministry of Health (Greece)"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis worked at the Ministry of Health in Greece.",
+            "Adonis Georgiadis worked at the Greek Ministry of Health.",
+            "Adonis Georgiadis worked in the Ministry of Health in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "party",
+                    "New Democracy (Greece)"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was a member of the New Democracy party in Greece.",
+            "Adonis Georgiadis is a member of the Greek New Democracy Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "successor",
+                    "Makis Voridis"
+                ]
+            ]
+        },
+        "text": [
+            "Makis Voridis was the successor of Adonis Georgiadis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "almaMater",
+                    "Radboud University Nijmegen"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant's Alma mater is Radboud University Nijmegen.",
+            "Agnes Kant's alma mater is the Radboud University Nijmegen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "birthPlace",
+                    "West Germany"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant was born in West Germany.",
+            "West Germany was the birthplace of Agnes Kant."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "country",
+                    "Netherlands"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant's country is the Netherlands.",
+            "Agnes Kant is from the Netherlands.",
+            "Agnes Kant resides in The Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "nationality",
+                    "Netherlands"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant is a national of the Netherlands.",
+            "The nationality of Agnes Kant is Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "office (workedAt, workedAs)",
+                    "Member of the House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant worked as a member of the House of Representatives.",
+            "Agnes Kant was a Member of the House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "office (workedAt, workedAs)",
+                    "Parliamentary group lead"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant worked as a Parliamentary group leader.",
+            "Agnes Kant worked as the Parliamentary group leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "office (workedAt, workedAs)",
+                    "Socialist Party (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant worked at the Socialist Party in the Netherlands.",
+            "Agnes Kant worked for the Socialist Party in the Netherlands.",
+            "Agnes Kant held office in the Socialist Party of the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "party",
+                    "Socialist Party (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant is a member of the Socialist Party in the Netherlands.",
+            "Agnes Kant is a member of the Socialist Party in Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "residence",
+                    "Doesburg"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant was a resident of Doesburg.",
+            "Agnes Kant resided in Doesburg.",
+            "Agnes Kant lives in Doesburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Ward White",
+                    "deathPlace",
+                    "Parkersburg, West Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Ward White died at Parkersburg, West Virginia.",
+            "Agnes Ward White died in Parkersburg, West Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "activeYearsEndDate",
+                    "1979-03-30"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave ended his career on 30th March 1979."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "activeYearsStartDate",
+                    "1974-03-04"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave began his career on March 4th 1974."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "award",
+                    "Distinguished Service Ord"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was awarded the Distinguished Service Order.",
+            "Airey Neave was a hero and awarded the Distinguished Service Order."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "award",
+                    "Order of the British E"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was awarded the Order of the British Empire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "Battle of Franc"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was involved in the Battle of France.",
+            "Airey Neave fought in the Battle of France."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "World War II"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was in World War II.",
+            "Airey Neave fought in World War II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "birthPlace",
+                    "Knightsbridg"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was born in Knightsbridge.",
+            "Knightsbridge is the birthplace of Airey Neave."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "deathPlace",
+                    "Westminster Hospital, London"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave dies at Westminster Hospital, London.",
+            "Airey Neave died in the Westminster Hospital in London.",
+            "Airey Neave died in Westminster Hospital, London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "unit",
+                    "Royal Artillery"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave's unit was the Royal Artillery.",
+            "Airey Neave served in the Royal Artillery Unit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "activeYearsEndDate",
+                    "1905-03-04"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White finished his career on March 4th 1905."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "activeYearsStartDate",
+                    "1901-03-04"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White started his career on March 4, 1901."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "birthDate",
+                    "1856-09-22"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B White was born on 22nd September 1856.",
+            "Albert B White was born 1856-09-22.",
+            "Albert B. White was born 22nd September 1856."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "birthPlace",
+                    "Cleveland"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White was born in Cleveland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "birthYear",
+                    "1856"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White's year of birth was 1856.",
+            "Albert B. White was born in 1856."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "dateOfDeath",
+                    "1941-07-03"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White's date of death was 1941-07-03.",
+            "Albert B. White died on the 1941-07-03.",
+            "Albert B White died on the 3rd July 1941."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "deathPlace",
+                    "Parkersburg, West Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B White died at Parkersburg, West Virginia.",
+            "Albert B. White died in Parkersburg, West Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "deathYear",
+                    "1941"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White's year of death was 1941.",
+            "Albert B White died in 1941."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "office (workedAt, workedAs)",
+                    "Governor of West Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White worked as the Governor of West Virginia.",
+            "Albert B. White was the Governor of West Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "profession",
+                    "Politician"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B. White's profession is politician.",
+            "Albert B. White is a politician."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "successor",
+                    "William M. O. Dawson"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B White was succeeded by William M O Dawson.",
+            "The successor to Albert B. White was William M.O. Dawson.",
+            "Albert B. White's successor was William M. O. Dawson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "battles",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain battled in the American Civil War.",
+            "Albert Jennings Fountain fought in the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "battles",
+                    "American Indian Wars"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain fought in battles in the American Indian Wars.",
+            "Albert Jennings Fountain battled in the American Indian Wars.",
+            "Albert Jennings Fountain fought in the American Indian Wars."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "birthPlace",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain was born in New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "birthPlace",
+                    "New York City"
+                ]
+            ]
+        },
+        "text": [
+            "New York City was the birthplace of Albert Jennings Fountain.",
+            "Albert Jennings Fountain was born in New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "birthPlace",
+                    "Staten Island"
+                ]
+            ]
+        },
+        "text": [
+            "Staten Island is the birth place of Albert Jennings Fountain.",
+            "Albert Jennings Fountain was born in Staten Island."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "birthPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States was the birthplace of Albert Jennings Fountain.",
+            "Albert Jennings Fountain was born in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "dateOfDeath",
+                    "1896-02-01"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain's date of death was 1896-02-01.",
+            "Albert Jennings Fountain died 1896-02-01."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "deathPlace",
+                    "Doña Ana County, New Mexico"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain died in Dona Ana County, New Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "deathPlace",
+                    "New Mexico Territory"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain's place of death was in the New Mexico Territory.",
+            "Albert Jennings Fountain died in New Mexico Territory."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "deathPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain died in the U.S.",
+            "Albert Jennings Fountain died in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "inOfficeWhileVicePresident",
+                    "Edmund J. Davis"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain was in office while Edmund J. Davis was Vice President.",
+            "Albert Jennings Fountain was a politician while Vice President Edmund J. Davis was in office.",
+            "Albert Jennings Fountain was in office whilst Edmund J. Davis was Vice President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "militaryBranch",
+                    "1st Regiment New Mexico Volunteer Cavalry"
+                ]
+            ]
+        },
+        "text": [
+            "The branch of military Albert Jennings Fountain belonged to was 1st Regiment New Mexico Volunteer Cavalry.",
+            "Albert Jennings Fountain was in the 1st Regiment New Mexico Volunteer Cavalry.",
+            "Albert Jennings Fountain served in the 1st Regiment New Mexico Volunteer Cavalry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "office (workedAt, workedAs)",
+                    "President pro tempore of the Texas Sena"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain worked as President pro tempore of the Texas Senate."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "party",
+                    "Republican Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain was a member of the United States republican party.",
+            "Albert Jennings Fountain is a member of the Republican Party in the U.S.A.",
+            "Albert Jennings Fountain was a member of the Republican Party in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "birthDate",
+                    "1891-05-20"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire was born in 1891-05-20.",
+            "Alberto Teisaire was born on 1891-05-20.",
+            "Alberto Teisaire's date of birth is 05-20-1891."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "birthPlace",
+                    "Mendoza, Argentina"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire was born in Mendoza in Argentina.",
+            "Alberto Teisaire was born in Mendoza, Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "deathPlace",
+                    "Buenos Aires"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire's place of death was Buenos Aires.",
+            "Alberto Teisaire died in Buenos Aires."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "inOfficeWhilePresident",
+                    "Juan Perón"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire was in office while Juan Perón was president.",
+            "Alberto Teisaire was in office while Juan Peron was President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "office (workedAt, workedAs)",
+                    "Provisional President of the Argentine Senate"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire worked as the Provisional President of the Argentine Senate.",
+            "Alberto Teisaire worked as a Provisional President of the Argentine Senate."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "party",
+                    "Justicialist Party"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire's party is Justicialist Party.",
+            "Alberto Teisaire is a member of the Justicialist Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "profession",
+                    "Rear admira"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire is a Rear Admiral.",
+            "Alberto Teisaire was a Rear Admiral by profession.",
+            "The profession of Alberto Teisaire was Rear Admiral."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "successor",
+                    "Isaac Rojas"
+                ]
+            ]
+        },
+        "text": [
+            "Isaac Rojas was the successor to Alberto Teisaire.",
+            "Alberto Teisaire's successor was Isaac Rojas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in Austria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria-Hungary"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in Austria-Hungary.",
+            "Austria-Hungary is the birthplace of Alfons Gorbach."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "County of Tyro"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in the County of Tyrol.",
+            "The birth place of Alfons Gorbach is County of Tyrol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Ims"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in Imst.",
+            "Alfons Gorbach's birthplace is Imst."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Tyrol (state)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach's place of birth was the state, Tyrol.",
+            "Alfons Gorbach was born in the state of Tyrol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Graz"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach died in Graz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Styria"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach died in Styria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "inOfficeWhilePresident",
+                    "Adolf Schärf"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was in office during President Adolf Schärf's reign.",
+            "Alfons Gorbach was in office while Adolf Scharf was President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "party",
+                    "Austrian People's Party"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was a politician from the Austrian People's Party.",
+            "Alfons Gorbach is a member of the Austrian People's Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "successor",
+                    "Josef Klaus"
+                ]
+            ]
+        },
+        "text": [
+            "Josef Klaus succeeded Alfons Gorbach.",
+            "The successor to Alfons Gorbach is Josef Klaus.",
+            "Alfons Gorbach's successor was Josef Klaus."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "activeYearsStartDate",
+                    "1857-03-04"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales started his career on 1857-03-04."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "activeYearsStartDate",
+                    "1885-01-21"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales began his career on January 21st 1885."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "almaMater",
+                    "University of North Carolina at Chapel H"
+                ]
+            ]
+        },
+        "text": [
+            "The alma Mater of Alfred Moore Scales is the University of North Carolina at Chapel Hill.",
+            "The alma mater of Alfred Moore Scales was the University of North Carolina at Chapel Hill."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales took part in American Civil War battles.",
+            "Alfred Moore Scales battled in the American Civil War.",
+            "Alfred Moore Scales fought in the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "Battle of Fredericksburg"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales fought in battles such as the Battle of Fredericksburg.",
+            "Alfred Moore Scales fought in the Battle of Fredericksburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "Battle of Gettysburg"
+                ]
+            ]
+        },
+        "text": [
+            "One of the battles Alfred Moore Scales was involved in was the Battle of Gettysburg.",
+            "Alfred Moore Scales fought in the Battle of Gettysburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "Peninsula Campaign"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales was active during the Peninsula Campaign."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "Siege of Petersburg"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales took part in the Siege of Petersburg.",
+            "Alfred Moore Scales was at the Siege of Petersburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "birthPlace",
+                    "Reidsville, North Carolina"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales was born in Reidsville, North Carolina.",
+            "Reidsville, North Carolina was the birthplace of Alfred Moore Scales."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales came from the U.S.",
+            "Alfred Moore Scales lives in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "office (workedAt, workedAs)",
+                    "Governor of North Carolina"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales was Governor of North Carolina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "party",
+                    "Democratic Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales is a member of the Democratic Party in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "successor",
+                    "Daniel Gould Fow"
+                ]
+            ]
+        },
+        "text": [
+            "Daniel Gould Fowle suceeded Alfred Moore Scales.",
+            "Daniel Gould Fowle is the successor to Alfred Moore Scales.",
+            "Alfred Moore Scales was succeeded by Daniel Gould Fowle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "successor",
+                    "James Madison Leach"
+                ]
+            ]
+        },
+        "text": [
+            "The successor of Alfred Moore Scales was James Madison Leach.",
+            "Alfred Moore Scales was succeeded by James Madison Leach.",
+            "The successor to Alfred Moore Scales was James Madison Leach."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "successor",
+                    "James W. Reid (politician)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales's successor was the politician, James W. Reid.",
+            "Alfred Moore Scales was succeeded by the politician James W Reid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "activeYearsEndDate",
+                    "1939-01-03"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N Phillips retired on the date 1939-01-03."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "birthPlace",
+                    "Connecticu"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N. Phillips was born in Connecticut.",
+            "Connecticut was the birthplace of Alfred N Phillips."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "militaryBranch",
+                    "United States Army"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N. Phillips served in the United States, Army.",
+            "Alfred N. Phillips was a member of the US Army."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "office (workedAt, workedAs)",
+                    "Member of the U.S. House of Representatives from Connecticut's 4th district"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N Phillips worked as Member of the U.S. House of Representatives from Connecticut's 4th district.",
+            "Alfred N. Phillips was a Member of the U.S. House of Representatives from Connecticut's 4th district."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "office (workedAt, workedAs)",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N. Phillips worked at the United States House of Representatives.",
+            "Alfred N Phillips worked at the United States House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "party",
+                    "Democratic Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N. Phillips was a member of the United States Democratic Party.",
+            "Alfred N. Phillips was a member of the Democratic Party in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "successor",
+                    "Albert E. Austin"
+                ]
+            ]
+        },
+        "text": [
+            "The successor to Alfred N. Phillips is Albert E. Austin.",
+            "Albert E. Austin succeeded Alfred N. Phillips.",
+            "Alfred N. Phillips successor was Albert E. Austin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "activeYearsStartDate",
+                    "1949-07-11"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers started his active career on July 11th 1949."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "birthPlace",
+                    "Lufkin, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers was born in Lufkin, Texas.",
+            "The birth place of Allan Shivers is Lufkin, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "office (workedAt, workedAs)",
+                    "Governor of Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers was Governor of Texas.",
+            "Allan Shivers worked as the Governor of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "office (workedAt, workedAs)",
+                    "Lieutenant Governor of Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers was Lieutenant Governor of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "office (workedAt, workedAs)",
+                    "Member of the Texas State Senate from District 4 (Port Arthur)"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers worked as a member of the Texas State Senate from District 4 (Port Arthur).",
+            "Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "party",
+                    "Democratic Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers served in the Democratic Party in the U.S.",
+            "Allan Shivers was a member of the Democratic Party in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "successor",
+                    "Ben Ramsey"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers was succeeded by Ben Ramsey.",
+            "Allan Shivers' successor was Ben Ramsey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "successor",
+                    "Wilfred R. Cousins, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Wilfred R. Cousins, Jr. was the successor of Allan Shivers.",
+            "The successor of Allan Shivers was Wilfred R. Cousins, Jr.",
+            "Allan Shivers was succeeded by Wilfred R. Cousins, Jr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "birthDate",
+                    "1793-10-23"
+                ]
+            ]
+        },
+        "text": [
+            "1793-10-23 was Alvah Sabin's birthdate.",
+            "Alvah Sabin was born on 23rd October 1793.",
+            "Alvah Sabin was born October 23, 1793."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "birthPlace",
+                    "Georgia, Vermon"
+                ]
+            ]
+        },
+        "text": [
+            "Georgia Vermont is the birthplace of Alvah Sabin.",
+            "Alvah Sabin was born in Georgia, Vermont."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "deathPlace",
+                    "Sycamore, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin died in Sycamore, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "office (workedAt, workedAs)",
+                    "Secretary of State of Vermon"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin worked as the secretary of the State of Vermont.",
+            "Alvah Sabin worked as the Secretary of State of Vermont."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermont's 3rd congressional distric"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin represented Vermont's 3rd Congressional District."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "religion",
+                    "Baptists"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin was a Baptist."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "successor",
+                    "Homer Elihu Royc"
+                ]
+            ]
+        },
+        "text": [
+            "Homer Elihu Royce was preceded by Alvah Sabin.",
+            "Alvah Sabin successor was Homer Elihu Royce.",
+            "Homer Elihu Royce was the successor to Alvah Sabin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Civil War",
+                    "commander",
+                    "Abraham Lincoln"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham Lincoln was a commander in the American Civil War.",
+            "A commander in the American Civil War was Abraham Lincoln."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Civil War",
+                    "commander",
+                    "Jefferson Davis"
+                ]
+            ]
+        },
+        "text": [
+            "Jefferson Davis was a commander in the American Civil War.",
+            "A commander in the American Civil War was Jefferson Davis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antonis Samaras",
+                    "birthPlace",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "Antonis Samaras was born in Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id220",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antonis Samaras",
+                    "hasDeputy",
+                    "Evangelos Venizelos"
+                ]
+            ]
+        },
+        "text": [
+            "Antonis Samaras has Evangelos Venizelos for a Deputy.",
+            "Antonis Samaras has the deputy Evangelos Venizelos.",
+            "Antonis Samaras' deputy is Evangelos Venizelos."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id221",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antonis Samaras",
+                    "inOfficeWhilePrimeMinister",
+                    "Konstantinos Mitsotakis"
+                ]
+            ]
+        },
+        "text": [
+            "Antonis Samaras was in office while Konstantinos Mitsotakis was Prime Minister."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id222",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Argentina",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "The language of Argentina is Spanish.",
+            "Spanish is spoken in Argentina.",
+            "They speak Spanish in Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id223",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Argentina",
+                    "officialLanguage",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Spanish is the official language in Argentina.",
+            "The official language of Argentina is Spanish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id224",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austria",
+                    "leaderName",
+                    "Doris Bures"
+                ]
+            ]
+        },
+        "text": [
+            "Doris Bures is a leader in Austria.",
+            "Doris Bures is a leader of Austria.",
+            "The leader of Austria is Doris Bures."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id225",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Antietam",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The Battle of Antietam was part of the military conflict known as the American Civil War.",
+            "The Battle of Antietam took place during the American Civil War.",
+            "The Battle of Antietam was part of the American Civil war conflict."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id226",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Chancellorsville",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Battle of Chancellorsville was part of the American Civil War conflict."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id227",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Cold Harbor",
+                    "commander",
+                    "Robert E. L"
+                ]
+            ]
+        },
+        "text": [
+            "Robert E Lee was the commander in the Battle of Cold Harbor.",
+            "Robert E. Lee was a commander at the Battle of Cold Harbor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id228",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of France",
+                    "commander",
+                    "Gerd von Rundsted"
+                ]
+            ]
+        },
+        "text": [
+            "Gerd Von Rundstedt was the commmander in the Battle of France.",
+            "Gerd von Rundstedt was a commander in the Battle of France."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id229",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of France",
+                    "commander",
+                    "Hugo S"
+                ]
+            ]
+        },
+        "text": [
+            "Hugo Sperrle was a commander in the Battle of France.",
+            "Hugo Sperrle was the commander in the Battle of France."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id230",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Fredericksburg",
+                    "commander",
+                    "Robert E. L"
+                ]
+            ]
+        },
+        "text": [
+            "The commander at the Battle of Fredericksburg was Robert E Lee.",
+            "Robert E. Lee was a commander in the Battle of Fredericksburg.",
+            "Robert E. Lee was a commander at the Battle of Fredericksburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id231",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Gettysburg",
+                    "commander",
+                    "Robert E. L"
+                ]
+            ]
+        },
+        "text": [
+            "Robert E Lee was a commander in the Battle of Gettysburg.",
+            "Robert E. Lee was a commander in the Battle of Gettysburg.",
+            "Robert E. Lee was a commander at the Battle of Gettysburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id232",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Gettysburg",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The Battle of Gettysburg was part of the American Civil War conflict.",
+            "The Battle of Gettysburg took place during the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id233",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Salem Church",
+                    "commander",
+                    "Robert E. L"
+                ]
+            ]
+        },
+        "text": [
+            "Robert E. Lee was a commander in the Battle of Salem Church.",
+            "Robert E. Lee was a commander at the Battle of Salem Church."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id234",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Salem Church",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The Battle of Salem Church was part of the American Civil War conflict.",
+            "The Battle of Salem Church was one of the military conflicts in the American Civil War.",
+            "The Battle of Salem Church occurred during the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id235",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of the Wilderness",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The Battle of the Wilderness was fought during the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id236",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buenos Aires",
+                    "governingBody",
+                    "Buenos Aires City Legislatu"
+                ]
+            ]
+        },
+        "text": [
+            "The governing body in Buenos Aires is the Buenos Aires City Legislature.",
+            "Buenos Aires has the governing body of Buenos Aires City Legislature.",
+            "Buenos Aires is governed by the Buenos Aires City Legislature."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id237",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buenos Aires",
+                    "leaderName",
+                    "Diego San"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Buenos Aires is Diego Santilli.",
+            "The leader in Buenos Aires is Diego Santilli."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id238",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buenos Aires",
+                    "leaderName",
+                    "Horacio Rodríguez Larreta"
+                ]
+            ]
+        },
+        "text": [
+            "Horacio Rodríguez Larreta is the name of the leader in Buenos Aires.",
+            "The leader of Buenos Aires is Horacio Rodríguez Larreta.",
+            "The leader in Buenos Aires is Horacio Rodríguez Larreta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id239",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Casey Ribicoff",
+                    "birthPlace",
+                    "Chicago"
+                ]
+            ]
+        },
+        "text": [
+            "Casey Ribicoff's place of birth was Chicago.",
+            "Casey Ribicoff was born in Chicago."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id240",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cleveland",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Cleveland is in the United States.",
+            "Cleveland is in the U.S.A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id241",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Daniel Gould Fowle",
+                    "almaMater",
+                    "Princeton University"
+                ]
+            ]
+        },
+        "text": [
+            "Daniel Gould Fowle's Alma Mater is Princeton University.",
+            "The alma mater of Daniel Gould Fowle is Princeton University.",
+            "Daniel Gould Fowle attended Princeton University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id242",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Emile Roemer",
+                    "party",
+                    "Socialist Party (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Emile Roemer is a member of the Socialist Party in the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id243",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Erasmus University Rotterdam",
+                    "affiliation",
+                    "Association of MBAs"
+                ]
+            ]
+        },
+        "text": [
+            "Erasmus University in Rotterdam is affiliated to the Association of MBAs.",
+            "The Erasmus University Rotterdam is affiliated with the Association of MBAs.",
+            "Erasmus University Rotterdam is affiliated to Association of MBAs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id244",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Felipe González",
+                    "predecessor",
+                    "Rodolfo Llopis"
+                ]
+            ]
+        },
+        "text": [
+            "Rodolfo Llopis preceded Felipe Gonzalez.",
+            "Felipe González's predecessor was Rodolfo Llopis.",
+            "Felipe Gonzalez's predecessor was Rodolfo Llopis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id245",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Grenadier Guards",
+                    "battles",
+                    "Battle of Waterloo"
+                ]
+            ]
+        },
+        "text": [
+            "Grenadier Guards took part in the Battle of Waterloo.",
+            "The Grenadier Guards fought in the Battle of Waterloo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id246",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gulf War",
+                    "commander",
+                    "George H. W. Bush"
+                ]
+            ]
+        },
+        "text": [
+            "George H. W. Bush was a commander in the Gulf War.",
+            "The commander of the Gulf War was George H. W. Bush.",
+            "George H. W. Bush was a commander during the Gulf War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id247",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gulf War",
+                    "commander",
+                    "John Majo"
+                ]
+            ]
+        },
+        "text": [
+            "John Major was a commander in the Gulf War.",
+            "John Major was a commander during the Gulf War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id248",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "House of Representatives (Netherlands)",
+                    "leaderName",
+                    "Khadija Arib"
+                ]
+            ]
+        },
+        "text": [
+            "Khadija Arib is the leader of the House of Representatives in the Netherlands.",
+            "The leader of the House of Representatives in the Netherlands is Khadija Arib.",
+            "Khadija Arib is a leader in the House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id249",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Carlos I of Spain",
+                    "birthPlace",
+                    "Ro"
+                ]
+            ]
+        },
+        "text": [
+            "Rome is the Birthplace of Juan Carlos I of Spain.",
+            "Rome was the birthplace of Juan Carlos I of Spain.",
+            "Juan Carlos I of Spain was born in Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id250",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Carlos I of Spain",
+                    "predecessor",
+                    "Alfonso XIII of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Juan Carlos I of Spain's predecessor was Alfonso XIII of Spain.",
+            "Juan Carlos I of Spain preceded Alfonso XIII of Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id251",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Carlos I of Spain",
+                    "spouse",
+                    "Queen Sofía of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Queen Sofia of Spain is the wife of Juan Carlos I of Spain.",
+            "Juan Carlos 1 of Spain was married to Queen Sofia of Spain.",
+            "The spouse of Juan Carlos I of Spain is Queen Sofia of Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id252",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Perón",
+                    "inOfficeWhileGovernor",
+                    "Hortensio Quijano"
+                ]
+            ]
+        },
+        "text": [
+            "Juan Peron served in office at the same time that Hortensio Quijano was Governor.",
+            "Juan Perón was in Office While Hortensio Quijano was Governor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id253",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Perón",
+                    "inOfficeWhileVicePresident",
+                    "Hortensio Quijano"
+                ]
+            ]
+        },
+        "text": [
+            "Juan Peron was in office while Hortensio Quijano was vice president."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id254",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Perón",
+                    "spouse",
+                    "Eva Perón"
+                ]
+            ]
+        },
+        "text": [
+            "Juan Perón was married to Eva Perón.",
+            "Juan Peron was married to Eva Peron.",
+            "Juan Peron's spouse is Eva Peron."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id255",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Makis Voridis",
+                    "birthPlace",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "Athens was the birthplace of Makis Voridis.",
+            "Makis Voridis was born in Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id256",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mike Akhigbe",
+                    "militaryBranch",
+                    "Nigerian Navy"
+                ]
+            ]
+        },
+        "text": [
+            "Mike Akhigbe was in the Nigerian Navy.",
+            "Mike Akhigbe belonged to the Nigerian Navy branch of the Military."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id257",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mike Akhigbe",
+                    "successor",
+                    "Atiku Abubaka"
+                ]
+            ]
+        },
+        "text": [
+            "Mike Akhigbe's successor was Atiku Abubakar.",
+            "The successor to Mike Akhigbe was Atiku Abubakar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id258",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Netherlands",
+                    "currency",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "The currency in the Netherlands is the euro.",
+            "The Euro is the currency in the Netherlands.",
+            "The currency of The Netherlands is the Euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id259",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Democracy (Greece)",
+                    "colour",
+                    "Blu"
+                ]
+            ]
+        },
+        "text": [
+            "The colour of the New Democracy in Greece is blue.",
+            "The colour of New Democracy in Greece is blue.",
+            "Blue is the colour of the New Democracy in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id260",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New York",
+                    "language",
+                    "Arabic"
+                ]
+            ]
+        },
+        "text": [
+            "One of the languages spoken in New York is Arabic.",
+            "In New York, one of the many languages spoken is Arabic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id261",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New York",
+                    "language",
+                    "French languag"
+                ]
+            ]
+        },
+        "text": [
+            "French is one of the languages spoken in New York.",
+            "French is a language spoken in New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id262",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Nigeria",
+                    "leaderName",
+                    "Yemi Osinbajo"
+                ]
+            ]
+        },
+        "text": [
+            "Yemi Osinbajo is the leader of Nigeria.",
+            "Yemi Osinbajo is a leader in Nigeria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id263",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Nigerian Air Force",
+                    "trainerAircraft",
+                    "Aermacchi MB-339"
+                ]
+            ]
+        },
+        "text": [
+            "Aermacchi MB-339 is a trainer Aircraft used by the Nigerian Air -Force.",
+            "The trainer aircraft for the Nigerian Air Force is the Aermacchi MB-339.",
+            "The Nigerian Air Force used the Aermacchi MB-339 as a trainer aircraft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id264",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Olusegun Obasanjo",
+                    "inOfficeWhileVicePresident",
+                    "Atiku Abubaka"
+                ]
+            ]
+        },
+        "text": [
+            "Olusegun Obasanjo was in office whilst Atiku Abubakar was Vice President.",
+            "Olusegun Obasanjo was in office while Atiku Abubakar was Vice President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id265",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Olusegun Obasanjo",
+                    "predecessor",
+                    "Abdulsalami Abubaka"
+                ]
+            ]
+        },
+        "text": [
+            "Olusegun Obasanjo's predecessor was Abdulsalami Abubakar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id266",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Parkersburg, West Virginia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Parkersburg, West Virginia is in the country, the United States.",
+            "Parkersburg, West Virginia is in the U.S.A.",
+            "Parkersburg, West Virginia is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id267",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Poland",
+                    "ethnicGroup",
+                    "Kashubians"
+                ]
+            ]
+        },
+        "text": [
+            "Poland has an ethnic group called Kashubians.",
+            "Kashubians are an ethnic group of Poland.",
+            "One of the ethnic groups in Poland are the Kashubians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id268",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Poland",
+                    "language",
+                    "Polish languag"
+                ]
+            ]
+        },
+        "text": [
+            "The Polish language is used in Poland.",
+            "Polish is the language spoken in Poland.",
+            "In Poland they speak Polish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id269",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Polish–Soviet War",
+                    "commander",
+                    "Joseph Stalin"
+                ]
+            ]
+        },
+        "text": [
+            "Joseph Stalin was a commander in the Polish-Soviet War.",
+            "Joseph Stalin was a commander during the Polish–Soviet War.",
+            "A commander at the Polish-Soviet War was Joseph Stalin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id270",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Polish–Soviet War",
+                    "commander",
+                    "Leon Trotsky"
+                ]
+            ]
+        },
+        "text": [
+            "Leon Trotsky was a commander in the Polish-Soviet war.",
+            "Leon Trotsky was the commender in the Polish-Soviet War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id271",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Polish–Soviet War",
+                    "isPartOfMilitaryConflict",
+                    "Russian Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The Polish-Soviet war was a conflict within the Russian Civil War.",
+            "The Polish-Soviet War was part of the Russian Civil War military conflict."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id272",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Royal Artillery",
+                    "garrison",
+                    "Hohn"
+                ]
+            ]
+        },
+        "text": [
+            "One of the Royal Artillery's garrisons was in Hohne.",
+            "The Royal Artillery has a garrison at Hohne.",
+            "The Royal Artillery has a garrison in Hohne."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id273",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Siege of Petersburg",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "Siege of Petersburg was part of the American Civil War conflict.",
+            "The Siege of Petersburg occurred during the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id274",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Socialist Party (Netherlands)",
+                    "colour",
+                    "Red"
+                ]
+            ]
+        },
+        "text": [
+            "Red is the colour of the Socialist Party (Netherlands).",
+            "The Socialist Party of The Netherlands is associated with the colour red."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id275",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Socialist Party (Netherlands)",
+                    "leaderName",
+                    "Emile Ro"
+                ]
+            ]
+        },
+        "text": [
+            "Emile Roemer is a leader in the Netherlands Socialist Party.",
+            "The leader of the Socialist Party in the Netherlands is Emile Roemer.",
+            "The leader of the Socialist Party of the Netherlands is called Emile Roemer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id276",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Spain",
+                    "currency",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "The euro is the currency in Spain.",
+            "The currency in Spain is the Euro.",
+            "The currency of Spain is the Euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id277",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Spain",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "The main language used in Spain is Spanish.",
+            "The Spanish language is spoken in Spain.",
+            "Spanish is the language in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id278",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Spain",
+                    "leaderName",
+                    "Felipe VI of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "The leader in Spain is Felipe VI of Spain.",
+            "The leader of Spain is Felipe VI of Spain.",
+            "The leader of Spain is Felipe VI."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id279",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sycamore, Illinois",
+                    "region",
+                    "DeKalb County, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Sycamore is located in DeKalb County, Illinois.",
+            "Sycamore is in DeKalb County, Illinois.",
+            "Sycamore is in the Dekalb County of Illinois region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id280",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "capital",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "London is the capital of the U.K.",
+            "London is the capital of The United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id281",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "African Americans are an ethnic group in the U.S.A.",
+            "African Americans are an ethnic group from the United States.",
+            "African Americans are an ethnic group of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id282",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "In the United States one of the ethnic groups is the Native Americans.",
+            "Native Americans are an ethnic group in the U.S.",
+            "Native Americans are the ethnic group in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id283",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States Army",
+                    "battles",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The U.S. Army fought in the American Civil War.",
+            "The United States Army battled in the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id284",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States Army",
+                    "battles",
+                    "American Revolutionary Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The United States Army was involved in battles of the American Revolutionary War.",
+            "The U.S. Army battled in the American Revolutionary War.",
+            "The United States Army battled in the American Revolutionary War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id285",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States Army",
+                    "battles",
+                    "Invasion of Grenada"
+                ]
+            ]
+        },
+        "text": [
+            "The United States Army has battled in the Invasion of Grenada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id286",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States Army",
+                    "battles",
+                    "Korean Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The United States Army took part in battles in the Korean War.",
+            "The United States Army fought in the Korean War.",
+            "United States Army fought in the Korean War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id287",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States Army",
+                    "battles",
+                    "Operation Enduring Freedo"
+                ]
+            ]
+        },
+        "text": [
+            "Operation Enduring Freedom is a battle of the United States Army.",
+            "The United States Army was involved in Operation Enduring Freedom.",
+            "The United States Army was involved in the Operation Enduring Freedom battle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id288",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States Army",
+                    "battles",
+                    "Whiskey Rebellion"
+                ]
+            ]
+        },
+        "text": [
+            "The United States Army took part in the battle called Whiskey Rebellion.",
+            "Whiskey Rebellion was one battle fought in the US.",
+            "The United States Army fought in the Whiskey Rebellion battle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id289",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ]
+            ]
+        },
+        "text": [
+            "Vermont's largest city is Burlington, Vermont.",
+            "The largest city in Vermont is Burlington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id290",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Whig Party (United States)",
+                    "leaderName",
+                    "Daniel Webs"
+                ]
+            ]
+        },
+        "text": [
+            "Daniel Webster was a leader of the Whig Party in the United States.",
+            "The United States Whig Party is led by Daniel Webster.",
+            "Daniel Webster is the leader of the Whig Party in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id291",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Whig Party (United States)",
+                    "leaderName",
+                    "Henry Clay"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the Whig Party in the U.S.A. is Henry Clay.",
+            "Henry Clay was leader of the Whig Party of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id292",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William M. O. Dawson",
+                    "deathPlace",
+                    "Charleston, West Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "William M. O. Dawson died in Charleston, West Virginia.",
+            "William M O Dawson died in Charleston, West Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id293",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "William M. O. Dawson",
+                    "party",
+                    "Republican Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "William M. O. Dawson is a member of the United States Republican party.",
+            "William M O Dawson was a member of the United States Republican Party.",
+            "William M. O. Dawson is a member of the Republican Party of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id294",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "World War II",
+                    "commander",
+                    "Benito Mussolin"
+                ]
+            ]
+        },
+        "text": [
+            "Benito Mussolini was a commander in World War II.",
+            "A commander in World War II was Benito Mussolini."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id295",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "World War II",
+                    "commander",
+                    "Chiang Kai-shek"
+                ]
+            ]
+        },
+        "text": [
+            "Chiang Kai-shek was a commander in the Second World War.",
+            "Chiang Kai-shek was a commander in World War II.",
+            "A commander in World War II was Chiang Kai-shek."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id296",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "World War II",
+                    "commander",
+                    "Franklin D. Roosev"
+                ]
+            ]
+        },
+        "text": [
+            "Franklin D. Roosevelt was the commander in World War II.",
+            "Franklin D. Roosevelt was a commander during WWII.",
+            "A commander in World War II was Franklin D. Roosevelt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id297",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "World War II",
+                    "commander",
+                    "Joseph Stalin"
+                ]
+            ]
+        },
+        "text": [
+            "Joseph Stalin was a commander in World War II.",
+            "A commander in World War II was Joseph Stalin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id298",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "World War II",
+                    "place",
+                    "East African Campaign (World War II)"
+                ]
+            ]
+        },
+        "text": [
+            "The East African Campaign was part of World War II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id299",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "World War II",
+                    "place",
+                    "South-East Asian theatre of World War II"
+                ]
+            ]
+        },
+        "text": [
+            "One of the places in World War II was named South East Asian theatre of World War II.",
+            "South East Asia was a location for World War II."
+        ]
+    }
+]

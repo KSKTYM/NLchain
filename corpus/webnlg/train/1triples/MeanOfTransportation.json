@@ -1,0 +1,6067 @@
+[
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "alternativeName",
+                    "Dodge Custom Royal"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge is also known as the Dodge Custom Royal.",
+            "The 1955 Dodge had another name and was called the Dodge Custom Royal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "alternativeName",
+                    "Dodge Suburban"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Doge is also called the Dodge Suburban.",
+            "The alternative name of the 1955 Dodge is \"Dodge Suburban\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "bodyStyle",
+                    "Convertib"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge is a convertible."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "bodyStyle",
+                    "Hardto"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has a hardtop."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "bodyStyle",
+                    "Sedan (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has a sedan style body.",
+            "The 1955 Dodge is a sedan type vehicle.",
+            "The body style of the 1955 Dodge automobile is sedan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "bodyStyle",
+                    "Station wagon"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has a station wagon style body.",
+            "The 1955 Dodge is a station wagon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "AMC V8 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has an AMC V8 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "Straight-six engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Dodge 1955 has a straight-six engine.",
+            "The 1955 Dodge has a straight-six engine.",
+            "There is a straight-six engine in the 1955 Dodge car."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "V8 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has a V8 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "manufacturer",
+                    "Dodg"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge is manufactured by Dodge.",
+            "The manufacturer of the 1955 Dodge is the company Dodge.",
+            "The manufacturer of the 1955 Dodge is Dodge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "relatedMeanOfTransportation",
+                    "DeSoto Custo"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge is related to the DeSoto Custom.",
+            "The 1955 Dodge and the DeSoto Custom are related means of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "relatedMeanOfTransportation",
+                    "Plymouth Plaza"
+                ]
+            ]
+        },
+        "text": [
+            "1955 Dodge and Plymouth Plaza are related kinds of transportation.",
+            "The 1955 Dodge and the Plymouth Plaza are related means of transport in that they are both cars."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "transmission",
+                    "3-speed automatic"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has a 3-speed automatic transmission.",
+            "The 1955 Dodge uses a 3-speed automatic transmission.",
+            "The 1955 Dodge possesses a 3-speed automatic transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "wheelbase",
+                    "120.0 (inches)"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge has a wheelbase of 120.0 inches.",
+            "The wheelbase of a 1955 Dodge is 120 inches.",
+            "The 1955 Dodge has a wheelbase of 120 inches."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Neptun Werft, Warnemünde,"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna was built by Neptun Werft, Warnemunde.",
+            "The A-Rosa Luna was built by Neptun Werft, Warnemünde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Germany"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna was built in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Neptun Werf"
+                ]
+            ]
+        },
+        "text": [
+            "Neptun Werft built the A-Rosa Luna.",
+            "The A Rosa Luna was built on the Neptun Werft.",
+            "The builder of the A-Rosa Luna is Neptun Werft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Rostock"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna was built in Rostock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "completionDate",
+                    "2005-04-06"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna was completed on April 6, 2005.",
+            "The building of A-Rosa Luna was completed on April 6th 2005."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "length",
+                    "125800.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna is 125800.0 millimetres in length.",
+            "The A Rosa Luna is 125800.0 (millimetres) long.",
+            "The length of the A-Rosa Luna is 125.8 metres long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "powerType",
+                    "MTU Friedrichshafen"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna is powered by a MTU Friedrichshafen engine.",
+            "The A-Rosa Luna is powered by MTU Friedrichshafen made engines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipClass",
+                    "Cruise sh"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna is classed as a cruise ship.",
+            "The A-Rosa Luna is a cruise ship.",
+            "A-Rosa Luna is classed as a Cruise ship."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipDisplacement",
+                    "1850.0 (tonnes)"
+                ]
+            ]
+        },
+        "text": [
+            "The ship A-Rosa Luna weighs 1850 tonnes.",
+            "A-Rosa Luna has a ship displacement of 1850 tonnes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipLaunch",
+                    "2004-12-16"
+                ]
+            ]
+        },
+        "text": [
+            "December 16, 2004 was the launch date for the A-Rosa Luna ship.",
+            "The ship A-Rosa Luna's launch date was the 16th December 2004."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipOrdered",
+                    "2004-01-22"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna was ordered on the 22nd of January 2004.",
+            "The A-Rosa Luna ship was ordered on January 22nd 2004.",
+            "The A-Rosa Luna ship was ordered on January 22, 2004."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipPower",
+                    "2 × MTU 16V 2000 M60 engine"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna has a 2 × MTU 16V 2000 M60 engine.",
+            "The A-Rosa Luna ship has a 2 × MTU 16V 2000 M60 engine.",
+            "The powering of the A-Rosa Luna is the \"2xMTU 16V 2000 M60 engine\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "topSpeed",
+                    "24.0"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna has a top speed of 24 km/h.",
+            "The top speed pf the A-Rosa Luna is 24.0.",
+            "The top speed of the A-Rosa Luna is 24.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDA Cruises",
+                    "location",
+                    "Germany"
+                ]
+            ]
+        },
+        "text": [
+            "AIDA Cruises are located in Germany.",
+            "The location of AIDA Cruises is Germany.",
+            "AIDA Cruises is located in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "builder",
+                    "Meyer Werf"
+                ]
+            ]
+        },
+        "text": [
+            "Meyer Werft was the builder of the AIDAluna.",
+            "The ship AIDAluna was built by Meyer Werft.",
+            "The AIDAluna was built by Meyer Werft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "christeningDate",
+                    "2009-04-04"
+                ]
+            ]
+        },
+        "text": [
+            "The AidAluna christening date is 2009-04-04.",
+            "The christening date of the AIDAluna is 2009-04-04.",
+            "The christening date of AIDAluna is the 4th April 2004."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "length",
+                    "252000.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAluna is 252 metres long.",
+            "The AIDAluna has a length of 252000.0 millimetres.",
+            "The length of the AIDAluna is 252000.0 millimetres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "maidenVoyage",
+                    "2009-03-22"
+                ]
+            ]
+        },
+        "text": [
+            "AIDAluna had its maiden voyage on the 22nd of March, 2009.",
+            "The AIDAluna made her maiden voyage on March 22nd 2009.",
+            "The AIDAluna had its maiden voyage on March 22, 2009.",
+            "The AIDAluna had its maiden voyage on the 22nd of March 2009.",
+            "The AIDAluna had her maiden voyage on March 22nd 2009.",
+            "The AIDAluna made its first trip on March 22, 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "owner",
+                    "AIDA Cruises"
+                ]
+            ]
+        },
+        "text": [
+            "The owner of AIDAluna is AIDA Cruises.",
+            "AIDA Cruises is the owner of the AIDAluna."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "AIDAluna is powered by Caterpillar Inc.",
+            "The power type of the AIDAluna is the Caterpillar Inc. engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "shipBeam",
+                    "32.2"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAluna has a ship beam of 32.2.",
+            "The beam of the AIDAluna is 32.2m.",
+            "The length of the AIDAluna ship beam is 32.2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "shipInService",
+                    "2009-03-22"
+                ]
+            ]
+        },
+        "text": [
+            "The ship AIDAluna began service on March 22nd 2009.",
+            "The AIDAluna ship began serving on March 22, 2009.",
+            "The ship AIDAluna began its service on the 22nd of march 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "status",
+                    "In service"
+                ]
+            ]
+        },
+        "text": [
+            "AIDAluna is in service.",
+            "The AIDAluna is currently in service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "topSpeed",
+                    "40.744"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAluna has a top speed of 40.744.",
+            "The AIDAluna has a top speed is 40.744.",
+            "The top speed of the AIDAluna is 40.744."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "activeYearsStartDate",
+                    "2013-03-17"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella service began on March 17th 2013."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "length",
+                    "253260.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "AIDAstella is 253260.0 millimetres in length.",
+            "AIDAstella is 253260.0 millimetres long.",
+            "The AIDAstella is 253260.0 millimetres in length."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "owner",
+                    "Costa Croc"
+                ]
+            ]
+        },
+        "text": [
+            "Costa Crociere is the owner of the AIDAstella.",
+            "The AIDAstella is owned by Costa Crociere."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "shipBeam",
+                    "32.2"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella has a beam of 32.2 m.",
+            "The ship AIDAstella has a beam of 32.2 metres.",
+            "The AIDAstella has a ship beam of 32.2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "shipClass",
+                    "Sphinx-class cruise ship"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella is a Sphinx-class cruise ship.",
+            "AIDAstella is a \"Sphinx-class\" cruise ship."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "shipLaidDown",
+                    "2008-12-17"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella was laid down on 17th December 2008.",
+            "The ship Aidastella was laid down on 2008-12-17."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "status",
+                    "In service"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella is still in service to this date.",
+            "The AIDAstella is currently in service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "topSpeed",
+                    "38.892"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella has a top speed of 38.892.",
+            "The top speed of an AIDAstella is 38.892.",
+            "The AIDAstella's top speed is 38.892 km/h."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "buildDate",
+                    "May 1950 - August 1956"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 was produced between May 1950 and August 1956."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "builder",
+                    "American Locomotive Company"
+                ]
+            ]
+        },
+        "text": [
+            "The American Locomotive Company built the ALCO RS-3.",
+            "The builder of the ALCO RS-3 is the American Locomotive Company.",
+            "The ALCO RS-3 was built by the American Locomotive Company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "builder",
+                    "Montreal Locomotive Works"
+                ]
+            ]
+        },
+        "text": [
+            "Montreal Locomotive Works is the builder of the ALCO RS-3.",
+            "The ALCO RS-3 was built by the Montreal Locomotive Works."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "cylinderCount",
+                    "12"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 has a cylinder count of 12.",
+            "The ALCO RS-3 has 12 cylinders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "engine",
+                    "V12 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 has a V12 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "length",
+                    "17068.8 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 is 17068.8 (millimetres) in length.",
+            "The length of the ALCO RS-3 is 17068.8 millimetres.",
+            "The length of ALCO RS-3 is 17068.8 millimetres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "powerType",
+                    "Diesel-electric transmission"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 has a diesel-electric transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "totalProduction",
+                    "1418"
+                ]
+            ]
+        },
+        "text": [
+            "The total number of ALCO RS-3 made is 1418.",
+            "The total production amount for the ALCO RS-3 is 1418."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "countryOrigin",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The country of origin of the ALV X-1 is the United States.",
+            "ALV X-1 hails from the US.",
+            "ALV X-1 originated in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "diameter",
+                    "1.524 (metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The diameter of the ALV X-1 is 1.524 metres.",
+            "The ALV X-1 has a diameter of 1.524 metres.",
+            "The ALV X-1 diameter is 1.524 metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "failedLaunches",
+                    "1"
+                ]
+            ]
+        },
+        "text": [
+            "The ALV X-1 had 1 launch failure.",
+            "The ALV X-1 rocket had 1 failed launch.",
+            "The ALV X-1 had one failed launch."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "rocketStages",
+                    "2"
+                ]
+            ]
+        },
+        "text": [
+            "The ALV X-1 has 2 rocket stages.",
+            "The ALV X-1 rocket has 2 stages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "totalLaunches",
+                    "1"
+                ]
+            ]
+        },
+        "text": [
+            "The ALV X-1 rocket was launched once.",
+            "The ALV X-1 has had a total of 1 launches.",
+            "The ALV X-1 rocket had a total of one launch."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "Rambler Matador"
+                ]
+            ]
+        },
+        "text": [
+            "An alternative name for the AMC Matador is the Rambler Matador.",
+            "The AMC Matador is also known as the Rambler Matador."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "VAM Classic"
+                ]
+            ]
+        },
+        "text": [
+            "The alternative name for AMC Matador is VAM Classic.",
+            "The AMC Matador has the alternative name the VAM Classic.",
+            "The alternative name for the AMC Matador is VAM Classic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Australia"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC matador was assembled in Australia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Mexico"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is assembled in Mexico.",
+            "The AMC Matador was assembled in Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "USA"
+                ]
+            ]
+        },
+        "text": [
+            "AMC Matador was assembled in the USA.",
+            "AMC Matadors are assembled in the USA.",
+            "AMC Matador is assembled in the USA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Australian Motor Industries"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is assembled by the Australian Motor Industries.",
+            "The AMC Matador's is assembled by the Australian Motor Industries.",
+            "The AMC Matador was assembled by Australian Motor Industries."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Kenosha, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador was assembled in Kenosha, Wisconsin.",
+            "The AMC Matador's assemble line is in Kenosha, Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Mexico City"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is assembled in Mexico City.",
+            "The AMC Matador was assembled in Mexico City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Port Melbourne, Victoria"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is assembled at Port Melbourne, Victoria.",
+            "The AMC Matador is assembled in Port Melbourne, Victoria.",
+            "The assembly line on the AMC Matador is in Port Melbourne, Victoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Thames, New Zealand"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador was assembled in Thames, New Zealand.",
+            "The AMC Matador is assembled in Thames, New Zealand.",
+            "AMC Matador is assembled in Thames, New Zealand."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "bodyStyle",
+                    "Coupé"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador has a Coupé style body.",
+            "The AMC Matador is a Coupé.",
+            "The AMC Matador's body style is Coupé."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "bodyStyle",
+                    "Hardto"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador has a hardtop."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "bodyStyle",
+                    "Station wagon"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador has a station wagon style body.",
+            "The AMC Matador's body style is station wagon.",
+            "The AMC Matador is a station wagon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "class",
+                    "Full-size ca"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is considered a full-size car.",
+            "AMC Matador is a full-size class of car.",
+            "The AMC Matador is a Full-size car."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "class",
+                    "Mid-size ca"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is classed as a mid-size car.",
+            "The AMC Matador is a mid-size car.",
+            "The AMC Matador is in the mid-size car class."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "designer",
+                    "Richard A. Teagu"
+                ]
+            ]
+        },
+        "text": [
+            "Richard A. Teague designed the AMC Matador.",
+            "The AMC Matador was designed by Richard A Teague.",
+            "Richard A. Teague is the designer of the AMC Matador."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC V8 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador has a AMC V8 engine.",
+            "The AMC Matador is equipped with an AMC V8 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC straight-6 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador has an AMC straight-6 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "manufacturer",
+                    "American Motors"
+                ]
+            ]
+        },
+        "text": [
+            "AMC Matador is manufactured by American Motors.",
+            "The AMC Matador is manufactured by American Motors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "modelYears",
+                    "1971"
+                ]
+            ]
+        },
+        "text": [
+            "1971 is one of the model years of the AMC Matador.",
+            "The AMC Matador model was manufactured during 1971."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "modelYears",
+                    "1974"
+                ]
+            ]
+        },
+        "text": [
+            "1974 is one of the model years of the AMC Matador.",
+            "The AMC Matador is available in a 1974 model."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "builder",
+                    "Cammell Laird"
+                ]
+            ]
+        },
+        "text": [
+            "The ARA Veinticinco de Mayo (V-2) was built by Cammell Laird.",
+            "The ARA Veinticinco de Mayo (V-2) is built by Cammell Laird."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "country",
+                    "Argentina"
+                ]
+            ]
+        },
+        "text": [
+            "ARA Veinticinco de Mayo (V-2) derives from Argentina.",
+            "The ARA Veinticinco de Mayo (V-2) is from Argentina.",
+            "Argentina is where the ARA Veinticinco de Mayo (V-2) comes from.",
+            "The ARA Veinticinco De mayo (V-2) comes from Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "length",
+                    "192000.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The ARA Veinticinco de Mayo (V-2) is 192000.0 millimetres long.",
+            "The length of the ARA Veinticinco is 192000.0 millimetres.",
+            "The length of the ARA Veinticinco de Mayo is 192000 millimetres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "shipBeam",
+                    "24.4"
+                ]
+            ]
+        },
+        "text": [
+            "The ARA Veinticinco de Mayo V-2 ship's beam measures 24.4.",
+            "The ARA Veinticinco de Mayo (V-2) has a ship beam length of 24.4."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "status",
+                    "Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000"
+                ]
+            ]
+        },
+        "text": [
+            "The ARA Veinticinco de Mayo (V-2) provided spare parts for NaeL Minas Geraisand and the remainder was scrapped in 2000.",
+            "The ARA Veinticinco de Mayo (V-2) provided spare parts for the Nael Minas Geraisand but the remainder was scrapped in 2000.",
+            "ARA Veinticinco de Mayo (V-2) has provided spare parts for NAeL Minas Geraisand with the remainder being scrapped in 2000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "status",
+                    "Sold to Argentina 15 October 1968"
+                ]
+            ]
+        },
+        "text": [
+            "ARA Veinticinco de Mayo (V-2) was sold to Argentina 15 October 1968.",
+            "The ARA Veinticinco de Mayo (V-2) was sold to Argentina on October 15, 1968."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth",
+                    "foundationPlace",
+                    "Bologna"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth company was founded in Bologna.",
+            "The foundation place of Abarth is Bologna."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth",
+                    "foundationPlace",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Abarth was founded in Italy.",
+            "The Abarth foundation was founded in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth",
+                    "foundedBy",
+                    "Carlo Abarth"
+                ]
+            ]
+        },
+        "text": [
+            "Abarth was founded by Carlo Abarth."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "bodyStyle",
+                    "Two door coupé"
+                ]
+            ]
+        },
+        "text": [
+            "Two door coupe is the body style of the Abarth 1000 GT Coupé.",
+            "Abarth 1000 GT Coupé is a two door coupé.",
+            "The Abarth 1000 GT Coupe is a two door model."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "bodyStyle",
+                    "Coupé"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT has a coupe bodystyle.",
+            "The Abarth 1000 GT has a Coupé body style.",
+            "The Abarth 1000 GT Coupe has a Coupe body style."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "designer",
+                    "Gruppo Berton"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT Coupe was designed by Gruppo Bertone.",
+            "Gruppo Bertone was the designer of the Abarth 1000 GT Coupe.",
+            "The Abarth 1000 GT Coupé was designed by Gruppo Bertone."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "manufacturer",
+                    "Abarth"
+                ]
+            ]
+        },
+        "text": [
+            "Abarth is the manufacturer of the Abarth 1000 GT Coupé.",
+            "The Abarth 1000 GT Coupe was made by Abarth.",
+            "Abarth are the manufacturers of the Abarth 1000 GT Coupé."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "productionStartYear",
+                    "1958"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT Coupe 's production started in 1958.",
+            "Production of the Abarth 1000 GT Coupe began in 1958.",
+            "The production of the Abarth 1000 GT has started in the Year 1958."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "wheelbase",
+                    "2160.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The wheelbase of the Abarth 1000 GT Coupé, is 2160.0 millimetres.",
+            "The wheelbase of the Abarth 1000 GT Coupe is 2160 millimetres.",
+            "The Abarth 1000 GT Coupe has a wheelbase of 2160 millimetres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "width",
+                    "1.55"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT Coupé has a width of 1.55 m.",
+            "The Abarth 1000 GT Coupé is 1.55 metres wide.",
+            "The Abarth 1000 GT Coupe is 1.55 metres in width."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "assembly",
+                    "Marysville, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX is assembled in Marysville, Ohio.",
+            "The Acura TLX was assembled in Marysville, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "assembly",
+                    "Marysville Auto Plan"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX is made at the Marysville Auto Plant.",
+            "The Acura TLX assembly line is located at the Marysville Auto Plant.",
+            "Acura TLX is assembled at the Marysville Auto Plant."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "class",
+                    "Luxury vehic"
+                ]
+            ]
+        },
+        "text": [
+            "Acura TLX is a luxury class of vehicle.",
+            "The Acura TLX is a luxury vehicle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "class",
+                    "Mid-size ca"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX is mid-size class of car.",
+            "The Acura TLX is a mid-size car.",
+            "The Acura TLX is classed as a mid-size car."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "engine",
+                    "2.4 (litres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has a 2.4 litre engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "engine",
+                    "Honda J engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has a Honda J engine.",
+            "The Acura TLX's engine type is the Honda J."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "engine",
+                    "Inline-four engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has an Inline-four engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "engine",
+                    "V6 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has a V6 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "layout",
+                    "front-wheel drive / all-wheel drive"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has front-wheel and all-wheel drive."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "layout",
+                    "Front-engine design"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has a front engine design.",
+            "The Acura TLX had a front engine design layout.",
+            "The layout of the Acura TLX is one of front engine design."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "layout",
+                    "Front-wheel driv"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has a front-wheel drive.",
+            "The Acura TLX is a front wheel drive vehicle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "manufacturer",
+                    "Honda"
+                ]
+            ]
+        },
+        "text": [
+            "Honda is the manufacturer of the Acura TLX.",
+            "The Acura TLX is manufactured by Honda.",
+            "Honda makes the Acura TLX."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airbus Defence and Space",
+                    "parentCompany",
+                    "Airbus Grou"
+                ]
+            ]
+        },
+        "text": [
+            "The Airbus Group is the parent company of Airbus Defence and Space.",
+            "Airbus Group is the parent company of Airbus Defence &amp; Space."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Arctech Helsinki Shipyard"
+                ]
+            ]
+        },
+        "text": [
+            "Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov.",
+            "The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Finland is the builder of the icebreaker called the Aleksey Chirikov.",
+            "The icebreaker Aleksey Chirikov was built in Finland.",
+            "The icebreaker ship Aleksey Chirikov was built in Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Helsink"
+                ]
+            ]
+        },
+        "text": [
+            "The builder of the icebreaker, Aleksey Chirikov, is in Helsinki.",
+            "The icebreaker Aleksey Chirikov was built in Helsinki."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "length",
+                    "99.83"
+                ]
+            ]
+        },
+        "text": [
+            "The icebreaker Aleksey Chirikov is 99.83 long.",
+            "The icebreaker Aleksey Chirikov is 99.83 metres long.",
+            "An icebreaker, the Aleksey Chirikov, has a length of 99.83 metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "operator",
+                    "Sovcomflo"
+                ]
+            ]
+        },
+        "text": [
+            "Sovcomflot operates the icebreaker, Aleksey Chirikov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "powerType",
+                    "Wärtsilä"
+                ]
+            ]
+        },
+        "text": [
+            "The icebreaker Aleksey Chirikov has a Wartsila power type.",
+            "The powertype of the Aleksey Chirikow icebreaker is Wärtsilä.",
+            "Aleksey Chirikov (icebreaker) is Wärtsilä powered."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "shipBeam",
+                    "21.2"
+                ]
+            ]
+        },
+        "text": [
+            "The Icebreaker, Aleksey Chirikov's ship beam is 21.2.",
+            "The icebreaker, Aleksey Chirikov has a ship beam of 21.2 m.",
+            "The Aleksey Chirikov (icebreaker) has a 21.2 m long ship beam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "status",
+                    "In service"
+                ]
+            ]
+        },
+        "text": [
+            "The Aleksey Chirikov (icebreaker) is in service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "alternativeName",
+                    "Alfa Romeo 168"
+                ]
+            ]
+        },
+        "text": [
+            "The alternative name of the Alfa Romeo 164 is the Alfa Romeo 168.",
+            "The Alfa Romeo 164 is also known as the \"Alfa Romeo 168\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164's assembly line is in Italy.",
+            "The Alfa Romeo 164 was assembled in Italy.",
+            "The Alfa Romeo 164 is assembled in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Milan"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 was assembled in Milan.",
+            "The assembly line of the Alfa Romeo 164 is in Milan.",
+            "The Alfa Romeo 164 is assembled in Milan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "bodyStyle",
+                    "Sedan (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 has a Sedan body style.",
+            "The bodystyle of the Alfa Romeo 164 is Sedan.",
+            "The Alfa Romeo 164 is a sedan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "class",
+                    "Mid-size luxury / Executive car"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 is considered a mid-size luxury executive car."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "class",
+                    "Luxury vehic"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 is a luxury vehicle.",
+            "The Alfa Romeo 164 is a Luxury class vehicle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "engine",
+                    "2.5 (litres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Engine of an Alfa Romeo 164 is 2.5 litres.",
+            "The Alfa Romeo 164 has a 2.5 litre engine.",
+            "The Alfa Romeo 164's engine can hold 2.5 litres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "engine",
+                    "Straight-four engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 has a Straight four engine.",
+            "The Alfa Romeo 164 has a straight-four engine.",
+            "The Alfa Romeo 164 engine is also known as a straight-four engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "engine",
+                    "V6 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 has a V6 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Saab 9000"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 and the Saab 9000 are related means of transport in that they are both cars.",
+            "The Alfa Romeo 164 and the Saab 9000 are similar means of transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "transmission",
+                    "4-speed automatic (ZF 4HP18Q)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 has a 4-speed automatic (ZF 4HP18Q) transmission.",
+            "The Alfa Romeo 164 has a 4-speed automatic ZF 4HP18Q transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "transmission",
+                    "5-speed manual"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 has a 5 speed manual transmission.",
+            "The Alfa Romeo 164 has a 5-speed manual transmission.",
+            "Alfa Romeo 164's transmission is a 5 speed manual."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "transmission",
+                    "6-speed manual (Getrag)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 has a 6-speed manual Getrag transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "length",
+                    "63800.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra was 63800.0 millimetres long.",
+            "The Alhambra had the length of 63800.0 millimetres.",
+            "The Alhambra is 63800.0 millimetres long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "owner",
+                    "P&amp;O (company)"
+                ]
+            ]
+        },
+        "text": [
+            "Alhambra is owned by the P &amp; O company.",
+            "The Alhambra is owned by P&amp;O."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "powerType",
+                    "Humphrys, Tennant and Dykes"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra is powered by a Humphrys, Tennant and Dykes engine.",
+            "The Alhambra has a Humphrys, Tennant and Dykes power type."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "shipLaunch",
+                    "1855-05-31"
+                ]
+            ]
+        },
+        "text": [
+            "The ship Alhambra was launched on the 31st May 1855.",
+            "The Alhambra was launched on 1855-05-31.",
+            "The Alhambra was launched on 31st May 1855."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "shipPower",
+                    "Geared steam engine Humphrys, Tennant and Dykes 140hp"
+                ]
+            ]
+        },
+        "text": [
+            "The ship Alhambra was powered by a Humphrys, Tennant and Dykes 140hp geared steam engine.",
+            "The power of the ship Alhambra was by a geared steam engine Humphrys, Tennant and Dykes 140hp.",
+            "The Alhambra had a Geared steam engine Humphrys, Tennant and Dykes 140hp."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alliant Techsystems",
+                    "product",
+                    "AGM-88 HARM"
+                ]
+            ]
+        },
+        "text": [
+            "The AgM-88 HARM is produced by Alliant Techsystems.",
+            "AGM-88 HARM is produced by Alliant Techsystems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alliant Techsystems",
+                    "product",
+                    "XM25 CDTE"
+                ]
+            ]
+        },
+        "text": [
+            "The Alliant Techsystems produces the XM25-CDTE.",
+            "Alliant Techsystems produces the XM25 CDTE."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Car and Engineering Company",
+                    "foundationPlace",
+                    "Coventry"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Car and Engineering Company was founded in Coventry.",
+            "Alvis Car and Engineering Company was founded in Coventry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Car and Engineering Company",
+                    "locationCity",
+                    "Coventry"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Car and Engineering Company is located in Coventry.",
+            "The Alvis Car and Engineering Co. is located in Coventry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Car and Engineering Company",
+                    "successor",
+                    "Rover Company"
+                ]
+            ]
+        },
+        "text": [
+            "The Rover Co. succeeded the Alvis Car and Engineering Co.",
+            "The Alvis Car and Engineering Company was succeeded by the Rover Company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "class",
+                    "Full-size luxury car"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 is classed as a full-size luxury car.",
+            "The Alvis Speed 25 is a full-size luxury vehicle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "class",
+                    "Full-size ca"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 is classed as a Full-size car.",
+            "The Alvis Speed 25 is a full size class car."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "engine",
+                    "Petrol"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 has a petrol engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "engine",
+                    "31.48 tax horsepow"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 has a 31.48 tax horsepower engine.",
+            "The Alvis Speed 25 has an engine capable of producing 31.48 tax horsepower.",
+            "The Alvis Speed 25 has a 31.48 tax hp engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "engine",
+                    "4387.0 (cubicCentimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 has a 4387.00 cc engine.",
+            "The Alvis Speed 25's engine is 4387.0 cubic centimetres.",
+            "The Alvis Speed 25 has an engine of 4387 cubic centimeters."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "manufacturer",
+                    "Alvis Car and Engineering Company"
+                ]
+            ]
+        },
+        "text": [
+            "Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company.",
+            "The Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company.",
+            "The Alvis Speed 25 was made by the Alvis Car and Engineering Company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "transmission",
+                    "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 has an impressive transmission coined as \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle\".",
+            "The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "wheelbase",
+                    "127.0 (inches)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 has a wheelbase of 127 inches."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Locomotive Company",
+                    "foundationPlace",
+                    "Schenectady, New York"
+                ]
+            ]
+        },
+        "text": [
+            "The American Locomotive Company was founded in Schenectady, New York.",
+            "The foundation place of the American Locomotive Company is Schenectady, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Locomotive Company",
+                    "foundationPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The American Locomotive Company was founded in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Locomotive Company",
+                    "locationCountry",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The American Locomotive Company is located in the United States.",
+            "The American Locomotive Co. is located in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Motors",
+                    "fate",
+                    "Chrys"
+                ]
+            ]
+        },
+        "text": [
+            "American Motors was acquired by Chrysler."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Motors",
+                    "fate",
+                    "Eagle (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "American Motors Co was succeeded by Eagle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Motors",
+                    "keyPerson",
+                    "Roy D. Chapin, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Roy D. Chapin Jr. is a key person at American Motors.",
+            "Roy D Chapin Jr is a key person at American Motors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Motors",
+                    "subsidiary",
+                    "Wheel Hors"
+                ]
+            ]
+        },
+        "text": [
+            "The Wheel Horse is a subsidiary of American Motors.",
+            "Wheel Horse is a subsidiary of American Motors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Motors",
+                    "successor",
+                    "Eagle (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "American Motors successor is Eagle.",
+            "Eagle succeeded American Motors.",
+            "Eagle is the successor of American Motors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American submarine NR-1",
+                    "builder",
+                    "General Dynamics Electric Boa"
+                ]
+            ]
+        },
+        "text": [
+            "General Dynamics Electric Boat is the builder of the American submarine NR-1.",
+            "General Dynamics Electric Boat is the company that built the American submarine NR-1.",
+            "The American submarine NR-1 was built by General Dynamics Electric Boat Co."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American submarine NR-1",
+                    "length",
+                    "45000.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The American submarine NR-1 is 45000.0 millimetres long.",
+            "The American Sub NR-1 is 45000 millimetres in length.",
+            "The American submarine NR-1 is 45000.0 (millimetres) long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American submarine NR-1",
+                    "shipBeam",
+                    "3.8"
+                ]
+            ]
+        },
+        "text": [
+            "The American submarine NR-1 has a 3.8m ship beam.",
+            "The American submarine NR-1 has a beam of 3.8 metres.",
+            "The American Submarine NR-1 has a ship beam of 3.8 m."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American submarine NR-1",
+                    "shipLaunch",
+                    "1969-01-25"
+                ]
+            ]
+        },
+        "text": [
+            "The American submarine NR-1 was launched in January 25th 1969.",
+            "The American sub NR-1 was launched on January 25, 1969.",
+            "The American submarine NR-1 was launched on The 25th of January 1969."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American submarine NR-1",
+                    "topSpeed",
+                    "8.334"
+                ]
+            ]
+        },
+        "text": [
+            "The top speed of the American submarine NR-1 is 8.334.",
+            "The American submarine, NR-1, has a top speed of 8.334 km/h."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ]
+            ]
+        },
+        "text": [
+            "The rocket Antares is comparable to Delta II.",
+            "The Antares rocket is comparable with the Delta II.",
+            "The Antares rocket is similar to the Delta II rocket."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "diameter",
+                    "3.9 (metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket is 3.9 m in diameter.",
+            "The rocket, Antares, has a diametre of 3.9 metres.",
+            "The diameter of the Antares rocket is 3.9 metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "finalFlight",
+                    "2013-09-18"
+                ]
+            ]
+        },
+        "text": [
+            "The final flight of the rocket, Antares was on the 18th of September 2013.",
+            "September 18th 2013 was the date of the final flight of the Antares rocket.",
+            "The Antares rocket made its final voyage on September 18, 2013."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "finalFlight",
+                    "2014-07-13"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket had its final flight on July 13th 2014.",
+            "The Antares (rocket) made the last flight on 2014-07-13.",
+            "The final flight for the rocket Antares was on July 13, 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "function",
+                    "Medium expendable launch system"
+                ]
+            ]
+        },
+        "text": [
+            "The function of the Antares rocket was a medium expendable launch system.",
+            "The Antares rocket function is a medium expendable launch system."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spacepo"
+                ]
+            ]
+        },
+        "text": [
+            "The rocker Antares was launched from the Mid-Atlantic Regional Spaceport.",
+            "The Antares rocket was launched from the Mid-Atlantic Regional Spaceport.",
+            "The Antares rocket launch site was the Mid Atlantic Regional Spaceport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2013-04-21"
+                ]
+            ]
+        },
+        "text": [
+            "The maiden flight of the Antares rocket was on April 21st, 2013.",
+            "The Antares rocket made its maiden flight on April 21st 2013.",
+            "The Antares rocket made its first flight on April 21, 2013."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2014-01-09"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket first voyage was on January 9, 2014.",
+            "The Antares rocket had its maiden flight on January 9th 2014.",
+            "The Antares rockets maiden flight was on the 09th January 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2014-10-28"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket made its first flight on October 28, 2014.",
+            "The Antares rockets maiden flight was on the 28th October 2014.",
+            "The maiden flight of the Antares rocket was on 28th October 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "manufacturer",
+                    "Orbital ATK"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket was manufactured by Orbital ATK.",
+            "The Antares (rocket) is manufactured by Orbital ATK.",
+            "Orbital ATK built the Antares rocket."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "manufacturer",
+                    "Yuzhnoye Design Offic"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket was made by the Yuzhnoye Design Office.",
+            "The Antares rocket is manufactured at the Yuzhnoye Design Office.",
+            "The Antares rocket is manufactured by the Yuzhnoye Design Office."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Argentina",
+                    "capital",
+                    "Buenos Aires"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Argentina is Buenos Aires.",
+            "Buenos Aires is the capital of Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Argentina",
+                    "demonym",
+                    "Argentines"
+                ]
+            ]
+        },
+        "text": [
+            "Argentines live in Argentina.",
+            "The people of Argentina are called Argentines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Argentina",
+                    "leaderName",
+                    "Mauricio Mac"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Argentina is Mauricio Macri.",
+            "Mauricio Macri is a leader in Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "diameter",
+                    "5.4 (metres)"
+                ]
+            ]
+        },
+        "text": [
+            "Ariane 5 has a diameter of 5.4 metres.",
+            "The Ariane 5 has a diameter of 5.4 metres.",
+            "The Ariane 5 had a diameter of 5.4 metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "finalFlight",
+                    "2003-09-27"
+                ]
+            ]
+        },
+        "text": [
+            "The final flight of the Ariane 5 was on 2003-09-27.",
+            "The final flight of Ariane 5 was 2003-09-27.",
+            "The final flight of Ariane 5 was on 27th September 2003."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "finalFlight",
+                    "2004-12-18"
+                ]
+            ]
+        },
+        "text": [
+            "December 18, 2004 was Ariane 5's final flight.",
+            "The final flight of the Ariane 5 was on 2004-12-18.",
+            "The final flight of the rocket Ariane 5 is 18th December 2004."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "finalFlight",
+                    "2009-12-18"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5's final flight was on the 18th December 2009.",
+            "The Ariane 5 had its last flight on December 18, 2009.",
+            "Ariane 5 had its final flight on the 18th of December 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "launchSite",
+                    "ELA-3"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 was launched at ELA-3.",
+            "The Ariane 5 was launched at the ELA-3.",
+            "The launch site of the Ariane 5 was ELA-3 launchpad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "1996-06-04"
+                ]
+            ]
+        },
+        "text": [
+            "Ariane 5 had its maiden flight on the 4th of June, 1996.",
+            "The Ariane 5 rocket made its maiden flight on June 4th 1996.",
+            "The Ariane 5 had its maiden flight on June 4, 1996."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "2002-12-11"
+                ]
+            ]
+        },
+        "text": [
+            "The maiden flight of Ariane 5 was on the 11th December 2002.",
+            "The Ariane 5 made its maiden flight on the 11-12-2002.",
+            "The maiden flight of the Ariane 5 was on 2002-12-11."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "2004-03-02"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5's maiden flight was on the 2nd March 2004.",
+            "The Ariane 5 first flight was on March 2, 2004.",
+            "The Ariane 5 maiden flight was on the 2004-03-02."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "2008-03-09"
+                ]
+            ]
+        },
+        "text": [
+            "The maiden flight of the Ariane 5 rocket was the 9th March 2008.",
+            "The maiden flight of Ariane 5 took place on 9th March 2008.",
+            "The maiden flight of the Ariane 5 was 2008-03-09."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "ESA and Arianespace"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 was made by ESA and Arianespace.",
+            "The Ariane 5 was manufactured at the ESA and Arianespace."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "Arianespac"
+                ]
+            ]
+        },
+        "text": [
+            "Arianespace is the manufacturer of Ariane 5.",
+            "The Ariane 5 was manufactured by Arianespace."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "European Space Agency"
+                ]
+            ]
+        },
+        "text": [
+            "The European Space Agency is the manufacturer of the Ariane 5.",
+            "The European Space Agency manufactured the Ariane 5.",
+            "Ariane 5 is manufactured by the European Space Agency."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "partialFailures",
+                    "2"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 has had 2 partial failures.",
+            "The Ariane 5 had two partial failures."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arianespace",
+                    "locationCity",
+                    "Courcouronnes"
+                ]
+            ]
+        },
+        "text": [
+            "Arianespace is located in the city of Courcouronnes.",
+            "Arianespace is located in Courcouronnes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arianespace",
+                    "locationCountry",
+                    "Franc"
+                ]
+            ]
+        },
+        "text": [
+            "Arianespace is located in France."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin DBS",
+                    "manufacturer",
+                    "Aston Martin"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin DBS is manufactured by Aston Martin.",
+            "Aston Mastin DBS is the manufacturer of the Aston Martin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin DBS",
+                    "successor",
+                    "Aston Martin V8"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin DBS had the Aston Martin V8 for a successor.",
+            "The Aston Martin DBS was succeeded by a V8 version."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin DBS",
+                    "successor",
+                    "Aston Martin Vantag"
+                ]
+            ]
+        },
+        "text": [
+            "The successor of the Aston Martin DBS is the Aston Martin Vantage.",
+            "The Aston Martin Vantage succeeded the Aston Martin DBS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "Newport Pagnell, Buckinghamshire, England, United Kingdom"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom.",
+            "The Aston Martin V8 is built at Newport Pagnell, Buckinghamshire, England, United Kingdom.",
+            "The Aston Martin V8 is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "Newport Pagn"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 assembly is located in Newport Pagnell.",
+            "The Aston Martin V8 was assembled at Newport Pagnell.",
+            "The Aston Martin V8 is assembled at Newport Pagnell."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "United Kingdo"
+                ]
+            ]
+        },
+        "text": [
+            "Aston Martin V8 was assembled in the United Kingdom.",
+            "The Aston Martin V8 is assembled in the United Kingdom.",
+            "The Aston Martin V8 is assembled in the U.K."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "bodyStyle",
+                    "Coupé"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8's body style is the Coupé.",
+            "The body style of the Aston Martin V8 is a coupe.",
+            "The Aston Martin V8 is a Coupe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "engine",
+                    "5.3 (litres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 has a 5.3 litre engine.",
+            "The engine volume of Aston MArtin V8 is 5.3 litres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin DBS"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 and the Aston Martin DBS are related means of transport.",
+            "The Aston Martin V8 and Aston Martin DBS are a related means of transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin RHAM/1"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 and Aston Martin RHAM/1 are related means of transportation.",
+            "Aston Martin V8 is a related means of transport to the Aston Martin RHAM/1.",
+            "The Aston Martin V8 is related to the Aston Martin RHAM/1."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "successor",
+                    "Aston Martin Virag"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 was succeeded by the Aston Martin Virage.",
+            "The Aston Martin Virage succeeded the Aston Martin V8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aston Martin Virage",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin DBS"
+                ]
+            ]
+        },
+        "text": [
+            "Aston Martin Virage and Aston Martin DBS are related types of transportation.",
+            "Aston Martin Virage is a related vehicle to the Aston Martin DBS.",
+            "The Aston Martin Virage is related to the Aston Martin DBS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "diameter",
+                    "3.04"
+                ]
+            ]
+        },
+        "text": [
+            "Atlas II is 3.04m in diameter.",
+            "Atlas II has a diameter of 3.04m.",
+            "The Atlas II is 3.04 m in diameter."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "finalFlight",
+                    "2002-12-05"
+                ]
+            ]
+        },
+        "text": [
+            "Atlas II last flight was on December 5, 2002.",
+            "The final flight of the Atlas II was on 2002-12-05.",
+            "The final flight of Atlas II took place on the 5th December 2002."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "finalFlight",
+                    "2004-08-31"
+                ]
+            ]
+        },
+        "text": [
+            "Atlas II's final flight was on the 31st August 2004.",
+            "Atlas II had its final flight on the 31st of August 2004.",
+            "The Atlas II final flight was on 2004-08-31."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "launchSite",
+                    "Cape Canaveral Air Force Station"
+                ]
+            ]
+        },
+        "text": [
+            "The Atlas II was launched from Cape Canaveral Air Force Station.",
+            "The Atlas II was launched from the Cape Canaveral Air Force Station."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "launchSite",
+                    "Spaceport Florida Launch Complex 36"
+                ]
+            ]
+        },
+        "text": [
+            "The Atlas II was launched from the Spaceport Florida Launch Complex 36.",
+            "The launch site of Atlas II is Spaceport Florida Launch Complex 36.",
+            "The Atlas II launch site was the Spaceport Florida Launch Complex 36."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "launchSite",
+                    "Vandenberg AFB Space Launch Complex 3"
+                ]
+            ]
+        },
+        "text": [
+            "The Atlas II rocket’s launch site is Vandenberg AFB Space Launch Complex 3.",
+            "The Atlas II was launched at the Vandenberg AFB Space Launch Complex 3."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "manufacturer",
+                    "Lockheed Martin"
+                ]
+            ]
+        },
+        "text": [
+            "The manufacturer of the Atlas II is Lockheed Martin.",
+            "The Atlas II was manufactured by Lockheed Martin.",
+            "Lockheed Martin is the manufacturer of the Atlas II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi",
+                    "subsidiary",
+                    "Duca"
+                ]
+            ]
+        },
+        "text": [
+            "Ducati is a subsidiary of Audi.",
+            "The company Ducati is owned by Audi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi",
+                    "subsidiary",
+                    "Lamborghin"
+                ]
+            ]
+        },
+        "text": [
+            "Lamborghini is a subsidiary of Audi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi",
+                    "subsidiary",
+                    "Quattro GmbH"
+                ]
+            ]
+        },
+        "text": [
+            "The Quattro Gmbh is a subsidiary of the Audi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "assembly",
+                    "Brussels, Belgium"
+                ]
+            ]
+        },
+        "text": [
+            "Audi A1 is assembled in Brussels in Belgium.",
+            "The Audi A1 is assembled in Brussels, Belgium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "bodyStyle",
+                    "Hatchback"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 is a hatchback.",
+            "Audi A1 has the hatchback style of body."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "class",
+                    "Supermin"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 is classed as a super mini.",
+            "The Audi A1 is classed as a supermini.",
+            "Audi A1 belongs to the supermini class."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "engine",
+                    "1.2 (litres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 has a 1.2 litre engine.",
+            "Audi A1 has a 1.2 litre engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "layout",
+                    "Front-engine, front-wheel-drive layou"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 has a front-engine, front-wheel-drive layout.",
+            "The Audi A1 has a front engine, front-wheel drive layout.",
+            "Audi A1 has a front-engine with front-wheel-drive."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "manufacturer",
+                    "Aud"
+                ]
+            ]
+        },
+        "text": [
+            "Audi is the manufacturer of the Audi A1.",
+            "The Audi A1 is manufactured by Audi.",
+            "Audi A1 is made by Audi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "relatedMeanOfTransportation",
+                    "Volkswagen Polo"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 and Volkswagen Polo are related kinds of transportation.",
+            "The Audi A1 is a related vehicle to the VW Polo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id220",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "transmission",
+                    "5-speed manual"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 has a 5-speed manual transmission.",
+            "The Audi A1 has a 5 speed manual transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id221",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "transmission",
+                    "6-speed manual"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 has a 6-speed manual gearbox.",
+            "The Audi A1 has a 6-speed manual transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id222",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "foundationPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Caterpillar Inc. was founded in the United States.",
+            "Caterpillar, Inc. was founded in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id223",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Caterpillar, Inc. is located in Illinois.",
+            "Caterpillar Inc. is located in Illinois.",
+            "The location of Caterpillar Inc. is Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id224",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Caterpillar Inc. is located in the U.S.",
+            "Caterpillar Inc is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id225",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Costa Crociere",
+                    "location",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Costa Crociere is based in Italy.",
+            "Costa Crociere is located in Italy.",
+            "The location of Costa Crociere is Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id226",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Costa Crociere",
+                    "parentCompany",
+                    "Carnival Corporation &amp; plc"
+                ]
+            ]
+        },
+        "text": [
+            "Carnival Corporation &amp; plc is the parent company of Costa Crociere.",
+            "The parent company of Costa Crociere is Carnival Corporation &amp; plc."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id227",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "DeSoto Custom",
+                    "manufacturer",
+                    "DeSoto (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "DeSoto are the manufacturers of the DeSoto Custom.",
+            "The DeSoto Custom was manufactured at DeSoto.",
+            "DeSoto Custom was manufactured by DeSoto."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id228",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "DeSoto Custom",
+                    "relatedMeanOfTransportation",
+                    "Dodge Coron"
+                ]
+            ]
+        },
+        "text": [
+            "The DeSoto Custom is related to the Dodge Coronet.",
+            "The DeSoto Custom and the Dodge Coronet are similar means of transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id229",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "DeSoto Custom",
+                    "successor",
+                    "DeSoto Firedo"
+                ]
+            ]
+        },
+        "text": [
+            "The Desoto Custom's successor is the DeSoto Firedome.",
+            "The DeSoto Firedome was preceded by the DeSoto Custom.",
+            "The successor of the DeSoto Custom automobile was the DeSoto Firedome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id230",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Delta II",
+                    "countryOrigin",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The origin of the Delta II is the United States.",
+            "The Delta II is from the United States.",
+            "Delta II originates from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id231",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Cape Canaveral Air Force Station Space Launch Complex 17"
+                ]
+            ]
+        },
+        "text": [
+            "The Delta II took off from Cape Canaveral Air Force Station Space Launch Complex 17.",
+            "The Delta II was launched at Cape Canaveral Air Force Station Space Launch Complex 17.",
+            "Cape Canaveral Air Force Station Space Launch Complex 17 is the launch site of Delta II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id232",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Vandenberg AFB Space Launch Complex 2"
+                ]
+            ]
+        },
+        "text": [
+            "The launch site of the Delta II was at the Vandenberg AFB Space Launch Complex 2.",
+            "The Delta II was launched from Vandenberg AFB Space Launch Complex 2.",
+            "The launch site of the Delta II was the Vandenberg AFB Space Launch Complex 2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id233",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Vandenberg Air Force Bas"
+                ]
+            ]
+        },
+        "text": [
+            "The Delta II launch site was at Vandenberg Air Force Base.",
+            "The Delta II was launched at the Vandenberg Air Force Base.",
+            "The launch site of the Delta II is Vandenberg Air Force Base."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id234",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Delta II",
+                    "manufacturer",
+                    "United Launch Allianc"
+                ]
+            ]
+        },
+        "text": [
+            "Delta II was manufactured by the United Launch Alliance.",
+            "United Launch Alliance made the Delta II.",
+            "United Launch Alliance is the manufacturer of Delta II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id235",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dodge",
+                    "keyPerson",
+                    "Sergio Marchionn"
+                ]
+            ]
+        },
+        "text": [
+            "Sergio Marchionne was the key person of the Dodge.",
+            "The key person of Dodge is Sergio Marchionne.",
+            "Sergio Marchionne is a key figure of Dodge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id236",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ELA-3",
+                    "operator",
+                    "Arianespac"
+                ]
+            ]
+        },
+        "text": [
+            "Arianespace operates the ELA-3.",
+            "The ELA-3 is operated by Arianespace."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id237",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ELA-3",
+                    "site",
+                    "Guiana Space Cen"
+                ]
+            ]
+        },
+        "text": [
+            "The ELA-3 is located at the Guiana Space Centre.",
+            "The site of ELA-3 is at the Guiana Space Centre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id238",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fiat Croma",
+                    "relatedMeanOfTransportation",
+                    "Opel Vectra"
+                ]
+            ]
+        },
+        "text": [
+            "Fiat Croma and Opel Vectra are related forms of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id239",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fiat Croma",
+                    "relatedMeanOfTransportation",
+                    "Saab 9000"
+                ]
+            ]
+        },
+        "text": [
+            "The Fiat Croma and the Saab 9000 are related means of transport in that they are both cars.",
+            "Fiat Croma and Saab 9000 are related forms of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id240",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "demonym",
+                    "Finns"
+                ]
+            ]
+        },
+        "text": [
+            "The natives of Finland are known as Finns.",
+            "People in Finland are known as Finns.",
+            "The demonym of Finland is Finns."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id241",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "leaderName",
+                    "Juha Sipilä"
+                ]
+            ]
+        },
+        "text": [
+            "Juha Sipila is a leader in Finland.",
+            "Juha Sipilä is a leader in Finland.",
+            "Finland is led by Juha Sipila."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id242",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "leaderName",
+                    "Sauli Niinistö"
+                ]
+            ]
+        },
+        "text": [
+            "Sauli Niinistö is a leader in Finland.",
+            "Sauli Niinisto is a leader in Finland.",
+            "Sauli Niinistö is the leader of Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id243",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "General Dynamics Electric Boat",
+                    "locationCity",
+                    "Groton, Connecticu"
+                ]
+            ]
+        },
+        "text": [
+            "General Dynamics Electric Boat are located in the city of Groton, Connecticut.",
+            "The General Dynamics Electric Boat is located in Groton, CT."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id244",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "General Dynamics Electric Boat",
+                    "parentCompany",
+                    "General Dynamics"
+                ]
+            ]
+        },
+        "text": [
+            "General Dynamics is the parent company of the General Dynamics Electric Boat Co.",
+            "The parent company of the General Dynamics Electric Boat is General Dynamics."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id245",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Germany",
+                    "capital",
+                    "Berlin"
+                ]
+            ]
+        },
+        "text": [
+            "Berlin is the capital of Germany.",
+            "The capital of Berlin is Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id246",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Germany",
+                    "leaderName",
+                    "Andreas Voßkuh"
+                ]
+            ]
+        },
+        "text": [
+            "Andreas Voßkuhle is a leader of Germany.",
+            "Andreas Vosskuhle is a leader in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id247",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Germany",
+                    "leaderName",
+                    "Angela Merk"
+                ]
+            ]
+        },
+        "text": [
+            "Angela Merkel is the leader of Germany.",
+            "The leader of Germany is Angela Merkel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id248",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Germany",
+                    "leaderName",
+                    "Joachim Gauck"
+                ]
+            ]
+        },
+        "text": [
+            "Joachim Gauck is a leader in Germany.",
+            "The name of the leader in Germany is Joachim Gauck."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id249",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gruppo Bertone",
+                    "foundationPlace",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Gruppo Bertone was founded in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id250",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gruppo Bertone",
+                    "foundationPlace",
+                    "Turin"
+                ]
+            ]
+        },
+        "text": [
+            "The Gruppo Bertone was founded in Turin.",
+            "Gruppo Bertone was founded in Turin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id251",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gruppo Bertone",
+                    "locationCity",
+                    "Turin"
+                ]
+            ]
+        },
+        "text": [
+            "Gruppo Bertone is located in Turin.",
+            "Gruppo Bertone is located in the city of Turin.",
+            "The Gruppo Bertone is located in Turin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id252",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gruppo Bertone",
+                    "locationCountry",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Gruppo Bertone is located in Italy.",
+            "Gruppo Bertone is an Italian company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id253",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Guiana Space Centre",
+                    "headquarter",
+                    "French Guiana"
+                ]
+            ]
+        },
+        "text": [
+            "French Guiana is where the headquarters of the Guiana Space Centre are located.",
+            "The Guiana Space Centre has its HQ in French Guiana.",
+            "The Guiana Space Centre has its headquarters in French Guiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id254",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Guiana Space Centre",
+                    "location",
+                    "French Guiana"
+                ]
+            ]
+        },
+        "text": [
+            "French Guiana is the location of the Guiana Space Centre.",
+            "The Guiana Space Centre is located in French Guiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id255",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Guiana Space Centre",
+                    "location",
+                    "Kourou, French Guiana"
+                ]
+            ]
+        },
+        "text": [
+            "The Guiana Space Centre is located in Kourou, French Guiana.",
+            "The Guiana Space Centre is in Kourou, French Guiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id256",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Honda Accord",
+                    "manufacturer",
+                    "Honda"
+                ]
+            ]
+        },
+        "text": [
+            "The Honda Accord is made by Honda.",
+            "Honda is the manufacturer of the Honda Accord.",
+            "Honda manufactures a model called the Accord."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id257",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Honda Accord",
+                    "relatedMeanOfTransportation",
+                    "Acura TLX"
+                ]
+            ]
+        },
+        "text": [
+            "The Honda Accord is related to the Acura TLX."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id258",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Honda J engine",
+                    "manufacturer",
+                    "Honda"
+                ]
+            ]
+        },
+        "text": [
+            "The Honda J. engine is made by Honda.",
+            "The Honda J engine was manufactured by Honda.",
+            "Honda is the manufacturer of the Honda J engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id259",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Humphrys, Tennant and Dykes",
+                    "location",
+                    "Deptford"
+                ]
+            ]
+        },
+        "text": [
+            "Humphrys, Tennant and Dykes is located in Deptford.",
+            "Humphrys, Tennant &amp; Dykes is in Deptford.",
+            "Humphrys, Tennant and Dykes are located in Deptford."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id260",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Humphrys, Tennant and Dykes",
+                    "location",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "Humphrys, Tennant and Dykes are located in London.",
+            "Humphrys, Tennant and Dykes is located in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id261",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ]
+            ]
+        },
+        "text": [
+            "Rome is the capital of Italy.",
+            "The capital of Italy is Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id262",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lancia Thema",
+                    "relatedMeanOfTransportation",
+                    "Saab 9000"
+                ]
+            ]
+        },
+        "text": [
+            "The Lancia Thema is related to the Saab 9000.",
+            "The Saab 9000 and the Lancia Thema are related means of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id263",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lockheed Martin",
+                    "location",
+                    "Bethesda, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Lockheed Martin is located in Bethesda, Maryland.",
+            "Lockheed, Martin is in Bethesda, Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id264",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "MTU Friedrichshafen",
+                    "locationCity",
+                    "Friedrichshafen"
+                ]
+            ]
+        },
+        "text": [
+            "MTU Friedrichshafen is in the city of Friedrichshafen.",
+            "MTU Friedrichshafen is in Friedrichshafen.",
+            "MTU Friedrichshafen is located in the city of Friedrichshafen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id265",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "MTU Friedrichshafen",
+                    "owner",
+                    "Rolls-Royce Holdings"
+                ]
+            ]
+        },
+        "text": [
+            "The MTU Friedrichshafen is owned by Rolls-Royce Holdings.",
+            "MTU Friedrichshafen is owned by Rolls-Royce Holdings."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id266",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "MTU Friedrichshafen",
+                    "parentCompany",
+                    "Rolls-Royce Power Systems"
+                ]
+            ]
+        },
+        "text": [
+            "The parent company of MTU Friedrichshafen is Rolls-Royce Power Systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id267",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0",
+                    "associatedRocket",
+                    "Antares (rocket)"
+                ]
+            ]
+        },
+        "text": [
+            "Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.",
+            "The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.",
+            "The Antares Rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id268",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0",
+                    "associatedRocket",
+                    "Minotaur IV"
+                ]
+            ]
+        },
+        "text": [
+            "Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the rocket, Minotaur IV.",
+            "The Minotaur IV rocket is associated with the Mid-Atlantic Regional Spaceport Launch Pad 0.",
+            "The Minotaur IV rocket was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id269",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0",
+                    "associatedRocket",
+                    "Minotaur V"
+                ]
+            ]
+        },
+        "text": [
+            "The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Minotaur V rocket.",
+            "The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Rocket Minotaur V.",
+            "The Minotaur V was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id270",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Milan",
+                    "saint",
+                    "Ambros"
+                ]
+            ]
+        },
+        "text": [
+            "The saint of Milan is Ambrose."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id271",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Neptun Werft",
+                    "locationCity",
+                    "Rostock"
+                ]
+            ]
+        },
+        "text": [
+            "Neptun Werft is located in Rostock.",
+            "The Neptun Werft is located in Rostock.",
+            "Neptun Werft is headquartered in Rostock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id272",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Neptun Werft",
+                    "locationCountry",
+                    "Germany"
+                ]
+            ]
+        },
+        "text": [
+            "Neptun Werft is located in Germany.",
+            "Neptun Werft is in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id273",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "P&amp;O (company)",
+                    "location",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "The location of the company P&amp;O is London.",
+            "P&amp;O company is located in London.",
+            "P&amp;O transporting company is located in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id274",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Plymouth Plaza",
+                    "manufacturer",
+                    "Plymouth (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "The Plymouth Plaza was manufactured by Plymouth.",
+            "Plymouth are the manufacturers of the Plymouth Plaza."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id275",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Plymouth Plaza",
+                    "relatedMeanOfTransportation",
+                    "1955 Dodg"
+                ]
+            ]
+        },
+        "text": [
+            "Plymouth Plaza is related to the 1955 Dodge.",
+            "The Dodge 1955 is a related mean of transportation to the Plymouth Plaza."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id276",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Plymouth Plaza",
+                    "successor",
+                    "Plymouth Sa"
+                ]
+            ]
+        },
+        "text": [
+            "The Plymouth Plaza's successor is the Plymouth Satellite.",
+            "The Plymouth Plaza was succeeded by the Plymouth Satellite."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id277",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Richard A. Teague",
+                    "employer",
+                    "Chrys"
+                ]
+            ]
+        },
+        "text": [
+            "Richard A. Teague works for Chrysler.",
+            "Richard A. Teague is employed by Chrysler."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id278",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Richard A. Teague",
+                    "employer",
+                    "General Motors"
+                ]
+            ]
+        },
+        "text": [
+            "Richard A Teague is an employee of General Motors.",
+            "Richard A. Teague's employer is General Motors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id279",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Rostock",
+                    "country",
+                    "Germany"
+                ]
+            ]
+        },
+        "text": [
+            "Rostock is in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id280",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SEAT Ibiza",
+                    "relatedMeanOfTransportation",
+                    "Audi A1"
+                ]
+            ]
+        },
+        "text": [
+            "The SEAT Ibiza and the Audi A1 are similar means of transport.",
+            "The SEAT Ibiza is related to the Audi A1.",
+            "The SEAT Ibiza and the Audi A1 are related means of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id281",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SEAT Ibiza",
+                    "relatedMeanOfTransportation",
+                    "Volkswagen Polo Mk3"
+                ]
+            ]
+        },
+        "text": [
+            "The SEAT Ibiza is related to the Volkswagen Polo Mk3."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id282",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Saab 9000",
+                    "relatedMeanOfTransportation",
+                    "Alfa Romeo 164"
+                ]
+            ]
+        },
+        "text": [
+            "Saab 9000 is related to Alfa Romeo 164."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id283",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sovcomflot",
+                    "keyPerson",
+                    "Sergey Naryshkin"
+                ]
+            ]
+        },
+        "text": [
+            "Sergey Naryshkin is a key person at Sovcomflot.",
+            "Sergey Naryshkin is a key person at the company Sovcomflot."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id284",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Spaceport Florida Launch Complex 36",
+                    "operator",
+                    "United States Air Forc"
+                ]
+            ]
+        },
+        "text": [
+            "Spaceport Florida Launch Complex 36 is operated by the United States Air Force.",
+            "The Spaceport Florida Launch Complex 36 is operated by the U.S. Air Force."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id285",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "capital",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "London is the capital of the United Kingdom.",
+            "The capital of the UK is London.",
+            "London is the capital of the UK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id286",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "Elizabeth II is the leader of the United Kingdom.",
+            "The ruler of the United Kingdom is Queen Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id287",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Washington D.C. is the capital city of the United States.",
+            "The capital of the United States is Washington, D.C.",
+            "Washington D.C. is the capital of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id288",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Americans live in the U.S.",
+            "The people of the United States are called Americans.",
+            "The inhabitants of the United States are called Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id289",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in the United States is African Americans.",
+            "United States has ethnic groups including African Americans.",
+            "African Americans are among the ethnic groups in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id290",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Asian Americans are one of the ethnic groups of the United States.",
+            "Asian Americans are an ethnic group in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id291",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ]
+            ]
+        },
+        "text": [
+            "White Americans are an ethnic group in the United States.",
+            "White Americans are one of the ethnic groups in the United States.",
+            "White Americans are an ethnic group of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id292",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is spoken in the U.S.",
+            "The language in the United States is English.",
+            "English is the language of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id293",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the United States has the title President of the United States.",
+            "The leader of the United States is the President of the United States.",
+            "The title of the leader of United States is The President of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id294",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Vandenberg AFB Space Launch Complex 3",
+                    "operator",
+                    "United States Air Forc"
+                ]
+            ]
+        },
+        "text": [
+            "The operator of the Vandenberg AFB Space Launch Complex 3 is the United States Air Force."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id295",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Vandenberg Air Force Base",
+                    "location",
+                    "Lompoc, California"
+                ]
+            ]
+        },
+        "text": [
+            "The Vandenberg Air Force Base is located in Lompoc, California.",
+            "The Vandenberg Air Force Base is in Lompoc, CA.",
+            "Vandenberg Air Force Base is located in Lompoc, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id296",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Volkswagen Polo",
+                    "relatedMeanOfTransportation",
+                    "Audi A1"
+                ]
+            ]
+        },
+        "text": [
+            "Volkswagen Polo and Audi A1 are related forms of transportation.",
+            "Volkswagen Polo is related to Audi A1."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id297",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Yuzhnoye Design Office",
+                    "location",
+                    "Dnipropetrovsk"
+                ]
+            ]
+        },
+        "text": [
+            "The Yuzhnoye Design Office is located in Dnipropetrovsk.",
+            "The Yuzhnoye Design Office is in Dnipropetrovsk.",
+            "The Yuzhnoye Design Office is situated in Dnipropetrovsk."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id298",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Yuzhnoye Design Office",
+                    "location",
+                    "Ukrain"
+                ]
+            ]
+        },
+        "text": [
+            "The Yuzhnoye Design Office is located in the Ukraine.",
+            "Yuzhnoye Design Office is located in the Ukraine."
+        ]
+    }
+]

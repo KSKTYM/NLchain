@@ -1,0 +1,5819 @@
+[
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Milan",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Milan play in Serie A.",
+            "AC Milan is in Serie A league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Milan",
+                    "manager",
+                    "Siniša Mihajlović"
+                ]
+            ]
+        },
+        "text": [
+            "Siniša Mihajlović is the manager for A.C. Milan.",
+            "Siniša Mihajlović is manager of A.C. Milan.",
+            "Siniša Mihajlović is the manager of A. C. Milan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma plays in the Serie A.",
+            "A.S. Roma play in Serie A.",
+            "A.S. Roma play in the Serie A league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "position",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma's position is the Serie A.",
+            "A.S. Roma compete in Serie A.",
+            "A.S. Roma is in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "ground",
+                    "AFAS Stadion"
+                ]
+            ]
+        },
+        "text": [
+            "AFAS Stadion is the ground of AZ Alkmaar.",
+            "AZ Alkmaar's ground is AFAS Stadion.",
+            "AZ Alkmaar play their home games at the AFAS Stadion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthDate",
+                    "1986-08-11"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born 11/08/1986.",
+            "Aaron Boogaard was born in August 11th 1986.",
+            "Aaron Boogaard was born on 11/08/1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Regina, Saskatchewan"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's birthplace is Regina, Saskatchewan.",
+            "Aaron Boogaard was born in Regina, Saskatchewan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Saskatchewan"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in Saskatchewan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthYear",
+                    "1986"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "club",
+                    "Wichita Thund"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's club is Wichita Thunder.",
+            "Aaron Boogaard played for the club Wichita Thunder.",
+            "Aaron Boogaard plays for Wichita Thunder."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "draftTeam",
+                    "Minnesota Wild"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's draft team is Minnesota Wild."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "height",
+                    "1.905"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard is 1.905m high.",
+            "Aaron Boogaard's height is 1.905 metres.",
+            "Aaron Boogaard is 1.905 tall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "birthPlace",
+                    "Gosla"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt was born in Goslar.",
+            "Aaron Hunt's birth place is Goslar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "birthPlace",
+                    "West Germany"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt was born in West Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Germany national under-21 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for the German National Under 21 football team.",
+            "Aaron Hunt's club is the Germany national under-21 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Germany national youth football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt played for the Germany national youth football team.",
+            "Aaron Hunt plays for the Germany national youth football team.",
+            "Aaron Hunt is in the German national youth football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Goslarer SC 08"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for Goslarer SC 08.",
+            "Aaron Hunt's club is Goslarer SC 08."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Hamburger SV"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for the club, Hamburger SV.",
+            "Aaron Hunt has played for Hamburger SV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen II"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for SV Werder Bremen II.",
+            "Aaron Hunter played for SV Werder Bremen II.",
+            "Aaron Hunt plays for the club SV Werder Bremen II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "VfL Wolfsburg"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt's club is VfL Wolfsburg.",
+            "Aaron Hunt plays for Vfl Wolfsburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "youthclub",
+                    "Goslarer SC 08"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt played for the Goslarer SC 08 youth team.",
+            "Aaron Hunt's youth club was Goslarer SC 08."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "youthclub",
+                    "SV Werder Bremen"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt's is in the youth club SV Werder Bremen.",
+            "Aaron Hunt played for the SV Werder Bremen youth team.",
+            "Aaron Hunt belongs to the youth club SV Werder Bremen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "birthPlace",
+                    "Pando, Uruguay"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez's birthplace is Pando, Uruguay.",
+            "Abel Hernández was born in Pando, Uruguay.",
+            "Abel Hernández's birth place is Pando, Uruguay."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "birthPlace",
+                    "Uruguay"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernández was born in Uruguay.",
+            "Abel Hernandez was born in Uruguay."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Central Españo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernández's club is Central Español.",
+            "Abel Hernández has played for Central Español.",
+            "Abel Hernandez played for the Central Espanol club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Hull City A.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernández's club is Hull City A.F.C.",
+            "Abel Hernández plays for Hull City A.F.C.",
+            "Abel Hernandez plays for Hull City AFC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Peñaro"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez's club is Penarol.",
+            "Abel Hernandez played for Penarol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez's club is US Citta di Palermo.",
+            "Abel Hernández plays for the club, U.S. Città di Palermo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national under-20 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez's club is the Uruguay national under 20 football team.",
+            "Abel Hernandez plays for the Uruguay national under-20 football team.",
+            "Abel Hernández played for the Uruguay national under-20 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "youthclub",
+                    "Central Españo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernández played youth football for Central Español.",
+            "Abel Hernandez played youth football for Central Espanol.",
+            "Abel Hernandez is a member of the Central Espanol youth team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "youthclub",
+                    "Peñaro"
+                ]
+            ]
+        },
+        "text": [
+            "In his youth, Abel Hernández played for Peñarol.",
+            "Abel Hernández was a member of youth club Peñarol.",
+            "Abel Hernandez is a member of Penarol's youth club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "birthDate",
+                    "1996-05-30"
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Abner was born on 30/05/1996.",
+            "Abner the footballer, was born on May 30th 1996.",
+            "Footballer, Abner was born 30th May 1996."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "birthPlace",
+                    "Londrina"
+                ]
+            ]
+        },
+        "text": [
+            "Abner (a footballer) was born in Londrina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Brazil national under-17 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Abner plays for the Brazilian national under 17 football team.",
+            "Footballer, Abner's club is the Brazil national under-17 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Brazil national under-20 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Abner has represented the Brazil national under 20 team.",
+            "The footballer Abner plays for the Brazilian national under 20 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Coritiba Foot Ball Club"
+                ]
+            ]
+        },
+        "text": [
+            "Abner plays for the Coritiba Football Club.",
+            "Abner is a footballer for the Coritiba Football club.",
+            "The footballer Abner plays for Coritiba Football Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Real Madrid Castilla"
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Abner plays for the club, Real Madrid Castilla.",
+            "Abner played for the football club Real Madrid Castilla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "currentclub",
+                    "Real Madrid Castilla"
+                ]
+            ]
+        },
+        "text": [
+            "Abner is a footballer with the Real Madrid Castilla club.",
+            "Abner currently plays football for Real Madrid Castilla.",
+            "Abner's current football club is Real Madrid Castilla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accrington Stanley F.C.",
+                    "ground",
+                    "Accrington"
+                ]
+            ]
+        },
+        "text": [
+            "Accrington Stanley F.C.'s ground is Accrington.",
+            "Accrington Stanley F.C. play in Accrington.",
+            "Accrington Stanley F.C. played in Accrington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Maher",
+                    "club",
+                    "AZ Alkmaa"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Maher's club is AZ Alkmaar.",
+            "Adam Maher is connected to the AZ Alkmaar club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Maher",
+                    "currentclub",
+                    "PSV Eindhoven"
+                ]
+            ]
+        },
+        "text": [
+            "The current club that Adam Maher plays for is PSV Eindhoven.",
+            "Adam Maher currently plays for PSV Eindhoven.",
+            "The current club of Adam Maher is PSV Eindhoven."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthDate",
+                    "1986-10-12"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in October 12th 1986.",
+            "Adam McQuaid's date of birth is 12/10/1986.",
+            "Adam McQuaid was born on the 12th of October 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Prince Edward Island"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born on Prince Edward Island.",
+            "Prince Edward Island is the birth place of Adam McQuaid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthYear",
+                    "1986"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid's year of birth is 1986.",
+            "Adam McQuaid was born in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "club",
+                    "Boston Bruins"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid played for the club Boston Bruins.",
+            "Adam McQuaid plays for the Boston Bruins.",
+            "Adam McQuaid plays for Boston Bruins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "draftTeam",
+                    "Columbus Blue Jackets"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid's draft team was the Columbus Blue Jackets.",
+            "Adam McQuaid's draft team is the Columbus Blue Jackets.",
+            "Adam McQuaid was drafted to the Columbus Blue Jackets."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "height",
+                    "1.9558"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid's height is 1.9558.",
+            "Adam McQuaid is 1.9558 m tall.",
+            "Adam McQuaid's height is 1.9558 meters."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "weight",
+                    "94.8024 (kilograms)"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid weighs 94.8024 kilograms.",
+            "Adam McQuaid's weight is 94.8024 kilograms.",
+            "Adam McQuaid weighs 94.8024kg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "birthDate",
+                    "1976-07-01"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad was born on the 01-07-1976.",
+            "Ahmad Kadhim Assad was born on the 1st July 1976.",
+            "Ahmad Kadhim Assad was born on 1st July 1976."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Jaish SC (Syria)"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad plays for Al-Jaish SC in Syria.",
+            "Ahmad Kadhim Assad plays for the Syrian club Al Jaish SC.",
+            "Ahmad Kadhim Assad's club is Al-Jaish SC (Syria)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Naf"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad is in the Al-Naft club.",
+            "Ahmad Kadhim Assad's club is Al-Naft.",
+            "Ahmad Kadhim Assad plays for Al-Naft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Quwa Al-Jawiya"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad is in the Al-Quwa Al-Jawiya club.",
+            "Ahmad Kadhim Assad played for the club Al-Quwa Al-Jawiya.",
+            "Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Talaba SC"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad plays for Al Talaba SC.",
+            "Ahmad Kadhim Assad plays for Al-Talaba SC.",
+            "Ahmad Kadhim Assad is a member of Al Talaba SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Zawra'a SC"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad's club is Al-Zawra'a SC.",
+            "Ahmad Kadhim Assad plays for Al-Zawra'a SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al Shorta SC"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad's club is Al Shorta SC.",
+            "Ahmad Kadhim Assad plays for Al Shorta SC.",
+            "Ahmad Kadhim Assad played for the club Al Shorta SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Esteghlal Ahvaz F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad played for Esteghlal Ahvaz F.C.",
+            "Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C.",
+            "Ahmad Kadhim Assad is part of the Esteghlal Ahvaz F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Steel Azin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad's club is Steel Azin F.C.",
+            "Ahmad Kadhim Assad plays for Steel Azin F.C.",
+            "Ahmad Kadhim Assad played for Steel Azin F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "birthPlace",
+                    "Point Fortin, Trinidad and Tobago"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams' birthplace was Point Fortin, Trinidad and Tobago.",
+            "Akeem Adams was born in Point Fortin, Trinidad and Tobago.",
+            "Akeem Adams was born in Point Fortin, in Trinidad and Tobago."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Central F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams' club is Central FC.",
+            "Akeem Adams' club is Central F.C.",
+            "Akeem Adams plays for Central F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams club is Ferencvarosi TC.",
+            "Akeem Adams plays for Ferencvarosi TC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "T&amp;TEC Sports Club"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams plays for T&amp;TEC Sports Club.",
+            "Akeem Adams plays for the T&amp;TEC Sports Club.",
+            "Akeem Adams played for the club T&amp;TEC Sports Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams plays for the Trinidad and Tobago national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national under-17 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams's club is the Trinidad and Tobago national under 17 football team.",
+            "Akeem Adams played for the Trinidad and Tobago national under-17 football team.",
+            "Akeem Adams once played for the Trinidad and Tobago national under-17 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national under-20 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams played in the Trinidad and Tobago national under-20 football team.",
+            "Akeem Adams played football for the Trinidad and Tobago national under 20 team.",
+            "Akeem Adams plays for the Trinidad and Tobago national under-20 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "United Petrotrin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams played for United Petrotrin F.C.",
+            "Akeem Adams is a member of the United Petrotrin F.C. club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "W Connection F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams is in the W Connection FC club.",
+            "Akeem Adams plays for W Connection F.C.",
+            "Akeem Adams played for W Connection F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "deathPlace",
+                    "Budapes"
+                ]
+            ]
+        },
+        "text": [
+            "Budapest is the death place of Akeem Adams.",
+            "Akeem Adams died in Budapest."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "activeYearsStartYear",
+                    "2011"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers started his career in 2011.",
+            "Akeem Ayers has been active since 2011."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "birthDate",
+                    "1989-07-10"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers was born July 10th, 1989.",
+            "Akeem Ayers was born on 10th July 1989."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "birthPlace",
+                    "Raleigh, North Carolina"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers birth place is Raleigh, North Carolina.",
+            "Akeem Ayers was born in Raleigh, North Carolina.",
+            "Akeem Ayers was born in Raleigh North Carolina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "birthYear",
+                    "1989"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers was born in 1989."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "currentteam",
+                    "Los Angeles Rams"
+                ]
+            ]
+        },
+        "text": [
+            "The current team of Akeem Ayers is the Los Angeles Rams.",
+            "Akeem Ayers' current team is \"Los Angeles Rams\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers made his debut for the Tennessee Titans.",
+            "The debut team of Akeem Ayers was the Tennessee Titans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "draftPick",
+                    "39"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers was number 39 in the draft pick.",
+            "Akeem Ayers draft pick is 39."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "draftRound",
+                    "2"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers was in draft round 2.",
+            "Akeem Ayers' draft round was 2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers' former team was the Los Angeles Rams.",
+            "Akeem Ayers former team is the Los Angeles Rams.",
+            "Akeem Ayers used to play for Los Angeles Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "New England Patriots"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers's former team is the New England Patriots.",
+            "The New England Patriots are a former team of the player Akeem Ayers.",
+            "The former team of Akeem Ayers was New England Patriots."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers used to play for the St. Louis Rams.",
+            "St Louis Rams is the former team of Akeem Ayers.",
+            "Akeem Ayers' former team is St. Louis Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers used to play for Tennessee Titans.",
+            "Akeem Ayers' former team was Tennessee Titans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "birthDate",
+                    "1987-09-27"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent was born on 27/09/1987.",
+            "Akeem Dent was born on the 27th September 1987.",
+            "Akeem Dent's birthday is 09/27/1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent's place of birth is Atlanta, Georgia.",
+            "Akeem Dent was born in Atlanta Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent was born in Atlanta.",
+            "Atlanta is the birth place of Akeem Dent."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "birthYear",
+                    "1987"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent was born in the Year 1987.",
+            "Akeem Dent was born in 1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "club",
+                    "Houston Texans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent's club is the Houston Texans.",
+            "Akeem Dent plays for the Houston Texans club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "debutTeam",
+                    "Atlanta Falcons"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent's first team were the Atlanta Falcons.",
+            "Akeem Dent debuted with the Atlanta Falcons.",
+            "Akeem Dent's debut team was the Atlanta Falcons."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent used to play for Houston Texans.",
+            "Akeem Dent's former team was the Houston Texans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "playerNumber",
+                    "50"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent is a player number 50.",
+            "Number \"50\" is Akeem Dent's player number.",
+            "Akeem Dent's player Number is 50."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "position",
+                    "Lineback"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent's position is a linebacker.",
+            "Akeem Dent is a linebacker.",
+            "Akeem Dent's position is linebacker."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "birthPlace",
+                    "Jamaica"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's birth place is Jamaica.",
+            "Akeem Priestley was born in Jamaica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "birthPlace",
+                    "Kingston, Jamaica"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's birth place was Kingston in Jamaica.",
+            "Akeem Priestley was born in Kingston Jamaica.",
+            "Akeem Priestley was born in Kingston, Jamaica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Antigua GFC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley played for Antigua GFC.",
+            "Akeem Priestley plays for Antigua GFC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Dayton Dutch Lions"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's club is Dayton Dutch Lions.",
+            "Akeem Priestley plays for Dayton Dutch Lions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Harbour View F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's club is Harbour View FC.",
+            "Akeem Priestley is a player for the Harbour View F.C.",
+            "Akeem Priestley's club is Harbour View F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Jacksonville Dolphins"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley plays for Jacksonville Dolphins.",
+            "Akeem Priestley is in the Jacksonville Dolphins club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Jamaica national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley represented the Jamaica national football team.",
+            "Akeem Priestley is playing for the Jamaican national football team.",
+            "Akeem Priestley plays for the Jamaica national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Orange County Blues FC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley plays for Orange County Blues FC.",
+            "Akeem Priestley is connected to the Orange County Blues Football Club.",
+            "Akeem Priestley plays for the Orange County Blues FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "RoPS"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley’s club is RoPS.",
+            "Akeem Priestley played for club RoPS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Sheikh Russel KC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley played for Sheikh Russel KC.",
+            "Akeem Priestley plays for Sheikh Russel KC.",
+            "Akeem Priestley played for the club Sheikh Russel KC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "youthclub",
+                    "Connecticut Huskies"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's youth club was the Connecticut Huskies.",
+            "Akeem Priestley played for the youth club Connecticut Huskies.",
+            "Akeem Priestley plays for the Connecticut Huskies youth team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "youthclub",
+                    "Harbour View F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's youth club was Harbour View F.C.",
+            "Akeem Priestley is in the Harbour View FC youth club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al-Khor Sports Club",
+                    "ground",
+                    "Al Kho"
+                ]
+            ]
+        },
+        "text": [
+            "Al-Khor Sports Club is located in Al-Khor.",
+            "Al-Khor sports club ground is in Al Khor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al-Khor Sports Club",
+                    "position",
+                    "Qatar Stars Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Al Khor Sports Club plays in the Qatar Stars League.",
+            "Al-Khor Sports Club's position is in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al-Wakrah Sport Club",
+                    "league",
+                    "Qatar Stars Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Al-Wakrah Sport Club is in the Qatar Stars League.",
+            "The Al Wakrah Sport Club is in the Qatar Stars League.",
+            "Al-Wakrah Sport Club play in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al-Wakrah Sport Club",
+                    "position",
+                    "Qatar Stars Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Al-Wakrah Sport Club position is in the Qatar Stars League.",
+            "Al-Wakrah sport club plays in the Qatar Stars League.",
+            "Al Wakrah Sport Club play in the Qatar Stars league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al Kharaitiyat SC",
+                    "ground",
+                    "Al Kho"
+                ]
+            ]
+        },
+        "text": [
+            "Al Kharaitiyat SC's ground is Al Khor.",
+            "Al Kharaitiyat is located in Al Khor.",
+            "Al Khor is the home ground of Al Kharaitiyat SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al Kharaitiyat SC",
+                    "league",
+                    "Qatar Stars Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "The league that Al Kharaitiyat SC play in is the Qatar Stars League.",
+            "Al Kharaitiyat SC play in the Qatar Stars League.",
+            "Al Kharaitiyat SC is in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al Kharaitiyat SC",
+                    "manager",
+                    "Amar Os"
+                ]
+            ]
+        },
+        "text": [
+            "Amar Osim is the manager of Al Kharaitiyat SC.",
+            "The manager of Al Kharaitiyat SC is Amar Osim."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "birthPlace",
+                    "Iraq"
+                ]
+            ]
+        },
+        "text": [
+            "Iraq is the birth place of Alaa Abdul Zahra.",
+            "Alaa Abdul Zahra was born in Iraq."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Khor Sports Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra is in the Al-Khor Sports Club.",
+            "Alaa Abdul Zahra plays for Al-Khor Sports Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Merrikh SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra has played for Al Merrikh SC.",
+            "Alaa Abdul-Zahra plays for Al-Merrikh SC.",
+            "Alaa Abdul Zahra plays for Al-Merrikh SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Wakrah Sport Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club.",
+            "Alaa Abdul-Zahra plays for Al-Wakrah Sport Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Zawra'a SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra played for the club Al-Zawra'a SC.",
+            "Alaa Abdul-Zahra's club is Al-Zawra'a SC.",
+            "Alaa Abdul-Zahra played for Al-Zawra'a SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra's club is AL Kharaitiyat SC.",
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Shorta SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra's club is Al Shorta SC.",
+            "Alaa Abdul Zahra plays for Al Shorta SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Duhok SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra's club is Duhok SC.",
+            "Alaa Abdul Zahra played for the club Duhok SC.",
+            "Alaa Abdul Zahra played for Duhok SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Iraq national under-20 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for the Iraq national under 20 football team.",
+            "Alaa Abdul-Zahra plays for the Iraq national under-20 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Iraq national under-23 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for the Iraq national under 23 football team.",
+            "Alaa Abdul-Zahra plays for the Iraq national under-23 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra's club is Shabab Al-Ordon Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Tractor Sazi F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra's club is Tractor Sazi FC.",
+            "Alaa Abdul Zahra played for the club Tractor Sazi F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "position",
+                    "Forward (football)"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra's football position is Forward.",
+            "The footballer Alaa Abdul Zahra is a forward."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "birthDate",
+                    "1989-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin (footballer) was born on 01/01/1989.",
+            "Footballer, Alan Martin was born on January 1st 1989.",
+            "Alan Martin (footballer) was born on the 1st January 1989."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Aldershot Town F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer for Aldershot Town FC.",
+            "The footballer Alan Martin plays for Aldershot Town F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Ayr United F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer for Ayr United FC.",
+            "Alan Martin, the footballer, plays for the club, Ayr United F.C.",
+            "The footballer Alan Martin plays for Ayr United F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Barrow A.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Alan Martin plays for Barrow AFC.",
+            "Alan Martin plays football for Barrow A.F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Clyde F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer for the Clyde FC club.",
+            "Alan Martin played football for Clyde F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Leeds United F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer for Leeds United FC.",
+            "Alan Martin played football for Leeds United F.C.",
+            "The footballer Alan Martin plays for Leeds United F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Motherwell F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin's football club is Motherwell FC.",
+            "Alan Martin played football for Motherwell F.C.",
+            "The footballer Alan Martin played for Motherwell Football Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Scotland national under-21 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Alan Martin plays in the Scottish National under 21 football team.",
+            "Footballer, Alan Martin played for the Scotland national under-21 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "height",
+                    "185.42 (centimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Alan Martin is 185,42 centimetres tall.",
+            "The footballer Alan Martin was 185.42 cm tall.",
+            "Alan Martin (footballer) is 185.42 centimetres tall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Tampere, Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr was born in Tampere, Finland.",
+            "Aleksander Barkov Jr . was born in Tampere, Finland.",
+            "Aleksander Barkov Junior was born in Tampere, Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Ta"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov, Jr. was born in Tampere.",
+            "Aleksander Barkov Jr was born in Tampere."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthYear",
+                    "1995"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov, Jr. was born in 1995.",
+            "Aleksander Barkov Jr was born in 1995."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "draftTeam",
+                    "Florida Panthers"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr's draft team is the Florida Panthers.",
+            "Aleksander Barkov Jr's draft team was the Florida Panthers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "formerTeam",
+                    "Tappara"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr previously played for the team Tappara.",
+            "Tappara is the former team of Aleksander Barkov, Jr.",
+            "Aleksander Barkov, Jr's former team is Tappara."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "position",
+                    "Centre (ice hockey)"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr's position in ice hockey is centre.",
+            "Aleksander Barkov Jr. is playing as a centre.",
+            "Ice Hockey player Aleksander Barkov Jr. plays as a Centre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "weight",
+                    "96.1632 (kilograms)"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr's weight is 96.1632 kg.",
+            "Aleksander Barkov Jr weighs 96.1632 kilograms.",
+            "Aleksander Barkov Jr's weight is 96.1632 kgs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "birthPlace",
+                    "Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in Moscow.",
+            "Aleksandr Chumakov's birth place is Moscow.",
+            "Aleksandr Chumakov was born in Moscow, Russia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "birthPlace",
+                    "Soviet Union"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in the Soviet Union."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "birthYear",
+                    "1948"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in 1948.",
+            "Aleksandr Chumakov was born in the year 1948."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "The club Aleksandr Chumakov plays for is FC Torpedo Moscow.",
+            "Aleksandr Chumakov's club was FC Torpedo Moscow.",
+            "Aleksandr Chumakov has played for FC Torpedo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "Soviet Union national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov plays for the Soviet Union national football team.",
+            "Aleksandr Chumakov's club is the Soviet Union national football team.",
+            "Aleksandr Chumakov was a member of the Soviet Union national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "deathPlace",
+                    "Moscow, Russia"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov died in Moscow, in Russia.",
+            "Aleksandr Chumakov died in Moscow, Russia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "deathPlace",
+                    "Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov died in Moscow.",
+            "Aleksandr Chumakov passed away in Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "deathPlace",
+                    "Russia"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov died in Russia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Alania Vladikavkaz"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Alania Vladikavkaz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Anzhi Makhachkala"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Anzhi Makhachkala.",
+            "Aleksandr Prudnikov's club is FC Anzhi Makhachkala."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Dynamo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's club is FC Dynamo Moscow.",
+            "Aleksandr Prudnikov plays for FC Dynamo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Kuban Krasnoda"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov plays for the FC Kuban Krasnodar club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Rubin Kazan"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Rubin Kazan.",
+            "Aleksandr Prudnikov played for FC Rubin Kazan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Spartak Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's club is FC Spartak Moscow.",
+            "Aleksandr Prudnikov played for FC Spartak Moscow.",
+            "Aleksandr Prudnikov plays for FC Spartak Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Terek Grozny"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Terek Grozny.",
+            "Aleksandr Prudnikov played for FC Terek Grozny.",
+            "Aleksandr Prudnikov is in the FC Terek Grozny club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Tom Tomsk"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Tom Tomsk.",
+            "Aleksandr Prudnikov's club is FC Tom Tomsk."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "Russia national football B tea"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for the Russia national football B team.",
+            "Aleksandr Prudnikov has played for the Russia national football B team.",
+            "Aleksandr Prudnikov belongs to the Russia National Football B Team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "Russia national under-21 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov played for the Russia national under 21 football team.",
+            "Aleksandr Prudnikov played for the Russia national under-21 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "Sparta Pragu"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's club is called Sparta Prague."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "currentclub",
+                    "FC Amkar P"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's current club is FC Amkar Perm.",
+            "Aleksandr Prudnikov currently plays for FC Amkar Perm.",
+            "Aleksandr Prudnikov plays for FC Amkar Perm."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "height",
+                    "185.0 (centimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov is 185 cm tall.",
+            "Aleksandr Prudnikov's height is 185.0 (centimetres).",
+            "Aleksandr Prudnikov's height is 185 cm."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "youthclub",
+                    "FC Spartak Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov played for FC Spartak Moscow's youth team.",
+            "Aleksandr Prudnikov's youth football club was FC Spartak Moscow.",
+            "Aleksandr Prudnikov is a member of the youth side of FC Spartak Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "birthPlace",
+                    "Georgian Soviet Socialist Republic"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli was born in Georgia, in the Soviet Socialist Republic.",
+            "Aleksandre Guruli was born in the Georgian Soviet Socialist Republic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "AS Lyon-Duchè"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for the club AS Lyon-Duchère.",
+            "Aleksandre Guruli plays for AS Lyon-Duchere.",
+            "Aleksandre Guruli plays for the club AS Lyon-Duchère.",
+            "Aleksandre Guruli club is AS Lyon-Duchere.",
+            "Aleksandre Guruli plays for the AS Lyon-Duchere club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "AZAL PFK"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for AZAL PFK.",
+            "Aleksandre Guruli plays for AZAL PFK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Dila Go"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's club is FC Dila Gori.",
+            "Aleksandre Guruli plays for FC Dila Gori."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Dinamo Batu"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for FC Dinamo Batumi.",
+            "Aleksandre Guruli plays for FC Dinamo Batumi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for FC Karpaty Lviv.",
+            "Aleksandre Guruli's club is FC Karpaty Lviv.",
+            "Aleksandre Guruli plays for FC Karpaty Lviv club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Zestafon"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli is in the FC Zestafoni club.",
+            "Aleksandre Guruli plays for FC Zestafoni.",
+            "Aleksandre Guruli played for FC Zestafoni."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "Georgia national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for the Georgia national football team.",
+            "Aleksandre Guruli is a member of the Georgia National Football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "Olympique Lyonnais"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's club is Olympique Lyonnais.",
+            "Aleksandre Guruli played for the Olympique Lyonnais club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "US Boulogn"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's club is US Boulogne.",
+            "Aleksandre Guruli played for US Boulogne.",
+            "Aleksandre Guruli plays for US Boulogne."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "US Lesquin"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's club is US Lesquin.",
+            "Aleksandre Guruli plays for US Lesquin.",
+            "Aleksandre Guruli is in the US Lesquin Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "height",
+                    "178.0 (centimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's height is 178.0 centimetres.",
+            "Aleksandre Guruli is 178.0 cm tall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "birthPlace",
+                    "Anzio"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli was born in Anzio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "birthPlace",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli was born in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.C. Milan"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for A.C. Milan.",
+            "Alessio Romagnoli plays for the club A.C. Milan.",
+            "Alessio Romagnoli is a member of the A.C. Milan club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-16 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli played for the Italian national under 16 football team.",
+            "Alessio Romagnoli played for the Italy national under-16 football team.",
+            "Alessio Romagnoli is in the Italy national under 16's football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-17 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli is in the club Italy national under 17's.",
+            "Alessio Romagnoli is a member of the Italian national under 17 football team.",
+            "Alessio Romagnoli plays for the Italy national under-17 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-19 football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli's club is the Italy national under 19 football team.",
+            "Alessio Romagnoli used to play for the Italy national under-19 football team.",
+            "Alessio Romagnoli played for the Italian national under-19 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for the club U.C. Sampdoria.",
+            "Alessio Romagnoli is connected to UC Sampdoria.",
+            "Alessio Romagnoli has represented the club U.C. Sampdoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "currentclub",
+                    "A.C. Milan"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli's current club is AC Milan.",
+            "Alessio Romagnoli's current club is A.C. Milan.",
+            "Alessio Romagnoli is currently with A.C. Milan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "position",
+                    "Defender (football)"
+                ]
+            ]
+        },
+        "text": [
+            "Footballer Alessio Romagnoli plays as a Defender.",
+            "Alessio Romagnoli's was one of the team's Defenders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthDate",
+                    "1989-05-09"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born on 1989-05-09.",
+            "Alex Plante was born on May 9th 1989.",
+            "Alex Plante was born on 09/05/1989."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Brandon, Manitoba"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Brandon, Manitoba.",
+            "Alex Plante's birth place is Brandon, Manitoba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthYear",
+                    "1989"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in 1989."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "club",
+                    "Anyang Halla"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante has played for the club Anyang Halla.",
+            "Alex Plante's club is called Anyang Halla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "activeYearsStartYear",
+                    "2011"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus started playing in 2011.",
+            "Alex Tyus began his active years in 2011.",
+            "Alex Tyus started to play on the professional level in 2011."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "birthDate",
+                    "1988-01-08"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus was born on the 8th January 1988.",
+            "Alex Tyus was born on 8th January 1988.",
+            "Alex Tyus' birth date is the 8th of January 1988."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "birthPlace",
+                    "St. Louis"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus was born in St Louis.",
+            "Alex Tyus was born in St. Louis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Anadolu Efes S.K."
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus plays for Anadolu Efes S.K.",
+            "Alex Tyus played for the club Anadolu Efes S.K."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Ashdod B.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus's club is Maccabi Ashdod BC.",
+            "Alex Tyus plays for Maccabi Ashdod B.C.",
+            "Alex Tyus plays for the Maccabi Ashdod B.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Tel Aviv B.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus plays for the club, Maccabi Tel Aviv B.C.",
+            "Alex Tyus's club is Maccabi Tel Aviv BC.",
+            "Alex Tyus played for Maccabi Tel Aviv B.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Pallacanestro Cantù"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus' club is Pallacanestro Cantu.",
+            "Alex Tyus belongs to the club, Pallacanestro Cantu.",
+            "Alex Tyus plays for the club Pallacanestro Cantù."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "college",
+                    "Florida Gators men's basketba"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus played for the college Florida Gators men's basketball team.",
+            "Alex Tyus played basketball for the Florida Gators at College."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "draftYear",
+                    "2011"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus had been drafted in 2011."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "height",
+                    "2.032"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus is 2.032m tall.",
+            "Alex Tyus is 2.032 metres tall.",
+            "The height of Alex Tyus is 2.032."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Euroleagu"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus plays in the Euroleague.",
+            "Alex Tyus is in the Euroleague."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "weight",
+                    "99.792 (kilograms)"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus weighs 99.792 kg.",
+            "Alex Tyus weighs 99.792 kilograms.",
+            "Alex Tyus weighs 99.792 (kilograms)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anadolu Efes S.K.",
+                    "coach",
+                    "Dušan Ivković"
+                ]
+            ]
+        },
+        "text": [
+            "Dušan Ivković is the coach of Anadolu Efes S.K."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta Falcons",
+                    "coach",
+                    "Dan Quinn (American football)"
+                ]
+            ]
+        },
+        "text": [
+            "Dan Quinn is the coach of the American football team the Atlanta Falcons.",
+            "Dan Quinn, an American football coach, coaches the Atlanta Falcons."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta Falcons",
+                    "owner",
+                    "Arthur Blank"
+                ]
+            ]
+        },
+        "text": [
+            "The owner of the Atlanta Falcons is Arthur Blank.",
+            "Arthur Blank owns the Atlanta Falcons."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Boston Bruins",
+                    "city",
+                    "Boston"
+                ]
+            ]
+        },
+        "text": [
+            "The Boston Bruins are from Boston.",
+            "Boston Bruins are based in Boston.",
+            "The Boston Bruins are based in the city of Boston."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brandon, Manitoba",
+                    "leaderName",
+                    "Conservative Party of Canada"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Brandon, Manitoba is the Conservative Party of Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brandon, Manitoba",
+                    "leaderName",
+                    "Larry Magu"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Brandon Manitoba is Larry Maguire.",
+            "Larry Maguire is the leader in Brandon, Manitoba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "C.D. FAS",
+                    "league",
+                    "Salvadoran Primera División"
+                ]
+            ]
+        },
+        "text": [
+            "CD FAS's league is the Salvadoran Primera Division.",
+            "C.D. FAS play in the Salvadoran Primera Division.",
+            "CD FAS plays in the Salvadoran Primera Division league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "C.D. FAS",
+                    "position",
+                    "Salvadoran Primera División"
+                ]
+            ]
+        },
+        "text": [
+            "C.D. FAS play in the Salvadoran Primera Division.",
+            "C.D. Fas is a member team of the Salvadoran Primera División."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Canada",
+                    "anthem",
+                    "O Canada"
+                ]
+            ]
+        },
+        "text": [
+            "O Canada is the national anthem of Canada.",
+            "The national anthem of Canada is O Canada.",
+            "The anthem of Canada is O Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Canada",
+                    "ethnicGroup",
+                    "Asian Canadians"
+                ]
+            ]
+        },
+        "text": [
+            "Asian Canadians are one of the ethnic groups in Canada.",
+            "Asian Canadians are an ethnic group in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Canada",
+                    "ethnicGroup",
+                    "Black Canadians"
+                ]
+            ]
+        },
+        "text": [
+            "Black Canadians are one of the ethnic groups of Canada.",
+            "Canada has an ethnic group called Black Canadians.",
+            "Canada's ethnic group are the Black Canadians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Canada",
+                    "language",
+                    "French languag"
+                ]
+            ]
+        },
+        "text": [
+            "One of the languages in Canada is French.",
+            "The French language is spoken in Canada.",
+            "French is one of the spoken languages of Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Canada is Elizabeth II.",
+            "Elizabeth II is the leader of Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Central Español",
+                    "league",
+                    "Uruguayan Segunda División"
+                ]
+            ]
+        },
+        "text": [
+            "Central Español play in the Uruguayan Segunda División.",
+            "Central Español plays in the Uruguayan Segunda División.",
+            "Central Español play in the Uruguayan Segunda División league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Clyde F.C.",
+                    "ground",
+                    "Broadwood Stadiu"
+                ]
+            ]
+        },
+        "text": [
+            "Clyde F.C. play at the Broadwood Stadium.",
+            "The Broadwood Stadium is the home ground of Clyde F.C.",
+            "Clyde F.C. 's football ground is called Broadwood Stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Clyde F.C.",
+                    "manager",
+                    "Barry Ferguson"
+                ]
+            ]
+        },
+        "text": [
+            "Barry Ferguson is the manager for Clyde F.C.",
+            "Barry Ferguson is the manager of Clyde F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Columbus Blue Jackets",
+                    "generalManager",
+                    "Jarmo Kekäläinen"
+                ]
+            ]
+        },
+        "text": [
+            "Columbus Blue Jackets' general manager is Jarmo Kekalainen.",
+            "The general Manager of Columbus Blue Jackets is Jarmo Kekalainen.",
+            "Jarmo Kekalainen is the general manager of the Columbus Blue Jackets."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Crewe Alexandra F.C.",
+                    "manager",
+                    "Steve Davis (footballer)"
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Steve Davis, manages Crewe Alexandra F.C.",
+            "The manager of Crewe Alexandra FC is the footballer Steve Davis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Esteghlal Ahvaz F.C.",
+                    "manager",
+                    "Adnan Hamad"
+                ]
+            ]
+        },
+        "text": [
+            "Adnan Hamad is the manager of Esteghlal Ahvaz F.C.",
+            "Esteghlal Ahvaz F.C. manager is Adnan Hamad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Amkar Perm",
+                    "manager",
+                    "Gadzhi Gadzhiyev"
+                ]
+            ]
+        },
+        "text": [
+            "Gadzhi Gadzhiyev is the manager of FC Amkar Perm."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Dinamo Batumi",
+                    "manager",
+                    "Levan Khomerik"
+                ]
+            ]
+        },
+        "text": [
+            "Levan Khomeriki is the manager of FC Dinamo Batumi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Samtredia",
+                    "ground",
+                    "Erosi Manjgaladze Stadiu"
+                ]
+            ]
+        },
+        "text": [
+            "Erosi Manjgaladze Stadium is the ground of FC Samtredia.",
+            "FC Samtredia play their home games at the Erosi Manjgaladze stadium.",
+            "FC Samtredia's home ground is located in Erosi Manjgaladze Stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id220",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Spartak Moscow",
+                    "chairman",
+                    "Sergey Rodionov"
+                ]
+            ]
+        },
+        "text": [
+            "The chairman of FC Spartak Moscow is Sergey Rodionov.",
+            "Sergey Rodionov is the chairman of FC Spartak Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id221",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Spartak Moscow",
+                    "ground",
+                    "Otkrytiye Arena"
+                ]
+            ]
+        },
+        "text": [
+            "FC Spartak Moscow's grounds are the Otkrytiye Arena.",
+            "FC Spartak Moscow play at the Otkrytiye Arena.",
+            "Otkrytiye Arena is the home ground of FC Spartak Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id222",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Terek Grozny",
+                    "manager",
+                    "Rashid Rakhimov"
+                ]
+            ]
+        },
+        "text": [
+            "FC Terek Grozny's manager is Rashid Rakhimov.",
+            "Rashid Rakhimov is the manager of FC Terek Grozny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id223",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Torpedo Moscow",
+                    "chairman",
+                    "Aleksandr Tukmanov"
+                ]
+            ]
+        },
+        "text": [
+            "The chairman of FC Torpedo Moscow is Aleksandr Tukmanov.",
+            "Aleksandr Tukmanov is the chairman of FC Torpedo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id224",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Torpedo Moscow",
+                    "season",
+                    "2014–15 Russian Premier Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "FC Torpedo Moscow played in the 2014-15 Russian Premier League.",
+            "During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League.",
+            "FC Torpedo Moscow played the 2014–15 season in the Russian Premier League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id225",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ferencvárosi TC",
+                    "manager",
+                    "Thomas Do"
+                ]
+            ]
+        },
+        "text": [
+            "Thomas Doll is the manager for Ferencvárosi TC.",
+            "Thomas Doll is the manager of Ferencvárosi TC.",
+            "The manager of Ferencvárosi TC is Thomas Doll."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id226",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "currency",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "The Euro is the currency in Finland.",
+            "The currency in Finland is the Euro.",
+            "The currency of Finland is the Euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id227",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "demonym",
+                    "Finns"
+                ]
+            ]
+        },
+        "text": [
+            "Finns is a demonym of Finland.",
+            "Finns live in Finland.",
+            "The natives of Finland are known as Finns."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id228",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "language",
+                    "Sami languages"
+                ]
+            ]
+        },
+        "text": [
+            "The languages of Finland are Sami languages.",
+            "Sami languages are one of the spoken languages in Finland.",
+            "The Sami languages are spoken in Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id229",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "leaderName",
+                    "Sauli Niinistö"
+                ]
+            ]
+        },
+        "text": [
+            "The leader in Finland is Sauli Niinisto.",
+            "Sauli Niinisto is the leader of Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id230",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "officialLanguage",
+                    "Finnish languag"
+                ]
+            ]
+        },
+        "text": [
+            "The official language in Finland is Finnish.",
+            "The official language in Finland is the Finnish language.",
+            "Finnish is the official language of Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id231",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hamburger SV",
+                    "league",
+                    "Bundesliga"
+                ]
+            ]
+        },
+        "text": [
+            "Hamburger SV compete in the Bundesliga.",
+            "Hamburger SV is a member of the Bundesliga.",
+            "Hamburger SV is a club that belongs to the Bundesliga League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id232",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hamilton Academical F.C.",
+                    "ground",
+                    "Hamilton, South Lanarksh"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of Hamilton Academical F.C. is located in Hamilton, South Lanarkshire.",
+            "Hamilton Academical F.C. play in Hamilton, South Lanarkshire.",
+            "The home of the Hamilton Academical F.C. is Hamilton, South Lanarkshire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id233",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hamilton Academical F.C.",
+                    "ground",
+                    "New Douglas Park"
+                ]
+            ]
+        },
+        "text": [
+            "New Douglas Park is the home of Hamilton Academical F.C.",
+            "Hamilton Academical FC plays at New Douglas Park.",
+            "New Douglas Park is the ground for Hamilton Academical F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id234",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Houston Texans",
+                    "city",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "The home of the Houston Texans is the city of Houston.",
+            "Houston Texans are based in the city of Houston."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id235",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Houston Texans",
+                    "city",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Texas is the home of Houston Texans.",
+            "The Houston Texans play in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id236",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Houston Texans",
+                    "owner",
+                    "Bob McNa"
+                ]
+            ]
+        },
+        "text": [
+            "Bob McNair is the owner of the Houston Texans.",
+            "Houston Texans is owned by Bob McNair."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id237",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hull City A.F.C.",
+                    "manager",
+                    "Steve Bruc"
+                ]
+            ]
+        },
+        "text": [
+            "Hull City AFC's manager is Steve Bruce.",
+            "The manager of Hull City A.F.C. is Steve Bruce."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id238",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy national under-17 football team",
+                    "coach",
+                    "Alessandro Dal Canto"
+                ]
+            ]
+        },
+        "text": [
+            "Alessandro Dal Canto is the coach of the Italian national under-17 football team.",
+            "Alessandro Dal Canto is the coach of the Italy national under-17 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id239",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jacksonville Dolphins",
+                    "city",
+                    "Jacksonville, Florida"
+                ]
+            ]
+        },
+        "text": [
+            "Jacksonville Dolphins play in Jacksonville, Florida.",
+            "The Jacksonville Dolphins are based in the city of Jacksonville, Florida."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id240",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jacksonville Dolphins",
+                    "stadium",
+                    "John Sessions Stadiu"
+                ]
+            ]
+        },
+        "text": [
+            "John Sessions Stadium is the home of the Jacksonville Dolphins.",
+            "The Jacksonville Dolphins baseball field is John Sessions Stadium.",
+            "The Jacksonville Dolphins baseball field is the John Sessions stadium.",
+            "The Jacksonville Dolphins are based at the John Sessions Stadium.",
+            "Jacksonville Dolphins play at the John Sessions Stadium.",
+            "The John Sessions Stadium is where the Jacksonville Dolphins play their home games."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id241",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jacksonville Dolphins",
+                    "universityTeam",
+                    "Jacksonville University"
+                ]
+            ]
+        },
+        "text": [
+            "The Jackson University team is known as the Jacksonville Dolphins.",
+            "The Jacksonville Dolphins are the university team for Jacksonville University.",
+            "The Jacksonville Dolphins team represent Jacksonville University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id242",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jamaica",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "Jamaica's leader is Elizabeth II.",
+            "Elizabeth II is the leader of Jamaica.",
+            "Elizabeth II is the queen of Jamaica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id243",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jamaica",
+                    "leaderName",
+                    "Patrick Allen (politician)"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Jamaica is Patrick Allen.",
+            "Patrick Allen is a political leader in Jamaica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id244",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Los Angeles Rams",
+                    "city",
+                    "Los Angeles"
+                ]
+            ]
+        },
+        "text": [
+            "Los Angeles Rams are based in LA.",
+            "The Los Angeles Rams play in Los Angeles."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id245",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Los Angeles Rams",
+                    "city",
+                    "Los Angeles Memorial Coliseu"
+                ]
+            ]
+        },
+        "text": [
+            "Los Angeles Rams play at the Los Angeles Memorial Coliseum.",
+            "In their home city, the Los Angeles Rams, play at the Los Angeles Memorial Coliseum.",
+            "Los Angeles Rams play their home matches at the Los Angeles Memorial Coliseum."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id246",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Los Angeles Rams",
+                    "coach",
+                    "Jeff Fish"
+                ]
+            ]
+        },
+        "text": [
+            "The coach of the Los Angeles Rams is Jeff Fisher.",
+            "The Los Angeles Rams coach is Jeff Fisher.",
+            "Jeff Fisher is the coach for the Los Angeles Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id247",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Minnesota Wild",
+                    "generalManager",
+                    "Chuck Fletch"
+                ]
+            ]
+        },
+        "text": [
+            "Chuck Fletcher is the general manager of the Minnesota Wild.",
+            "The general manager of Minnesota Wild is Chuck Fletcher.",
+            "Minnesota Wild's general manager is Chuck Fletcher."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id248",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Moscow",
+                    "leaderName",
+                    "Sergey Sobyanin"
+                ]
+            ]
+        },
+        "text": [
+            "The leader in Moscow is Sergey Sobyanin.",
+            "The leader of Moscow is Sergey Sobyanin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id249",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "National Hockey League",
+                    "mostChampions",
+                    "Montreal Canadiens"
+                ]
+            ]
+        },
+        "text": [
+            "Montreal Canadiens have won the National Hockey League the most times.",
+            "Montreal Canadiens have been the champions of the National Hockey League the most times.",
+            "Montreal Canadiens won the most championships in the National Hockey League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id250",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Olympique Lyonnais",
+                    "chairman",
+                    "Jean-Michel Aulas"
+                ]
+            ]
+        },
+        "text": [
+            "Jean-Michel Aulas is the chairman of Olympique Lyonnais."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id251",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Orange County Blues FC",
+                    "manager",
+                    "Oliver Wyss"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of the Orange County Blues FC is Oliver Wyss."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id252",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "PSV Eindhoven",
+                    "manager",
+                    "Phillip Cocu"
+                ]
+            ]
+        },
+        "text": [
+            "Phillip Cocu is the manager of PSV Eindhoven."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id253",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Pallacanestro Cantù",
+                    "league",
+                    "Lega Basket Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "Pallacanestro Cantu is in the Lega Basket Serie A league.",
+            "The league Pallacanestro Cantù play in is Lega Basket Serie A.",
+            "Pallacanestro Cantú plays in the Lega Basket Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id254",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peñarol",
+                    "league",
+                    "Uruguayan Primera División"
+                ]
+            ]
+        },
+        "text": [
+            "Penarol plays in the Uruguayan Primera División.",
+            "Peñarol play in the Uruguayan Primera División.",
+            "The Uruguayan Primera División is the league that Peñarol play in."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id255",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Real Madrid Castilla",
+                    "manager",
+                    "Luis Miguel Ramis"
+                ]
+            ]
+        },
+        "text": [
+            "Luis Miguel Ramis is the manager for Real Madrid Castilla.",
+            "Luis Miguel Ramis was a manager of Real Madrid Castilla.",
+            "Luis Miguel Ramis is the manager of Real Madrid Castilla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id256",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Regina, Saskatchewan",
+                    "leaderTitle",
+                    "Legislative Assembly of Saskatchewan"
+                ]
+            ]
+        },
+        "text": [
+            "The Legislative Assembly of Saskatchewan governs Regina, Saskatchewan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id257",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "RoPS",
+                    "league",
+                    "Veikkausliiga"
+                ]
+            ]
+        },
+        "text": [
+            "RoPS plays in the Veikkausliiga.",
+            "RoPS play in the Veikkausliiga league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id258",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Russia",
+                    "language",
+                    "Russian languag"
+                ]
+            ]
+        },
+        "text": [
+            "The language in Russia is Russian.",
+            "The language spoken in Russia is Russian.",
+            "The Russian language is spoken in Russia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id259",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Russia",
+                    "leaderName",
+                    "Sergey Naryshkin"
+                ]
+            ]
+        },
+        "text": [
+            "The Russian leader's name is Sergey Naryshkin.",
+            "Sergey Naryshkin is a leader of Russia.",
+            "Russia's leader is Sergey Naryshkin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id260",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Russia",
+                    "leaderName",
+                    "Valentina Matviyenko"
+                ]
+            ]
+        },
+        "text": [
+            "Valentina Matviyenko is a leader in Russia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id261",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Russia",
+                    "leaderName",
+                    "Vladimir Putin"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Russia is Vladimir Putin.",
+            "Vladimir Putin is the leader of Russia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id262",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SV Werder Bremen",
+                    "league",
+                    "Bundesliga"
+                ]
+            ]
+        },
+        "text": [
+            "SV Werder Bremen play in the Bundesliga.",
+            "SV Werder Bremen plays in the Bundesliga.",
+            "SV Werder Bremen is in the Bundesliga league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id263",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SV Werder Bremen",
+                    "manager",
+                    "Viktor Skrypnyk"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of SV Werder Bremen is Viktor Skrypnyk.",
+            "Viktor Skrypnyk is the manager of SV Werder Bremen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id264",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SV Werder Bremen II",
+                    "league",
+                    "3. Liga"
+                ]
+            ]
+        },
+        "text": [
+            "SV Werder Bremen II play in the 3. Liga.",
+            "The league SV Werder Bremen II play in is 3. Liga.",
+            "SV Werder Bremen II is in the league 3 Liga."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id265",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SV Werder Bremen II",
+                    "manager",
+                    "Alexander Nou"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of SV Werder Bremen II is Alexander Nouri.",
+            "Alexander Nouri is the manager of SV Werder Bremen II.",
+            "Alexander Nouri manages SV Werder Bremen II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id266",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Scotland national under-19 football team",
+                    "coach",
+                    "Scot G"
+                ]
+            ]
+        },
+        "text": [
+            "Scot Gemmill is the coach of the Scottish national under 19 football team.",
+            "Scot Gemmill is coach for the Scotland national under-19 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id267",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Scotland national under-21 football team",
+                    "coach",
+                    "Ricky Sbragia"
+                ]
+            ]
+        },
+        "text": [
+            "Ricky Sbragia is the coach of the Scotland national under 21 football team.",
+            "Ricky Sbragia coaches the Scotland national under-21 football team.",
+            "The Scottish national under 21 football team coach is Ricky Sbragia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id268",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Shabab Al-Ordon Club",
+                    "league",
+                    "Jordan Premier Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Shabab Al-Ordon Club is in the Jordan Premier League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id269",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "isPartOf",
+                    "French First Republic"
+                ]
+            ]
+        },
+        "text": [
+            "St Louis is part of the French First Republic.",
+            "St. Louis is part of the French first republic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id270",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "isPartOf",
+                    "Greater St. Louis"
+                ]
+            ]
+        },
+        "text": [
+            "St. Louis is a part of greater St. Louis.",
+            "St Louis is part of Greater St Louis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id271",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "isPartOf",
+                    "Kingdom of Franc"
+                ]
+            ]
+        },
+        "text": [
+            "St. Louis is part of the Kingdom of France."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id272",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "isPartOf",
+                    "Spain"
+                ]
+            ]
+        },
+        "text": [
+            "St Louis is part of Spain.",
+            "St. Louis is part of Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id273",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis",
+                    "leaderName",
+                    "Francis G. Slay"
+                ]
+            ]
+        },
+        "text": [
+            "Francis G. Slay is the leader of St. Louis.",
+            "Francis G Slay is the leader of St Louis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id274",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis Rams",
+                    "coach",
+                    "Jeff Fish"
+                ]
+            ]
+        },
+        "text": [
+            "Jeff Fisher is the coach of the St Louis Rams.",
+            "Jeff Fisher is a coach for the St. Louis Rams.",
+            "Jeff Fisher is a coach of the St. Louis Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id275",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis Rams",
+                    "coach",
+                    "Joe V"
+                ]
+            ]
+        },
+        "text": [
+            "Joe Vitt is the coach for the St. Louis Rams.",
+            "Joe Vitt is the coach of the St. Louis Rams.",
+            "Joe Vitt is a coach of the St. Louis Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id276",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "St. Louis Rams",
+                    "coach",
+                    "Steve Spagnuolo"
+                ]
+            ]
+        },
+        "text": [
+            "Steve Spagnuolo is the coach of the St. Louis Rams.",
+            "Steve Spagnuolo is the coach of St Louis Rams.",
+            "The coach of St. Louis Rams is Steve Spagnuolo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id277",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Steel Azin F.C.",
+                    "league",
+                    "Iran Football's 3rd Division"
+                ]
+            ]
+        },
+        "text": [
+            "Steel Azin F.C. play in Iran Football's 3rd Division.",
+            "Steel Azin FC is in Iran's Football 3rd Division.",
+            "The league Steel Azin F.C. play in is Iran Football's 3rd Division."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id278",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tennessee Titans",
+                    "coach",
+                    "Mike Mularkey"
+                ]
+            ]
+        },
+        "text": [
+            "Mike Mularkey is the coach of the Tennessee Titans.",
+            "Mike Mularkey is the coach for Tennessee Titans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id279",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "U.C. Sampdoria",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "UC Sampdoria play in the Serie A league.",
+            "U.C. Sampdoria is in the Serie A league.",
+            "The league U.C. Sampdoria play in is Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id280",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "U.S. Città di Palermo",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "The US Citta di Palermo are in the Serie A League.",
+            "U.S. Città di Palermo play in the Serie A league.",
+            "U.S. Citta di Palermo play in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id281",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "U.S. Città di Palermo",
+                    "manager",
+                    "Giuseppe Iachin"
+                ]
+            ]
+        },
+        "text": [
+            "Giuseppe Iachini is the manager of U.S. Città di Palermo.",
+            "The manager of U.S. Città di Palermo is Giuseppe Iachini."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id282",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Petrotrin F.C.",
+                    "ground",
+                    "Palo Seco"
+                ]
+            ]
+        },
+        "text": [
+            "United Petrotrin FC's ground is Palo Seco.",
+            "United Petrotrin F.C. play in Palo Seco.",
+            "Palo Seco is the ground for United Petrotrin F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id283",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Petrotrin F.C.",
+                    "ground",
+                    "Palo Seco Velodro"
+                ]
+            ]
+        },
+        "text": [
+            "The United Petrotrin F.C is playing in Palo Seco Velodrome.",
+            "Palo Seco Velodrome is the ground of United Petrotrin F.C.",
+            "United Petrotrin FC's ground is Palo Seco Velodrome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id284",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "VfL Wolfsburg",
+                    "league",
+                    "Bundesliga"
+                ]
+            ]
+        },
+        "text": [
+            "The league Vfl Wolfsburg play in is Bundesliga.",
+            "Vfl Wolfsburg play in the Bundesliga."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id285",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "VfL Wolfsburg",
+                    "manager",
+                    "Dieter Hecking"
+                ]
+            ]
+        },
+        "text": [
+            "VfL Wolfsburg's manager is Dieter Hecking.",
+            "Dieter Hecking is the manager of VfL Wolfsburg."
+        ]
+    }
+]

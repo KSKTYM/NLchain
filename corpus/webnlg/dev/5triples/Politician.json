@@ -1,0 +1,778 @@
+[
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "successor",
+                    "Adenan Sa"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Kingdom of Sarawak"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Demak Jaya, Jalan Bako, Kuching, Sarawak"
+                ],
+                [
+                    "Adenan Satem",
+                    "almaMater",
+                    "University of Adelaid"
+                ]
+            ]
+        },
+        "text": [
+            "The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak and his residence was Demak Jaya, Jalan Bako, Kuching, Sarawak. He was a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem who had attended the University of Adelaide.",
+            "Abdul Taib Mahmud was born in the Kingdom of Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak. He is a member of the Parti Pesaka Bumiputera Bersatu and was succeeded by the University of Adelaide educated Adenan Satem.",
+            "Abdul Taib Mahmud was born in the Kingdom of Sarawak, lives in Demak Jaya, Jalan Bako, Kuching, Sarawak and is a member of the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem, who studied at the University of Adelaide."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "successor",
+                    "Olusegun Obasanjo"
+                ],
+                [
+                    "Abdulsalami Abubakar",
+                    "inOfficeWhileVicePresident",
+                    "Mike Akhigb"
+                ],
+                [
+                    "Abdulsalami Abubakar",
+                    "activeYearsEndDate",
+                    "1999-05-29"
+                ],
+                [
+                    "Abdulsalami Abubakar",
+                    "militaryBranch",
+                    "Nigerian Army"
+                ],
+                [
+                    "Mike Akhigbe",
+                    "predecessor",
+                    "Oladipo Diya"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar served in the Nigerian Army and was in office whilst Mike Akhigbe (the successor to Oladipo Diya) was Vice President. His career ended on 29 May 1999 and he was succeeded by Olusegun Obasanjo.",
+            "Abdulsalami Abubakar, who served in the Nigerian Army, ended his career on May 29th, 1999 and served in office while Mike Akhigbe was the Vice President. Akhigbe succeeded Oladipo Diya while Olusegun Obasanjo took over from Abubaka when he left office.",
+            "Olusegun Obasanjo succeeded Abdulsalami Abubakar, who served in the Nigerian Army and ended his career on 1999-05-2. Abdulsalami Abubakar was in office while Mike Akhigbe, who succeeded Oladipo Diya, was Vice President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "office (workedAt, workedAs)",
+                    "United States Secretary of Health, Education, and Welfare"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "party",
+                    "Democratic Party (United States)"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "New York City"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "Connecticu"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "nationality",
+                    "American"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A Ribicoff was a US national born in Connecticut and dying in New York City. He was a member of the Democratic Party in the U.S.A. and worked as the United States Secretary of Health, Education, and Welfare.",
+            "Abraham A. Ribicoff who was born in Connecticut, United States, worked as the United States Secretary of Health, Education, and Welfare and he was a member of the Democratic Party in the United States. He died in New York City.",
+            "Democrat Abraham A. Ribicoff was born in Connecticut, US and died in New York City. He worked as the United States Secretary of Health, Education and Welfare."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id4",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "spouse",
+                    "Casey Ribicoff"
+                ],
+                [
+                    "Casey Ribicoff",
+                    "birthPlace",
+                    "Chicago"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "nationality",
+                    "American"
+                ]
+            ]
+        },
+        "text": [
+            "American Abraham A. Ribicoff died in the United States and was married to Casey Ribicoff who was born in Chicago. Native Americans are one of several ethnic groups in the U.S.",
+            "Abraham A Ribicoff was born and died in the United States, a country where one of the ethnic groups are the Native Americans. He was married to Casey Ribicoff who was born in Chicago.",
+            "Native Americans are the ethnic group in the United States, the country Abraham A. Ribicoff was a national of. Bornin Chicago, Casey Ribicoff was the wife of Abraham A. Ribcoff, who died in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "birthPlace",
+                    "Ken"
+                ],
+                [
+                    "Adam Holloway",
+                    "office (workedAt, workedAs)",
+                    "Member of Parliament for Gravesha"
+                ],
+                [
+                    "Adam Holloway",
+                    "activeYearsStartDate",
+                    "2005-05-05"
+                ],
+                [
+                    "Adam Holloway",
+                    "militaryBranch",
+                    "Grenadier Guards"
+                ],
+                [
+                    "Adam Holloway",
+                    "almaMater",
+                    "Magdalene College, Cambridg"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway was born in Kent and attended Magdalene College in Cambridge. He began his career on 5 May 2005 and served in the Grenadier Guards and became a member of parliament for Gravesham.",
+            "Gravesham Parliament member and Magdalene College Cambridge alum Adam Holloway, was born in Kent. A Grenadier Guard, he began his career 05/05/2005.",
+            "Adam Holloway was born in Kent, and began his career on the 5th May 2005. He served in the Grenadier guards and was a MP for Gravesham. His alma mater is Magdalene College, Cambridge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id6",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "nationality",
+                    "Netherlands"
+                ],
+                [
+                    "Netherlands",
+                    "leaderName",
+                    "Mark Ru"
+                ],
+                [
+                    "Agnes Kant",
+                    "office (workedAt, workedAs)",
+                    "House of Representatives (Netherlands)"
+                ],
+                [
+                    "Socialist Party (Netherlands)",
+                    "leaderName",
+                    "Emile Ro"
+                ],
+                [
+                    "Agnes Kant",
+                    "party",
+                    "Socialist Party (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant is a national of the Netherlands which is led by Mark Rutte. She worked at the House of Representatives and is a member of the Socialist Party led by Emile Roemer.",
+            "Agnes Kant is from the Netherlands, where Mark Rutte is the leader. She worked at the House of Representatives in the Netherlands and is a member of the Netherlands Socialist Party, whose leader is Emile Roemer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id7",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "nationality",
+                    "Netherlands"
+                ],
+                [
+                    "Netherlands",
+                    "leaderName",
+                    "Mark Ru"
+                ],
+                [
+                    "Agnes Kant",
+                    "office (workedAt, workedAs)",
+                    "Parliamentary group lead"
+                ],
+                [
+                    "Socialist Party (Netherlands)",
+                    "leaderName",
+                    "Emile Ro"
+                ],
+                [
+                    "Agnes Kant",
+                    "party",
+                    "Socialist Party (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant, from the Netherlands, where the leader is Mark Rutte, worked as a Parliamentary group leader. She is a member of the Netherlands Socialist Party, whose leader is Emile Roemer.",
+            "Agnes Kant, of Netherlands, is a member of the country's Socialist Party which is led by Emile Roemer. Kant was a Parliamentary group leader. in the country which is led by Mark Rutte."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id8",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "nationality",
+                    "Netherlands"
+                ],
+                [
+                    "Netherlands",
+                    "leaderName",
+                    "Mark Ru"
+                ],
+                [
+                    "Socialist Party (Netherlands)",
+                    "colour",
+                    "Red"
+                ],
+                [
+                    "Socialist Party (Netherlands)",
+                    "leaderName",
+                    "Emile Ro"
+                ],
+                [
+                    "Agnes Kant",
+                    "party",
+                    "Socialist Party (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant is a national of the Netherlands which is led by Mark Rutte. She is a member of the Socialist Party which uses the colour red and is led by Emile Roemer.",
+            "Associated with the colour red, The Socialist Party of The Netherlands, is led by Emile Roemer. Agnes Kant is a member of the Socialist Party in the Netherlands. The nationality of Agnes Kant is Netherlands, the leader of which is, Mark Rutte.",
+            "Agnes Kant is a member of the Socialist Party in the Netherlands which is led by Emile Roemer and makes use of the colour red. She is a national of the Netherlands which is led by Mark Rutte."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id9",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "spouse",
+                    "Agnes Ward Wh"
+                ],
+                [
+                    "Agnes Ward White",
+                    "birthPlace",
+                    "Marietta, Ohio"
+                ],
+                [
+                    "Albert B. White",
+                    "deathPlace",
+                    "Parkersburg, West Virginia"
+                ],
+                [
+                    "Albert B. White",
+                    "successor",
+                    "William M. O. Dawson"
+                ],
+                [
+                    "William M. O. Dawson",
+                    "birthPlace",
+                    "Bloomington, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B White was married to Agnes Ward White who was born in Marietta, Ohio . Before he died in Parkersburg, West Virginia he was succeeded by William M O Dawson whose birthplace was Bloomington Maryland.",
+            "Born in Marietta, Ohio, Agnes Ward White was married to Albert B. White. He died in Parkersburg, West Virginia and was succeeded by William M O Dawson. The birthplace of William M. O. Dawson was Bloomington Maryland.",
+            "Agnes Ward White was born in Marietta, Ohio and became the spouse of Albert B White who died at Parkersburg, West Virginia. He had been succeeded by William M O Dawson whose birthplace was Bloomington Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id10",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "deathPlace",
+                    "Buenos Aires"
+                ],
+                [
+                    "Buenos Aires",
+                    "governingBody",
+                    "Buenos Aires City Legislatu"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "nationality",
+                    "Argentina"
+                ],
+                [
+                    "Buenos Aires",
+                    "leaderName",
+                    "Gabriela Mich"
+                ],
+                [
+                    "Argentina",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire was from Argentina where Spanish is spoken. He died in Buenos Aires, where the leader is Gabriela Michetti and the governing body is the Buenos Aires City Legislature.",
+            "The language of Argentina is Spanish. Argentinian, Alberto Teisaire, died in Buenos Aires. The city is led by Gabriela Michetti and is governed by the Buenos Aires City Legislature.",
+            "Alberto Teisaire was Argentinian and died in Buenos Aires. The governing body in Buenos Aires is the Buenos Aires City Legislature and the leader is Gabriela Michetti. The language of Argentina is Spanish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id11",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "deathPlace",
+                    "Buenos Aires"
+                ],
+                [
+                    "Buenos Aires",
+                    "governingBody",
+                    "Buenos Aires City Legislatu"
+                ],
+                [
+                    "Buenos Aires",
+                    "leaderName",
+                    "Horacio Rodríguez Larreta"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "nationality",
+                    "Argentina"
+                ],
+                [
+                    "Argentina",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "The governing body in Buenos Aires is the Buenos Aires City Legislature and the city is led by Horacio Rodríguez Larreta. It is the death place of the Alberto Teisaire who was from Argentina where the language spoken is Spanish.",
+            "Spanish is spoken in Argentina the country Alberto Teisaire came from. He died in Buenos Aires, where the governing body is, the Buenos Aires City Legislature. The leader of Buenos Aires is Horacio Rodríguez Larreta.",
+            "Alberto Teisaire was Argentinian and died in Buenos Aires, where they speak Spanish. The leader in Buenos Aires is Horacio Rodríguez Larreta and the city is governed by the Buenos Aires City Legislature."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "office (workedAt, workedAs)",
+                    "Provisional President of the Argentine Senate"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "successor",
+                    "Isaac Rojas"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "birthPlace",
+                    "Mendoza, Argentina"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "profession",
+                    "Rear Admiral in the Argentine Navy"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "birthDate",
+                    "1891-05-20"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire, born on 20th May 1891 in Mendoza, Argentina was a Rear Admiral in the Argentine Navy. He worked as a Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.",
+            "Alberto Teisaire was born in Mendoza, Argentina on May 20th 1891 and served as a Rear Admiral in the Argentine Navy. He worked as the Provisional President of the Argentine Senate and was succeeded by Isaac Rojas.",
+            "Alberto Teisaire was born in Mendoza, Argentina on May 20th, 1891. He was a Rear Admiral in the Argentine Navy, worked as the Provisional President of the Argentine Senate and was succeeded by Isaac Rojas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "activeYearsStartDate",
+                    "1853-03-04"
+                ],
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermont's 3rd congressional distric"
+                ],
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "state",
+                    "Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "deathPlace",
+                    "Sycamore, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Burlington is the largest city in Vermont, which is where Alvah Sabin is from. He started active service on 1853-03-04 and represented Vermont's 3rd Congressional District. Alvah Sabin died in Sycamore, Illinois.",
+            "Alvah Sabin was from Vermont and represented Vermont's 3rd congressional district where Burlington is the largest city. He started active service on 03/04/1853 and died in Sycamore, Illinois.",
+            "Before dying in Sycamore, Illinois, Alvah Sabin represented Vermont's 3rd Congressional District. He started active service on 1853-03-04 and his state was Vermont, the largest city of which is, Burlington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "office (workedAt, workedAs)",
+                    "Secretary of State of Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermont's 3rd congressional distric"
+                ],
+                [
+                    "Alvah Sabin",
+                    "birthPlace",
+                    "Georgia, Vermon"
+                ],
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "state",
+                    "Vermon"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin, who was born in Georgia, Vermont, worked as the state's secretary and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington.",
+            "Vermont Secretary of State and 3rd Congressional District representative Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).",
+            "Alvah Sabin was born in Georgia, Vermont and represented Vermont's 3rd Congressional District. He was from Vermont, which has the largest city of Burlington and worked as the Secretary of State of Vermont."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id15",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "party",
+                    "Whig Party (United States)"
+                ],
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermon"
+                ],
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "deathPlace",
+                    "Sycamore, Illinois"
+                ],
+                [
+                    "Whig Party (United States)",
+                    "leaderName",
+                    "Henry Clay"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin represented Vermont and was a member of the Whig Party in the United States. The largest city in Vermont is Burlington. Alvah Sabin died in Sycamore, Illinois and Henry Clay was the leader of the Whig Party.",
+            "Alvah Sabin belongs to the Whig Party of the United States which is led by Henry Clay. Sabin represented Vermont, where the largest city is Burlington and eventually died in Sycamore, Illinois.",
+            "Burlington is the largest city in Vermont, the state, Alvah Sabin represented. He was a member of the Whig Party of the United States (led by Henry Clay) and died in Sycamore, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id16",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "party",
+                    "Whig Party (United States)"
+                ],
+                [
+                    "Whig Party (United States)",
+                    "leaderName",
+                    "Daniel Webs"
+                ],
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermon"
+                ],
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "deathPlace",
+                    "Sycamore, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Burlington is the largest city in Vermont, which is the state Alvah Sabin represented. Alvah Sabin (died in Sycamore, Illinois) was a member of the United States Whig Party, which was led by Daniel Webster.",
+            "Vermont, where the largest city is Burlington, was represented by Alvah Sabin who died in Sycamore, Illinois. He belonged to the Whig Party (United States) which is led by Daniel Webster.",
+            "Burlington is the largest city in Vermont, the state that Alvah Sabin represented. He was a member of the United States Whig Party, which was led by Daniel Webster. Alvah Sabin died in Sycamore, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Antonis Samaras",
+                    "birthPlace",
+                    "Athens"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "inOfficeWhilePrimeMinister",
+                    "Antonis Samaras"
+                ],
+                [
+                    "Antonis Samaras",
+                    "inOfficeWhilePrimeMinister",
+                    "Konstantinos Mitsotakis"
+                ],
+                [
+                    "Antonis Samaras",
+                    "hasDeputy",
+                    "Evangelos Venizelos"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "successor",
+                    "Makis Voridis"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis, who was succeeded by Makis Voridis, was in office while Antonis Samaras was Prime Minister. Athens born Samaras, who had the deputy Evangelos Venizelos, was in office while Konstantinos Mitsotakis was Prime Minister.",
+            "Antonis Samaras, born in Athens, was Prime Minister and served with Adonis Georgiadis. Samaras, whose deputy is Evangelos Venizelos, served also when K. Mitsotakis was Prime Minister. Georgiadis was succeeded by Makis Voridis.",
+            "Adonis Georgiadis was in office while Athens-born Antonis Samaras was Prime Minister. In turn, Samaras was in office while Konstantinos Mitsotakis was Prime Minister. Samaras' deputy is Evangelos Venizelos and Georgiadis was succeeded by Makis Voridis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Austria",
+                    "leaderName",
+                    "Doris Bures"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Ims"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Graz"
+                ],
+                [
+                    "Austria",
+                    "language",
+                    "Austrian German"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in Imst in Austria and died in Graz. Austrian German is the language of Austria and the leader there is Doris Bures.",
+            "Alfons Gorbach was born in Imst, Austria and died in Graz. Austrian German speaking Austria is led by Doris Bures.",
+            "Austrian German is the language in Austria, the leader of which, is Doris Bures. Alfons Gorbach, was born in Imst, Austria and died in Graz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Netherlands",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Ab Klink",
+                    "party",
+                    "Christian Democratic Appea"
+                ],
+                [
+                    "Ab Klink",
+                    "birthPlace",
+                    "Stellenda"
+                ],
+                [
+                    "Ab Klink",
+                    "nationality",
+                    "Netherlands"
+                ],
+                [
+                    "Netherlands",
+                    "leaderName",
+                    "Mark Ru"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink is a national of the Netherlands, where the currency is the Euro and Mark Rutte is the leader, Ab Klink was born in Stellendam and belongs to the Christian Democratic Appeal party.",
+            "Ab Klink was born in Stellendam, Netherlands. He belongs to the Christian Democratic Appeal party. The leader of the Netherland is Mark Rutte and the currency is the euro."
+        ]
+    }
+]

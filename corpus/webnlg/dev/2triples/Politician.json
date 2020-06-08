@@ -1,0 +1,804 @@
+[
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "award",
+                    "Purple Heart"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Fredericksburg"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S. Daggett fought in the Battle of Fredericksburg and received the Purple Heart.",
+            "Aaron S Daggett, fought in battles, most notably the Battle of Fredericksburg, he was awarded the Purple Heart.",
+            "Aaron S Daggett was awarded the Purple Heart and fought in the Battle of Fredericksburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Gettysburg"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "award",
+                    "Purple Heart"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett fought at the Battle of Gettysburg and was awarded the Purple Heart.",
+            "Aaron S. Daggett fought in the Battle of Gettysburg and was awarded the Purple Heart.",
+            "Aaron S. Daggett, who fought in the Battle of Gettysburg, was awarded the Purple Heart."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Kingdom of Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud was born in Sarawak and is part of the Parti Pesaka Bumiputera Bersatu.",
+            "Abdul Taib Mahmud was born in the Kingdom of Sarawak and his party is the Parti Pesaka Bumiputera Bersatu.",
+            "Abdul Taib Mahmud, who was born in Sarawak, belongs to the Parti Pesaka Bumiputera Bersatu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Miri, Malaysia"
+                ]
+            ]
+        },
+        "text": [
+            "Miri, Malaysia, is the birthplace of Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu.",
+            "Abdul Taib Mahmud, was born in Miri, Malaysia, and is part of the Parti Pesaka Bumiputera Bersatu.",
+            "Abdul Taib Mahmud, who was born in Miri, Malaysia, belongs to the Party Pesaka Bumiputera Bersatu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "inOfficeWhileVicePresident",
+                    "Mike Akhigbe"
+                ],
+                [
+                    "Abdulsalami Abubakar",
+                    "militaryBranch",
+                    "Nigerian Army"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar, who served in the Nigerian Army was in office while Mike Akhigbe was Vice President.",
+            "Abdulsalami Abubakar, who served in the NIgerian Army, was in office whilst Mike Akhigbe was Vice President.",
+            "Abdulsalami Abubakar, served in the Nigerian Army, and was in office while Mike Akhigbe was the Vice President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "office (workedAt, workedAs)",
+                    "Chief of the Defence Staff (Nigeria)"
+                ],
+                [
+                    "Abdulsalami Abubakar",
+                    "birthPlace",
+                    "Minna"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar, born in Minna, was the Nigerian Chief of Defense Staff.",
+            "Minna was the birthplace of Abdulsalami Abubakar, who worked as the Nigerian Chief of the Defence Staff.",
+            "Abdulsalami Abubakar who was born in Minna, was the Chief of the Defence Staff in Nigeria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "office (workedAt, workedAs)",
+                    "Chief of the Defence Staff (Nigeria)"
+                ],
+                [
+                    "Abdulsalami Abubakar",
+                    "birthPlace",
+                    "Niger State"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar was born in Niger State and was the Chief of the Defence Staff in Nigeria.",
+            "Abdulsalami Abubakar, who was born in Niger State, was the Chief of the Defence Staff in Nigeria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Galicia (Spain)"
+                ],
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Ponteareas"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero came from Ponteareas in Galicia, Spain.",
+            "Abel Caballero was born in Ponteareas, in Galicia in Spain.",
+            "Abel Caballero was born in Ponteareas, in Galicia, Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "militaryBranch",
+                    "United States Army"
+                ],
+                [
+                    "Abner W. Sibal",
+                    "battles",
+                    "World War II"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal was in the U.S. Army during WWII.",
+            "Abner W Sibal served in the United States Army and fought in World War II.",
+            "Abner W. Sibal, served in the United States Army, and fought during WWII."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id10",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "militaryBranch",
+                    "United States Army"
+                ],
+                [
+                    "United States Army",
+                    "battles",
+                    "American Revolutionary War"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal served in the United States Army which was involved in the American Revolutionary War.",
+            "Abner W. Sibal served in the United States Army, which was involved in the American Revolutionary War.",
+            "The United States Army was involved in battles of the American Revolutionary War and one of the men who was part of the army was Abner W. Sibal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "United States"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "spouse",
+                    "Ruth Ribicoff"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A Ribicoff, born in the U.S., was married to Ruth Ribicoff.",
+            "Abraham A. Ribicoff, who was born in the U.S., is married to Ruth Ribicoff.",
+            "Abraham A. Ribicoff was born in the U.S and his spouse is Ruth Ribicoff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id12",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "spouse",
+                    "Casey Ribicoff"
+                ],
+                [
+                    "Casey Ribicoff",
+                    "birthPlace",
+                    "Chicago"
+                ]
+            ]
+        },
+        "text": [
+            "Abraham A. Ribicoff's spouse was Casey Ribicoff, who was born in Chicago.",
+            "Abraham A. Ribicoff's wife was Casey Ribicoff and she was born in Chicago.",
+            "Casey Ribicoff, born in Chicago, was married to Abraham A. Ribicoff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "Polish–Soviet War"
+                ],
+                [
+                    "Adam Koc",
+                    "award",
+                    "Cross of Valour (Poland)"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc, who fought in the Polish–Soviet War, has been awarded the Cross of Valour for Poland.",
+            "Adam Koc fought in the Polish-Soviet War battles and has been awarded the Cross of Valour for Poland.",
+            "Adam Koc, who fought in the Polish-Soviet War, was awarded the Cross of Valour (Poland)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "World War I"
+                ],
+                [
+                    "Adam Koc",
+                    "award",
+                    "Officer's Star Parasol"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc fought in World War One and was awarded the Officer's Star, Parasol.",
+            "Adam Koc fought in World War I and received the award Officer's Star Parasol.",
+            "Having fought in WWI, Adam Koc, received the award Officer's Star Parasol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "World War I"
+                ],
+                [
+                    "Adam Koc",
+                    "award",
+                    "Virtuti Militari"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc, who won the Virtuti Militari award, fought in World War I.",
+            "Adam Koc fought in WWI and he was awarded the Virtuti Militari award.",
+            "Adam Koc fought in WW1 and received the Virtuti Militari award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "birthPlace",
+                    "Greece"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Deputy Parliamentary Spokesman of Popular Orthodox Rally"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Greece, Adonis Georgiadis, worked as the Deputy Parliamentary Spokesman of Popular Orthodox Rally.",
+            "Greek born Adonis Georgiadis he has worked as the Deputy Parliamentary Spokesman of Popular Orthodox Rally."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "inOfficeWhilePrimeMinister",
+                    "Antonis Samaras"
+                ],
+                [
+                    "Antonis Samaras",
+                    "inOfficeWhilePrimeMinister",
+                    "Konstantinos Mitsotakis"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was in office while Antonis Samaras was Prime Minister. Antonis Samaras was in office under Konstantinos Mitsotakis, Prime Minister.",
+            "Antonis Samaras, was in office while Konstantinos Mitsotakis was Prime Minister, he was then Prime Minister, when Adonis Georgiadis served in office."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "inOfficeWhilePrimeMinister",
+                    "Antonis Samaras"
+                ],
+                [
+                    "Antonis Samaras",
+                    "successor",
+                    "Konstantinos Mitsotakis"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was in office under Prime Minister Antonis Samaras who was succeeded by Konstantinos Mitsotakis.",
+            "Adonis Georgiadis was in office under Prime Minister, Antonis Samaras, who was succeeded by Konstantinos Mitsotakis.",
+            "Adonis Georgiadis was in office while Antonis Samaras, later succeeded by Konstantinos Mitsotakis, was Prime Minister."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id19",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "activeYearsStartDate",
+                    "1953-06-30"
+                ],
+                [
+                    "Airey Neave",
+                    "activeYearsEndDate",
+                    "1979-03-30"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave started his career on the 30th June 1953, and ended it on the 30th March 1979.",
+            "Airey Neave began his career on 30th June 1953 and ended it on March 30, 1979.",
+            "Airey Neave started his career on 30th June 1953 and ended it on 30th March 1979."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "World War II"
+                ],
+                [
+                    "Airey Neave",
+                    "activeYearsStartDate",
+                    "1953-06-30"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave started his career on 30th June 1953, and was in World War II.",
+            "Airey Neave, who fought in World War Two, started his political career on June 30th, 1953.",
+            "Airey Neave, started his career on 30th June 1953, and fought in World War II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "World War II"
+                ],
+                [
+                    "Airey Neave",
+                    "birthPlace",
+                    "Knightsbridge"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave, who was born in Knightsbridge, fought in World War II.",
+            "Born in Knightsbridge, Airey Neave fought in World War II.",
+            "Airey Neave was born in Knightsbridge and fought in World War II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id22",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "World War II"
+                ],
+                [
+                    "World War II",
+                    "commander",
+                    "Joseph Stalin"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave fought in World War II during which Joseph Stalin was a commander.",
+            "Joseph Stalin was a commander in World War II, the war Airey Neave was involved in.",
+            "Airey Neave fought in World War II, where one of the commanders was, joseph Stalin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "deathPlace",
+                    "Parkersburg, West Virginia"
+                ],
+                [
+                    "Albert B. White",
+                    "successor",
+                    "William M. O. Dawson"
+                ]
+            ]
+        },
+        "text": [
+            "Albert B White died at Parkersburg, West Virginia and his successor was William M. O. Dawson.",
+            "Albert B White died at Parkersburg, West Virginia and he was succeeded by William M.O. Dawson.",
+            "William M.O. Dawson was the successor to Albert B. White, who died in Parkersburg, West Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id24",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "inOfficeWhileVicePresident",
+                    "Edmund J. Davis"
+                ],
+                [
+                    "Albert Jennings Fountain",
+                    "deathPlace",
+                    "New Mexico Territory"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Jennings Fountain passed away in the New Mexico Territory. He was in office while Edmund J. Davis was Vice President.",
+            "Albert Jennings Fountain, who died in the New Mexico territory, was in office whilst Edmund J. Davis was Vice President.",
+            "Albert Jennings Fountain, who was a politician while Vice President Edmund J. Davis was in office later died in New Mexico Territory."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id25",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "deathPlace",
+                    "Buenos Aires"
+                ],
+                [
+                    "Buenos Aires",
+                    "leaderName",
+                    "Diego Santilli"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire died in Buenos Aires whose leader is Diego Santilli.",
+            "The leader of Buenos Aires is Diego Santilli, which is the place where Alberto Teisaire died."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id26",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Tyrol (state)"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in the state of Tyrol, in Austria.",
+            "Alfons Gorbach was born in Tyrol state in Austria.",
+            "Alfons Gorbach was born in the state of Tyrol in Austria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id27",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "inOfficeWhilePresident",
+                    "Adolf Schärf"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach, born in Austria, was in office while Adolf Scharf was President.",
+            "The Austrian Alfons Gorbach was in office during the reign of President Adolf Scharf.",
+            "Alfons Gorbach, who was born in Austria, was in office while Adolf Scharf was President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id28",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "birthPlace",
+                    "Darien, Connecticut"
+                ],
+                [
+                    "Alfred N. Phillips",
+                    "office (workedAt, workedAs)",
+                    "Mayor of Stamford, Connecticut"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Darien, Connecticut, Alfred N. Phillips, was the Mayor of Stamford Connecticut.",
+            "Alfred N. Phillips, Mayor of Stamford, Connecticut, was born in Darien, Connecticut.",
+            "Darien, Connecticut is the birthplace of Alfred N. Phillips, who was the Mayor of Stamford Connecticut."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id29",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "militaryBranch",
+                    "United States Army"
+                ],
+                [
+                    "United States Army",
+                    "battles",
+                    "American Civil War"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred N. Phillips served in the United States Army which fought in the American Civil War.",
+            "Alfred N. Phillips was a member of the US Army that fought in the American Civil War.",
+            "Alfred N. Phillips served in the United States, Army, which battled in the American Civil War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id30",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "office (workedAt, workedAs)",
+                    "Member of the Texas State Senate from District 4 (Port Arthur)"
+                ],
+                [
+                    "Allan Shivers",
+                    "successor",
+                    "Ben Ramsey"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers was part of the Texas State Senate District 4 for Port Arthur. Ben Ramsey succeeded him.",
+            "Allan Shivers worked as a member of the Texas State Senate from District 4 (Port Arthur). He was succeed by Ben Ramsey.",
+            "Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur and Ben Ramsey succeeded him."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id31",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "office (workedAt, workedAs)",
+                    "Secretary of State of Vermont"
+                ],
+                [
+                    "Alvah Sabin",
+                    "successor",
+                    "Homer Elihu Royce"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin was the Secretary of State of Vermont before Homer Elihu Royce.",
+            "Alvah Sabin worked as the Secretary of State of Vermont and was succeeded by Homer Elihu Royce.",
+            "Alvah Sabin was the Secretary of the State of Vermont he was succeeded by Homer Elihu Royce."
+        ]
+    }
+]

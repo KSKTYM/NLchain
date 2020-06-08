@@ -1,0 +1,288 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "Located in King of Prussia, Pennsylvania; Amerigas is in the energy industry.",
+            "AmeriGas is an energy company in King of Prussia, Pennsylvania.",
+            "AmeriGas is an energy company and is located in King of Prussia, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is a company in the energy industry, and they serve all regions of the United States.",
+            "AmeriGas is in the energy business and is located in the United States where its services are provided.",
+            "AmeriGas's industry is classified as the energy industry. They serve the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ],
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank currently pulls in 15100000000 in net income for its banking services.",
+            "Chinabank provides banking services to customers, earning a net income of 15,100,000,000.",
+            "Chinabank offers banking services to make a net income of 15,100,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, a publicly traded company, was founded in the Insular Government of the Philippine Islands.",
+            "Chinabank is a publicly traded company that was founded in the Insular Government of the Philippine Islands.",
+            "Chinabank is a public company with the Insular Government of the Philippine Islands being its foundation place."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ]
+            ]
+        },
+        "text": [
+            "GMA new media is a mass media industry that makes mobile applications.",
+            "GMA New Media is a company in the mass media industry that offers products such as mobile applications.",
+            "GMA New Media makes mobile apps and is in the mass media industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Cosmetics"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a pharmaceutical company that also sells cosmetics.",
+            "Hypermarcas is a company in the pharmaceuticals industry that also produces cosmetics.",
+            "Hypermarcas is a company that is both in the pharmaceutical and cosmetic production industries."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ],
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, a type of S.A (corporation) is managed by their CEO.",
+            "Hypermarcas is an S.A. corporation with its CEO as its key person.",
+            "Hypermarcas is a type of S.A. corporation, and their CEO acts as their key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, which is located in Brazil, is a company that makes drugs.",
+            "Hypermarcas, which is located in Brazil, produces pharmaceutical drugs.",
+            "Located in Brazil, Hypermarcas's main product is drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ]
+            ]
+        },
+        "text": [
+            "The main product of Hypermarcas, which is located in São Paulo, is drugs.",
+            "Hypermarcas makes drugs in São Paulo.",
+            "Hypermarcas is a company located in Sao Paulo that produces pharmaceutical drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "Trane was founded in La Crosse, Wisconsin, on January 1, 1913.",
+            "Trane was founded in La Crosse, Wisconsin, on 01-01-1913.",
+            "Trane was founded in La Crosse, Wisconsin on January 1st, 1913."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is located in Swords, Dublin, Ireland.",
+            "Trane is located in Swords, Dublin, which is in Ireland.",
+            "The location of Trane is in Swords, Dublin, Ireland."
+        ]
+    }
+]

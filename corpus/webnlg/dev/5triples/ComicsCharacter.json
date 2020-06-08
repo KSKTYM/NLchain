@@ -1,0 +1,84 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylo"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "John Geering"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman was shown on the BBC, first airing on 3 October 1983 and the final broadcast being 15 April 1986. It was created by John Geering and starred Tim Brooke-Taylor.",
+            "The BBC began airing Bananaman October 3rd, 1983 and the last episode was broadcast on April 15th, 1986. John Geering is one of the creators of Bananaman which also starred Tim Brooke-Taylor.",
+            "The TV character Bananaman was created by John Geering. The programme was broadcast by the BBC and starred Tim Brooke-Taylor. It first aired on the 10th March 1983 and was last shown on April 15th 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seag"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Scott Ads"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax is a character from the film Big Hero 6 starring Scott Adsit. He was created by Steven T Seagle and the American, Duncan Rouleau.",
+            "American Duncan Rouleau and Steven T. Seagle created Baymax. Baymax is a character in Big Hero 6 which starred Scott Adsit.",
+            "Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Scott Adsit."
+        ]
+    }
+]

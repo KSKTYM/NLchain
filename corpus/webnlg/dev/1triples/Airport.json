@@ -1,0 +1,753 @@
+[
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aarhus",
+                    "leaderName",
+                    "Jacob Bundsgaard"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Aarhus is Jacob Bundsgaard."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aarhus Airport",
+                    "runwayLength",
+                    "2702.0"
+                ]
+            ]
+        },
+        "text": [
+            "Aarhus Airport's runway length is 2702.0.",
+            "The Aarhus Airport has a runway length of 2702.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adirondack Regional Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "507"
+                ]
+            ]
+        },
+        "text": [
+            "Adirondack Regional Airport is 507 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adirondack Regional Airport",
+                    "location",
+                    "Harrietstown, New York"
+                ]
+            ]
+        },
+        "text": [
+            "Adirondack Regional airport is located at Harrietstown, New York.",
+            "Adirondack Regional Airport is located in Harrietstown, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "San Sebastián de los Reyes"
+                ]
+            ]
+        },
+        "text": [
+            "Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes.",
+            "Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes.",
+            "The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "runwayName",
+                    "14L/32R"
+                ]
+            ]
+        },
+        "text": [
+            "Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.",
+            "The Adolfo Suárez Madrid–Barajas Airport runway name is 14L/32R.",
+            "14L/32R is the runway name of Adolfo Suárez Madrid-Barajas Airport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "runwayName",
+                    "14R/32L"
+                ]
+            ]
+        },
+        "text": [
+            "14R/32L is the name of the runway for Adolfo Suárez Madrid–Barajas Airport.",
+            "14R/32L is the runway name of Adolfo Suárez Madrid-Barajas Airport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Afonso Pena International Airport",
+                    "operatingOrganisation",
+                    "Infraero"
+                ]
+            ]
+        },
+        "text": [
+            "The operating organization for Afonso Pena International Airport is Infraero.",
+            "Afonso Pena International Airport is operated by Infraero."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agra Airport",
+                    "location",
+                    "Agra"
+                ]
+            ]
+        },
+        "text": [
+            "Agra Airport is in Agra.",
+            "Agra airport is located in Agra."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al-Taqaddum Air Base",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "84.0"
+                ]
+            ]
+        },
+        "text": [
+            "Al-Taqaddum Air Base is 84 metres above sea level.",
+            "Al Taqaddum Air Base is 84 metres above sea level.",
+            "The elevation above the sea level (in metres) of Al-Taqaddum Air Base is 84.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alderney Airport",
+                    "cityServed",
+                    "Alderney"
+                ]
+            ]
+        },
+        "text": [
+            "The Alderney Airport serves Alderney.",
+            "Alderney Airport serves the city of Alderney."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allama Iqbal International Airport",
+                    "runwayName",
+                    "18R/36L"
+                ]
+            ]
+        },
+        "text": [
+            "18R/36L is the runway name at Allama Iqbal International airport.",
+            "Allama Iqbal International Airport has a runway named 18R/36L.",
+            "Allama Iqbal International Airport's runway name is \"18R/36L\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpena County Regional Airport",
+                    "runwayLength",
+                    "1533.0"
+                ]
+            ]
+        },
+        "text": [
+            "The runway length of Alpena County Regional Airport is 1,533.",
+            "The runway length of Alpena County Regional airport is 1533.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpena County Regional Airport",
+                    "runwayName",
+                    "1/19"
+                ]
+            ]
+        },
+        "text": [
+            "Alpena County Regional Airport runway name is 1/19.",
+            "1/19 is the runway name of Alpena County Regional Airport.",
+            "The runway name of Alpena County Regional Airport is 1/19."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amsterdam Airport Schiphol",
+                    "cityServed",
+                    "Amsterda"
+                ]
+            ]
+        },
+        "text": [
+            "Amsterdam Airport Schiphol serves the city of Amsterdam.",
+            "Amsterdam airport, Schiphol serves the city of Amsterdam.",
+            "Amsterdam Airport Schiphol serves Amsterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrews County, Texas",
+                    "countySeat",
+                    "Andrews, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County, Texas is country seat to Andrews, Texas.",
+            "Andrews, Texas is the country seat of Andrews County, Texas.",
+            "Andrews County, Texas has its county seat in Andrews, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "cityServed",
+                    "Andrews, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews, Texas is served by Andrews County Airport.",
+            "Andrews County Airport serves Andrews, Texas.",
+            "Andrews County Airport serves the city of Andrews in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "runwayName",
+                    "11/29"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County Airport runway name is 11/29.",
+            "11/29 is the runway name of Andrews County Airport.",
+            "The runway name of Andrews County Airport is 11/29."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "runwayName",
+                    "Helipad"
+                ]
+            ]
+        },
+        "text": [
+            "The name of the runway at Andrews County Airport is Helipad.",
+            "Helipad is the runway name of Andrews County Airport.",
+            "The runway at Andrews County Airport is called Helipad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola International Airport",
+                    "cityServed",
+                    "Luanda"
+                ]
+            ]
+        },
+        "text": [
+            "Angola International Airport city served is Luanda.",
+            "Angola International Airport serves the city of Luanda.",
+            "Angola International Airport serves Luanda."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "location",
+                    "Auckland"
+                ]
+            ]
+        },
+        "text": [
+            "The Ardmore Airport, New Zealand is in Auckland.",
+            "Ardmore Airport is located in Auckland, New Zealand."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Athens",
+                    "mayor",
+                    "Giorgos Kaminis"
+                ]
+            ]
+        },
+        "text": [
+            "Athens mayor is Giorgos Kaminis.",
+            "Giorgos Kaminis is the mayor of Athens.",
+            "The mayor of Athens is Giorgos Kaminis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Athens International Airport",
+                    "location",
+                    "Spata"
+                ]
+            ]
+        },
+        "text": [
+            "Athens International Airport is in Spata.",
+            "Athens International Airport is located in Spata."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Belgium",
+                    "language",
+                    "German languag"
+                ]
+            ]
+        },
+        "text": [
+            "Belgium language is German language.",
+            "German is the language of Belgium.",
+            "The language spoken is Belgium is German."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Belgium",
+                    "leaderName",
+                    "Philippe of Belgiu"
+                ]
+            ]
+        },
+        "text": [
+            "Philippe of Belgium is the leader of Belgium.",
+            "The leader of Belgium is Philippe of Belgium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "capital",
+                    "Copenhagen"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Denmark is Copenhagen.",
+            "Copenhagen is the capital of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Lars Løkke Rasmussen"
+                ]
+            ]
+        },
+        "text": [
+            "Denmark's leader name is Lars Løkke Rasmussen.",
+            "Lars Løkke Rasmussen leads Denmark.",
+            "Lars Løkke Rasmussen is the leader of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Flemish Region",
+                    "leaderName",
+                    "Flemish Governmen"
+                ]
+            ]
+        },
+        "text": [
+            "The Flemish region is led by the Flemish government.",
+            "The Flemish Government leads the Flemish Region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "Greek is the language spoken in Greece.",
+            "The language spoken in Greece is Greek."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "leaderName",
+                    "Nikos Voutsis"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Greece is Nikos Voutsis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Harrietstown, New York",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Harrietstown, New York is part of the United States.",
+            "Harrietstown, N.Y. is part of the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Pakistan",
+                    "leaderName",
+                    "Anwar Zaheer Jama"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Pakistan is Anwar Zaheer Jamali.",
+            "Pakistan has a leader called Anwar Zaheer Jamali."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paracuellos de Jarama",
+                    "isPartOf",
+                    "Community of Madrid"
+                ]
+            ]
+        },
+        "text": [
+            "Paracuellos de Jarama is part of the community of Madrid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Port Authority of New York and New Jersey",
+                    "headquarter",
+                    "Four World Trade Cen"
+                ]
+            ]
+        },
+        "text": [
+            "Port Authority of New York and New Jersey headquarter is Four World Trade Center.",
+            "The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "San Sebastián de los Reyes",
+                    "country",
+                    "Spain"
+                ]
+            ]
+        },
+        "text": [
+            "San Sebastián de los Reyes is in Spain.",
+            "San Sebastian de los Reyes is located in Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Saranac Lake, New York",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Saranac Lake, New York is part of the United States.",
+            "Saranac Lake, New York, is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Jersey Transportation Authority",
+                    "chief",
+                    "Stephen Dilts"
+                ]
+            ]
+        },
+        "text": [
+            "South Jersey Transportation Authority chief is Stephen Dilts.",
+            "Stephen Dilts is the chief of the South Jersey Transportation Authority.",
+            "Stephen Dilts is the chief of South Jersey Transportation Authority."
+        ]
+    }
+]

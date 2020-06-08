@@ -1,0 +1,2008 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airman (comicsCharacter)",
+                    "alternativeName",
+                    "Drake Stevens"
+                ]
+            ]
+        },
+        "text": [
+            "\"Drake Stevens\" is known as the comic character Airman.",
+            "Airman's alternative name is Drake Stevens.",
+            "The alternative name of Airman (comics character) is \"Drake Stevens\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airman (comicsCharacter)",
+                    "creator",
+                    "George Kapitan"
+                ]
+            ]
+        },
+        "text": [
+            "The creator of Airman, (comics character) is George Kapitan.",
+            "The creator of Airman (comics character) is George Kapitan.",
+            "George Kapitan created the comic character Airman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airman (comicsCharacter)",
+                    "creator",
+                    "Harry Sah"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Airman, was created by Harry Sahle.",
+            "The creator of Airman (comics character) is Harry Sahle.",
+            "The comic book character Airman was created by Harry Sahle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amazing-Man (comicsCharacter)",
+                    "alternativeName",
+                    "John Aman"
+                ]
+            ]
+        },
+        "text": [
+            "John Aman, is the alternative name for the comic character, Amazing-Man.",
+            "The comic book character Amazing-Man's alter ego is John Aman.",
+            "John Aman is also known as Amazing-Man in the comics genre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amazing-Man (comicsCharacter)",
+                    "creator",
+                    "Bill Ev"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Everett is the creator of the comic character, Amazing-Man.",
+            "The comic book character Amazing-Man was created by Bill Everett.",
+            "The comic character Amazing Man was created by Bill Everett."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "April O'Neil",
+                    "creator",
+                    "Peter Laird"
+                ]
+            ]
+        },
+        "text": [
+            "The character, April O'Neil, was created by Peter Laird.",
+            "April O'Neil was created by Peter Laird.",
+            "The creator of April O'Neil is Peter Laird."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arion (comicsCharacter)",
+                    "alternativeName",
+                    "Ahri'ahn"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Arion, is also known by he name Ahri'ahn.",
+            "The comic book character Arion is also known as Ahri'ahn.",
+            "The comic character Arion is also known as Ahri'ahn."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arion (comicsCharacter)",
+                    "creator",
+                    "Jan Duursema"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Arion, was created by Jan Duursema.",
+            "The comic book character Arion was created by Jan Duursema."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arion (comicsCharacter)",
+                    "creator",
+                    "Paul Kupperberg"
+                ]
+            ]
+        },
+        "text": [
+            "Paul Kupperberg is the creator of the comic character, Arion.",
+            "The comic book character Arion was created by Paul Kupperberg.",
+            "The comic character Arion was created by Paul Kupperberg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asterix (comicsCharacter)",
+                    "alternativeName",
+                    "Astérix"
+                ]
+            ]
+        },
+        "text": [
+            "The alternative name of Asterix (comics character) is \"Astérix\".",
+            "The comic character Asterix is also known as Astérix.",
+            "The comic character Asterix is sometimes called \"Astérix\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "Albert Uderzo"
+                ]
+            ]
+        },
+        "text": [
+            "Albert Uderzo is the creator of the comic character, Asterix.",
+            "The comic book character Asterix was created by Albert Uderzo.",
+            "The comic strip character Asterix was created by Albert Uderzo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aurakles",
+                    "alternativeName",
+                    "Aurakles"
+                ]
+            ]
+        },
+        "text": [
+            "Aurakles is also known as ''Aurakles''.",
+            "An alternative name for Aurakles is Aurakles.",
+            "Aurakles alternative name is also Aurakles."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aurakles",
+                    "creator",
+                    "Dick Dillin"
+                ]
+            ]
+        },
+        "text": [
+            "Dick Dillin is the creator of Aurakles.",
+            "The comic book character Aurakles was created by Dick Dillin.",
+            "Aurakles is a fictional character created by Dick Dillin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aurakles",
+                    "creator",
+                    "Len Wein"
+                ]
+            ]
+        },
+        "text": [
+            "The character, Aurakles, was created by Len Wein.",
+            "Aurakles was created by Len Wein."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Karl Kes"
+                ]
+            ]
+        },
+        "text": [
+            "The creator of Auron (comics character) is Karl Kesel.",
+            "The comic book character Auron was created by Karl Kesel.",
+            "Karl Kesel is the creator of the comic character, Auron."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Walt Simonson"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Auron, was created by Walt Simonson.",
+            "Auron was created by Walt Simonson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "fullName",
+                    "Lambien"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of Auron (comics character) is \"Lambien\".",
+            "The comic character Auron's full name is Lambien.",
+            "The comic character, Auron's full name is Lambien."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "BBC",
+                    "foundedBy",
+                    "John Reith, 1st Baron Reith"
+                ]
+            ]
+        },
+        "text": [
+            "BBC was founded by John Reith 1st Baron Reith.",
+            "The BBC was founded by John Reith, 1st Baron Reith.",
+            "1st Baron, John Reith was the founder of the BBC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "BBC",
+                    "keyPerson",
+                    "Rona Fairhead"
+                ]
+            ]
+        },
+        "text": [
+            "Rona Fairhead is the key person for BBC.",
+            "Rona Fairhead was a key person at the BBC.",
+            "The key person for BBC is Rona Fairhead."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "BBC",
+                    "keyPerson",
+                    "Tony Hall, Baron Hall of Birkenhead"
+                ]
+            ]
+        },
+        "text": [
+            "A key person at the BBC is Baron Hall of Birkenhead, Tony Hall.",
+            "A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.",
+            "Tony Hall, the Baron Hall of Birkenhead, is a key person with the BBC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "BBC",
+                    "locationCity",
+                    "Broadcasting Hous"
+                ]
+            ]
+        },
+        "text": [
+            "The location of the BBC is the Broadcasting House in London.",
+            "The BBC headquarters is called Broadcasting House.",
+            "Broadcasting House is the home of the BBC which is based in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "BBC",
+                    "locationCity",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "BBC is located in London.",
+            "The BBC location city is London.",
+            "The BBC is located in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "BBC",
+                    "product",
+                    "BBC Radio"
+                ]
+            ]
+        },
+        "text": [
+            "One of the products of BBC is BBC radio.",
+            "BBC radio is one of the products of the BBC.",
+            "The BBC produces BBC Radio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Balder (comicsCharacter)",
+                    "alternativeName",
+                    "Balder Odinson"
+                ]
+            ]
+        },
+        "text": [
+            "An alternative name for the comic character Balder is Balder Odinson.",
+            "Balder Odinson is also known by the name Balder.",
+            "The comic character, Balder's alternative name, is Balder Odinson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Stan L"
+                ]
+            ]
+        },
+        "text": [
+            "Stan Lee created the comic character Balder.",
+            "The comic character, Balder, was created by Stan Lee.",
+            "The comic character Balder was created by Stan Lee."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ballistic (comicsCharacter)",
+                    "alternativeName",
+                    "Kelvin Mao"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Ballistic, has the alternative name, Kelvin Mao."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ballistic (comicsCharacter)",
+                    "creator",
+                    "Michael Manley"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Ballistic was created by Michael Manley.",
+            "The comic book character Ballistic was created by Michael Manley."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ballistic (comicsCharacter)",
+                    "creator",
+                    "Doug Moench"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Ballistic was created by Doug Moench.",
+            "Doug Moench was the creator of the comic character Ballistic.",
+            "Doug Moench created the comic character Ballistic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "creator",
+                    "John Geering"
+                ]
+            ]
+        },
+        "text": [
+            "John Geering is the creator of Bananaman.",
+            "The TV character Bananaman was created by John Geering.",
+            "The fictional comic superhero Bananaman was created by John Geering."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ]
+            ]
+        },
+        "text": [
+            "Steve Bright is the creator of Bananaman.",
+            "Bananaman was created by Steve Bright.",
+            "The creator of Bananaman is Steve Bright."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman last aired on April 15th 1986.",
+            "Bananaman last aired on 15th April 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ]
+            ]
+        },
+        "text": [
+            "Graeme Garden stars in Bananaman.",
+            "Bananaman stars Graeme Garden."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Jill Shilling"
+                ]
+            ]
+        },
+        "text": [
+            "Jill Shilling stared in Bananaman.",
+            "Jill Shilling starred in Bananaman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylo"
+                ]
+            ]
+        },
+        "text": [
+            "Tim Brooke-Taylor starred in Bananaman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax was created by Duncan Rouleau.",
+            "Duncan Rouleau created Baymax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seag"
+                ]
+            ]
+        },
+        "text": [
+            "Steven T. Seagle is the creator of Baymax.",
+            "The creator of Baymax is Steven T. Seagle.",
+            "Baymax was created by Steven T. Seagle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baymax",
+                    "firstAppearanceInFilm",
+                    "Big Hero 6 (film)"
+                ]
+            ]
+        },
+        "text": [
+            "Big Hero 6 was Baymax's first film appearance.",
+            "The first appearance in a film for the character Baymax was Big Hero 6.",
+            "Baymax first appeared in the film Big Hero 6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baymax",
+                    "voice",
+                    "Scott Ads"
+                ]
+            ]
+        },
+        "text": [
+            "Scott Adsit does the voice for Baymax.",
+            "Scott Adsit provides the voice for the character Baymax.",
+            "The character Baymax is voiced by Scott Adsit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Gene Colan"
+                ]
+            ]
+        },
+        "text": [
+            "Gene Colan created Ben Urich.",
+            "Ben Urich was created by Gene Colan.",
+            "The character Ben Urich was created by Gene Colan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ben Urich",
+                    "creator",
+                    "Roger McKenzie (comic book writer)"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book writer, Roger McKenzie, is the creator of Ben Urich.",
+            "Ben Urich was created by the comic book writer Roger McKenzie.",
+            "The Comic book character Ben Urich was created by Roger McKenzie."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bianca Castafiore",
+                    "creator",
+                    "Hergé"
+                ]
+            ]
+        },
+        "text": [
+            "Hergé was the creator of the character Bianca Castafiore."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bibbo Bibbowski",
+                    "creator",
+                    "Marv Wolfman"
+                ]
+            ]
+        },
+        "text": [
+            "Marv Wolfman was the creator of Bibbo Bibbowski.",
+            "Bibbo Bibbowski was created by Marv Wolfman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "distributor",
+                    "Walt Disney Studios Motion Pictures"
+                ]
+            ]
+        },
+        "text": [
+            "Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6.",
+            "The distributor of Big Hero 6 (film) is Walt Disney Studios Motion Pictures.",
+            "Big Hero 6 was a film distributed by Walt Disney Studios Motion Pictures."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Alan Tudyk"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Tudyk stars in the film, Big Hero 6.",
+            "The film, Big Hero 6, starred Alan Tudyk."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Damon Wayans, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "The film Big Hero 6 stars actor Damon Wayans Jr.",
+            "The film Big Hero 6 stars Damon Wayans, Jr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Jamie Chung"
+                ]
+            ]
+        },
+        "text": [
+            "The film Big Hero 6 starred Jamie Chung.",
+            "The film Big Hero 6, stars Jamie Chung.",
+            "Jamie Chung starred in the film Big Hero 6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Maya Rudolph"
+                ]
+            ]
+        },
+        "text": [
+            "Big Hero 6 stars Maya Rudolph.",
+            "The starring of Big Hero 6 (film) is Maya Rudolph.",
+            "Maya Rudolph was one of the stars, in the film Big Hero 6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Ryan Po"
+                ]
+            ]
+        },
+        "text": [
+            "The film, Big Hero 6, stars Ryan Potter.",
+            "Ryan Potter starred in the film Big Hero 6.",
+            "Big Hero 6 stars Ryan Potter."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Scott Ads"
+                ]
+            ]
+        },
+        "text": [
+            "The film, Big hero 6, stars Scott Adsit.",
+            "Scott Adsit starred in the film Big Hero 6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bill Oddie",
+                    "birthPlace",
+                    "Rochda"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Oddie was born in Rochdale."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Black Pirate",
+                    "creator",
+                    "Sheldon Moldoff"
+                ]
+            ]
+        },
+        "text": [
+            "Sheldon Moldoff is the creator of Black Pirate.",
+            "Sheldon Moldoff created the Black Pirate.",
+            "The Black Pirate was created by Sheldon Moldoff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Mark Desmond"
+                ]
+            ]
+        },
+        "text": [
+            "\"Mark Desmond\" is also known as the comic character Blockbuster.",
+            "The comic character, Blockbuster, has the alternative name, Mark Desmond.",
+            "The comic character Blockbuster is also known as Mark Desmond."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "alternativeName",
+                    "Roland Desmond"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Blockbuster is also known as Roland Desmond.",
+            "The comic book character Blockbuster's alter ego is Roland Desmond.",
+            "The comic character, Blockbuster's alternative name is Roland Desmond."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Carmine Infantino"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Blockbuster, was created by Carmine Infantino.",
+            "The creator of Blockbuster (comics character) is Carmine Infantino.",
+            "The comic character Blockbuster was created by Carmine Infantino."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Gardner Fox"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Blockbuster, was created by Gardner Fox.",
+            "The creator of Blockbuster (comics character) is Gardner Fox.",
+            "The comic book character Blockbuster was created by Gardner Fox."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Roger Stern"
+                ]
+            ]
+        },
+        "text": [
+            "Roger Stern is the creator of the comic character, Blockbuster.",
+            "The comic character Blockbuster was created by Roger Stern.",
+            "The comic book character Blockbuster was created by Roger Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Tom Ly"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Blockbuster, was created by Tom Lyle.",
+            "The creator of Blockbuster (comics character) is Tom Lyle.",
+            "The comic character Blockbuster was created by Tom Lyle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "alternativeName",
+                    "Larry Bolatinsky"
+                ]
+            ]
+        },
+        "text": [
+            "An alternative name for the comic character Bolt is Larry Bolatinsky.",
+            "Larry Bolatinsky is the alternative name for the comic character, Bolt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Ernie Colón"
+                ]
+            ]
+        },
+        "text": [
+            "Bolt is created by Ernie Colon.",
+            "Ernie Colón was one of the creators of the comic character Bolt.",
+            "The comic character Bolt was created by Ernie Colon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Gary Cohn (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Bolt, was created by comic book writer Gary Cohn.",
+            "The creator of Bolt (comics character) is Gary Cohn.",
+            "The comic character Bolt was created by Gary Cohn."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ]
+            ]
+        },
+        "text": [
+            "The creator of Bolt (comics character) is Paris Cullins.",
+            "The comic character Bolt, was created by Paris Cullins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bozo the Iron Man",
+                    "creator",
+                    "George Brenn"
+                ]
+            ]
+        },
+        "text": [
+            "Bozo the Iron Man was created by George Brenner.",
+            "George Brenner is the creator of Bozo the Iron Man.",
+            "Bozo, the Iron Man was created by George Brenner."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "alternativeName",
+                    "Dane Whitman"
+                ]
+            ]
+        },
+        "text": [
+            "Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight.",
+            "The comic character Dane Whitman Black Knight is also known as simply Dane Whitman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "creator",
+                    "John Buscema"
+                ]
+            ]
+        },
+        "text": [
+            "Dane Whitman, alter ego Black Knight, was created by John Buscema.",
+            "Dane Whitman, a.k.a. Black Knight, was created by John Buscema in the comics genre.",
+            "Dane Whitman from the Black Knight was created by John Buscema."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dane Whitman Black Knight (comicsCharacter)",
+                    "creator",
+                    "Roy Thomas"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Dane Whitman Black Knight was created by Roy Thomas.",
+            "Dane Whitman Black Knight is a comic character created by Roy Thomas.",
+            "The comic book character Dane Whitman, alter ego Black Knight, was created by Roy Thomas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dick Dillin",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Dick Dillin is from the United States.",
+            "The nationality of Dick Dillin is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Doug Moench",
+                    "award",
+                    "Eagle Award (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "Doug Moench won the Eagle Award (comics).",
+            "Doug Moench has won an Eagle Award.",
+            "Doug Moench received the Eagle Award in the comics field."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Doug Moench",
+                    "award",
+                    "Inkpot Award"
+                ]
+            ]
+        },
+        "text": [
+            "Doug Moench won the Inkpot Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The nationality of Duncan Rouleau is American.",
+            "Duncan Rouleau is American.",
+            "Duncan Rouleau is an American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ernie Colón",
+                    "nationality",
+                    "Puerto Ricans"
+                ]
+            ]
+        },
+        "text": [
+            "Ernie Colón is a national of Puerto Rico so he is considered Puerto Rican.",
+            "Ernie Colon is a Puerto Rican national."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gene Colan",
+                    "award",
+                    "Eisner Award"
+                ]
+            ]
+        },
+        "text": [
+            "Gene Colan has been awarded the Eisner Award.",
+            "Gene Colan won the Eisner Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gene Colan",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Gene Colan is an American.",
+            "Gene Colan's nationality is American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Graeme Garden",
+                    "birthPlace",
+                    "Aberdeen"
+                ]
+            ]
+        },
+        "text": [
+            "Graeme Garden was born in Aberdeen.",
+            "The birth place of Graeme Garden is Aberdeen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jack Kirby",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Jack Kirby is an American.",
+            "Jack Kirby's nationality is American.",
+            "Jack Kirby was an American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jan Duursema",
+                    "award",
+                    "Eisner Award"
+                ]
+            ]
+        },
+        "text": [
+            "Jan Duursema has won the Eisner Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jerry Ordway",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Jerry Ordway's nationality is American.",
+            "Jerry Ordway is American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Buscema",
+                    "award",
+                    "Academy of Comic Book Arts"
+                ]
+            ]
+        },
+        "text": [
+            "John Buscema was awarded an award by the Academy of Comic Book Arts.",
+            "John Buscema has been awarded by the Academy of Comic Book Arts.",
+            "John Buscema won an award at the Academy of Comic Book Arts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Buscema",
+                    "award",
+                    "Alley Award"
+                ]
+            ]
+        },
+        "text": [
+            "John Buscema won the Alley Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Buscema",
+                    "award",
+                    "Inkpot Award"
+                ]
+            ]
+        },
+        "text": [
+            "John Buscema won the Inkpot Award.",
+            "John Buscema has won the Inkpot Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Buscema",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "American was the nationality of John Buscema.",
+            "John Buscema is an American.",
+            "John Buscema's nationality is American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Len Wein",
+                    "award",
+                    "Academy of Comic Book Arts"
+                ]
+            ]
+        },
+        "text": [
+            "Len Wein collected an award from the Academy of Comic Book Arts.",
+            "Len Wein has won awards from the Academy of Comic Book Arts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Len Wein",
+                    "award",
+                    "Inkpot Award"
+                ]
+            ]
+        },
+        "text": [
+            "Len Wein won the Inkpot Award.",
+            "Len Wein is an Inkpot Award winner."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Marv Wolfman",
+                    "award",
+                    "Academy of Comic Book Arts"
+                ]
+            ]
+        },
+        "text": [
+            "Marv Wolfman won an award at the Academy of Comic Book Arts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Marv Wolfman",
+                    "award",
+                    "Inkpot Award"
+                ]
+            ]
+        },
+        "text": [
+            "Marv Wolfman won the Inkpot Award.",
+            "Marv Wolfman was awarded the Inkpot Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Paris Cullins",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Paris Cullins is a United States national.",
+            "The nationality of Paris Cullins is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "René Goscinny",
+                    "nationality",
+                    "French peo"
+                ]
+            ]
+        },
+        "text": [
+            "Rene Goscinny is a French national.",
+            "The nationality of René Goscinny is French."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Roger McKenzie (comic book writer)",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The comic book writer, Roger McKenzie, is a United States national.",
+            "The comic book writer, Roger McKenzie is an American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Roy Thomas",
+                    "award",
+                    "Academy of Comic Book Arts"
+                ]
+            ]
+        },
+        "text": [
+            "Roy Thomas was an award winner at the Academy of Comic Book Arts.",
+            "Roy Thomas received an award from the Academy of Comic Book Arts.",
+            "Roy Thomas won an award from the Academy of Comic Book Arts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Roy Thomas",
+                    "award",
+                    "Alley Award"
+                ]
+            ]
+        },
+        "text": [
+            "Roy Thomas was awarded the Alley Award.",
+            "Roy Thomas won the Alley Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sheldon Moldoff",
+                    "award",
+                    "Inkpot Award"
+                ]
+            ]
+        },
+        "text": [
+            "Sheldon Moldoff won the Inkpot Award.",
+            "Sheldon Moldoff has won the Inkpot Award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sheldon Moldoff",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Sheldon Moldoff was an American national.",
+            "Sheldon Moldoff is an American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "The Arrow (comicsCharacter)",
+                    "alternativeName",
+                    "Ralph Payne"
+                ]
+            ]
+        },
+        "text": [
+            "The Arrow is otherwise known as Ralph Payne.",
+            "The alternative name for the comic character, the Arrow, is Ralph Payne."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "The Arrow (comicsCharacter)",
+                    "alternativeName",
+                    "Rick Parker"
+                ]
+            ]
+        },
+        "text": [
+            "Rick Parker, is the alternative name for the comic character, the Arrow.",
+            "The alternative name for The Arrow (comics character) is \"Rick Parker\".",
+            "The comic book character The Arrow's alter ego is Rick Parker."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "The Arrow (comicsCharacter)",
+                    "creator",
+                    "Paul Gustavson"
+                ]
+            ]
+        },
+        "text": [
+            "Paul Gustavson created The Arrow.",
+            "The comic character, The Arrow, was created by Paul Gustavson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tim Brooke-Taylor",
+                    "birthPlace",
+                    "Buxton"
+                ]
+            ]
+        },
+        "text": [
+            "Tim Brooke-Taylor was born in Buxton.",
+            "Buxton is the birthplace of Tim Brooke-Taylor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tim Brooke-Taylor",
+                    "birthPlace",
+                    "Derbysh"
+                ]
+            ]
+        },
+        "text": [
+            "Tim Brooke-Taylor was born in Derbyshire.",
+            "The birth place of Tim Brooke-Taylor is Derbyshire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tim Brooke-Taylor",
+                    "birthPlace",
+                    "England"
+                ]
+            ]
+        },
+        "text": [
+            "Tim Brooke-Taylor was born in England.",
+            "England is the birth place of Tim Brooke-Taylor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tim Brooke-Taylor",
+                    "birthPlace",
+                    "United Kingdo"
+                ]
+            ]
+        },
+        "text": [
+            "Tim Brooke-Taylor's birth place is the United Kingdom.",
+            "Tim Brooke-Taylor was born in the UK.",
+            "The birth place of Tim Brooke-Taylor is United Kingdom."
+        ]
+    }
+]

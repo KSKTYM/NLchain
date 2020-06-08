@@ -1,0 +1,1222 @@
+[
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "city",
+                    "Alba Iulia"
+                ]
+            ]
+        },
+        "text": [
+            "The \"1 Decembrie 1918 University\" is in the city Alba Iulia.",
+            "The city of Alba Iulia has a University called \"1 Decembrie 1918 University\".",
+            "The 1 Decembrie 1918 University is located in the city of Alba Iulia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "The 1 Decembrie 1918 University is located in the country of Romania.",
+            "The 1 Decembrie 1918 University is located in Romania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "latinName",
+                    "Universitas Apulensis"
+                ]
+            ]
+        },
+        "text": [
+            "The Latin name of the 1 Decembrie 1918 University is \"Universitas Apulensis\".",
+            "The Latin name of 1 Decembrie 1918 University is Universitas Apulensis.",
+            "The latin name for 1 Decembrie 1918 University is Universitas Apulensis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "nickname",
+                    "Uab"
+                ]
+            ]
+        },
+        "text": [
+            "The 1 Decembrie 1918 University has the nickname Uab."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "rector",
+                    "Breaz Valer Daniel"
+                ]
+            ]
+        },
+        "text": [
+            "Breaz Valer Daniel is rector of the 1 Decembrie 1918 University.",
+            "The rector of the 1 Decembrie 1918 University is Breaz Valer Daniel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "academicStaffSize",
+                    "250"
+                ]
+            ]
+        },
+        "text": [
+            "The academic staff at the AWH Engineering College number 250.",
+            "The AWH Engineering College has academic staff size of 250.",
+            "AWH Engineering College has an academic staff of 250."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "city",
+                    "Kuttikkattoor"
+                ]
+            ]
+        },
+        "text": [
+            "The AWH Engineering College is located in Kuttikkattoor.",
+            "AWH Engineering College is in the city of Kuttikkattoor.",
+            "AWH Engineering College is located in Kuttikkattoor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "AWH Engineering College is located in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "established",
+                    "2001"
+                ]
+            ]
+        },
+        "text": [
+            "The AWH Engineering College was established in 2001."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "state",
+                    "Kerala"
+                ]
+            ]
+        },
+        "text": [
+            "AWH Engineering College is located in Kerala state.",
+            "The AWH Engineering College is in the State of Kerala."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aarhus",
+                    "governmentType",
+                    "Magistra"
+                ]
+            ]
+        },
+        "text": [
+            "The type of government of Aarhus is magistrate."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aarhus",
+                    "has to its northeast",
+                    "Mols"
+                ]
+            ]
+        },
+        "text": [
+            "Mols is to the northeast of Aarhus.",
+            "Aarhus has to its northeast Mols.",
+            "Mols is the area to the northeast of Aarhus."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ]
+            ]
+        },
+        "text": [
+            "Accademia di Architettura di Mendrisio is located in the city of Mendrisio.",
+            "The Accademia di Architettura di Mendrisio is located in the city of Mendrisio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is located in Switzerland.",
+            "Accademia di Architettura di Mendrisio is located in Switzerland.",
+            "Accademia di Architettura di Mendrisio is in Switzerland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ]
+            ]
+        },
+        "text": [
+            "The dean of the Accademia di Architettura di Mendrisio is Mario Botta.",
+            "Accademia di Architettura di Mendrisio's dean is Mario Botta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio was established in 1996."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "location",
+                    "Ticino"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is located in Ticino.",
+            "Ticino is the location of the Accademia di Architettura di Mendrisio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ]
+            ]
+        },
+        "text": [
+            "There are 600 students at the Accademia di Architettura di Mendrisio.",
+            "Six hundred students attend the Accademia di Architettura di Mendrisio.",
+            "The Accademia di Architettura di Mendrisio has 600 students.",
+            "Accademia di Architettura di Mendrisio has 600 students enrolled.",
+            "There are 600 students attending the Accademia di Architettura di Mendrisio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "academicStaffSize",
+                    "~500"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology's academic staff total is ~500.",
+            "The Acharya Institute of Technology employs about 500 academic staff.",
+            "Approximately 500 employees make up the academic staff at Acharya Institute of Technology."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.",
+            "Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.",
+            "Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.",
+            "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalo"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in the city of Bangalore.",
+            "Acharya Institute of Technology is located in Bangalore.",
+            "Acharya Institute of Technology is in Bangalore."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology can be found in India.",
+            "Acharya Institute of Technology is located in India.",
+            "The Acharya Institute of Technology is located in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "director",
+                    "Dr. G. P. Prabhukumar"
+                ]
+            ]
+        },
+        "text": [
+            "Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.",
+            "The director of Acharya Institute of Technology is Dr. G. P. Prabhukumar.",
+            "Acharya Institute of Technology's director is Dr. G. P. Prabhukumar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology was established in the year 2000.",
+            "The Acharya Institute of Technology was established in 2000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "motto",
+                    "Nurturing Excellence"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology's motto is Nurturing Excellence.",
+            "The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.",
+            "The motto of the Acharya Institute of Technology is \"Nurturing Excellence\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "nickname",
+                    "AIT"
+                ]
+            ]
+        },
+        "text": [
+            "AIT is the nickname for the Acharya Institute of Technology.",
+            "The nickname of the Acharya Institute of Technology is AIT.",
+            "Acharya Institute of Technology is known as AIT."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "numberOfPostgraduateStudents",
+                    "700"
+                ]
+            ]
+        },
+        "text": [
+            "The number of post graduate students at the Acharya Institute of Technology is about 700.",
+            "The number of postgraduate students in Acharya Institute of Technology is ~700.",
+            "There are around 700 postgraduate students at the Acharya Institute of Technology.",
+            "There are about 700 postgraduate students at the Acharya Institute of Technology.",
+            "Acharya Institute of Technology has 700 postgraduate students.",
+            "700 students are enrolled in a post-graduate program at Acharya Institute of Technology."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "numberOfUndergraduateStudents",
+                    "10000"
+                ]
+            ]
+        },
+        "text": [
+            "The number of undergraduates attending the Acharya Institute of Technology is roughly 10000 students.",
+            "Acharya Institute of Technology's number of Undergraduate students total to ~10000.",
+            "There are around 10000 undergraduate students at the Acharya Institute of Technology.",
+            "The Acharya Institute of Technology has 10000 undergraduate students.",
+            "The Acharya Institute of Technology has 10,000 undergraduate students.",
+            "Acharya Institute of Technology has 10,000 undergraduate students."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "officialSchoolColour",
+                    "Blue, White and Orange"
+                ]
+            ]
+        },
+        "text": [
+            "Blue, white and orange are the colours adopted by Acharya Institute of Technology.",
+            "Blue, white and orange are the colours of Acharya Institute of Technology.",
+            "Acharya Institute of Technology's official colors are Blue, White and Orange.",
+            "The official school colours of the Acharya Institute of Technology are blue, white and orange.",
+            "Acharya Institute of Technology official school colors are Blue White and Orange.",
+            "Acharya Institute of Technology official school colours are blue, white and orange."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "outlookRanking",
+                    "63"
+                ]
+            ]
+        },
+        "text": [
+            "The outlook ranking for the Acharya Institute of Technology is 63.",
+            "Acharya Institute of Technology's outlook ranking is 63.",
+            "Acharya Institute of Technology has an outlook ranking of 63."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "sportsOffered",
+                    "Tennis"
+                ]
+            ]
+        },
+        "text": [
+            "Tennis is one of the sports offered at the Acharya Institute of Technology.",
+            "Acharya Institute of Technology offers Tennis as a sport.",
+            "One of the sports offered at the Acharya Institute of Technology is tennis.",
+            "The Acharya Institute of Technology offers sports including tennis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "state",
+                    "Karnataka"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is in the state of Karnataka.",
+            "Acharya Institute of Technology is located in the state of Karnataka.",
+            "Acharya Institute of Technology is in Karnataka state."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "was given the 'Technical Campus' status by",
+                    "All India Council for Technical Education"
+                ]
+            ]
+        },
+        "text": [
+            "The All India Council for Technical Education was proud to give the Technical Campus status to the Acharya Institute of Technology.",
+            "Acharya Institute of Technology was given the Technical Campus status by the All India Council for Technical Education.",
+            "Acharya Institute of Technology was given the 'Technical Campus' status by All India Council for Technical Education."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "All India Council for Technical Education",
+                    "location",
+                    "Mumba"
+                ]
+            ]
+        },
+        "text": [
+            "All India Council for Technical Education is located in Mumbai.",
+            "The All India Council for Technical Education is located in Mumbai."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bangalore",
+                    "founder",
+                    "Kempe Gowda I"
+                ]
+            ]
+        },
+        "text": [
+            "Kempe Gowda I founded Bangalore.",
+            "The founder of Bangalore was Kempe Gowda I.",
+            "Kempe Gowda I was the founder of Bangalore."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Lars Løkke Rasmussen"
+                ]
+            ]
+        },
+        "text": [
+            "Lars Lokke Rasmussen is the leader of Denmark.",
+            "One of Denmark's leaders is Lars Lokke Rasmussen.",
+            "Denmark's leader is Lars Løkke Rasmussen.",
+            "The leader of Denmark is Lars Lokke Rasmussen.",
+            "The Leader of Denmark is Lars Løkke Rasmussen.",
+            "Lars Løkke Rasmussen is the leader of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "leaderTitle",
+                    "Monarchy of Denmark"
+                ]
+            ]
+        },
+        "text": [
+            "Denmark is led by a Monarch.",
+            "The Monarch of Denmark is the country's leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "religion",
+                    "Church of Denmark"
+                ]
+            ]
+        },
+        "text": [
+            "The official religion of Denmark is the Church of Denmark.",
+            "Denmark's religion is led by Church of Denmark.",
+            "Church of Denmark is the religion of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "European University Association",
+                    "headquarters",
+                    "Brussels"
+                ]
+            ]
+        },
+        "text": [
+            "The headquarters of the European University Association is in Brussels.",
+            "The European University Association headquarter is in Brussels."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "India",
+                    "largestCity",
+                    "Mumba"
+                ]
+            ]
+        },
+        "text": [
+            "The largest city in India is Mumbai.",
+            "Mumbai is India's largest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "India",
+                    "river",
+                    "Ganges"
+                ]
+            ]
+        },
+        "text": [
+            "The Ganges is a river in India.",
+            "The Ganges is India's most well known river."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Karnataka",
+                    "has to its northeast",
+                    "Telangana"
+                ]
+            ]
+        },
+        "text": [
+            "Karnataka neighbors Telangana to its northeast.",
+            "Karnataka has to its northeast Telangana.",
+            "To the northeast of Karnataka is Telangana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Karnataka",
+                    "has to its west",
+                    "Arabian Sea"
+                ]
+            ]
+        },
+        "text": [
+            "The Arabian Sea is west of Karnataka.",
+            "The west of Karnataka is the Arabian Sea.",
+            "To the west Karnataka borders on the Arabian Sea."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Kerala",
+                    "leaderName",
+                    "Koch"
+                ]
+            ]
+        },
+        "text": [
+            "Kochi is the leader of Kerala.",
+            "The leader of Kerala is Kochi.",
+            "The Kerala leader is in Kochi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Romania",
+                    "anthem",
+                    "Deșteaptă-te, române!"
+                ]
+            ]
+        },
+        "text": [
+            "The anthem of Romania is called Desteapta te romane.",
+            "Desteapta te, romane is the Romanian anthem.",
+            "The national anthem of Romania is Desteapta-te, romane!"
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Romania",
+                    "ethnicGroup",
+                    "Germans of Romania"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in Romania are the Germans of Romania.",
+            "Germans of Romania is an ethnic group in Romania.",
+            "The Germans of Romania are an ethnic group in Romania.",
+            "Romania has many ethnic groups one of which are Germans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Romania",
+                    "leaderName",
+                    "Klaus Iohannis"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Romania is Klaus Iohannis.",
+            "Romania's leader is Klaus Iohannis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Romania",
+                    "leaderTitle",
+                    "Prime Minister of Romania"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Romania is known as the Prime Minister.",
+            "Romania's leader is called the Prime Minister of Romania.",
+            "The title of the leader of Romania is \"Prime Minister\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ]
+            ]
+        },
+        "text": [
+            "The Aarhus University School of Business and Social Sciences is affiliated with the European University Association.",
+            "The School of Business and Social Sciences at the Aarhus University is affiliated to European University Association.",
+            "The School of Business and Social Sciences at Aarhus University is affiliated to the European University Association.",
+            "The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "city",
+                    "Aarhus"
+                ]
+            ]
+        },
+        "text": [
+            "The Aarhus University School of Business and Social Sciences is in the city of Aarhus.",
+            "The School of Business and Social Sciences at Aarhus University is situated in the city of Aarhus.",
+            "The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at Aarhus University was established in 1928.",
+            "Aarhus University School of Business and Social Sciences was established in 1928.",
+            "The School of Business and Social Sciences at the Aarhus University was established in 1928.",
+            "The School of Business and Social Sciences at the Aarhus University is established in 1928."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "latinName",
+                    "Universitas Aarhusiensis"
+                ]
+            ]
+        },
+        "text": [
+            "The latin name of School of Business and Social Sciences at the Aarhus University is \"Universitas Aarhusiensis\".",
+            "The latin name of the School of Business and Social Sciences at Aarhus University is \"universitas Aarhusiensis\".",
+            "The School of Business and Social Sciences at the Aarhus University has the latin name Universitas Aarhusiensis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Switzerland",
+                    "anthem",
+                    "Swiss Psa"
+                ]
+            ]
+        },
+        "text": [
+            "The Swiss Psalm is the anthem of Switzerland.",
+            "The anthem of Switzerland is called the Swiss Psalm."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Switzerland",
+                    "leaderName",
+                    "Johann Schneider-Ammann"
+                ]
+            ]
+        },
+        "text": [
+            "Johann Schneider-Ammann is the leader of Switzerland.",
+            "Johann Schneider-Ammann is the Swiss leader.",
+            "The leader of Switzerland is Johann Schneider-Ammann.",
+            "Switzerland has a leader called Johann Schneider-Ammann.",
+            "Johann Schneider-Ammann is the name of the leader of Switzerland.",
+            "The Swiss leader is Johann Schneider-Ammann."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Switzerland",
+                    "leaderTitle",
+                    "Federal Chancellor of Switzerland"
+                ]
+            ]
+        },
+        "text": [
+            "The Federal Chancellor of Switzerland helps to lead the country.",
+            "The Federal Chancellor of Switzerland is the title of the leader of Switzerland.",
+            "The leader of Switzerland is titled the Federal Chancellor of Switzerland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Switzerland",
+                    "legislature",
+                    "Federal Assembly (Switzerland)"
+                ]
+            ]
+        },
+        "text": [
+            "Switzerland's legislature is formed in the Federal Assembly.",
+            "Switzerland's legislature is known as the Federal Assembly.",
+            "The Federal Assembly legislates in Switzerland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tennis",
+                    "sportsGoverningBody",
+                    "International Tennis Federation"
+                ]
+            ]
+        },
+        "text": [
+            "The sport Tennis has a Governing Body called the International Tennis Federation.",
+            "The International Tennis Federation is the Governing Body for the tennis sport.",
+            "The tennis sport is governed by the International Tennis Federation.",
+            "The International Tennis Federation is the Governing Body of the sport of tennis.",
+            "The International Tennis Federation is the governing body of tennis.",
+            "The sports governing body of tennis is the International Tennis Federation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Visvesvaraya Technological University",
+                    "city",
+                    "Belgau"
+                ]
+            ]
+        },
+        "text": [
+            "The Visvesvaraya Technological University is in the city of Belgaum.",
+            "Visvesvaraya Technological University is in the city of Belgaum.",
+            "Visvesvaraya Technological University is located in Belgaum."
+        ]
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id1",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "debutTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ],
+                [
+                    "Houston Texans",
+                    "city",
+                    "Houston"
+                ],
+                [
+                    "Atlanta Falcons",
+                    "owner",
+                    "Arthur Blank"
+                ],
+                [
+                    "Atlanta Falcons",
+                    "city",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent made his debut with the Atlanta Falcons who play in Atlanta and are owned by Arthur Blank. He used to play in Houston for the Houston Texans.",
+            "Akeem Dent's debut team was the Atlanta Falcons in Atlanta and whose team owner is Arthur Blank. He also played for Houston Texans out of Houston.",
+            "The Atlanta Falcons of Atlanta was Akeem Dent's debut team. They are owned by Arthur Blank. Mr. Dent also played with the Houston Texans out of Houston."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id2",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Al Kharaitiyat SC",
+                    "league",
+                    "Qatar Stars Leagu"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "ground",
+                    "Al Kho"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "manager",
+                    "Amar Os"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra's plays for the Shabab Al-Ordon Club and the AL Kharaitiyat SC. Al Kharaitiyat SC (home ground Al Khor) play in the Qatar Stars League and is managed by Amar Osim.",
+            "Alaa Abdul-Zahra's clubs are Shabab Al-Ordon Club and Al Kharaitiyat SC. The latter team have their ground at Al Khor, are managed by Amar Osim and play in the Qatar Stars League.",
+            "Alaa Abdul Zahra's club is Shabab Al-Ordon and he also plays for Al Kharaitiyat SC. This latter club plays in the Qatar Stars league, is located in Al Khor and is managed by Amar Osim."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id3",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "deathPlace",
+                    "Russia"
+                ],
+                [
+                    "Russia",
+                    "leaderName",
+                    "Valentina Matviyenko"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "Soviet Union national football tea"
+                ],
+                [
+                    "FC Torpedo Moscow",
+                    "manager",
+                    "Valery Petrakov"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov, who died in Russia, belonged to FC Torpedo Moscow and the Soviet Union national football team. FC Torpedo is managed by Valery Petrakov. Valentina Matviyenko is a Russian leader.",
+            "Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Valentina Matviyenko. FC Torpedo Moscow, managed by Valery Petrakov, once signed Aleksandr Chumakov.",
+            "Aleksandr Chumakov died in Russia where Valentina Matviyenko is a leader. He belongs to the Soviet Union national football team and has played for FC Torpedo Moscow under the manager Valery Petrakov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Amkar P"
+                ],
+                [
+                    "FC Terek Grozny",
+                    "ground",
+                    "Grozny"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "youthclub",
+                    "FC Spartak Moscow"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Terek Grozny"
+                ],
+                [
+                    "FC Terek Grozny",
+                    "manager",
+                    "Rashid Rakhimov"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov is an associate of the youth side of FC Spartak Moscow. He plays for the Amkar Perm football club and the Terek Grozny FC which is managed by Rashid Rakhimov. The latter football club is in Grozny.",
+            "Aleksandr Prudnikov once played for FC Spartak Moscow's youth team. He plays with the FC Amkar Perm and the FC Terek Grozny which is managed by Rashid Rakhimov and has its home territory in Grozny.",
+            "Aleksandr Prudnikov, who represented FC Spartak Moscow at youth level, later played for Grozny based FC Terek Grozny - managed by Rashid Rakhimov - and FC Amkar Perm football club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id5",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.C. Milan"
+                ],
+                [
+                    "A.C. Milan",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "A.C. Milan",
+                    "manager",
+                    "Siniša Mihajlović"
+                ],
+                [
+                    "A.C. Milan",
+                    "chairman",
+                    "Silvio Berluscon"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli is connected to UC Sampdoria and plays for the club A.C. Milan. AC Milan, which is in Serie A league, is managed by Siniša Mihajlović and chaired by, Silvio Berlusconi.",
+            "Alessio Romagnoli has played for UC Sampdoria and more recently for Serie A side AC Milan, which is managed by Siniša Mihajlović and has the chairman Silvio Berlusconi.",
+            "Alessio Romagnoli is connected to UC Sampdoria and also plays for the AC Milan who are in the Serie A league. AC Milan is managed by Sinisa Mihajlovic and chaired by Silvio Berlusconi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "currentclub",
+                    "A.C. Milan"
+                ],
+                [
+                    "A.C. Milan",
+                    "manager",
+                    "Siniša Mihajlović"
+                ],
+                [
+                    "A.C. Milan",
+                    "chairman",
+                    "Silvio Berluscon"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-17 football tea"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli belongs to A.C. Milan and plays for U.C. Sampdoria and Italy's national under-17 football team. A C Milan is managed by Siniša Mihajlović and includes chairman Silvio Berlusconi.",
+            "Alessio Romagnoli is a member of the Italian national under 17 football team and has represented the club U.C. Sampdoria. He is presently with the AC Milan that is managed by Siniša Mihajlović and whose chairman is Silvio Berlusconi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "FC Terek Grozny",
+                    "ground",
+                    "Grozny"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "youthclub",
+                    "FC Spartak Moscow"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Terek Grozny"
+                ],
+                [
+                    "FC Terek Grozny",
+                    "manager",
+                    "Rashid Rakhimov"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Dynamo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov played for FC Spartak Moscow's youth team and later for FC Dynamo Moscow. He has also been signed to Grozy based FC Terek Grozny, who are managed by Rashid Rakhimov.",
+            "Aleksandr Prudnikov once played for FC Spartak Moscow's youth team but now plays for the FC Dynamo Moscow and the FC Terek Grozny out of Grozny. The FC Terek Grozny sees a manager in Rashid Rakhimov.",
+            "Aleksandr Prudnikov's club is FC Dynamo Moscow although he previously played for FC Spartak Moscow's youth team. He is currently in the Grozny based FC Terek Grozny club under their manager, Rashid Rakhimov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id8",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Ferencvárosi TC",
+                    "manager",
+                    "Thomas Do"
+                ],
+                [
+                    "United Petrotrin F.C.",
+                    "ground",
+                    "Palo Seco"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Ferencvárosi TC",
+                    "chairman",
+                    "Gábor Kubatov"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "United Petrotrin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams' former clubs include United Petrotrin FC, who play at Palo Seco, and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.",
+            "Akeem Adams is a member of the United Petrotrin F.C. club and also Ferencvarosi TC. The latter club, whose ground is Palo Seco, is chaired by Gabor Kubatov and managed by Thomas Doll.",
+            "Akeem Adams is a member of the United Petrotrin F.C. club who have their ground at Palo Seco. He plays for Ferencvarosi TC which is managed by Thomas Doll and chaired by Gabor Kubatov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id9",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Los Angeles Rams",
+                    "city",
+                    "Los Angeles"
+                ],
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ],
+                [
+                    "Tennessee Titans",
+                    "coach",
+                    "Mike Mularkey"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ],
+                [
+                    "Los Angeles Rams",
+                    "city",
+                    "Los Angeles Memorial Coliseu"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers' former team was the Los Angeles Rams who are based in LA and play their home matches at the Los Angeles Memorial Coliseum. His debut team were the Tennessee Titans who are coached by Mike Mularkey.",
+            "Akeem Ayers debuted with the Tennessee Titans and played with, Los Angeles based, Los Angeles Rams, who play at the Los Angeles Memorial Coliseum. The Titans are coached by Mike Mularkey.",
+            "The debut team of Akeem Ayers was the Tennessee Titans (Mike Mularkey coach) and also played for the L.A. based Los Angeles Rams. The LA Memorial Coliseum is the Rams home grounds."
+        ]
+    }
+]

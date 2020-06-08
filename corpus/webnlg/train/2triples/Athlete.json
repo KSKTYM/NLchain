@@ -1,0 +1,4860 @@
+[
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id1",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.C. Milan",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.C. Milan"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays in Serie A for AC Milan.",
+            "Alessio Romagnoli plays for the club A.C. Milan which is in the Serie A league.",
+            "Alessio Romagnoli is a member of the A.C. Milan club which plays in the Serie A league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id2",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli is a member of A.S. Roma who play in the Serie A league.",
+            "Alessio Romagnoli plays for A.S. Roma, which is playing in the Serie A.",
+            "Alessio Romagnoli is part of the A.S. Roma Serie A team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "position",
+                    "Serie A"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for AS Roma in Serie A.",
+            "Alessio Romagnoli plays for AS Roma in the Serie A.",
+            "Alessio Romagnoli plays for A.S. Roma in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "ground",
+                    "AFAS Stadion"
+                ],
+                [
+                    "Adam Maher",
+                    "club",
+                    "AZ Alkmaar"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Maher's club is AZ Alkmaar whose ground is AFAS Stadion.",
+            "Adam Maher is connected to the AZ Alkmaar club whose ground is AFAS Stadion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id5",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ],
+                [
+                    "Canada",
+                    "language",
+                    "Inuktitut"
+                ]
+            ]
+        },
+        "text": [
+            "Inuktitut is a spoken language in Canada, the birthplace of Aaron Boogaard.",
+            "Inuktitut is a language spoken in Canada where Aaron Boogaard was born.",
+            "Aaron Boogaard's birthplace was Canada, where one of the languages spoken is Inuktitut."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Regina, Saskatchewan"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "club",
+                    "Wichita Thunder"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's birthplace is Regina, Saskatchewan and he plays for Wichita Thunder.",
+            "Aaron Boogaard plays for the Wichita Thunder and was born in Regina, Saskatchewan.",
+            "Aaron Boogaard was born in Regina, Saskatchewan and his club is Wichita Thunder."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthYear",
+                    "1986"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in 1986 in Canada.",
+            "Aaron Boogaard was born in Canada in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthYear",
+                    "1986"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Regina, Saskatchewan"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in 1986 in Regina, Saskatchewan.",
+            "Aaron Boogaard was born in Regina, Saskatchewan in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthYear",
+                    "1986"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Saskatchewan"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in Saskatchewan in 1986.",
+            "AAron Boogaard was in Saskatchewan in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "club",
+                    "Wichita Thunder"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in Canada and plays for Wichita Thunder.",
+            "Aaron Boogaard was born in Canada and his club is Wichita Thunder.",
+            "Aaron Boogaard was born in Canada and his club is the Wichita Thunders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id11",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "draftTeam",
+                    "Minnesota Wild"
+                ],
+                [
+                    "Minnesota Wild",
+                    "generalManager",
+                    "Chuck Fletcher"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's draft team is Minnesota Wild where Chuck Fletcher is the general manager.",
+            "Aaron Boogaard's draft team is Minnesota Wild where the general manager is Chuck Fletcher.",
+            "Aaron Boogaard's draft team is Minnesota Wild, whose manager is Chuck Fletcher."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Hamburger SV"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt, former player for Hamburger SV, now plays for SV Werder Bremen.",
+            "Aaron Hunt played for the club SV Werder Bremen and now plays for Hamburger SV.",
+            "Aaron Hunt has played for Hamburger SV and SV Werder Bremen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Hamburger SV"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen II"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt, former player for SV Werder Bremen II, now plays for Hamburger SV.",
+            "Aaron Hunt plays for the clubs Hamburger SV and SV Werder Bremen II.",
+            "Aaron Hunt plays for SV Werder Bremen II and used to play for Hamburger SV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id14",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen"
+                ],
+                [
+                    "SV Werder Bremen",
+                    "manager",
+                    "Viktor Skrypnyk"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt played for the club SV Werder Bremen which is managed by Viktor Skrypnyk.",
+            "Aaron Hunt plays for SV Werder Bremen which is managed by Viktor Skrypnyk.",
+            "Aaron Hunt played for SV Werder Bremen which is managed by Viktor Skrypnyk."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id15",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen II"
+                ],
+                [
+                    "SV Werder Bremen II",
+                    "manager",
+                    "Alexander Nouri"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for the club SV Werder Bremen II managed by Alexander Nouri.",
+            "Aaron Hunter played for SV Werder Bremen II which is managed by Alexander Nouri.",
+            "Aaron Hunt plays for SV Werder Bremen II managed by Alexander Nouri."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "VfL Wolfsburg"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "Hamburger SV"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for Vfl Wolfsburg and Hamburger SV.",
+            "Aaron Hunt's previous clubs include VfL Wolfsburg and Hamburger SV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id17",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "VfL Wolfsburg"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt played for SV Werder Bremen and his club is now VfL Wolfsburg.",
+            "Aaron Hunt played for SV Werder Bremen and now plays for Vfl Wolfsburg.",
+            "Aaron Hunt's former clubs include VfL Wolfsburg and SV Werder Bremen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "VfL Wolfsburg"
+                ],
+                [
+                    "VfL Wolfsburg",
+                    "manager",
+                    "Dieter Hecking"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for Vfl Wolfsburg which is managed by Dieter Hecking .",
+            "Aaron Hunt plays football for Vfl Wolfsburg where Dieter Hecking is the manager.",
+            "Aaron Hunt plays football for Vfl Wolfsburg who are managed by Dieter Hecking."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id19",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Central Español"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez played for the Central Espanol club and now plays for US Citta di Palermo.",
+            "Abel Hernandez played for Central Espanol and now plays for US Citta di Palermo.",
+            "Abel Hernandez's club is US Citta di Palermo and he has also played for Central Espanol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Central Español"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national football team"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez, a member of the Central Espanol club, plays for the Uruguay national football team.",
+            "Abel Hernandez previously played for the Central Espanol club and now plays for the Uruguay national football team.",
+            "Abel Hernandez, whose club is the Uruguay National football team, used to play for the Central Espanol club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Hull City A.F.C."
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Central Español"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez has played for both Central Espanol and HUll City AFC.",
+            "Abel Hernandez played for the Central Espanol club and currently for Hull City AFC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Hull City A.F.C."
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national football team"
+                ]
+            ]
+        },
+        "text": [
+            "Hull City AFC player Abel Hernandez has represented the Uruguay national football team.",
+            "Abel Hernandez plays for Hull City AFC and the Uruguay National football team.",
+            "Abel Hernandez plays for Hull City A.F.C. and for the Uruguay national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national football team"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Peñarol"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez plays for the Uruguay national football team and Penarol.",
+            "Abel Hernandez's club is the Uruguay National football team and he also played for Penarol.",
+            "Abel Hernandez, whose club is Penarol, plays for the Uruguay national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id24",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national football team"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez plays for U.S. Citta di Palermo and the Uruguay national football team.",
+            "Abel Hernández plays for U.S. Città di Palermo club and the Uruguay National football team.",
+            "Abel Hernandez's club is the Uruguay National football team and he also plays for US Citta di Palermo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id25",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national under-20 football team"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez 's club is the Uruguay national under 20 football team and also US Citta di Palermo.",
+            "Abel Hernandez's club is the Uruguay national under 20 football team and he plays for the club, U.S. Città di Palermo.",
+            "Abel Hernandez plays for US Citta di Palermo and the Uruguay under 20 team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id26",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Brazil national under-17 football team"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Coritiba Foot Ball Club"
+                ]
+            ]
+        },
+        "text": [
+            "Abner plays for Coritiba Football Club and has represented Brazil at Under 17 level.",
+            "Abner, who plays for the Coritiba Football club, has represented Brazil at under 17 level.",
+            "The footballer Abner plays for Coritiba Football Club and the Brazil national under-17 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id27",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Brazil national under-20 football team"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Coritiba Foot Ball Club"
+                ]
+            ]
+        },
+        "text": [
+            "Abner plays for Coritiba Football Club and has played for the Brazil under 20 team.",
+            "The footballer Abner plays for the Brazilian national under 20 football team and the Coritiba Football club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id28",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Coritiba Foot Ball Club"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "Abners plays for the CD FAS Club and Coritiba Football Club.",
+            "Abner has played for C.D. FAS. and Coritiba Football Club in his football career.",
+            "Abner plays for Coritiba Football club and C.D. FAS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id29",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Real Madrid Castilla"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Brazil national under-20 football team"
+                ]
+            ]
+        },
+        "text": [
+            "Abner is a footballer who has represented the Brazil national under 20 team and also played for Real Madrid Castilla.",
+            "The footballer Abner plays for the Brazilian national under 20 football team and the club, Real Madrid Castilla.",
+            "The footballer Abner has represented the Brazil national under 20 team and plays for Real Madrid Castilla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id30",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Real Madrid Castilla"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "Abner has played football for Real Madrid Castilla and C.D. FAS.",
+            "Previous clubs of the footballer Abner include Real Madrid Castilla and CD FAS.",
+            "Abner plays for the club, Real Madrid Castilla and the CD FAS club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id31",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Real Madrid Castilla"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Coritiba Foot Ball Club"
+                ]
+            ]
+        },
+        "text": [
+            "Abner is a footballer for the Coritiba Football club and also Real Madrid Castilla.",
+            "Footballer Abner plays for Real Madrid Castilla and Coritiba Football Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id32",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam Maher",
+                    "club",
+                    "PSV Eindhoven"
+                ],
+                [
+                    "Adam Maher",
+                    "club",
+                    "AZ Alkmaar"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Maher's clubs are PSV Eindhoven and AZ Alkmaar.",
+            "Adam Maher plays for PSV Eindhoven and has been connected to the club AZ Alkmaar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id33",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Canada"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthYear",
+                    "1986"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in Canada in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id34",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Charlottetown"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthYear",
+                    "1986"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in Charlottetown in 1986.",
+            "Adam McQuaid was born in 1986, in Charlottetown."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id35",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Prince Edward Island"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthYear",
+                    "1986"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in 1986 on Prince Edward Island.",
+            "Adam McQuaid was born on Prince Edward Island in 1986."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id36",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "draftTeam",
+                    "Columbus Blue Jackets"
+                ],
+                [
+                    "Columbus Blue Jackets",
+                    "city",
+                    "Columbus, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid's draft team is the Columbus Blue Jackets in Columbus, Ohio.",
+            "Adam McQuaid's draft team is the Columbus Blue Jackets, which are based in Columbus, Ohio.",
+            "The Columbus Blue Jackets in Columbus, Ohio drafted Adam McQuaid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id37",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "draftTeam",
+                    "Columbus Blue Jackets"
+                ],
+                [
+                    "Columbus Blue Jackets",
+                    "generalManager",
+                    "Jarmo Kekäläinen"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid's draft team is the Columbus Blue Jackets, whose general manager is Jarmo Kekalainen.",
+            "Adam McQuaid was drafted to the Columbus Blue Jackets which is managed by Jarmo Kekalainen.",
+            "Adam McQuaid's draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekalainen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id38",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "weight",
+                    "94.8024 (kilograms)"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in Canada and he weighs 94.8024 kg.",
+            "Adam McQuaid was born in Canada and his weight is 94.8024 kgs.",
+            "Adam McQuaid was born in Canada and weighs 94.8024 kilograms."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id39",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "weight",
+                    "94.8024 (kilograms)"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Charlottetown"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid, who was born in Charlottetown, weighs 94.8024kg.",
+            "Adam McQuaid's weight is 94.8024 kilograms and he was born in Charlottetown.",
+            "Adam McQuaid was born in Charlottetown and weighs 94.8024 kgs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id40",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "weight",
+                    "94.8024 (kilograms)"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Prince Edward Island"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born on Prince Edward Island and weighs 94.8024 kg.",
+            "Adam McQuaid was born on Prince Edward Island and weighs 94.8024 kilograms.",
+            "Adam McQuaid weighs 94.8024 kilograms and was born on Prince Edward Island."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id41",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Zawra'a SC"
+                ],
+                [
+                    "Al-Zawra'a SC",
+                    "manager",
+                    "Basim Qasim"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad plays for Al-Zawra'a SC, whose manager is Basim Qasim.",
+            "Ahmad Kadhim Assad plays for Al-Zawra'a SC managed by Basim Qasim.",
+            "Ahmad Kadhim Assad's club is Al-Zawra'a SC which is managed by Basim Qasim."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id42",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al Shorta SC"
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Quwa Al-Jawiya"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya and his club is Al Shorta SC.",
+            "Ahmad Kadhim Assad played for the clubs Al Shorta SC and Al-Quwa Al-Jawiya.",
+            "Ahmad Kadhim Assad's club is Al Shorta SC and he played for the club Al-Quwa Al-Jawiya."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id43",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Esteghlal Ahvaz F.C."
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Naft"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad has played for both Al-Naft and Esteghlal Ahvaz FC.",
+            "Ahmad Kadhim Assad used to play for Esteghlal Ahvaz F.C. and now palys for Al-Naft.",
+            "Ahmad Kadhim Assad, whose club is Esteghlal Ahvaz F C. plays for Al-Naft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id44",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Esteghlal Ahvaz F.C."
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Quwa Al-Jawiya"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya and is part of the Esteghlal Ahvaz F.C.",
+            "Ahmad Kadhim Assad played for Esteghlal Ahvaz FC and Al-Quwa Al-Jawiya.",
+            "Ahmad Kadhim Assad played for the club Al-Quwa Al-Jawiya and is part of the Esteghlal Ahvaz F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id45",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Esteghlal Ahvaz F.C."
+                ],
+                [
+                    "Esteghlal Ahvaz F.C.",
+                    "manager",
+                    "Adnan Hamad"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad's club is Esteghlal Ahvaz FC which is managed by Adnan Hamad.",
+            "Ahmad Kadhim Assad played for the Esteghlal Ahvaz F C whose manager is Adnan Hamad.",
+            "Ahmad Kadhim Assad plays for the Esteghlal Ahvaz F.C. which is managed by Adnan Hamad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id46",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Steel Azin F.C."
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Jaish SC (Syria)"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad has played for the Syrian club Al Jaish SC and also Steel Azin FC.",
+            "Ahmad Kadhim Assad used to play for Steel Azin F.C. and now plays for Al-Jaish SC (Syria).",
+            "Ahmad Kadhim Assad formerly played for Steel Azin F.C. and now plays for Al-Jaish SC in Syria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id47",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Steel Azin F.C."
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Quwa Al-Jawiya"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad has played for both Steel Azin F.C. and Al-Quwa Al-Jawiya.",
+            "Ahmad Kadhim Assad played for club Al-Quwa Al-Jawiya of Steel Azin F.C.",
+            "Ahmad Kadhim Assad has played for Al-Quwa Al-Jawiya and Steel Azin F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id48",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Steel Azin F.C."
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Al-Talaba SC"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad plays for Al Talaba SC and also for the club Steel Azin FC.",
+            "Ahmad Kadhim Assad, who plays for Steel Azin F.C. also plays for Al Talaba SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id49",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Steel Azin F.C."
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "PAS Tehran F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad is a player forSteel Azin F.C. and also PAS Tehran FC.",
+            "Ahmad Kadhim Assad's club is Steel Azin FC and he plays for PAS Tehran FC.",
+            "Ahmad Kadhim Assad plays for Steel Azin FC and also played for PAS Tehran FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id50",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Central F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams plays for Ferencvarosi TC and his club is Central FC.",
+            "Akeem Adams plays for Central fC and Ferencvarosi TC.",
+            "Former clubs of Akeem Adams inlcude Central FC and Ferencvarosi TC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id51",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "T&amp;TEC Sports Club"
+                ]
+            ]
+        },
+        "text": [
+            "Former clubs of Akeem Adams include T&amp;TEC Sports Club and Ferencvarosi TC.",
+            "Akeem Adams club is Ferencvarosi TC and he plays for the T&amp;TEC Sports Club.",
+            "Akeem Adams played for T&amp;TEC Sports Club and now plays for Ferencvarosi TC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id52",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national football team"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams plays for Ferencvarosi TC and the Trinidad and Tobago national football team.",
+            "Akeem Adams is in Ferencvarosi TC. Plays for Trinidad and Tobago national football team.",
+            "Akeem Adams club is Ferencvarosi TC and he plays for the Trinidad and Tobago national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id53",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national under-17 football team"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams, who represented the Trinidad and Tobago national under 17 football team, has played for the club Ferencvarosi TC.",
+            "Akeem Adams clubs are Ferencvarosi TC and Trinidad and Tobago national under 17 football teams.",
+            "Akeem Adams plays for Ferencvarosi TC and the Trinidad and Tobago Under 17 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id54",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national under-20 football team"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams plays for the Trinidad and Tobago national under-20 football team and also for Ferencvarosi TC.",
+            "Akeem Adams played football for the Trinidad and Tobago national under 20 team and his club is Ferencvarosi TC.",
+            "Akeem Adams has played for Ferencvarosi TC and represented Trinidad and Tobago at under 20 level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id55",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "United Petrotrin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams club is Ferencvarosi TC and he is a member of the United Petrotrin FC.",
+            "Akeem Adams' former clubs include Ferencvarosi TC and United Petrotrin FC.",
+            "Akeem Adams Club is Ferencvarosi TC, but he also played for United Petrotrin F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id56",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Ferencvárosi TC"
+                ],
+                [
+                    "Ferencvárosi TC",
+                    "chairman",
+                    "Gábor Kubatov"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams plays for Ferencvarosi TC, whose chairman is Gábor Kubatov.",
+            "Akeem Adams plays for Ferencvarosi TC chaired by Gabor Kubatov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id57",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Adams",
+                    "club",
+                    "T&amp;TEC Sports Club"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "United Petrotrin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams played for the club T&amp;TEC Sports Club and played for United Petrotrin FC.",
+            "Akeem Adams plays for the T&amp;TEC Sports Club and also played for United Petrotrin F.C.",
+            "Akeem Adams plays for T&amp;TEC Sports Club and formerly for United Petrotrin F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id58",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers debuted for the Tennessee Titans and also played for the Los Angeles Rams.",
+            "Akeem Ayers made his debut for the Tennessee Titans and played for the Los Angeles Rams.",
+            "Akeem Ayers made his debut for the Tennessee Titans and used to play for the Los Angeles Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id59",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftPick",
+                    "39"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers draft pick is 39 and he used to play for Los Angeles Rams.",
+            "Akeem Ayers former team is the Los Angeles Rams and his draft pick is 39.",
+            "Akeem Ayers once played for the Los Angeles Rams and was number 29 in the draft pick."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id60",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftRound",
+                    "2"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers' former team was the Los Angeles Rams and his draft round was 2.",
+            "Akeem Ayers was in draft round 2 and his former team was the Los Angeles Rams.",
+            "Akeem Ayers' draft round was 2 and he used to play for the Los Angeles Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id61",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ],
+                [
+                    "Los Angeles Rams",
+                    "city",
+                    "Los Angeles Memorial Coliseum"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers' former team was the Los Angeles Rams who play in their home city at Los Angeles Memorial Coliseum.",
+            "Los Angeles Memorial Coliseum is home for the Los Angeles Rams, former team of Akeem Ayers.",
+            "Akeem Ayers former team is the Los Angeles Rams who play at the Los Angeles Memorial Coliseum."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id62",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "New England Patriots"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers, who made his debut for the Tennessee Titans, later played for the New England Patriots.",
+            "Akeem Ayers debuted for Tennessee Titans, but has also played with The New England Patriots."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id63",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers made his debut for the Tennessee Titans and later played for the St Louis Rams.",
+            "The debut team of Akeem Ayers was the Tennessee Titans and he also formerly played for the St Louis Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id64",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftPick",
+                    "39"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers is 39 in the draft pick and used to play for the St. Louis Rams.",
+            "Akeem Ayers was number 39 in the draft pick and once played for the St Louis Rams.",
+            "Akeem Ayers was number 39 in the draft pick and played for the St. Louis Rams."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id65",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftRound",
+                    "2"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers was drafted in round 2 and used to play for the St, Louis Rams.",
+            "St Louis Rams is the former team of Akeem Ayers who was in draft round 2.",
+            "Akeem Ayers, who used to play for the St. Louis Rams, was drafted in round 2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id66",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ],
+                [
+                    "St. Louis Rams",
+                    "city",
+                    "St. Louis"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers played for the American Football team, St. Louis Rams.",
+            "The St. Louis Rams, based in St. Louis, is Akeem Ayers' former team.",
+            "Based in the city of St Louis, the St Louis Rams are a former team of Akeem Ayers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id67",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "birthDate",
+                    "1987-09-27"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent was born in Atlanta, Georgia on the 27th September 1987.",
+            "Akeem Dent was born on 27/09/1987 in Atlanta, Georgia.",
+            "Akeem Dent was born in Atlanta, Georgia on 27 September 1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id68",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "club",
+                    "Houston Texans"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent was born in Atlanta, Georgia and his club is the Houston Texans.",
+            "Akeem Dent was born in Atlanta Georgia and plays for the Houston Texans club.",
+            "Akeem Dent, whose birthplace is Atlanta, Georgia, plays for the Houston Texans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id69",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "debutTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent's first team were the Atlanta Falcons and another former team was the Houston Texans.",
+            "Akeem Dent debuted with the Atlanta Falcons and also played for the Houston Texans.",
+            "Akeem Dent debuted with Atlanta Falcons and also played for Houston Texans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id70",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "debutTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Atlanta Falcons",
+                    "city",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent first team were the Atlanta based Atlanta Falcons.",
+            "Akeem Dent's first team were the Atlanta Falcons who play in Atlanta.",
+            "Akeem Dent's debut team was the Atlanta Falcons who play in the city of Atlanta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id71",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Atlanta Falcons",
+                    "city",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent used to play for the Atlanta Falcons in Atlanta.",
+            "Akeem Dent used to play for the Atlanta Falcons based in Atlanta.",
+            "Akeem Dent played for the Atlanta Falcons, based in Atlanta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id72",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Atlanta Falcons",
+                    "coach",
+                    "Dan Quinn (American football)"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent once played with the Atlanta Falcons whose coach was Dan Quinn.",
+            "Dan Quinn, an American football coach, coaches the Atlanta Falcons which is the former team of Akeem Dent.",
+            "Akeem Dent's former team is the Atlanta Falcons, where the team is now coached by Dan Quinn."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id73",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ],
+                [
+                    "Houston Texans",
+                    "city",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent's former team was the Houston based Houston Texans.",
+            "Akeem Dent used to play for Houston Texans in Houston.",
+            "The Houston Texans, based in the city of Houston, was Akeem Dent's former team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id74",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "position",
+                    "Linebacker"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Linebacker Akeem Dent was born in Atlanta, Georgia.",
+            "Akeem Dent, who was born in Atlanta, Georgia is a linebacker.",
+            "Born in Atlanta, Georgia, Akeem Dent's position is linebacker."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id75",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "birthPlace",
+                    "Jamaica"
+                ],
+                [
+                    "Jamaica",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley was born in Jamaica, where that country's leader is Elizabeth II.",
+            "Akeem Priestley's birth place is Jamaica, which is led by Elizabeth II.",
+            "Akeem Priestley was born in Jamaica, whose monarch is Queen Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id76",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Dayton Dutch Lions"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Harbour View F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley plays for Dayton Dutch Lions and Harbour View F.C.",
+            "Akeem Priestley's clubs are Dayton Dutch Lions and Harbour View FC.",
+            "Akeem Priestley's club is Dayton Dutch Lions and he plays for Harbour View F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id77",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "FK Mughan"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Sheikh Russel KC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley played for FK Mughan and Sheikh Russel KC.",
+            "Akeem Priestley plays for FK Mughan and formerly for Sheikh Russel KC.",
+            "Akeem Priestley has played for the clubs FK Mughan and Sheikh Russel KC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id78",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Harbour View F.C."
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Antigua GFC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley played for Antigua GFC and now plays for Harbour View FC.",
+            "Akeem Priestley plays for Harbour View Fc and Antigua GFC.",
+            "Akeem Priestley plays football for Harbour View FC and Antigua GFC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id79",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Jacksonville Dolphins"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Harbour View F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley plays for Jacksonville Dolphins and the Harbour View F.C.",
+            "Akeem Priestley plays for Jacksonville Dolphins and his club is Harbour View F.C.",
+            "Akeem Priestley's former clubs include Harbour View FC and Jacksonville Dolphins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id80",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Jacksonville Dolphins"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Sheikh Russel KC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley is in the Jacksonville Dolphins club and previously played for the club Sheikh Russel KC.",
+            "Akeem Priestley plays for Jacksonville Dolphins Club and for Sheikh Russel KC.",
+            "Akeem Priestley plays for Jacksonville Dolphins Club and used to play for Sheikh Russel KC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id81",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "RoPS"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Harbour View F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's clubs are Harbour View F.C. and RoPS.",
+            "Akeem Priestley, a member of club RoPS, is a player for the Harbour View F.C.",
+            "Akeem Priestley's former clubs include Harbour View FC and RoPS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id82",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Sheikh Russel KC"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Harbour View F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley's club is Harbour View F.C and he plays for Sheikh Russel KC.",
+            "Akeem Priestley, whose club is Harbour View FC, plays for Sheikh Russel KC.",
+            "Akeem Priestley, whose club is Harbour View F.C. played for the club Sheikh Russel KC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id83",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Al-Khor Sports Club",
+                    "league",
+                    "Qatar Stars League"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Khor Sports Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra is in the Al-Khor Sports Club which is in the Qatar Stars League.",
+            "Alaa Abdul-Zahra has played for the Al-Khor Sports Club in the Qatar Stars League.",
+            "Alaa Abdul Zahra plays for Al-Khor Sports Club which plays in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id84",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Al-Wakrah Sport Club",
+                    "league",
+                    "Qatar Stars League"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Wakrah Sport Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra plays for Al-Wakrah Sports Club which is part of the Qatar Stars League.",
+            "Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club which is in the Qatar Stars League.",
+            "Alaa Abdul-Zahra plays for the Al-Wakrah Sports Club in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id85",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Al-Wakrah Sport Club",
+                    "position",
+                    "Qatar Stars League"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Wakrah Sport Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra plays for Al-Wakrah Sport Club in the Qatar Stars league.",
+            "Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club positioned in the Qatar Stars League.",
+            "Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club in the Qatar Stars league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id86",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Khor Sports Club"
+                ],
+                [
+                    "Al-Khor Sports Club",
+                    "position",
+                    "Qatar Stars League"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra is in the Al-Khor Sports Club which is in the Qatar Stars league.",
+            "Alaa Abdul Zahra plays for Al Khor Sports Club in the Qatar Stars League.",
+            "Alaa Abdul Zahra plays for Al-Khor Sports Club within the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id87",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "ground",
+                    "Al Khor"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC who have their ground at Al Khor.",
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC who play their home games at Al Khor.",
+            "Alaa Abdul Zahra's club is AL Kharaitiyat SC located in Al Khor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id88",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "league",
+                    "Qatar Stars League"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC in the Qatar Stars League.",
+            "Alaa Abdul Zahra's club is AL Kharaitiyat SC which is in the Qatar Stars League.",
+            "Alaa Abdul Zahra's club is AL Kharaitiyat SC who play in the Qatar Stars league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id89",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "position",
+                    "Qatar Stars League"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC who are in the Qatar Stars League.",
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC which is part of the Qatar Stars League.",
+            "Alaa Abdul Zahra's club is AL Kharaitiyat SC which plays in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id90",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Iraq national under-20 football team"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra plays for the Iraq national under-20 football team and Al Kharaitiyat SC.",
+            "Alaa Abdul Zahra plays for Al Kharaitiyat SC and the Iraq under 20 team.",
+            "Alaa Abdul Zahra plays for the club AL Kharaitiyat SC and has represented the Iraq national Under 20 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id91",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Khor Sports Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra has payed for Shabab Al-Ordon Club and Al-Khor Sports Club.",
+            "Alaa Abdul-Zahra belongs to Shabab Al-Ordon Club and plays for Al-Khor Sports Club.",
+            "Alaa Abdul-Zahra has played for both Shabab Al-Ordon Club and Al-Khor Sports Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id92",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra', whose club is Shabab Al-Ordon, plays for Al Kharaitiyat SC.",
+            "Alaa Abdul-Zahra's clubs are Shabab Al-Ordon and AL Kharaitiyat SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id93",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Shorta SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for Al Shorta SC and his club is Shabab Al-Ordon .",
+            "Al Shorta SC and Shabab Al-Ordon Club are former teams of Alaa Abdul-Zahra.",
+            "Alaa Abdul-Zahra plays for Shabab Al-Ordon Club and Al Shorta SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id94",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Iraq national under-20 football team"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra plays for the Iraq national under-20 football team and his club is Shabab Al-Ordon.",
+            "Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he plays for the Iraq national under 20 football team.",
+            "Alaa Abdul-Zahra's club is Shabab Al-Ordon and he plays for the Iraq under 20 team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id95",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "position",
+                    "Forward (football)"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Shorta SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra is a forward and his club is Al Shorta SC.",
+            "Alaa Abdul Zahra is a forward for Al Shorta SC.",
+            "Footballer Alaa Abdul-Zahra is a forward and plays for the club Al Shorta SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id96",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Accrington Stanley F.C."
+                ],
+                [
+                    "Accrington Stanley F.C.",
+                    "ground",
+                    "Accrington"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played for the Accrington club, Accrington Stanley F.C.",
+            "Alan Martin played for Accrington Stanley FC, whose ground can be found in Accrington.",
+            "Alan Martin played football for Accrington Stanley F.C who are based in Accrington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id97",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Accrington Stanley F.C."
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Hamilton Academical F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin is a footballer for the Hamilton Academical FC and also for Accrington Stanley FC.",
+            "Alan Martin played football for Accrington Stanley F.C and now plays for Hamilton Academical F.C.",
+            "Alan Martin is a footballer for the Hamilton Academical FC and previously played for Accrington Stanley FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id98",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Clyde F.C."
+                ],
+                [
+                    "Clyde F.C.",
+                    "ground",
+                    "Broadwood Stadium"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played for the Clyde F.C. at Broadwood Stadium.",
+            "Alan Martin plays football for the Clyde FC club at The Broadwood Stadium.",
+            "Alan Martin played for Clyde F.C. whose home ground is Broadwood Stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id99",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Hamilton Academical F.C."
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Aldershot Town F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Hamilton Academicals FC and Aldershot Town FC are former clubs of the footballer Alan Martin.",
+            "The footballer Alan Martin has previously played for Aldershot Town FC and Hamilton Academicals FC.",
+            "Alan Martin is a footballer for Aldershot Town FC and played for Hamilton Academical FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id100",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Hamilton Academical F.C."
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Crewe Alexandra F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin plays for Hamilton Academical F.C. and Crewe Alexandra F.C.",
+            "Alan Martin is a footballer for the Hamilton Academical FC and also Crewe Alexandra F.C.",
+            "Alan Martin is a footballer for the Crewe Alexandra FC and Hamilton Academicals."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id101",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Hamilton Academical F.C."
+                ],
+                [
+                    "Hamilton Academical F.C.",
+                    "ground",
+                    "Hamilton, South Lanarkshire"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played for Hamilton Academical F.C. where the ground is located in South Lanarkshire.",
+            "The footballer Alan Martin played for Hamilton Academicals FC, located in Hamilton, South Lanarkshire.",
+            "Alan Martin is a footballer for the Hamilton Academical FC who play in Hamilton, South Lanarkshire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id102",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Scotland national under-21 football team"
+                ],
+                [
+                    "Scotland national under-21 football team",
+                    "coach",
+                    "Ricky Sbragia"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played for the Scotland national under 21 team, which is managed by Ricky Sbragia.",
+            "The footballer Alan Martin plays in the Scottish National under 21 football team who are coached by Ricky Sbragia.",
+            "Alan Martin played for the Scotland under 21 football team, whose coach is Ricky Sbragia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id103",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthDate",
+                    "1995-09-02"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Tampere, Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr was born 1995-09-02 in Tampere, Finland.",
+            "Aleksander Barkov Junior was born in Tampere, Finland on 2 September 1995."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id104",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthYear",
+                    "1995"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Tampere, Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr . was born in Tampere, Finland in 1995.",
+            "Aleksander Barkov Jr was born in 1995 in Tampere. Finland.",
+            "Aleksander Barkov Jr was born in 1995 in Tampere, Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id105",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthYear",
+                    "1995"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "club",
+                    "Florida Panthers"
+                ]
+            ]
+        },
+        "text": [
+            "Born in 1995, Aleksander Barkov Jr plays for the Florida Panthers.",
+            "Aleksander Barkov, Jr. was born in 1995 and has played for the Florida Panthers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id106",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "draftTeam",
+                    "Florida Panthers"
+                ],
+                [
+                    "Florida Panthers",
+                    "generalManager",
+                    "Dale Tallon"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr's draft team was the Florida Panthers whose general manager is Dale Tallon.",
+            "Aleksander Barkov Jr's draft team is the Florida Panthers which is managed by Dale Tallon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id107",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "league",
+                    "National Hockey League"
+                ],
+                [
+                    "National Hockey League",
+                    "mostChampions",
+                    "Montreal Canadiens"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr. plays in the National Hockey League where the Montreal Canadiens have won the most championships.",
+            "Aleksander Barkov Jr. plays in the National Hockey League where most championships have been won by the Montreal Canadiens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id108",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "birthPlace",
+                    "Moscow"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in Moscow, Russia and plays for is FC Torpedo Moscow.",
+            "Aleksandr Chumakov plays for is FC Torpedo Moscow which is where he was born.",
+            "Aleksandr Chumakov was born in Moscow, Russia and has played for FC Torpedo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id109",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "birthPlace",
+                    "Soviet Union"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in the Soviet Union and his club was FC Torpedo Moscow.",
+            "Aleksandr Chumakov, who was born in the Soviet Union, has played for FC Torpedo Moscow.",
+            "Aleksandr Chumakov was born in the Soviet Union and played for FC Torpedo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id110",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ],
+                [
+                    "FC Torpedo Moscow",
+                    "chairman",
+                    "Aleksandr Tukmanov"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was in the Torpedo Moscow FC whose chairman is Aleksandr Tukmanov.",
+            "Aleksandr Chumakov played for FC Torpedo Moscow, the chairman of which is Aleksandr Tukmanov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id111",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "Soviet Union national football team"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "birthPlace",
+                    "Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in Moscow and plays for the Soviet Union national football team.",
+            "Aleksandr Chumakov was born in Moscow and has represented the Soviet Union national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id112",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "Soviet Union national football team"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "birthPlace",
+                    "Soviet Union"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov was born in the Soviet Union and was a member of the Soviet Union national football team.",
+            "Soviet Union born Aleksandr Chumakov has represented his national football team.",
+            "Aleksandr Chumakov was born in the Soviet Union and plays for the Soviet Union national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id113",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "Soviet Union national football team"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov played for FC Torpedo Moscow and represented the Soviet Union national football team.",
+            "Aleksandr Chumakov plays for FC Torpedo Moscow and the Soviet Union national football team.",
+            "Aleksandr Chumakov was a member of the Soviet Union national football team and played for FC Torpedo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id114",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "deathPlace",
+                    "Moscow"
+                ],
+                [
+                    "Moscow",
+                    "leaderName",
+                    "Sergey Sobyanin"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov died in Moscow, where the leader is Sergey Sobyanin.",
+            "Moscow is led by Sergey Sobyanin and is the deathplace of Aleksandr Chumakov.",
+            "Aleksandr Chumakov passed away in Moscow whose leader is Sergey Sobyanin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id115",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Chumakov",
+                    "deathPlace",
+                    "Russia"
+                ],
+                [
+                    "Russia",
+                    "leaderName",
+                    "Valentina Matviyenko"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov died in Russia, where Valentina Matviyenko is the leader.",
+            "Aleksandr Chumakov died in Russia where Valentina Matviyenko is a leader.",
+            "Valentina Matviyenko is a leader in Russia which is where Aleksandr Chumakov died."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id116",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Amkar Perm"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Tom Tomsk"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Amkar Perm and FC Tom Tomsk.",
+            "Aleksandr Prudnikov played for FC Amkar Perm and his club is Tom Tomsk.",
+            "Aleksandr Prudnikov plays for FC Tom Tomsk and FC Amkar Perm football club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id117",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Amkar Perm"
+                ],
+                [
+                    "FC Amkar Perm",
+                    "manager",
+                    "Gadzhi Gadzhiyev"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for the FC Amkar Perm football club managed by Gadzhi Gadzhiyev.",
+            "Aleksandr Prudnikov played for FC Amkar Perm football club, where the manager is Gadzhi Gadzhiyev."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id118",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Kuban Krasnodar"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Tom Tomsk"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's club is FC Tom Tomsk and he also plays for FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov plays football for FC Kuban Krasnodar and FC Tom Tomsk.",
+            "Aleksandr Prudnikov plays for FC Tom Tomsk and FC Kuban Krasnodar club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id119",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Kuban Krasnodar"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "Sparta Prague"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's club is called Sparta Prague and he plays for FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov plays for Sparta Prague and FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov plays for FC Kuban Krasnodar and his club is called Sparta Prague."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id120",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Spartak Moscow"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Amkar Perm"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov has played for FC Amkar Perm and for FC Spartak Moscow.",
+            "Aleksandr Prudnikov plays for FC Spartak Moscow and also for FC Amkar Perm football club.",
+            "Aleksandr Prudnikov plays for FC Amkar Perm and played for FC Spartak Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id121",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Spartak Moscow"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Tom Tomsk"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov plays for FC Spartak Moscow and FC Tom Tomsk.",
+            "Aleksandr Prudnikov plays for FC Tom Tomsk and previously played for FC Spartak Moscow.",
+            "Aleksandr Prudnikov plays for FC Tom Tomsk and the FC Spartak Moscow club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id122",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Spartak Moscow"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "Sparta Prague"
+                ]
+            ]
+        },
+        "text": [
+            "Former clubs of Aleksandr Prudnikov include Sparta Prague and FC Spartak Moscow.",
+            "Aleksandr Prudnikov played for FC Spartak Moscow and his club is called Sparta Prague.",
+            "Aleksandr Prudnikov's club is called Sparta Prague or FC Spartak Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id123",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Terek Grozny"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Alania Vladikavkaz"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov played for FC Terek Grozny however he now plays for FC Alania Vladikavkaz.",
+            "Former clubs of Aleksandr Prudnikov include FC Terek Grozny and FC Alania Vladikavkaz.",
+            "Aleksandr Prudnikov is in the FC Terek Grozny club and he plays for FC Alania Vladikavkaz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id124",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Terek Grozny"
+                ],
+                [
+                    "FC Terek Grozny",
+                    "manager",
+                    "Rashid Rakhimov"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov played for FC Terek Grozny managed by Rashid Rakhimov.",
+            "Aleksandr Prudnikov plays for FC Terek Grozny which is managed by Rashid Rakhimov.",
+            "Aleksandr Prudnikov played for FC Terek Grozny which is managed by Rashid Rakhimov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id125",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "currentclub",
+                    "FC Amkar Perm"
+                ],
+                [
+                    "FC Amkar Perm",
+                    "manager",
+                    "Gadzhi Gadzhiyev"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov currently plays for the team FC Amkar Perm, which is managed by Gadzhi Gadzhiyev.",
+            "Aleksandr Prudnikov plays for FC Amkar Perm which is managed by Gadzhi Gadzhiyev.",
+            "Aleksandr Prudnikov's current club is FC Amkar Perm which is managed by Gadzhi Gadzhiyev."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id126",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Dila Gori"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for FC Karpaty Lviv and FC Dila Gori.",
+            "Aleksandre Guruli plays for FC Dila Gori and used to play for FC Karpaty Lviv.",
+            "Aleksandre Guruli has represented the clubs FC Dila Gori and FC Karpaty Lviv."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id127",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Zestafoni"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for FC Karpaty Lviv and FC Zestafoni.",
+            "Former clubs of Aleksandre Guruli include FC Karpaty Lviv and FC Zestafoni.",
+            "Aleksandre Guruli is in the FC Zestafoni club and he played for FC Karpaty Lviv."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id128",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "US Boulogne"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli plays for FC Karpaty Lviv club and also for US Boulogne.",
+            "Clubs played for by Aleksandre Guruli include US Boulogne and FC Karpaty Lviv.",
+            "Aleksandre Guruli plays for FC Karpaty Lviv and US Boulogne."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id129",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "Olympique Lyonnais"
+                ],
+                [
+                    "Olympique Lyonnais",
+                    "ground",
+                    "Parc Olympique Lyonnais"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for the Olympique Lyonnais club who play their home games at the Parc Olympique Lyonnais.",
+            "Aleksandre Guruli played for the Olympique Lyonnais club whose home ground is the Parc Olympique Lyonnais stadium.",
+            "Aleksandre Guruli's club is Olympique Lyonnais whose home ground is the Parc Olympique Lyonnais stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id130",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.C. Milan"
+                ],
+                [
+                    "A.C. Milan",
+                    "manager",
+                    "Siniša Mihajlović"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for A.C. Milan which is managed by Siniša Mihajlović .",
+            "Alessio Romagnoli plays for A.C. Milan managed by Sinisa Mihajlovic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id131",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.S. Roma"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Former clubs of Alessio Romagnoli include UC Sampdoria and AS Roma.",
+            "Alessio Romagnoli, a member of A.S. Roma, is connected to UC Sampdoria.",
+            "Alessio Romagnoli has previously played for AS Roma and UC Sampdoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id132",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-16 football team"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma player Alessio Romagnoli represented Italy at Under 16 level.",
+            "Alessio Romagnoli plays for A S Roma and is also in the Italy national under 16's football team.",
+            "Alessio Romagnoli plays for A.S. Roma and formerly for the Italian national under 16 football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id133",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-16 football team"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli is connected to UC Sampdoria of the Italy national under 16's football league.",
+            "Alessio Romagnoli has represented U.C. Sampdoria in the Italy national under 16's football league.",
+            "Alessio Romagnoli played for U.C. Sampdoria in the Italy national under-16 football league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id134",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-16 football team"
+                ],
+                [
+                    "Italy national under-16 football team",
+                    "coach",
+                    "Daniele Zoratto"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli played for the Italy national under-16 football team coached by Daniele Zoratto.",
+            "Alessio Romagnoli is in the Italy national under 16's football team which is coach by Daniele Zoratto.",
+            "Alessio Romagnoli played for the Italian national under 16 football team which is coached by Daniele Zoratto."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id135",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-17 football team"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli is a member of the Italian national under 17 football team and plays for A.S. Roma.",
+            "Alessio Romagnoli plays for AS Roma and the Italian under 17 teams.",
+            "Alessio Romagnoli is a member of the Italian national under 17 football team and A.S. Roma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id136",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-17 football team"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for the Italy national under-17 football team and for the club U.C. Sampdoria.",
+            "Alessio Romagnoli is in the club Italy national under 17's for the club U.C. Sampdoria.",
+            "Footballer Alessio Romagnoli, who represented Italy at under 17 level, is connected to UC Sampdoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id137",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-17 football team"
+                ],
+                [
+                    "Italy national under-17 football team",
+                    "coach",
+                    "Alessandro Dal Canto"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for the Italy national under-17 football team which is coached by Alessandro Dal Canto .",
+            "Alessio Romagnoli is a member of the Italian national under 17 football team coached by Alessandro Dal Canto.",
+            "Alessio Romagnoli plays for the Italy national under-17 football team, where Alessandro Dal Canto is the coach."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id138",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "Italy national under-19 football team"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli's club is the Italy national under 19 football team and he is also connected to UC Sampdoria.",
+            "Alessio Romagnoli is with the club U.C. Sampdoria. He is part of the club which is Italy's national under 19 football team.",
+            "Alessio Romagnoli used to play for the Italian national under-19 football team and U.C. Sampdoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id139",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "currentclub",
+                    "A.C. Milan"
+                ],
+                [
+                    "A.C. Milan",
+                    "manager",
+                    "Siniša Mihajlović"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli's current club is AC Milan, which is managed by Siniša Mihajlović.",
+            "Siniša Mihajlović manages A. C. Milan where Alessio Romagnoli currently plays.",
+            "Alessio Romagnoli is currently with A.C. Milan whose manager is Sinisa Mihajlovic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id140",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "position",
+                    "Defender (football)"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.S. Roma"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli is a defender for A.S. Roma.",
+            "Alessio Romagnoli was a defender for AS Roma.",
+            "Alessio Romagnoli plays for A.S. Roma as a defender."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id141",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "position",
+                    "Defender (football)"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for the club U.C. Sampdoria as one of the team's Defenders.",
+            "Alessio Romagnoli plays for the club U.C. Sampdoria as a defender.",
+            "Alessio Romagnoli, a defender, played for the club UC Sampdoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id142",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Brandon, Manitoba"
+                ],
+                [
+                    "Alex Plante",
+                    "birthYear",
+                    "1989"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Brandon, Manitoba in 1989.",
+            "Alex Plante's birth place is Brandon Manitoba, where he was born in 1989.",
+            "Alex Plante was born in 1989 in Brandon, Manitoba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id143",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Brandon, Manitoba"
+                ],
+                [
+                    "Alex Plante",
+                    "club",
+                    "Anyang Halla"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante has played for the club Anyang Halla and was born in Brandon Manitoba.",
+            "Alex Plante was born in Brandon, Manitoba and plays for Anyang Halla.",
+            "Alex Plante was born in Brandon, Manitoba and played for Anyang Halla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id144",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Brandon, Manitoba"
+                ],
+                [
+                    "Brandon, Manitoba",
+                    "leaderName",
+                    "Larry Maguire"
+                ]
+            ]
+        },
+        "text": [
+            "Larry Maguire is the leader of Brandon, Manitoba, the birthplace of Alex Plante.",
+            "Alex Plante was born in Brandon, Manitoba where the leader is Larry Maguire.",
+            "Larry Maguire is the leader in Brandon, Manitoba which is where Alex Plante was born."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id145",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthYear",
+                    "1989"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Canada in 1989.",
+            "Alex Plante was born in 1989 in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id146",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "club",
+                    "Anyang Halla"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Canada and plays for Anyang Halla.",
+            "Alex Plante, who was born in Canada, played for the club Anyang Halla.",
+            "Alex Plante who has played for the club Anyang Halla was born in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id147",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "club",
+                    "Anyang Halla"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Manitoba"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Manitoba and his club is Anyang Halla.",
+            "Alex Plante, who was born in Manitoba, has played for the club Anyang Halla.",
+            "Born in Manitoba, Alex Plante played for Anyang Halla club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id148",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Anadolu Efes S.K."
+                ],
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Euroleague"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus plays in the Euroleague and also for Anadolu Efes SK.",
+            "Alex Tyus plays for the Euroleague club Anadolu Efes SK.",
+            "Alex Tyus played for Anadolu Efes SK in the Euroleague."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id149",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Anadolu Efes S.K."
+                ],
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Turkish Basketball Super League"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus has played for Anadolu Efes Sk in the Turkish Basketball Super League.",
+            "Alex Tyus plays for Anadolu Efes SK in the Turkish Basketball Super League.",
+            "Alex Tyus played for the club Anadolu Efes S.K and he plays in the Turkish Basketball Super League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id150",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Tel Aviv B.C."
+                ],
+                [
+                    "Alex Tyus",
+                    "birthDate",
+                    "1988-01-08"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus was born on 8th January 1988 and played for Maccabi Tel Aviv B.C.",
+            "Alex Tyus was born on 8th January 1988 and plays for the club Maccabi Tel Aviv BC.",
+            "Alex Tyus, who was born on 8 January 1988 and his club is Maccabi Tel Aviv BC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id151",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Pallacanestro Cantù"
+                ],
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Euroleague"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus belongs to the Pallacanestro Cantu club, which is in the Euroleague.",
+            "Alex Tyus plays in the Euroleague for the club Pallacanestro Cantù.",
+            "Alex Tyus plays in the Euroleague for club Pallacanestro Cantu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id152",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Pallacanestro Cantù"
+                ],
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Turkish Basketball Super League"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus plays for Pallacanestro Cantu in the Turkish Basketball Super League.",
+            "Alex Tyus plays with the club Pallacanestro Cantù in the Turkish Basketball Super League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id153",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Pallacanestro Cantù"
+                ],
+                [
+                    "Pallacanestro Cantù",
+                    "league",
+                    "Lega Basket Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus belongs to the club, Pallacanestro Cantu, in the Lega Basket Serie A league.",
+            "Alex Tyus plays for Pallacanestro Cantu of the Lega Basket Serie A.",
+            "Alex Tyus plays for the club Pallacanestro Cantù which is in the Lega Basket Serie A league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id154",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Euroleague"
+                ],
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Ashdod B.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus is in the Euroleague and plays for Maccabi Ashdod B.C.",
+            "Alex Tyus is in the Euroleague with club Maccabi Ashdod BC.",
+            "Alex Tyus has played in the Euroleague and for the Maccabi Ashdod B.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id155",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Euroleague"
+                ],
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Tel Aviv B.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus plays in the Euroleague for the club, Maccabi Tel Aviv B.C.",
+            "Alex Tyus, now in the Euroleague, played for Maccabi Tel Aviv B.C.",
+            "Alex Tyus, who played for Maccabi Tel Aviv B.C., plays in the Euroleague."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id156",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Turkish Basketball Super League"
+                ],
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Ashdod B.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alex Tyus has played for Maccabi Ashdod BC and has also played in the Turkish Basketball Super League.",
+            "Alex Tyus plays for Maccabi Ashdod BC of the Turkish Basketball Super League.",
+            "Alex Tyus plays for the club Maccabi Ashdod BC, which is part of the Turkish Basketball Super League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id157",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Brandon, Manitoba",
+                    "leaderName",
+                    "Drew Caldwell"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Brandon, Manitoba"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Brandon, Manitoba where the leader is Drew Caldwell.",
+            "Alex Plante's birth place is Brandon, Manitoba where the leader is Drew Caldwell.",
+            "Drew Caldwell is a leader in Brandon, Manitoba where Alex Plante was born."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id158",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Budapest",
+                    "country",
+                    "Hungary"
+                ],
+                [
+                    "Akeem Adams",
+                    "deathPlace",
+                    "Budapest"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams died in Budapest, Hungary.",
+            "Akeem Adams died in the Hungarian ciry of Budapest.",
+            "Akeem Adams died in the city of Budapest, Hungary."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id159",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "C.D. FAS",
+                    "league",
+                    "Salvadoran Primera División"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "Abner plays for CD FAS in the Salvadoran Primera Division.",
+            "Abner is a footballer for the CD FAS club whose league is the Salvadoran Primera Division."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id160",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "C.D. FAS",
+                    "position",
+                    "Salvadoran Primera División"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "Abner is a footballer for the CD FAS club, which is a member team of the Salvadoran Primera Division.",
+            "C.D FAS play in the Salvadoran Primera Division and is a former club of the footballer Abner.",
+            "Abner plays for CD FAS in the Salvadoran Primera Division.",
+            "Abner is a footballer for the CD FAS club which plays in the Salvadoran Primera division."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id161",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "anthem",
+                    "O Canada"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in Canada, where the national anthem is 'O Canada'.",
+            "Aaron Boogaard was born in Canada where the national anthem is called \"O Canada\".",
+            "Aaron Boogaard's birthplace is Canada where the national anthem is O Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id162",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "anthem",
+                    "O Canada"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "The national anthem of Canada, where Alex Plante was born, is O Canada.",
+            "Alex Plante was born in Canada where the country's anthem is O Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id163",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "ethnicGroup",
+                    "Asian Canadians"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Asian Canadians are an ethnic group in Canada which is the birthplace of Aaron Boogaard.",
+            "Asian Canadians are one of the ethnic groups in Canada which is the birthplace of Aaron Boogaard.",
+            "Asian Canadians are one of the ethnic groups in Canada which is where Aaron Boogaard was born."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id164",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "language",
+                    "French language"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's birthplace is Canada where one of the languages used is French.",
+            "The French language is spoken in Canada which is the birthplace of Aaron Boogaard.",
+            "Canada, where one of the languages spoken is French, was the birthplace of Aaron Boogaard."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id165",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "language",
+                    "French language"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Canada's spoken languages include French and is the birthplace of Adam McQuaid.",
+            "French is a spoken language of Canada which is the birthplace of Adam McQuaid.",
+            "The French language is spoken in Canada, the birthplace of Adam McQuaid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id166",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "language",
+                    "Inuktitut"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in Canada where one of the spoken languages is Inuktitut.",
+            "Canada uses the Inuktitut language and is the birthplace of Adam McQuaid.",
+            "Canada is the birthplace of both Adam McQuaid and the Inuktitut language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id167",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "language",
+                    "Slavey language"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "The Slavey language is used in Canada, the birthplace of Aaron Boogaard.",
+            "Aaron Boogaard was born in Canada, where Slavey is one of the languages spoken.",
+            "Aaron Boogaard came from Canada. The Slavey language is spoken in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id168",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Canada is led by Elizabeth II and is the birthplace of Aaron Boogaard.",
+            "Aaron Boogaard was born in Canada where the leader is Elizabeth II.",
+            "Aaron Boogaard was born in Canada, which is led by Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id169",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Canada is led by Elizabeth II and is where Adam McQuaid was born.",
+            "Canada, which is led by Elizabeth II, is the birth place of Adam McQuaid.",
+            "Adam McQuaid was born in Canada where the leader is Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id170",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Canada, whose leaser is Elizabeth II.",
+            "Canada, where the leader is Elizabeth II, was the birthplace of Alex Plante.",
+            "Alex Plante was born in Canada, which is led by Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id171",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "FC Karpaty Lviv",
+                    "manager",
+                    "Oleh Luzhny"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Karpaty Lviv"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for FC Karpaty Lviv who is managed by Oleh Luzhny.",
+            "Aleksandre Guruli played for the club FC Karpaty Lviv, where the manager was Oleh Luzhny.",
+            "Aleksandre Guruli played for FC Karpaty Lviv, which is managed by Oleh Luzhny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id172",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "FC Samtredia",
+                    "ground",
+                    "Erosi Manjgaladze Stadium"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Samtredia"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli has played for FC Samtredia, whose home ground is at the Erosi Manjgaladze Stadium.",
+            "Aleksandre Guruli plays for FC Samtredia whose home ground is located in Erosi Manjgaladze Stadium.",
+            "Aleksandre Guruli's club is FC Samtredia who play their home games at the Erosi Manjgaladze stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id173",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "FC Spartak Moscow",
+                    "chairman",
+                    "Sergey Rodionov"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "youthclub",
+                    "FC Spartak Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "The chairman of FC Spartak Moscow is Sergey Rodionov and Aleksandr Prudnikov played for their youth team.",
+            "Aleksandr Prudnikov's youth football club was FC Spartak Moscow chaired by Sergey Rodionov.",
+            "FC Spartak Moscow's chairman is Sergey Rodionov and Aleksandr Prudnikov once played for the club's youth side."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id174",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "FC Spartak Moscow",
+                    "ground",
+                    "Otkrytiye Arena"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "youthclub",
+                    "FC Spartak Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov's youth football club was FC Spartak Moscow whose ground is at the Otkrytiye Arena.",
+            "Aleksandr Prudnikov played at Otkrytiye Arena for FC Spartak Moscow's youth team.",
+            "Aleksandr Prudnikov's played youth football for FC Spartak Moscow in the Otkrytiye Arena ."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id175",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "FC Terek Grozny",
+                    "ground",
+                    "Grozny"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Terek Grozny"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov played for FC Terek Grozny based in Grozny.",
+            "Aleksandr Prudnikov plays for FC Terek Grozny who have their home ground in Grozny.",
+            "FC Terek Grozny, whose ground is located in Grozny, is the former club of the player Aleksandr Prudnikov."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id176",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "FC Torpedo Moscow",
+                    "season",
+                    "2014–15 Russian Premier League"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov has played for FC Torpedo Moscow who played the 2014–15 season in the Russian Premier League.",
+            "The club Aleksandr Chumakov plays for is FC Torpedo Moscow who played in the 2014-15 Russian Premier league.",
+            "Aleksandr Chumakov played for the club FC Torpedo Moscow, which was part of the Russian Premier League in the 2014-15 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id177",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Houston Texans",
+                    "city",
+                    "Texas"
+                ],
+                [
+                    "Akeem Dent",
+                    "formerTeam",
+                    "Houston Texans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent used to play for the Houston Texans who are based in Texas.",
+            "Akeem Dent used to play for the Houston Texans, who play in Texas.",
+            "Houston Texans reside in Texas, which is Akeem Dent's former team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id178",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Los Angeles Rams",
+                    "city",
+                    "Los Angeles"
+                ],
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Los Angeles Rams"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers once played for the Los Angeles Rams, who are located in LA.",
+            "Akeem Ayers has played for the Los Angeles Rams, the club which is located in LA.",
+            "Akeem Ayers used to play for Los Angeles Rams who are based in LA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id179",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Motherwell F.C.",
+                    "ground",
+                    "Fir Park"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Motherwell F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Motherwell FC, who play their home games at Fir Park, is a former club of footballer Alan Martin.",
+            "Fir Park is the home ground of Motherwell FC where Alan Martin plays football.",
+            "Motherwell FC, former club of the player Alan Martin, play their home games at Fir Park."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id180",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Olympique Lyonnais",
+                    "chairman",
+                    "Jean-Michel Aulas"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "Olympique Lyonnais"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli played for the Olympique Lyonnais, whose chairman is Jean-Michel Aulas.",
+            "Aleksandre Guruli played for the Olympique Lyonnais club whose chairman is Jean-Michel Aulas.",
+            "Aleksandre Guruli's club is Olympique Lyonnais where Jean-Michel Aulas is the chairman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id181",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Orange County Blues FC",
+                    "manager",
+                    "Oliver Wyss"
+                ],
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "Orange County Blues FC"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley is connected to the Orange County Blues Football Club which is managed by Oliver Wyss.",
+            "Akeem Priestley plays for Orange County Blues FC which is managed by Oliver Wyss.",
+            "Akeem Priestley played for the Orange County Blues FC, the manager of which is Oliver Wyss."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id182",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Real Madrid Castilla",
+                    "manager",
+                    "Luis Miguel Ramis"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Real Madrid Castilla"
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Abner plays for the club Real Madrid Castilla managed by Luis Miguel Ramis.",
+            "Abner played for the football club Real Madrid Castilla which is managed by Luis Miguel Ramis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id183",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Scotland national under-19 football team",
+                    "coach",
+                    "Scot Gemmill"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Scotland national under-19 football team"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played football for the Scotland national under 19 team which is coached by Scot Gemmill.",
+            "Alan Martin plays for the Scottish under 19 football team coached by Scot Gemmill.",
+            "Alan Martin has represented Scotland under 19 football team, which is managed by Scot Gemmill."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id184",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Shabab Al-Ordon Club",
+                    "league",
+                    "Jordan Premier League"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra plays for Shabab Al-Ordon Club in the Jordan Premier league.",
+            "Alaa Abdul-Zahra's club is Shabab Al-Ordon Club who play in the Jordan Premier League.",
+            "Alaa Abdul-Zahra plays for Shabab Al-Ordon Club in the Jordan Premier League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id185",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Tennessee Titans",
+                    "city",
+                    "Nashville, Tennessee"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers made his debut with the Tennessee Titans who are based in Nashville, Tennessee.",
+            "The debut team of Akeem Ayers was the Tennessee Titans who are based in Nashville, Tennessee.",
+            "Akeem Ayers made his debut for the Tennessee Titans who are based in Nashville, Tennessee."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id186",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Tennessee Titans",
+                    "city",
+                    "Nashville, Tennessee"
+                ],
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers' former team was Tennessee Titans who are based in Nashville, Tennessee.",
+            "Akeem Ayers used to play for Tennessee Titans who are based in the city of Nashville, Tennessee.",
+            "Akeem Ayers once played for the Tennessee Titans who are based in the city of Nashville, Tennessee."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id187",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "U.S. Città di Palermo",
+                    "manager",
+                    "Giuseppe Iachini"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernández plays for the club, U.S. Città di Palermo which is managed by Giuseppe Iachini.",
+            "Abel Hernandez has played for the club US Citta di Palermo whose manager is Giuseppe Iachini.",
+            "Abel Hernandez plays for the club, U.S. Citta di Palermo, managed by Giuseppe Iachini."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id188",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United Petrotrin F.C.",
+                    "ground",
+                    "Palo Seco"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "United Petrotrin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams is a member of the United Petrotrin F.C. club who play in Palo Seco.",
+            "Akeem Adams played for United Petrotrin FC whose ground is Palo Seco.",
+            "Akeem Adams is a member of the United Petrotrin F.C. club whose ground is Palo Seco."
+        ]
+    }
+]

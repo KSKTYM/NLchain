@@ -1,0 +1,795 @@
+[
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id1",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "capital",
+                    "Cape Town"
+                ],
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Cyril Ramaphosa"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is located in South Africa (Cyril Ramaphosa is one of the leaders), the capital of which is Cape Town.",
+            "South Africa is the location of 11 Diagonal Street. The capital is Cape Town and the leader is Cyril Ramaphosa.",
+            "Cyril Ramaphosa leads South Africa, whose capital, Cape Town, houses 11 Diagonal Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id2",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Jacob Zuma"
+                ],
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "Coloured"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is located in South Africa, a country in which coloureds are one of the ethnic groups and Jacob Zuma is the leader.",
+            "11 Diagonal Street is located in South Africa, populated by Coloured people and led by Jacob Zuma.",
+            "The address, 11 Diagonal Street is located in South Africa where Jacob Zuma is a leader and some coloured people live."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id3",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Jacob Zuma"
+                ],
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "White South African"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is in South Africa where the leader is Jacob Zuma. An ethnic group found there are white South Africans.",
+            "The white South Africans are an ethnic group of the country where Jacob Zuma is leader and where 11 Diagonal Street is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id4",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "Cleveland",
+                    "leaderName",
+                    "Frank G. Jackson"
+                ],
+                [
+                    "Cleveland",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Frank G Jackson is the leader of Cleveland, United States where 200 Public Square is located.",
+            "200 Public Square is located in Cleveland, United States, where one of the leaders is Frank G Jackson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id5",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "Buffalo, New York",
+                    "isPartOf",
+                    "Erie County, New York"
+                ],
+                [
+                    "Buffalo, New York",
+                    "isPartOf",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in Buffalo, Erie County, New York.",
+            "250 Delaware avenue is in Buffalo, Erie County, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id6",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "leaderName",
+                    "Rahm Emanuel"
+                ],
+                [
+                    "Chicago",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Chicago (the leader of which is Rahm Emanuel), United States.",
+            "Rahm Emanuel is a leader in Chicago, US where 300 North LaSalle is located.",
+            "300 North Lasalle is in Chicago, U.S. Rahm Emanuel leads Chicago."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "HOK SVE"
+                ],
+                [
+                    "3Arena",
+                    "completionDate",
+                    "December 2008"
+                ]
+            ]
+        },
+        "text": [
+            "Located in Dublin, the 3Arena whose architect was HOK SVE) was completed in December 2008.",
+            "The architects of the 3Arena in Dublin was HOK SVE and it was completed in December 2008.",
+            "3Arena, located in Dublin, was designed by HOK SVE and completed December 2008."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "Populous (company)"
+                ],
+                [
+                    "3Arena",
+                    "completionDate",
+                    "December 2008"
+                ]
+            ]
+        },
+        "text": [
+            "Populous was the architect of 3Arena in Dublin which was completed in December 2008.",
+            "The company Populous were the architects who designed the 3Arena in Dublin which was completed in December 2008.",
+            "The 3Arena in Dublin was designed by architects from the Populous company and completed in December 2008."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id9",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainment"
+                ],
+                [
+                    "Dublin",
+                    "country",
+                    "Republic of Ireland"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "The owner of 3Arena is Live Nation Entertainment which is located in Dublin, Ireland.",
+            "3Arena is owned by Live Nation Entertainment, and is located in Dublin, Republic of Ireland.",
+            "3Arena in Dublin, Republic of Ireland is owned by Live Nation Entertainment."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "location",
+                    "Denmark"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott International"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "architect",
+                    "3XN"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International is the tenant of the AC Hotel Bella Sky Copenhagen, Denmark, which was designed by the architects of the 3XN firm.",
+            "AC Hotel Bella Sky is in Copenhagen, Denmark, Marriott International Hotel because 3XN was the architect."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ],
+                [
+                    "Adare Manor",
+                    "architect",
+                    "James Pain"
+                ],
+                [
+                    "Adare Manor",
+                    "owner",
+                    "J. P. McManus"
+                ]
+            ]
+        },
+        "text": [
+            "James Pain was the architect of Adare Manor which was completed in 1862 and is owned by J P McManus.",
+            "James Pain was the architect of Adare Manor which was completed in 1862 and owed by J P McManus.",
+            "James Pain designed Adare Manor that was completed in 1862. The owner is J.P. McManus."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "currentTenants",
+                    "Government of Addis Ababa"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "floorArea",
+                    "140000.0 (square metres)"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "height",
+                    "42 m"
+                ]
+            ]
+        },
+        "text": [
+            "The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall which is 42 metres high and has a floor area of 140000.0 (square metres).",
+            "The Government of Addis Ababa is the current tenants of the Addis Ababa city hall, which has a floor area of 140000.0 square metres. It is 42 m high.",
+            "Addis Ababa City Hall, which houses the Government of Addis Ababa, is 42 m high and has a floor area of 140000.0 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Sri Lanka"
+                ],
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor Revival architecture"
+                ],
+                [
+                    "Adisham Hall",
+                    "completionDate",
+                    "1931"
+                ]
+            ]
+        },
+        "text": [
+            "The Adisham hall, which is located in Sri Lanka, was completed in 1931 and architectural style is Tudor Revival.",
+            "Adisham Hall, completed in 1931 and located in Sri Lanka, is in the Tudor Revival architecture style.",
+            "Adisham Hall, with its Tudor Revival style of architecture, was built in 1931 in Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "floorCount",
+                    "3"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "inaugurationDate",
+                    "2013-09-28"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "floorArea",
+                    "3746.66 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art has a floor area of 3746.66 square metres over 3 floors and was inaugurated on 28 September 2013.",
+            "The Akita Museum of Art, inaugurated September 28, 2013 has 3 floors and a floor area of 3746.66 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id15",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita, Akita"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita Prefecture"
+                ],
+                [
+                    "Akita, Akita",
+                    "country",
+                    "Japan"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of art is located in Akita, within the Akita Prefecture, Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Virginia"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "owner",
+                    "College of William &amp; Mary"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "buildingStartDate",
+                    "30 March 2007"
+                ]
+            ]
+        },
+        "text": [
+            "The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia. The building was begun on 30 March 2007.",
+            "The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia which began construction on 30 March, 2007.",
+            "The College of William and Mary is the owner of the Alan B. Miller Hall, located in Virginia, and the start date of building was in 30th March 2007."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Virginia"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "owner",
+                    "College of William &amp; Mary"
+                ],
+                [
+                    "College of William &amp; Mary",
+                    "chancellor",
+                    "Robert Gates"
+                ]
+            ]
+        },
+        "text": [
+            "Robert Gates is the chancellor of The College of William and Mary which is owned by Alan B Miller Hall and is located in Virginia.",
+            "Alan B. Miller Hall, located in Virginia, is owned by The College of William and Mary; whose chancellor is Robert Gates."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Virginia"
+                ],
+                [
+                    "Mason School of Business",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "currentTenants",
+                    "Mason School of Business"
+                ]
+            ]
+        },
+        "text": [
+            "The Mason School of Business in the US are the current tenants of Alan B Miller Hall in Virginia.",
+            "Alan B Miller Hall is in Virginia, U.S. and houses The Mason School of Business ."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "owner",
+                    "College of William &amp; Mary"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Williamsburg, Virginia"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "buildingStartDate",
+                    "30 March 2007"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B. Miller Hall, the building of which began 30 March, 2007, is located in Williamsburg, Virginia and owned by the College of William and Mary.",
+            "Alan B. Miller Hall's building, started on 30th March 2007, is located in Williamsburg, Virginia, and owned by the College of William and Mary.",
+            "The Alan B. Miller Hall, owned by The College of William and Mary, is in Williamsburg, Virginia and was opened on the 30th March 2007."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Ampara Hospital",
+                    "region",
+                    "Ampara District"
+                ],
+                [
+                    "Ampara Hospital",
+                    "bedCount",
+                    "476"
+                ]
+            ]
+        },
+        "text": [
+            "The 476 bed Ampara Hospital is located in Ampara District, Sri Lanka.",
+            "Ampara Hospital, which has 476 beds, is located in the Ampara District of Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id21",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "leaderName",
+                    "Ranil Wickremesinghe"
+                ],
+                [
+                    "Ampara Hospital",
+                    "state",
+                    "Eastern Province, Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is in Eastern Province, Sri Lanka. Ranil Wickremesinghe is a leader there.",
+            "Sri Lanka, led by Ranil Wickremesinghe, is home to Ampara Hospital in the Eastern Province state."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "U.S. Route 83"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "added to the National Register of Historic Places",
+                    "1988-11-22"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "yearOfConstruction",
+                    "1911"
+                ]
+            ]
+        },
+        "text": [
+            "The Asher and Mary Isabelle Richardson House located on US Route 83 and built in 1911 was added to the National Register of Historic Places, on 22nd November 1988.",
+            "The Asher and Mary Isabelle Richardson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.",
+            "The Asher and Mary Isabelle Richardson House on U.S. Route 83 was built in 1911 and added to the National Register of Historic Places on 22 November 1988."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "added to the National Register of Historic Places",
+                    "1987-02-27"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "87000823"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987. Its reference number in the National Register of Historic Places is 87000823.",
+            "The Asilomar Conference Grounds of Pacific Grove in California was added to the National Register of Historic Places on 27th of February in 1987, where the reference number for the National register was 87000823.",
+            "Asilomar Conference Grounds, Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987 with a reference number of 87000823."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Asser Levy Place and East 23rd Street"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "80002709"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "added to the National Register of Historic Places",
+                    "1980-04-23"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street and were added to the National Register of Historic Places on 1980-04-23, with the number 80002709.",
+            "The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street and were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id25",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "New York City"
+                ],
+                [
+                    "New York City",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "New York City",
+                    "isPartOf",
+                    "Manhattan"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths are located in New York City, U.S. Manhattan is a borough in New York City.",
+            "Asser Levy Public Baths are located in Manhattan, New York City, United States.",
+            "The location of Asser Levy Public Baths is New York City, Manhattan in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id26",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thakur"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Sumitra Mahajan"
+                ]
+            ]
+        },
+        "text": [
+            "T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located.",
+            "Amdavad ni Gufa is located in India where T S Thakur and Sumitra Mahajan are leaders."
+        ]
+    }
+]

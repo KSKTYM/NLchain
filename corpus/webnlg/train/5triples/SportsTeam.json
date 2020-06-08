@@ -1,0 +1,1836 @@
+[
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id1",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Lumezzane's ground is in Italy where Pietro Grasso is a leader. The capital of the country is Rome and the Italian language is spoken. People who inhabit Italy are called Italians.",
+            "A.C. Lumezzane's ground is in Italy where the Italian language is spoken by the inhabitants who are known as Italians. The leader of the country is Pietro Grasso and the capital city is Rome.",
+            "Italy is led by Pietro Grasso, and the Italian language is spoken there. The capital city is Rome and the AC Lumezzane club play in the country. The inhabitants of Italy are known as Italians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id2",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "officialLanguage",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Lumezzane play in Italy, where Rome is the capital and Italians live. It is also where Pietro Grasso is the leader and Italian is the official language.",
+            "AC Lumezzane play in Italy where the capital city is Rome and the official language is Italian. The leader of Italy is Pietro Grasso, and people who reside in Italy are known as Italians.",
+            "Pietro Grasso leads Italy whose capital is Rome. The language there is Italian and its people are known as Italians. A.C. Lumezzane play in that country."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id3",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolin"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Chievo Verona"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Vicenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini has been manager of AC Lumezzane which is located in Italy. He played for Vicenza Calcio, A.C. Chievo Verona. An Italian leader is Pietro Grasso.",
+            "Michele Marcolini previously played for Vicenza Calcio but now plays for AC Chievo Verona. He is also the manager of AC Lumezzane who have their ground in Italy where Pietro Grasso is the leader.",
+            "AC Lumezzane's ground is in Italy and their manager is Michele Marcolini who plays for A.C. Chievo Verona and is in the Vicenza Calcio Club. The leader of Italy is Pietro Grasso."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id4",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "Nikos Voutsis and Prokopis Pavlopoulos are leaders in Greece where the capital city is Athens and the Greek language is spoken. The country is also the location of the A.E Dimitra Efxeinoupolis club.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece, where the language is Greek. Athens is the capital of Greece, and two of the leaders are Prokopis Pavlopoulos, and Nikos Voutsis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id5",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The country's capital is Athens and their currency is the euro.",
+            "Greece is led by Nikos Voutsis and Prokopis Pavlopoulos, the capital city is Athens and the country uses the euro as their currency. It is also the location of the A.E Dimitra Efxeinoupolis club.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Nikos Voutsis and Prokopis Pavlopoulos. The capital of the country is Athens and the currency used is the euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id6",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ]
+            ]
+        },
+        "text": [
+            "Two leaders of Greece are Alexis Tsipras and Nikos Voutsis. Athens is its capital and its currency is the euro. A.E Dimitra Efxeinoupolis is located in Greece.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece whose leader is Nikos Voutsis. Athens is the capital of Greece whose currency is the euro. Another leader there is Alexis Tsipras.",
+            "A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Alexis Tsipras and Nikos Voutsis. The capital of the country is Athens and the currency used is the euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id7",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece, where the money used is the Euro. Athens is the capital of Greece, and two of the leaders are Alexis Tsipras and Prokopis Pavlopoulos.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where Alexis Tsipras and Prokopis Pavlopoulos are leaders. The currency used in the country is the euro and the capital is Athens.",
+            "Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. Athens is the capital of Greece and the currency is the Euro. A.E Dimitra Efxeinoupolis is located in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id8",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis is located in Greece which is led by Alexis Tsipras and Nikos Voutsis. The language of the country is Greek and the currency is the euro.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece which currently has Alexis Tsipras and Nikos Voutsis as leaders. Here the currency used is the Euro and the main language is Greek.",
+            "Nikos Voutsis and Alexis Tsipras, are leaders in Greece, where Greek is spoken and the money used is the Euro. A.E Dimitra Efxeinoupolis is located in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id9",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Alexis Tsipras. Another leader is Prokopis Pavlopoulos. In Greece, the currency is the euro and the language is Greek.",
+            "Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. The currency in Greece is the Euro and Greek is spoken. The A.E Dimitra Efxeinoupolis club is located in Greece.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece, where Greek is spoken and the currency is the euro. It is also where two of the leaders are, Prokopis Pavlopoulos and Alexis Tsipras."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id10",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The currency used is the euro and the Greek language is spoken in the country.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece. The country which has the leaders, Nikos Voutsis and Prokopis Pavlopoulos. It is also, where Greek is spoken, and the Euro is used.",
+            "A.E Dimitra Efxeinoupolis is located in Greece, where the language is Greek, the currency is the euro and its leaders are Nikos Voutsis and Prokopis Pavlopoulos."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id11",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "Alexis Tsipras and Nikos Voutsis are leaders in Greece, where Athens is the capital, Greek is spoken and where A.E Dimitra Efxeinoupolis is located.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Alexis Tsipras and Nikos Voutsis. The capital city of the country is Athens and the Greek language is spoken.",
+            "A.E Dimitra Efxeinoupolis is located in Greece, where the leaders are Alexis Tsipras and Nikos Voutsis. Greek is spoken in Greece and the capital is Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id12",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis is located in Greece which currently has Alexis Tsipras as head and Prokopis Pavlopoulos as a leader. The capital city here is Athens and the language spoken is Greek.",
+            "Prokopis Pavlopoulos and Alexis Tsipras are a leaders in Greece where Athens is the capital and Greek is spoken. A.E Dimitra Efxeinoupolis is located in Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id13",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Blackpool",
+                    "leader",
+                    "Gordon Marsden"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Stockport County F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Runcorn F.C. Halton"
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Blackpoo"
+                ]
+            ]
+        },
+        "text": [
+            "Gordon Marsden is a leader in Blackpool where AFC Blackpool is located. The club is managed by Stuart Parker whose club was Stockport County but he now plays for Runcorn FC Halton.",
+            "Gordon Marsden is the leader in Blackpool which is the location of AFC Blackpool. The club is managed by Stuart Parker who plays for both Runcorn FC Halton and Stockport County FC.",
+            "Gordon Marsden is the leader in Blackpool where AFC Blackpool is located. The club is managed by Stuart Parker who was at Stockport County FC but now plays for Runcorn FC Halton."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id14",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ],
+                [
+                    "Blackpool",
+                    "leader",
+                    "Gordon Marsden"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Stockport County F.C."
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Blackpoo"
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker is the manager of the A.F.C Blackpool club, which has its ground in Blackpool. The local leader is Gordon Marsden. Parker is also a member of the Chesterfield F.C. and plays for Stockport County F.C.",
+            "The leader of Blackpool is Gordon Marsden. Stuart Parker, who once played football for Chesterfield FC and Stockport County FC is the manager of AFC Blackpool, whose ground is located in Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id15",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Blackburn Rovers F.C."
+                ],
+                [
+                    "Blackpool",
+                    "leader",
+                    "Gordon Marsden"
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Blackpoo"
+                ]
+            ]
+        },
+        "text": [
+            "Gordon Marsden is the leader in Blackpool where AFC Blackpool have their ground. The club is managed by Stuart Parker who was a footballer for Chesterfield FC and Blackburn Rovers FC.",
+            "Stuart Parker is the manager at AFC Blackpool who have their ground in Blackpool which is currently led by Gordon Marsden. He also plays for Blackburn Rovers FC and is attached to Chesterfield FC.",
+            "Gordon Marsden is the leader of Blackpool where the ground of AFC Blackpool is located. The club have had Stuart Parker as their manager who has also been at Blackburn Rovers FC and is a member of Chesterfield FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id16",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ],
+                [
+                    "Blackpool",
+                    "leader",
+                    "Conservative Party (UK)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Blackburn Rovers F.C."
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Blackpoo"
+                ]
+            ]
+        },
+        "text": [
+            "Blackpool is where AFC Blackpool's ground is located and where the leader is the Conservative Party (UK). AFC Blackpool has been managed by Stuart Parker who has previous played for Blackburn Rovers FC and KV Mechelen.",
+            "Stuart Parker plays for KV Mechelen and the Blackburn Rovers F.C. AFC Blackpool (Blackpool) had Stuart Parker as their manager. The Conservative Party U.K. is the leader of Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id17",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ],
+                [
+                    "Blackpool",
+                    "leader",
+                    "Conservative Party (UK)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Drogheda United F.C."
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Blackpoo"
+                ]
+            ]
+        },
+        "text": [
+            "The Conservative Party UK are the leaders in Blackpool which is the location of the AFC Blackpool home ground. Their manager is Stuart Parker who has represented KV Mechelen FC and also Drogheda United FC.",
+            "AFC Blackpool is located in Blackpool where the leader is the Conservative Party (UK). Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been the manager of AFC Blackpool.",
+            "AFC Blackpool (Blackpool) have had Stuart Parker as their manager. Parker (with the Drogheda United F.C.) plays for KV Mechelen. The Conservative Party U.K. is the leader of Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id18",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Drogheda United F.C."
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Blackpoo"
+                ],
+                [
+                    "Blackpool",
+                    "leader",
+                    "Labour Party (UK)"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Blackpool have their ground in Blackpool where the leader of the council is Labour. Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been manager of AFC Blackpool.",
+            "AFC Blackpool is located in the town of Blackpool, where the leader of the Council is the Labour Party (UK). The manager of AFC Blackpool is Stuart Parker who has previously played football for Drogheda United FC and KV Mechelen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id19",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "league",
+                    "Serie D"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Serie D",
+                    "champions",
+                    "S.S. Robur Siena"
+                ]
+            ]
+        },
+        "text": [
+            "AS Gubbio 1910 are located in Italy and play in Serie D whose champions are currently SS Robur Siena. The leader of Italy is Sergio Mattarella and the capital city is Rome.",
+            "The champions of Serie D are S.S. Robur Siena in which AS Gubbio 1910 also play. This latter club has their ground in Italy where the leader is Sergio Mattarella and the capital is the city of Rome.",
+            "A.S. Gubbio 1910 is in the Serie D league whose previous champions include S S Robur Siena. The grounds of the A.S. Gubbio 1910 are located in Italy which currently has Sergio Mattarella as a leader and Rome is the capital city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id20",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "league",
+                    "Serie D"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ],
+                [
+                    "Serie D",
+                    "champions",
+                    "S.S. Robur Siena"
+                ]
+            ]
+        },
+        "text": [
+            "S.S. Robur Siena are champions of Serie D. in which AS Gubbio 1910 also play. The latter club have their home ground located in Italy which is led by Pietro Grasso and uses the Italian language.",
+            "The ground of A.S. Gubbio 1910 is located in Italy. The football club play in Serie D, the champions of which are S.S. Robur Siena. Italy is led by Pietro Grasso and the language spoken is Italian.",
+            "A.S. Gubbio 1910 (Italy) play in Serie D. S.S. Robur Siena are champions of that serie. Pietro Grasso leads Italy. Italian is the language spoken in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id21",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "league",
+                    "Serie D"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Serie D",
+                    "champions",
+                    "S.S. Robur Siena"
+                ]
+            ]
+        },
+        "text": [
+            "S.S. Robur Siena are champions of Serie D in which AS Gubbio 1910 also play. This latter club have their home ground in Italy where the capital city is Rome and the leader is Pietro Grasso.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Pietro Grasso and Rome is the capital. A.S. Gubbio 1910 play in Serie D, of which S.S. Robur Siena are champions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id22",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekoms"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "operator",
+                    "AFC Ajax"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Ajax Youth Academy"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "owner",
+                    "AFC Ajax N.V."
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "Jong Ajax and Ajax Youth Academy are tenants of Sportpark De Toekomst. the home ground of AFC Ajax (amateurs). The ground is operated by AFC Ajax and owned by AFC Ajax NV.",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax and owned by AFC Ajax NV. Jong Ajax and Ajax Youth Academy are both tenants.",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst. It is owned and operated by AFC Ajax N.V. and tenanted by Ajax Youth Academy (Jong Ajax)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "league",
+                    "Azerbaijan Premier Leagu"
+                ],
+                [
+                    "Azerbaijan Premier League",
+                    "champions",
+                    "Qarabağ FK"
+                ],
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ],
+                [
+                    "AZAL PFK",
+                    "ground",
+                    "AZAL Arena"
+                ],
+                [
+                    "AZAL PFK",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK play in. AZAL Arena, is where home matches of AZAL PFK are played. The club has 3500 members, and are in the 2014 season.",
+            "AZAL PFK, who play at the AZAL Arena and have a membership of 3500, are in the Azerbaijan Premier League where they competed in 2014. The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.",
+            "The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK. AZAL PFK competed in the 2014 season and play their home matches at the AZAL Arena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "league",
+                    "Azerbaijan Premier Leagu"
+                ],
+                [
+                    "Azerbaijan Premier League",
+                    "champions",
+                    "Qarabağ FK"
+                ],
+                [
+                    "AZAL PFK",
+                    "season",
+                    "2014–15 Azerbaijan Premier Leagu"
+                ],
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ],
+                [
+                    "AZAL PFK",
+                    "ground",
+                    "AZAL Arena"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.",
+            "Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 members and play their home matches at the AZAL Arena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Braz"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "ground",
+                    "Estádio Municipal Coaracy da Mata Fonseca"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "champions",
+                    "Vila Nova Futebol Club"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense, whose ground is Estádio Municipal Coaracy da Mata Fonseca, play in the Campeonato Brasileiro Série C league in Brazil. Agremiacao Sportiva Arapiraquense has 17000 members and Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.",
+            "Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, it has 17000 members and play in the Campeonato Brasileiro Série C league, which is based in Brazil and the current champions are Vila Nova Futebol Clube.",
+            "Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also play in the league and have their home ground at Estádio Municipal Coaracy da Mata Fonseca."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Braz"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "champions",
+                    "Vila Nova Futebol Club"
+                ]
+            ]
+        },
+        "text": [
+            "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C league in Brazil. The Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.",
+            "Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members also played in the league in 2015.",
+            "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C. based in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Braz"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015 Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "champions",
+                    "Vila Nova Futebol Club"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense (with 17000 members) play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube are the champions of Série C.",
+            "Agremiação Sportiva Arapiraquense play in the Brazilian Campeonato Brasileiro Série C league in 2015. It has 17000 members. Champions of the Serie C league is the Vila Nova Futebol Clube.",
+            "The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C from Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also competed in the league in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id28",
+            "shape": "(X (X (X)) (X (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "league",
+                    "Premier Development Leagu"
+                ],
+                [
+                    "Premier Development League",
+                    "champions",
+                    "K-W United FC"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St. Vincent-St. Mary High School, which is in Akron, Ohio, in the United States, is the ground of Akron Summit Assault. They play in the Premier Development League, where the champions have been K-W United FC.",
+            "St Vincent-St Mary High School, located in Akron, Ohio, US is the home of Akron Summit Assault. They play football in the Premier Development League, of which K-W United FC were champions.",
+            "K-W United FC have been champions of the Premier Development League, which Akron Summit Assault play in. their ground is St. Vincent-St. Mary High School in Akron, Ohio, in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id29",
+            "shape": "(X (X (X (X) (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is located in the United States, is part of the Summit County and has Dan Horrigan as a leader. Akron is also home to St Vincent-St Mary High School which is the ground of Akron Summit Assault.",
+            "St. Vincent–St. Mary High School is located in the city of Akron, Ohio, USA. The school is the ground of Akron Summit Assault. The city is part of Summit County, Ohio. It is led by Dan Horrigan.",
+            "Dan Horrigan is the leader in Akron, Summit County, Ohio, United States, where St Vincent-St Mary High School is located. The school is the location for the home ground of Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id30",
+            "shape": "(X (X (X) (X (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States, where the leader is Dan Horrigan.",
+            "Akron Summit Assault have their ground at St Vincent St Mary High School which is based in Akron, Summit County, Ohio in the United States. Dan Horrigan is the leader of Akron.",
+            "Dan Horrigan is the leader of Akron where the home ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id31",
+            "shape": "(X (X (X (X) (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "Akron, Ohio",
+                    "location",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St. Vincent-St. Mary High School is located in Akron, Summit County, Ohio USA. St Vincent-St Mary High School is the ground of Akron Summit Assault. The leader of Akron, Ohio is a one Dan Horrigan.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School, which is located in the city of Akron, Summit County, Ohio, (where the leader is Dan Horrigan), in the United States.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School. The school is in the United States in Summit County, in Akron, Ohio where Dan Horrigan is the leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id32",
+            "shape": "(X (X (X) (X (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "Akron, Ohio",
+                    "location",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Summit County, Ohio in the U.S. Dan Horrigan is the leader of Akron, Ohio.",
+            "Dan Horrigan is the leader of Akron, Summit County, Ohio in the United States. Akron is the location of the home ground of Akron Summit Assault at St Vincent St Mary High School.",
+            "St. Vincent St. Mary High School is located in Summit County, Ohio, Akron, Ohio, United States. Its leader is Dan Horrigan and it is the ground of Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id33",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "league",
+                    "Premier Development Leagu"
+                ],
+                [
+                    "Premier Development League",
+                    "champions",
+                    "K-W United FC"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault play in the Premier Development League (where K-W United FC were previously champions). The team has their ground at St Vincent-St Mary High School in Akron, Ohio, United States.",
+            "K-W United FC have been champions of the Premier Development League, which is the league Akron Summit Assault play in. Akron Summit Assault's ground is St. Vincent-St. Mary High School, in Akron, Ohio, in the United States.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron, Ohio, United States. The team play in the Premier Development League, which has previously been won by K-W United FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id34",
+            "shape": "(X (X (X) (X (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St Vincent-St Mary High School in Akron, Summit County, Ohio, USA is the location for the home ground of Akron Summit Assault.",
+            "The ground of Akron Summit Assault is located at St. Vincent–St. Mary High School in the city of Akron, Summit County, Ohio, US.",
+            "Akron Summit Assault have their ground at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, USA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id35",
+            "shape": "(X (X (X) (X (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Ohio, U.S.A. Dan Horrigan is the leader of that city.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School which is located in the city of Akron, Ohio (USA). This state is currently led by Dan Horrigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id36",
+            "shape": "(X (X (X) (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St. Vincent-St. Mary High School is in Akron, Ohio U.S and is the home ground for Akron Summit Assault. Dan Horrigan is the leader of Akron, Ohio.",
+            "The Akron Summit Assault's ground is St. Vincent-St. Mary High School. The School is located in Akron, Ohio, United States which currently has Dan Horrigan as a leader.",
+            "Dan Horrigan is the leader of Akron where Akron Summit Assault have their ground at St Vincent St Mary High School in Ohio, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id37",
+            "shape": "(X (X (X) (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St. Vincent St. Mary High School is located in Summit County, Ohio in the United States. The Akron Summit Assault ground is at this high school.",
+            "Akron Summit Assault have their home ground at St Vincent St Mary High School which is located in the city of Akron, Summit County, Ohio, United States.",
+            "St. Vincent–St. Mary High School is located in the city of Akron, Summit County, Ohio, United States and is the location for the home ground of Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id38",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "AS Gubbio 1910 have their ground in Italy where the leader is Sergio Mattarella. The Italian people inhabit the country and speak the Italian language and their capital city is Rome.",
+            "Italians are the people who live in Italy, where the language is Italian and Sergio Mattarella is the leader. It is also where the capital is Rome and the ground of A.S. Gubbio 1910 is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id39",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy, where there are leaders called Pietro Grasso and Sergio Mattarella. Italy's capital is Rome and the language spoken in the country is Italian.",
+            "Rome is the capital of Italy, where leaders include, Pietro Grasso and Sergio Mattarella. Italian is spoken there and it is also where the ground of A.S. Gubbio 1910 is located.",
+            "Pietro Grasso and Sergio Mattarella are two leaders in Italy. Italy's capital is Rome and the language spoken there is Italian. A.S. Gubbio 1910 play in that country."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id40",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy, where Italians live. The capital is Rome and two of the leaders are Pietro Grasso, and Sergio Mattarella.",
+            "Italy is the location of the home ground of AS Gubbio 1910. The country's leaders are Sergio Mattarella and Pietro Grasso. The inhabitants are known as Italians and the capital city is Rome.",
+            "Pietro Grasso and Sergio Mattarella are leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital. The Italian people live in the country."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id41",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "Italians are the people who live in Italy, where Italian is the language. Two of the leaders there are Pietro Grasso and Sergio Mattarella. Also in Italy, is the ground of A.S. Gubbio 1910.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, where Italians live and where the language spoken is Italian. Pietro Grasso and Sergio Mattarella are leaders in Italy.",
+            "The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso and Sergio Mattarella are leaders and the Italian language is spoken. The inhabitants of Italy are knows as Italians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id42",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "officialLanguage",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy, where Rome is the capital, Italian is the official language and where there are leaders called Pietro Grasso and Sergio Mattarella.",
+            "Pietro Grasso and Sergio Mattarella are both leaders of Italy where Rome is the capital city and the language spoken is Italian. In this country the ground of A.S. Gubbio 1910 is also located.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, where Pietro Grasso and Sergio Mattarella are leaders. Italy's capital is Rome, and Italian is the official language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id43",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "officialLanguage",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy, the country which is inhabited by Italians. The capital of Italy is Rome, the official language is Italian and the leader is Pietro Grasso.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians. The official language is Italian, the capital is Rome and the country's leader is Pietro Grasso.",
+            "Italians inhabit Italy, where the capital is Rome. It is also where Italian is the official language and Pietro Grasso is the leader. The ground of A.S. Gubbio 1910 is located in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id44",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "officialLanguage",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "AS Gubbio 1910 have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the country is Italian, and the Italian people live there."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id45",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Olympic Stadium (Athens)",
+                    "location",
+                    "Athens"
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "manager",
+                    "Gus Poy"
+                ],
+                [
+                    "Gus Poyet",
+                    "club",
+                    "Real Zaragoza"
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Olympic Stadium (Athens)"
+                ],
+                [
+                    "Gus Poyet",
+                    "club",
+                    "Chelsea F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The Olympic Stadium (Athens) is the home ground of AEK Athens FC who have been managed by Gus Poyet. His own club is Real Zaragoza and he has played for Chelsea FC.",
+            "Located in Athens, the Olympic Stadium is the ground for AEK Athens FC. The manager of which is Gus Poyet, whose club is Real Zaragoza, and who has played for Chelsea F.C.",
+            "The Olympic Stadium (in Athens) is the home ground of AEK Athens FC. That football team is managed by Gus Poyet who played for Chelsea F.C. Gus Poyet is also associated with the Real Zaragoza football club."
+        ]
+    }
+]

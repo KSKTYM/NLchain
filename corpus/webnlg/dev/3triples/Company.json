@@ -1,0 +1,343 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas, a United States company in the energy industry, has an operating income of $380,700,000.",
+            "AmeriGas is an energy company working in the United States with an operating income of 380700000.",
+            "AmeriGas, a United States company in the energy industry, has earned 380,700,000 in operating income."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in Manila in the Philippines (under the Insular Government) and remains located there.",
+            "Chinabank was founded in Manila, during the Insular Government period, and is still located in the Philippines.",
+            "Founded in Manila in the Philippines, Chinabank's foundation place is the Insular Government of the Philippine Islands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainment"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is an entertainment industry media company offering services concerning the World Wide Web.",
+            "GMA New Media, a web-services producing media company, offers applications in the entertainment industry.",
+            "GMA New Media, Inc. is a media company and GMA New Media is in the entertainment industry that makes web sites."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, located in the Filipino city of Quezon, is in the mass media industry.",
+            "The mass media industry company of GMA New Media has its headquarters in Quezon City which is located in the Philippines.",
+            "GMA New Media is a mass media company located in Quezon City, Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "parentCompany",
+                    "GMA Network (company)"
+                ],
+                [
+                    "GMA Network (company)",
+                    "type",
+                    "Public company"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon is the key person of GMA New Media which is a subsidiary of GMA Network, a public company.",
+            "Felipe Gozon is a key person in GMA New Media whose parent company is GMA Network, a public company.",
+            "GMA Network is a public company and also the parent company of GMA New Media where Felipe Gozon is the key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ],
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas was founded Jan. 1, 2001 as a type of S.A. corporation that has a current net income of 108,600,000.",
+            "Hypermarcas, a type of S.A. (corporation), has a net income of 108,600,000, and was founded on January 1, 2001.",
+            "Hypermarcas is an S.A. corporation founded on January 1, 2001, and has a net income of $108,600,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas's revenue is $1,800,000,000, has a net income of $108,600,000, and employs 10,252 people.",
+            "Hypermarcas has a net income of 108,600,000, earning 1800000000 yearly and employs 10252 people.",
+            "Hypermarcas has a net income of $108,600,000, yearly income of $1,800,000,000 and employs 10,252."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Mantecorp"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, the parent group of Mantecorp, was founded on January 1, 2001 in São Paulo.",
+            "Hypermarcas was founded on January 1, 2001, is located in Sao Paulo and has a subsidiary called Mantecorp.",
+            "Mantecorp is a subsidiary of Hypermarcas that was founded on 1-1-2001 and is located in Sao Paulo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "La Crosse, Wisconsin",
+                    "areaTotal",
+                    "58.38"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a subsidiary company founded in La Crosse, Wisconsin State, a city that has a total area of 58.38.",
+            "The Trane company is a subsidiary founded in La Crosse, Wisconsin, which has a total area of 58.38.",
+            "Trane, a subsidiary, was founded in La Crosse, Wisconsin that has a total area of 58.38 square kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id10",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "Ireland",
+                    "location",
+                    "Europe"
+                ]
+            ]
+        },
+        "text": [
+            "The company Trane was founded in La Crosse, Wisconsin and is in Ireland in Europe.",
+            "Trane was founded in La Crosse, Wisconsin, but is now located in the European nation of Ireland.",
+            "Trane, founded in La Crosse, Wisconsin, is located in Europe in the country Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane has 29,000 employees, its net income is $556,300,000 and revenue is $10,264,000,000.",
+            "Trane has a net income of $556,300,000 and a total revenue of 10264000000, earned by its 29,000 employees.",
+            "Trane, which has a total of 290000 employees, has a revenue of $10,264,000,000 and a net income of approximately $556 million."
+        ]
+    }
+]

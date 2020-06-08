@@ -1,0 +1,642 @@
+[
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "fullname",
+                    "Associazione Calcio ChievoVerona S.r.l."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona, Italy"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "season",
+                    "2014–15 Serie A"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "numberOfMembers",
+                    "39371"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and their home ground in Verona, Italy holds 39371 fans. The club played the 2014-15 season in Serie A.",
+            "A.C. Chievo Verona played the 2014-15 season in Serie A and has 39371 members. Their full name is \"Associazione Calcio ChievoVerona S.r.l.\" and their home ground is in Verona, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id2",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "manager",
+                    "Rolando Maran"
+                ],
+                [
+                    "Rolando Maran",
+                    "placeOfBirth",
+                    "Italy"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Unione Triestina 2012 S.S.D."
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Italian born Rolando Maran manages Associazione Calcio Chievo Verona. He is also in the Unione Triestina 2012 S.S.D. club as well as playing for Carrarese Calcio.",
+            "Italian born Rolando Maran plays at the Carrarese Calcio and is in the Unione Triestina 2012 S.S.D. club. He is currently the manager of AC Chievo Verona.",
+            "Born in Italy, Rolando Maran is the manager of AC Chievo Verona. He also plays for Carrarese Calcio and is in the Unione Triestina 2012 S.S.D. club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id3",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolin"
+                ],
+                [
+                    "Michele Marcolini",
+                    "placeOfBirth",
+                    "Italy"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Torino F.C."
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "F.C. Bari 1908"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini, manager of A.C. Lumezzane, was born in Italy, owns Torino F.C. And has been associated with F.C. Bari 1908.",
+            "Italian born Michele Marcolini, previously at FC Bari 1908 and manager of AC Lumezzane, is the owner of Torino F.C.",
+            "Italian born Michele Marcolini, previously of FC Bari 1908, is now the manager of A.C. Lumezzane, whist also the owner of Torino F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id4",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greec"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek languag"
+                ]
+            ]
+        },
+        "text": [
+            "Greece, led by Alexis Tsipras and Nikos Voutsis is the location of A.E. Dimitra Efxeinoupolis, where the language is greek.",
+            "Greece is the location of the A.E Dimitra Efxeinoupolis club. The language of the country is Greek and two of the leaders are Alexis Tsipras and Nikos Voutsis.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where Alexis Tsipras heads Greece and Nikos Voutsis is the leader. Greek is a language spoken in the country."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "fullname",
+                    "Associazione Sportiva Gubbio 1910 Srl"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "numberOfMembers",
+                    "5300"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of the Italian club AS Gubbio 1910 is \"Associazione Sportiva Gubbio 1910 Srl\". They played in the 2014 season and they have 5300 members.",
+            "The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl. The club has 5300 members and has a ground in Italy. It competed in the 2014 season.",
+            "Associazione Sportiva Gubbio 1910 Srl (abbreviated to A.S.Gubbio 1910) has 5300 members, has its grounds in Italy and played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "fullname",
+                    "Associazione Sportiva Gubbio 1910 Srl"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Stadio Pietro Barb"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "numberOfMembers",
+                    "5300"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl and they competed in the 2014 season. Their ground is called the Stadio Pietro Barbetti and they have 5300 members.",
+            "Associazione Sportiva Gubbio 1910 Srl (abbreviated to AS Gubbio 1910) has 5300 members, played in the 2014 season and its ground is Stadio Pietro Barbetti.",
+            "The full name of AS Gubbio 1910 is \"Associazione Sportiva Gubbio 1910 Srl\". Its ground is called Stadio Pietro Barbetti, it competed in the 2014 season and has 5300 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Stadio Armando Picch"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "season",
+                    "2014–15 Serie B"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Livorno Calcio S.p.A."
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A. and their home ground is the Stadio Armando Picchi. They competed in Serie B during the 2014-15 season and has 19238 members.",
+            "19238 members strong Livorno Calcio S.p.A., AKA A.S. Livorno Calcio, played season 2014-15 in Serie B from their home stadium Stadio Armando Picchi.",
+            "Stadio Armando Picchi's is home to A S Livorno Calcio (Livorno Calcio S.p.A.).They have 19238 members and played the 2014-15 Serie B season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "numberOfMembers",
+                    "70634"
+                ],
+                [
+                    "A.S. Roma",
+                    "fullname",
+                    "Associazione Sportiva Roma S.p.A."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Ro"
+                ],
+                [
+                    "A.S. Roma",
+                    "season",
+                    "2014–15 Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma's full name is Associazione Sportiva Roma S.p.A. and they have 70634 members. Their ground is in Rome and the club played in Serie A in 2014-15.",
+            "The full name of A.S. Roma is Associazione Sportiva Roma S.p.A. and they have 70634 members. The club have a ground in Rome and competed in Serie A in 2014-15.",
+            "A.S Roma were in Serie A in 2014-15. They have a ground in Rome and have 70634 members, there full name is Associazione Sportiva Roma S.p.A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id9",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "league",
+                    "Azerbaijan Premier Leagu"
+                ],
+                [
+                    "Azerbaijan Premier League",
+                    "champions",
+                    "Qarabağ FK"
+                ],
+                [
+                    "AZAL PFK",
+                    "ground",
+                    "AZAL Arena"
+                ],
+                [
+                    "AZAL Arena",
+                    "location",
+                    "Azerbaijan"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK play their home matches at the AZAL Arena in Azerbaijan and they compete in the Azerbaijan Premier League where Qarabag FK are champions.",
+            "AZAL PFK plays at AZAL Arena in Azerbaijan and competes in their Premier League. The champions of the league are Qarabag FK.",
+            "AZAL PFK play in the Azerbaijan Premier League, which champions are Qarabag FK, its ground is AZAL Arena, that is located in Azerbaijan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "league",
+                    "Azerbaijan Premier Leagu"
+                ],
+                [
+                    "Azerbaijan Premier League",
+                    "champions",
+                    "Qarabağ FK"
+                ],
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ],
+                [
+                    "AZAL PFK",
+                    "ground",
+                    "AZAL Arena"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK, known as the Qarabag FK in the Azerbaijan Premier League is located in AZAL Arena and has 3500 members.",
+            "The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK. AZAL Arena is the ground of AZAL PFK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Bro"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "AFC Ajax"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "İstanbulspor A.Ş."
+                ],
+                [
+                    "AZ Alkmaar",
+                    "owner",
+                    "Robert Eenhoorn"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for AFC Ajax and Istanbulspor A.S. He manages AZ Alkmaar which is owned by Robert Eenhoorn."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id12",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Braz"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "nickname",
+                    "Asa Gigante"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "champions",
+                    "Vila Nova Futebol Club"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense, which has the nickname Asa Gigante, play in the Campeonato Brasileiro Série C league from Brazil. The league was previously won by Vila Nova Futebol Clube.",
+            "Agremiação Sportiva Arapiraquense, nicknamed Asa Gigante, play in the Campeonato Brasileiro Série C league in Brazil. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C.",
+            "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league based in Brazil. Their nickname is Asa Gigante. The champions of the league are Vila Nova Futebol Clube."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id13",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Braz"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015 Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "champions",
+                    "Vila Nova Futebol Club"
+                ]
+            ]
+        },
+        "text": [
+            "Brazilian football team Agremiação Sportiva Arapiraquense play their football in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Serie C is a Brazilian league. Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C. The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro Série C.",
+            "Agremiacao Sportiva Arapiraquense play in the Campeonato Brasileiro Serie C League, as they did in 2015, which is based in Brazil. The current champions of this league are Vila Nova Futebol Clube.",
+            "Agremiação Sportiva Arapiraquense play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube have been champions of Série C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "fullname",
+                    "Akron Metro Futbol Club Summit Assault"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "numberOfMembers",
+                    "3000"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "manager",
+                    "Denzil Antonio"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "season",
+                    "2011 PDL season"
+                ]
+            ]
+        },
+        "text": [
+            "3000 member strong Akron Summit Assault, full name \"Akron Metro Futbol Club Summit Assault\", play in the 2011 PDL season. Denzil Antonio was previously their manager."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id15",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "Akron, Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "league",
+                    "Premier Development Leagu"
+                ],
+                [
+                    "Premier Development League",
+                    "champions",
+                    "K-W United FC"
+                ]
+            ]
+        },
+        "text": [
+            "The Akron Summit Assault team is based in Akron, Ohio, United States. They play in the Premier Development League, which has been won by K-W United FC.",
+            "The Akron Summit Assault team is based in Akron, Ohio, USA. They play in the Premier Development League which was previously won by K-W United FC.",
+            "The Akron Summit Assault team of Akron, Ohio, U.S currently play in the Premier Development League, of which K-W United FC have previously been champions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id16",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy, where the capital is Rome, the leader is Sergio Mattarella and the language spoken is Italian.",
+            "Italian is spoken in Italy where the capital city is Rome. The country, which is led by Sergio Mattarella is the location of the AS Gubbio 1910's ground."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "officialLanguage",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Italy is Rome and the leader is Pietro Grasso. The Italian language is spoken in the country which is the location of the home ground of AS Gubbio 1910.",
+            "The ground of A.S. Gubbio 1910 is located in Italy where the capital is Rome, Italian is the official language and Pietro Grasso is the leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.S. Roma",
+                    "fullname",
+                    "Associazione Sportiva Roma S.p.A."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Stadio Olimpico"
+                ],
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "The \"Associazione Sportiva Roma S.p.A.\" is the non-abbreviated name of A.S. Roma with their ground in Stadio Olimpico. A.S. Roma play in Serie A whose current champions are Juventus F.C.",
+            "The \"Associazione Sportiva Roma S.p.A.\" is the full name name of A.S. Roma who have their home ground at Stadio Olimpico. The club plays in Serie A alongside Juventus FC who have been previous champions.",
+            "A.S. Roma play in Serie A where Juventus F.C are among there former champions. Their full name is Associazione Sportiva Roma S.p.A. and they play at the Stadio Olimpico."
+        ]
+    }
+]

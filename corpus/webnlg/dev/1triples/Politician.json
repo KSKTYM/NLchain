@@ -1,0 +1,771 @@
+[
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "award",
+                    "Purple Hea"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett was awarded the Purple Heart.",
+            "Aaron S. Daggett was awarded the Purple Heart."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of Mine Run"
+                ]
+            ]
+        },
+        "text": [
+            "The Battle of Mine Run was one fought by Aaron S Daggett.",
+            "Aaron S. Daggett fought in the Battle of Mine Run.",
+            "The Battle of Mine Run was one of the battles that Aaron S. Daggett fought at."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Rahman Ya'kub",
+                    "inOfficeWhileVicePresident",
+                    "Tuanku Bujang Tuanku Othman"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Rahman Ya'kub was in office while Tuanku Bujang Tuanku Othman was Vice President.",
+            "Abdul Rahman Ya'kub was in office whilst Tuanku Bujang Tuanku Othman was Vice President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "almaMater",
+                    "University of Adelaid"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's Alma mater is the University of Adelaide.",
+            "The University of Adelaide is the alma mater of Abdul Taib Mahmud."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "region",
+                    "Kota Samarahan"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud is from Kota Samarahan.",
+            "Abdul Taib Mahmud is from the region of Kota Samarahan.",
+            "Abdul Taib Mahmud lived in the Kota Samarahan region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "successor",
+                    "Adenan Sa"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud successor was Adenan Satem.",
+            "Adenan Satem succeeded Abdul Taib Mahmud."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "successor",
+                    "Sulaiman Abdul Rahman Taib"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud's successor was Sulaiman Abdul Rahman Taib.",
+            "Abdul Taib Mahmud was succeded by Sulaiman Abdul Rahman Taib.",
+            "The successor to Abdul Taib Mahmud was Sulaiman Abdul Rahman Taib."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abdulsalami Abubakar",
+                    "militaryBranch",
+                    "Nigerian Army"
+                ]
+            ]
+        },
+        "text": [
+            "Abdulsalami Abubakar served in the Nigerian Army."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "inOfficeWhileMonarch",
+                    "Juan Carlos I of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain.",
+            "Abel Caballero was in office whilst Juan Carlos I of Spain was Monarch."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "battles",
+                    "World War II"
+                ]
+            ]
+        },
+        "text": [
+            "Abner W. Sibal fought in World War II.",
+            "Abner W. Sibal fought during WWII."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "successor",
+                    "Anthony J. Celebrezz"
+                ]
+            ]
+        },
+        "text": [
+            "The successor to Abraham A. Ribicoff is Anthony J. Celebrezze.",
+            "Anthony J. Celebrezze succeeded Abraham A. Ribicoff.",
+            "Abraham A. Ribicoff's successor was Anthony J. Celebrezze."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "award",
+                    "Cross of Valour (Poland)"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was awarded the Cross of Valour (Poland).",
+            "Adam Koc has been awarded the Cross of Valour for Poland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "deathPlace",
+                    "New York City"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc died in New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adenan Satem",
+                    "almaMater",
+                    "University of Adelaid"
+                ]
+            ]
+        },
+        "text": [
+            "The alma mater of Adenan Satem is the University of Adelaide.",
+            "Adenan Satem's alma mater is the University of Adelaide."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Deputy Minister for Development, Competitiveness and Shipping"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis worked as Deputy Minister for Development, Competitiveness and Shipping.",
+            "Adonis Georgiadis was the Deputy Minister for Development, Competitiveness and Shipping.",
+            "Adonis Georgiadis worked as the Deputy Minister for Development, Competitiveness and Shipping."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "office (workedAt, workedAs)",
+                    "House of Representatives (Netherlands)"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant worked at the House of Representatives in Netherlands.",
+            "Agnes Kant worked at the House of Representatives in the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agnes Kant",
+                    "residence",
+                    "Netherlands"
+                ]
+            ]
+        },
+        "text": [
+            "Agnes Kant lives in the Netherlands.",
+            "Agnes Kant resides in the Netherlands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "award",
+                    "Territorial Decoration"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was awarded the Territorial Decoration.",
+            "Airey Neave won the Territorial Decoration award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "birthPlace",
+                    "Knightsbridge, London"
+                ]
+            ]
+        },
+        "text": [
+            "Knightsbridge, London is the birthplace of Airey Neave.",
+            "Airey Neave was born in Knightsbridge, London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "serviceStartYear",
+                    "1935"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave began his military career in 1935.",
+            "Airey Neave started serving in military in 1935.",
+            "Airey Neave began his service in 1935."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "nationality",
+                    "Argentina"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire's nationality is Argentinian.",
+            "Alberto Teisaire is Argentinian.",
+            "Alberto Teisaire was Argentinian."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "Battle of Chancellorsv"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales took part in the Battle of Chancellorsville.",
+            "Alfred Moore Scales fought in the Battle of Chancellorsville.",
+            "Alfred Moore Scales was involved in the Battle of Chancellorsville."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Moore Scales",
+                    "battles",
+                    "Overland Campaign"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Moore Scales fought in the Overland Campaign."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "battles",
+                    "World War II"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers fought battles in World War II.",
+            "Allan Shivers fought in World War II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "militaryBranch",
+                    "United States Army"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers served in the United States Army."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "activeYearsEndDate",
+                    "1857-03-03"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin ended their career on 1857-03-03."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "party",
+                    "Whig Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin was a member of the United States Whig Party.",
+            "Alvah Sabin belongs to the Whig Party (United States).",
+            "Alvah Sabin was a member of the Whig Party of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antonis Samaras",
+                    "successor",
+                    "Konstantinos Mitsotakis"
+                ]
+            ]
+        },
+        "text": [
+            "Konstantinos Mitsotakis was the successor to Antonis Samaras.",
+            "The successor to Antonis Samaras was Konstantinos Mitsotakis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Argentina",
+                    "leaderName",
+                    "Gabriela Mich"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Argentina is Gabriela Michetti.",
+            "Gabriela Michetti is a leader in Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austria",
+                    "language",
+                    "Austrian German"
+                ]
+            ]
+        },
+        "text": [
+            "In Austria, the language is Austrian German.",
+            "The language in Austria is Austrian German.",
+            "The spoken language of Austria is Austrian German."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Battle of Fredericksburg",
+                    "isPartOfMilitaryConflict",
+                    "American Civil Wa"
+                ]
+            ]
+        },
+        "text": [
+            "The Battle of Fredericksburg was fought during the American Civil War.",
+            "The battle of Fredericksburg was part of the American Civil War military conflict."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Edmund J. Davis",
+                    "deathPlace",
+                    "Austin, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "The death place of Edmund J. Davis is Austin Texas.",
+            "Edmund J. Davis died in Austin, Texas.",
+            "Edmund J. Davis died in Austin Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Josef Klaus",
+                    "almaMater",
+                    "University of Vienna"
+                ]
+            ]
+        },
+        "text": [
+            "The University of Vienna is the Alma mater of Josef Klaus.",
+            "Josef Klaus alma mater is the University of Vienna.",
+            "The alma mater of Josef Klaus is the University of Vienna."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Juan Perón",
+                    "party",
+                    "Labour Party (Argentina)"
+                ]
+            ]
+        },
+        "text": [
+            "Juan Perón was a member of the Labour Party in Argentina.",
+            "Juan Peron belongs to the Labour Party in Argentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mike Akhigbe",
+                    "predecessor",
+                    "Oladipo Diya"
+                ]
+            ]
+        },
+        "text": [
+            "Oladipo Diya was Mike Akhigbe's predecessor.",
+            "Oladipo Diya was the predecessor of Mike Akhigbe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Nigerian Air Force",
+                    "commander",
+                    "Sadique Abubaka"
+                ]
+            ]
+        },
+        "text": [
+            "Sadique Abubakar is a commander in the Nigerian Air Force.",
+            "The commander of the Nigerian Air Force is Sadique Abubakar.",
+            "Sadique Abubakar was commander of the Nigerian Air Force."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Poland",
+                    "ethnicGroup",
+                    "Romani peo"
+                ]
+            ]
+        },
+        "text": [
+            "Romani are an ethnic group in Poland.",
+            "The Romani people are an ethnic group in Poland.",
+            "An ethnic group in Poland is the Romani people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Poland",
+                    "language",
+                    "Kashubian languag"
+                ]
+            ]
+        },
+        "text": [
+            "The Kashubian language is spoken in Poland.",
+            "The language spoken in Poland is the Kashubian language."
+        ]
+    }
+]

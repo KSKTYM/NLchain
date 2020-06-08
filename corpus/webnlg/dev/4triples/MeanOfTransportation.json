@@ -1,0 +1,1115 @@
+[
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "V8 engin"
+                ],
+                [
+                    "1955 Dodge",
+                    "manufacturer",
+                    "Dodg"
+                ],
+                [
+                    "1955 Dodge",
+                    "transmission",
+                    "3-speed automatic"
+                ],
+                [
+                    "1955 Dodge",
+                    "wheelbase",
+                    "120.0 (inches)"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge is made by the Dodge company and has a V8 engine, a 3-speed automatic transmission and a wheelbase of 120 inches.",
+            "The 1955 Dodge is manufactured by Dodge and it has a V8 engine. It has a wheelbase of 120 inches and has a 3-speed automatic transmission.",
+            "Dodge is the manufacturer of the 1955 Dodge which has a V8 engine, a 3-speed automatic transmission and a wheelbase of 120 inches."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id2",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "relatedMeanOfTransportation",
+                    "DeSoto Custo"
+                ],
+                [
+                    "DeSoto Custom",
+                    "relatedMeanOfTransportation",
+                    "Chrysler Newpo"
+                ],
+                [
+                    "DeSoto Custom",
+                    "successor",
+                    "DeSoto Firedo"
+                ],
+                [
+                    "DeSoto Custom",
+                    "manufacturer",
+                    "DeSoto (automobile)"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge, the Chrysler Newport and the DeSoto Custom are related means of transportation. DeSoto are the manufacturers of the DeSoto Custom, the successor of which, is the DeSoto Firedome.",
+            "The 1955 Dodge is related to the Chrysler Newport and the DeSoto Custom which was made by DeSoto and succeeded by the DeSoto Firedome.",
+            "The 1955 Dodge is related to the Chrysler Newport and the DeSoto Custom. The DeSoto Firedome succeeded the Desoto Custom which is manufactured by DeSoto ."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "maidenVoyage",
+                    "2009-03-22"
+                ],
+                [
+                    "AIDAluna",
+                    "shipBeam",
+                    "32.2"
+                ],
+                [
+                    "AIDAluna",
+                    "length",
+                    "252000.0 (millimetres)"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "The length of the AIDAluna ship beam is 32.2 and it is 252000.0 millimetres long. It is powered by Caterpillar Inc. and had its maiden voyage on the 22nd of March, 2009.",
+            "The AIDAluna, powered by a Caterpillar Inc. engine, has a 32.2 long ship beam and is 252000.0mm long. Its maiden voyage was March 22,2009.",
+            "The AIDAluna has a ship beam of 32.2 and is 252000.0 millimetres long. It is powered by Caterpillar Inc. and made the maiden voyage on 22 March 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "length",
+                    "253260.0 (millimetres)"
+                ],
+                [
+                    "AIDAstella",
+                    "shipBeam",
+                    "32.2"
+                ],
+                [
+                    "AIDAstella",
+                    "builder",
+                    "Meyer Werf"
+                ],
+                [
+                    "AIDAstella",
+                    "owner",
+                    "Costa Croc"
+                ]
+            ]
+        },
+        "text": [
+            "AIDAstella is 253260.0 millimetres long and has a beam of 32.2 metres. AIDAstella was built by Meyer Werft and is owned by Costa Crociere.",
+            "AIDAstella is 253260.0 millimetres in length and has a beam of 32.2 metres. It is owned by Costa Crociere and was built by Meyer Werft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "operator",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAstella",
+                    "length",
+                    "253260.0 (millimetres)"
+                ],
+                [
+                    "AIDAstella",
+                    "builder",
+                    "Meyer Werf"
+                ],
+                [
+                    "AIDAstella",
+                    "owner",
+                    "Costa Croc"
+                ]
+            ]
+        },
+        "text": [
+            "Costa Crociere is the owner of the AIDAstella which is 253260.0 millimetres long. It was built by Meyer Werft and operated by AIDA Cruise Line.",
+            "AIDAstella is 253260.0 millimetres long and was built by Meyer Werft. It is owned by Costa Crociere and operated by AIDA Cruises.",
+            "The AIDAstella was built by Meyer Werft and is 253260.0 millimetres in length. It is owned by Costa Crociere and operated by AIDA cruises."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "operator",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAstella",
+                    "length",
+                    "253260.0 (millimetres)"
+                ],
+                [
+                    "AIDAstella",
+                    "status",
+                    "In service"
+                ],
+                [
+                    "AIDAstella",
+                    "builder",
+                    "Meyer Werf"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella was built by Meyer Werft and is 253260.0 millimetres long. It is still in service and operated by the AIDA Cruise Line.",
+            "The AIDAstella is operated by AIDA Cruise Line and is still in service to this date. The AIDAstella was built by Meyer Werft and is 253260.0 millimetres in length.",
+            "AIDAstella, a ship built by Meyer Werft is still in service till date. The ship is operated by AIDA Cruises and is 253260mm long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "builder",
+                    "American Locomotive Company"
+                ],
+                [
+                    "ALCO RS-3",
+                    "length",
+                    "17068.8 (millimetres)"
+                ],
+                [
+                    "ALCO RS-3",
+                    "engine",
+                    "V12 engin"
+                ],
+                [
+                    "ALCO RS-3",
+                    "buildDate",
+                    "May 1950 - August 1956"
+                ]
+            ]
+        },
+        "text": [
+            "The American Locomotive Company built the ALCO RS-3 and it was produced between May 1950 and August 1956. Its length is 17068.8 millimetres and it has a V12 engine.",
+            "The ALCO RS-3 has a V12 engine and a length of 17068.8 millimetres. It was produced between May 1950 and August 1956 by the American Locomotive Company.",
+            "The ALCO RS-3 which was built by the American Locomotive Company, was produced between May 1950 and August 1956. It has a V12 engine and is 17068.8 (millimetres) in length."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "American Motors Matador"
+                ],
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Thames, New Zealand"
+                ],
+                [
+                    "AMC Matador",
+                    "bodyStyle",
+                    "Station wagon"
+                ],
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC V8 engin"
+                ]
+            ]
+        },
+        "text": [
+            "AMC Matador is also known as American Motors Matador and is assembled in Thames, New Zealand. Its body style is station wagon and it's equipped with an AMC V8 engine.",
+            "The AMC Matador is alternatively known as the American Motors Matador and is assembled in Thames, New Zealand. Its body style is a station wagon and it has an AMC V8 engine.",
+            "The AMC Matador is a station wagon equipped with an AMC V8 engine. It is also known as American Motors Matador and is assembled in Thames, New Zealand."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "American Motors Matador"
+                ],
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Thames, New Zealand"
+                ],
+                [
+                    "AMC Matador",
+                    "class",
+                    "Mid-size ca"
+                ],
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC straight-6 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is a mid-size car also known as American Motors Matador, and was assembled in Thames, New Zealand with an AMC straight-6 engine.",
+            "The AMC Matador is also known as American Motors Matador and is a mid-size car. It is assembled in Thames, New Zealand and has an AMC straight-6 engine.",
+            "AMC Matador is also known as American Motors Matador and is assembled in Thames, New Zealand. It is classed as a mid-size car and it has an AMC straight-6 engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "VAM Classic"
+                ],
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Port Melbourne, Victoria"
+                ],
+                [
+                    "AMC Matador",
+                    "class",
+                    "Full-size ca"
+                ],
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC straight-6 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is considered a full-size car and has the alternative name of VAM Classic. It is assembled in Port Melbourne, Victoria and has an AMC straight-6 engine.",
+            "The AMC Matador is a Full-size car and is assembled in Port Melbourne, Victoria. The alternative name for AMC Matador is VAM Classic and it has an AMC straight-6 engine.",
+            "The AMC Matador is a Full-size car assembled in Port Melbourne, Victoria. It has an AMC straight-6 engine and the alternative name the VAM Classic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "VAM Classic"
+                ],
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Thames, New Zealand"
+                ],
+                [
+                    "AMC Matador",
+                    "bodyStyle",
+                    "Station wagon"
+                ],
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC V8 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador has a station wagon style body and is equipped with an AMC V8 engine. Its alternative name is VAM Classic and it is assembled in Thames, New Zealand.",
+            "The AMC Matador, alternatively known as the VAM Classic, is assembled in Thames, New Zealand. It has a station wagon body style and is equipped with an AMC V8 engine.",
+            "The AMC Matador has a AMC V8 engine and a station wagon style body. It has an alternative name of the VAM Classic and was assembled in Thames, New Zealand."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "productionEndYear",
+                    "1958"
+                ],
+                [
+                    "Abarth 1000 GT Coupé",
+                    "wheelbase",
+                    "2160.0 (millimetres)"
+                ],
+                [
+                    "Abarth 1000 GT Coupé",
+                    "bodyStyle",
+                    "Two door coupé"
+                ],
+                [
+                    "Abarth 1000 GT Coupé",
+                    "engine",
+                    "Straight-four engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT Coupe is a 2 door coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. The car was last manufactured in 1958.",
+            "The Abarth 1000 GT Coupe is a two door model with a straight four engine and a wheelbase of 2160 millimetres. It rolled off the production line in 1958.",
+            "The Abarth 1000 GT Coupe has a wheelbase of 2160 mm, it's two doors and has a straight four engine. Its final year of production was 1959."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "assembly",
+                    "Marysville Auto Plan"
+                ],
+                [
+                    "Acura TLX",
+                    "layout",
+                    "Front-engine design"
+                ],
+                [
+                    "Acura TLX",
+                    "class",
+                    "Luxury vehic"
+                ],
+                [
+                    "Acura TLX",
+                    "engine",
+                    "Honda K engin"
+                ]
+            ]
+        },
+        "text": [
+            "Acura TLX is assembled at the Marysville Auto Plant, has a front engine design with a Honda K engine and is a luxury vehicle.",
+            "The Luxury Class Acura TLX, assembled at Marysville Auto Plant, has a Honda K front engine.",
+            "The Acura TLX is made at the Marysville Auto Plant. It is classed as a luxury vehicle with a Honda K engine located at the front."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "length",
+                    "99.83"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "shipBeam",
+                    "21.2"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Arctech Helsinki Shipyard"
+                ]
+            ]
+        },
+        "text": [
+            "The icebreaker ship Aleksey Chirikov was built by the Arctech Helsinki Shipyard in Finland with a length of 99.83 and a ship beam of 21.2.",
+            "The icebreaker Aleksey Chirikov is 99.83 long and has a ship beam of 21.2 m. It was built in Finland at the Arctech Helsinki Shipyard.",
+            "The icebreaker Aleksy Chirikov, having a ship beam of 21.2 m. and a length of 99.83 metres, was built in Finland at the Arctech Helsinki Shipyard."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id15",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "shipBeam",
+                    "21.2"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "status",
+                    "In service"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Arctech Helsinki Shipyard"
+                ]
+            ]
+        },
+        "text": [
+            "The in service icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard. in Finland. It has a ship beam of 21.2 m.",
+            "The Finnish built Aleksey Chirikov is an icebreaker and currently in service. It was built by the Arctech Helsinki Shipyard and has a ship beam of 21.2m.",
+            "Arctech Helsinki Shipyard built the icebreaker Aleksey Chirikov in Finland. It has a 21.2 m long ship beam and is in service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "shipBeam",
+                    "21.2"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "status",
+                    "In service"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Helsink"
+                ]
+            ]
+        },
+        "text": [
+            "Finland built the Aleksey Chirikov, icebreaker which has a 21.2 ship beam and was made in Helsinki. It is currently working.",
+            "The icebreaker Aleksey Chirikov was built in Helsinki, in Finland. It is in service and has a ship beam of 21.2 m.",
+            "The icebreaker ship Aleksey Chirikov was built in Finland by Aleksey Chirikov who is in Helsinki. The ship's beam is 21.2m and is currently in service."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ],
+                [
+                    "Finland",
+                    "leaderName",
+                    "Sauli Niinistö"
+                ],
+                [
+                    "Finland",
+                    "leaderName",
+                    "Juha Sipilä"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Helsink"
+                ]
+            ]
+        },
+        "text": [
+            "The icebreaker Aleksey Chirikov was built in Helsinki, Finland. The leaders of the country are Sauli Niinisto and Juha Sipila.",
+            "Aleksey Chirikov icebreaker is from Helsinki in Finland whose leaders are Juha Sipila and Sauli Niinistö.",
+            "The icebreaker, Aleksey Chirikov, was built in Helsinki, Finland, which hails leaders Sauli Niinistö and Juha Sipila."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Italy"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Saab 9000"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "engine",
+                    "Straight-four engin"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Lancia Thema"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164, which is assembled in Italy and similar to the Saab 9000 and the Lancia Thema, has a straight-four engine.",
+            "The Alfa Romeo 164 is related to the Lancia Thema and the to the Saab 9000 and in that they are both cars. The Alfa Romeo 164 has a Straight four engine and was assembled in Italy.",
+            "The Alfa Romeo 164, assembled in Italy, has a straight four engine and is relative to the Saab 9000 and Lancia Thema."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Fiat Croma"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Italy"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "engine",
+                    "Straight-four engin"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Lancia Thema"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164, assembled in Italy, has a straight-four engine; the Alfa Romeo 164 is similar to the Fiat Croma and is related to Lancia Thema.",
+            "The Alfa Romeo 164, Lancia Thema and Fiat Croma are related means of transportation. The Alfa Romeo 164 has a Straight four engine and was assembled in Italy.",
+            "The Alfa Romeo 164, Lancia Thema and Fiat Croma are similar means of transport. The Alfa Romeo 164 has a straight-four engine and is assembled in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id20",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "American Motors",
+                    "successor",
+                    "Eagle (automobile)"
+                ],
+                [
+                    "AMC Matador",
+                    "manufacturer",
+                    "American Motors"
+                ],
+                [
+                    "American Motors",
+                    "fate",
+                    "Chrys"
+                ],
+                [
+                    "American Motors",
+                    "keyPerson",
+                    "Roy D. Chapin, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "American motors was acquired by Chrysler. It was succeeded by Eagle, and manufactures AMC Matador. One of the key people at American Motors was Roy D. Chapin, Jr.",
+            "American Motors was succeeded by Eagle and acquired by Chrysler, it includes figure Roy D. Chapin Jr. The AMC Matador is made by American Motors.",
+            "Eagle succeeded American Motors, who manufacture the AMC Matador, were acquired by Chrysler and have Roy D Chapin Jr as a key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "American submarine NR-1",
+                    "shipLaunch",
+                    "1969-01-25"
+                ],
+                [
+                    "American submarine NR-1",
+                    "topSpeed",
+                    "8.334"
+                ],
+                [
+                    "American submarine NR-1",
+                    "length",
+                    "45000.0 (millimetres)"
+                ],
+                [
+                    "American submarine NR-1",
+                    "shipBeam",
+                    "3.8"
+                ]
+            ]
+        },
+        "text": [
+            "The American submarine NR-1 was launched on The 25th of January 1969. It has a top speed of 8.334 km/h, a ship beam of 3.8 m., and is 45000.0 (millimetres) long.",
+            "The American submarine NR-1, which was launched on The 25th of January 1969, has a top speed of 8.334 km/hr, a ship beam of 3.8m and a length of 45000.0 mms.",
+            "The American sub NR-1 was launched on January 25, 1969 and its top speed is 8.334. It is 45000.0 millimetres long and has a ship beam of 3.8 m."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "manufacturer",
+                    "Yuzhnoye Design Offic"
+                ],
+                [
+                    "Antares (rocket)",
+                    "finalFlight",
+                    "2014-10-28"
+                ],
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2013-04-21"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spacepo"
+                ]
+            ]
+        },
+        "text": [
+            "Yuzhnoye Design Office made the Antares Rocket which was launched from the Mid-Atlantic Regional Spaceport made its first flight on the 21st of April, 2013 and its last on the 28th of October of the following year.",
+            "Made by the Yuzhnoye Design Office, the Antares Rocket made its first flight on April 21, 2013 from the Mid-Atlantic Regional Spaceport. Its last flight took place Oct. 28, 2014.",
+            "The Antares rocket is manufactured by the Yuzhnoye Design Office and it was launched at the Mid-Atlantic Regional Spaceport. The maiden flight was on April 21st, 2013 and the final flight was on October 28, 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin DBS"
+                ],
+                [
+                    "Aston Martin V8",
+                    "engine",
+                    "5.3 (litres)"
+                ],
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "United Kingdo"
+                ],
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin RHAM/1"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 is related to the Aston Martin DBS and the Aston Martin RHAM/1. The Aston Martin V8 has a 5.3 litre engine and is assembled in the United Kingdom.",
+            "The Aston Martin RHAM/1, Aston Martin V8 and Aston Martin DBS are a related means of transport. It is assembled in the United Kingdom and has a 5.3 litre engine.",
+            "The Aston Martin RHAM/1, Aston Martin V8 and Aston Martin DBS are a related means of transport. The Aston Martin V8 is assembled in the U.K. and the engine volume is 5.3 litres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Audi A1",
+                    "engine",
+                    "1.2 (litres)"
+                ],
+                [
+                    "Audi A1",
+                    "transmission",
+                    "5-speed manual"
+                ],
+                [
+                    "Audi A1",
+                    "assembly",
+                    "Audi Brussels"
+                ],
+                [
+                    "Audi A1",
+                    "bodyStyle",
+                    "Hatchback"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 is assembled at Audi Brussels and has the hatchback style of body. It has a 1.2 litre engine and a 5-speed manual transmission.",
+            "The Audi A1 is assembled by Audi Brussels and is a hatchback. It has a 1.2 litre engine and has a 5-speed manual transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id25",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Audi A1",
+                    "manufacturer",
+                    "Aud"
+                ],
+                [
+                    "Audi",
+                    "foundedBy",
+                    "August Horch"
+                ],
+                [
+                    "Audi",
+                    "division",
+                    "Audi e-tron"
+                ],
+                [
+                    "Audi",
+                    "subsidiary",
+                    "Duca"
+                ]
+            ]
+        },
+        "text": [
+            "Audi, owned by Ducati, was founded by August Horch and includes Audi e-tron. It makes the Audi A1.",
+            "August Horch founded Audi, which makes the Audi A1. Audi e-tron is a division of Audi and the company Ducati is owned by them.",
+            "August Horch founded the Audi company who make the Audi A1. The company own Ducati and have a sub-division known as Audi e-tron."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id26",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "foundationPlace",
+                    "California"
+                ],
+                [
+                    "AIDA Cruises",
+                    "location",
+                    "Rostock"
+                ],
+                [
+                    "AIDAluna",
+                    "owner",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "The owner of AIDAluna is Rostock based AIDA Cruises. AIDAluna is powered by Caterpillar Inc, which was founded in California.",
+            "AIDAluna is powered by Caterpillar Inc. which was founded in California. The location of AIDA Cruises is Rostock and they own AIDAluna.",
+            "The Caterpillar Inc company was founded in California and powers the AIDAluna which is owned by the Rostock based AIDA Cruises."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id27",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "keyPerson",
+                    "Douglas R. Oberhelman"
+                ],
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "Illinois"
+                ],
+                [
+                    "Caterpillar Inc.",
+                    "foundationPlace",
+                    "United States"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "The power type of the AIDAluna is the Caterpillar Inc. engine. Caterpillar, Inc. was founded in Illinois in the U.S. and Douglas R Oberhelman is a key person there.",
+            "Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company is located in Illinois and provides the power to the AIDAluna.",
+            "Douglas R Oberhelman is a key person at Caterpillar Inc which was founded in the US and, is located in Illinois. AIDALuna is powered by Caterpillar Inc."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id28",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Vandenberg AFB Space Launch Complex 2"
+                ],
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Cape Canaveral Air Force Station"
+                ],
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ],
+                [
+                    "Delta II",
+                    "countryOrigin",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The launch site of the Delta II was at the Vandenberg AFB Space Launch Complex 2, based at Cape Canaveral Air Force Station. The Antares rocket is comparable to Delta 11 which originated in the US&gt;.",
+            "Launched at Cape Canaveral Air Force Station and the Vandenberg AFB Space Launch Complex 2 was the Delta II US rocket. The Antares rocket is similar to the Delta.",
+            "The Delta II, from the United States, was launched at Cape Canaveral Air Force Station, Vandenberg AFB Space Launch Complex 2. It is similar to the Antares rocket."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id29",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "General Dynamics Electric Boat",
+                    "parentCompany",
+                    "General Dynamics"
+                ],
+                [
+                    "American submarine NR-1",
+                    "shipBeam",
+                    "3.8"
+                ],
+                [
+                    "American submarine NR-1",
+                    "builder",
+                    "General Dynamics Electric Boa"
+                ],
+                [
+                    "General Dynamics Electric Boat",
+                    "locationCity",
+                    "Groton, Connecticu"
+                ]
+            ]
+        },
+        "text": [
+            "The American Submarine NR-1 has a ship beam of 3.8 m and was built by General Dynamics Electric Boat. General Dynamics is the parent company of the General Dynamics Electric Boat Co which is located in the city of Groton, Connecticut.",
+            "General Dynamics is the parent company of the General Dynamics Electric Boat Co. out of Groton, CT. The GD Electric Boat Co built the American sub called NR-1 which has a 3.8 m beam.",
+            "General Dynamics is the parent company of General Dynamics Electric Boat who are located in the city of Groton, Connecticut and built the American submarine NR-1 with a ship beam of 3.8 m."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id30",
+            "shape": "(X (X (X (X (X)))))",
+            "shape_type": "chain",
+            "size": 4,
+            "triple": [
+                [
+                    "Germany",
+                    "leaderName",
+                    "Andreas Voßkuh"
+                ],
+                [
+                    "Neptun Werft",
+                    "locationCity",
+                    "Rostock"
+                ],
+                [
+                    "Rostock",
+                    "country",
+                    "Germany"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Neptun Werf"
+                ]
+            ]
+        },
+        "text": [
+            "Neptun Werft built the A-Rosa Luna and is located in Rostock in Germany. Andreas Voßkuhle is a leader of Germany.",
+            "A-Rosa Luna was built by Neptun Werft, the headquarters of which, are in Rostock, Germany, where the leader is, Andreas Vosskuhle.",
+            "The builder of the A-Rosa Luna is Neptun Werft, who are located in Rostock, Germany. Andreas Vosskuhle is a leader in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id31",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ],
+                [
+                    "ALV X-1",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "United States",
+                    "anthem",
+                    "The Star-Spangled Bann"
+                ]
+            ]
+        },
+        "text": [
+            "The ALV X-1 came from United States. The capital city of the country is Washington D.C. and its national anthem is the Star Spangled Banner. White Americans are an ethnic group in the U.S.",
+            "The United States, which is where the ALV X-1 originated, has the capital city of Washington DC. The country's national anthem is the Star Spangled Banner and there is an ethnic group of White Americans."
+        ]
+    }
+]

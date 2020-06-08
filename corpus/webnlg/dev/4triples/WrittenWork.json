@@ -1,0 +1,754 @@
+[
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id1",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "1634: The Baltic Wa"
+                ],
+                [
+                    "1634: The Baltic War",
+                    "author",
+                    "David Web"
+                ],
+                [
+                    "1634: The Bavarian Crisis",
+                    "followedBy",
+                    "Ring of Fire II"
+                ],
+                [
+                    "Ring of Fire II",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis was preceded by 1634: The Baltic War (author: David Weber) and followed by Ring of Fire II which is written in English.",
+            "1634: The Baltic War, written by David Weber, has two sequels, 1634: The Bavarian Crisis and Ring of Fire II (written in English)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "mediaType",
+                    "E-book"
+                ],
+                [
+                    "1634: The Ram Rebellion",
+                    "numberOfPages",
+                    "512"
+                ],
+                [
+                    "1634: The Ram Rebellion",
+                    "author",
+                    "Virginia DeMarc"
+                ],
+                [
+                    "1634: The Ram Rebellion",
+                    "ISBN number",
+                    "1-4165-2060-0"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Ram Rebellion was written by Virginia DeMarce and has 512 pages. It can be found as an ebook and has the ISBN number of 1-4165-2060-0.",
+            "The author of the novel 1634 The Ram Rebellions author is Virginia DeMarce, it is 512 pages long (also can be found as an e-book) and has an ISBN number 1-4165-2060-0.",
+            "Virginia DeMarce is the author of 1634: The Ram Rebellion, which has 512 pages, the ISBN number 1-4165-2060-0 and is available as an e book."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id3",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "country",
+                    "United Kingdo"
+                ],
+                [
+                    "United Kingdom",
+                    "capital",
+                    "London"
+                ],
+                [
+                    "AIDS (journal)",
+                    "publisher",
+                    "Lippincott Williams &amp; Wilkins"
+                ],
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the United Kingdom. The capital of the country is London and its leader is Elizabeth II.",
+            "The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins. The UK is governed by Elizabeth II and its capital is London.",
+            "Published by Lippincott Williams &amp; Wilkins, the AIDS journal was published in the United Kingdom, the capital of the UK is London and the head of state is Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "author",
+                    "J. V. Jones"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "mediaType",
+                    "Print"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "OCLC number",
+                    "51969173"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "ISBN number",
+                    "0-7653-0633-6"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice was written by J. V. Jones and is available in print. The book has the ISBN number 0-7653-0633-6. It also has the OCLC number 51969173.",
+            "The author of A Fortress of Grey Ice, available in print, is J.V. Jones and has an OCLC number of 51969173 and the ISBN number is 0-7653-0633-6.",
+            "J.V. Jones authored A Fortress of Grey Ice, made available in print. Its OCLC and ISBN numbers are 51969173 and 0-7653-0633-6 respectively."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "precededBy",
+                    "Annie Dunn"
+                ],
+                [
+                    "A Long Long Way",
+                    "country",
+                    "Ireland"
+                ],
+                [
+                    "A Long Long Way",
+                    "publisher",
+                    "Viking Press"
+                ],
+                [
+                    "A Long Long Way",
+                    "followedBy",
+                    "The Secret Scriptu"
+                ]
+            ]
+        },
+        "text": [
+            "Published by Viking Press, the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.",
+            "A Long Long Way, written in Ireland and published by Viking Press, was preceded by Annie Dunne, and followed by The Secret Scripture.",
+            "A Long Long Way was written in Ireland and published by Viking Press. It was preceded by Annie Dunne and followed by The Secret Scripture."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "OCLC number",
+                    "8805735"
+                ],
+                [
+                    "A Severed Wasp",
+                    "LibraryofCongressClassification",
+                    "PS3523.E55 S4 1982"
+                ],
+                [
+                    "A Severed Wasp",
+                    "mediaType",
+                    "Print"
+                ],
+                [
+                    "A Severed Wasp",
+                    "ISBN number",
+                    "0-374-26131-8"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp is available in print, with The Library of Congress Classification PS3523.E55 S4 1982. Its ISBN number is 0-374-26131-8, and its OCLC number is 8805735.",
+            "The Book A Severed Wasp (ISBN number 0-374-26131-8) is available in print and has the OCLC number 8805735. It has the Library of Congress Classification PS3523.E55 S4 1982.",
+            "A Severed Wasp is in print and has the OCLC number of 8805735 and the ISBN number 0-374-26131-8. The Library of Congress Classification is PS3523.E55 S4 1982."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id7",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ],
+                [
+                    "A Severed Wasp",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "English is spoken in Great Britain and is the language used in A Severed Wasp. The book originates from the United States where the African Americans are an ethnic group.",
+            "A Severed Wasp was written in English (the language originated in Great Britain) in the United States. The US has many ethnic groups, including African American."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "numberOfPages",
+                    "388"
+                ],
+                [
+                    "A Severed Wasp",
+                    "OCLC number",
+                    "8805735"
+                ],
+                [
+                    "A Severed Wasp",
+                    "ISBN number",
+                    "0-374-26131-8"
+                ],
+                [
+                    "A Severed Wasp",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp was published in hardback and has 388 pages. The OCLC number of A Severed Wasp is 8805735 and the ISBN number of \"0-374-26131-8\".",
+            "A Severed Wasp, published in hardback, has 388 pages. Its OCLC number is 8805735, and ISBN number is 0-374-26131-8.",
+            "A Severed Wasp is a hardcover book with 388 pages. Its OCLC number is 8805735 and the ISBN number is 0-374-26131-8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "mediaType",
+                    "Hardcov"
+                ],
+                [
+                    "A Wizard of Mars",
+                    "author",
+                    "Diane Duan"
+                ],
+                [
+                    "A Wizard of Mars",
+                    "OCLC number",
+                    "318875313"
+                ],
+                [
+                    "A Wizard of Mars",
+                    "ISBN number",
+                    "978-0-15-204770-2"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars, written by Diane Duane, is available in hardcover, has the ISBN number 978-0-15-204770-2 and the OCLC number 318875313.",
+            "A Wizard of Mars, OCLC number 318875313, ISBN number 978-0-15-204770-2, was written by Diane Duane and published in hardback.",
+            "A Wizard of Mars, ISBN number is \"978-0-15-204770-2\", OCLC number 318875313, was written by Diane Duane and published in hardback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Addiction (journal)",
+                    "academicDiscipline",
+                    "Addiction"
+                ],
+                [
+                    "Addiction (journal)",
+                    "LCCN number",
+                    "93645978"
+                ],
+                [
+                    "Addiction (journal)",
+                    "abbreviation",
+                    "Addiction"
+                ],
+                [
+                    "Addiction (journal)",
+                    "ISSN number",
+                    "1360-0443"
+                ]
+            ]
+        },
+        "text": [
+            "The Addiction journal concerns the topic of Addiction and has the LCCN number 93645978. The abbreviated name is \"Addiction\" and the ISSN number is 1360-0443.",
+            "Addiction is the abbreviated version of the Addiction journal and is about Addiction. The LCCN number is 93645978 and the ISSN number is 1360-0443.",
+            "The ISSN number of Addiction (journal), which is about addiction, is 1360-0443. Addiction (journal) has the abbreviation of Addiction and the LCCN number 93645978."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id11",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "publisher",
+                    "Cornell University"
+                ],
+                [
+                    "Cornell University",
+                    "affiliation",
+                    "Association of American Universities"
+                ],
+                [
+                    "Cornell University",
+                    "state",
+                    "New York"
+                ],
+                [
+                    "Cornell University",
+                    "city",
+                    "Ithaca, New York"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University in Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities.",
+            "Cornell University is located in Ithaca, New York state. It is affiliated with the Association of American Universities and publishes the Administrative Science Quarterly.",
+            "Cornell University is located in the city of Ithaca, New York, it's affiliated with the Association of American Universities and publishes the Administrative Science Quarterly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id12",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group.",
+            "Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "abbreviation",
+                    "Am. J. Math."
+                ],
+                [
+                    "American Journal of Mathematics",
+                    "academicDiscipline",
+                    "Mathematics"
+                ],
+                [
+                    "American Journal of Mathematics",
+                    "frequency",
+                    "Bimonthly"
+                ],
+                [
+                    "American Journal of Mathematics",
+                    "ISSN number",
+                    "1080-6377"
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Mathematics is abbreviated to Am. J. Math. and comes under the discipline of Math. It is published bimonthly and has the ISSN number 1080-6377.",
+            "The American Journal of Mathematics studies mathematics and is abbreviated to Am. J. Math. It is published bimonthly and has the ISSN number 1080-6377.",
+            "The American Journal of Mathematics, aka Am. J. Math., is a bi-monthly journal about Mathematics, ISBN number 1080-6377."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "academicDiscipline",
+                    "Mathematics"
+                ],
+                [
+                    "American Journal of Mathematics",
+                    "firstPublicationYear",
+                    "1878"
+                ],
+                [
+                    "American Journal of Mathematics",
+                    "abbreviation",
+                    "Am. J. Math."
+                ],
+                [
+                    "American Journal of Mathematics",
+                    "ISSN number",
+                    "1080-6377"
+                ]
+            ]
+        },
+        "text": [
+            "The academic discipline of the American Journal of Mathematics is Mathematics; it was first published in 1878. Its acronym is \"Am. J. Math.\" and its ISSN number is 1080-6377.",
+            "The American Journal of Mathematics, abbreviated to Am. J. Math, studies mathematics. It was first published in 1878 and has an ISSN number of 1080-6377.",
+            "The American Journal of Mathematics was first published in 1878 and has the ISSN number 1080-6377. It falls under the academic discipline of Math and the abbreviated title is Am. J. Math."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id15",
+            "shape": "(X (X (X (X (X)))))",
+            "shape_type": "chain",
+            "size": 4,
+            "triple": [
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ],
+                [
+                    "A Loyal Character Dancer",
+                    "publisher",
+                    "Soho Press"
+                ],
+                [
+                    "Soho Press",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press in the United States.",
+            "English is spoken in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press which are based in the United States.",
+            "A Loyal Character Dancer is published by Soho Press which is based in the United States. The language spoken in the U.S., and in Great Britain, is English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id16",
+            "shape": "(X (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "A Severed Wasp",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The language of the United States and Great Britain is English. The United States has an ethnic group called Asian Americans and is where A severed Wasp originates from.",
+            "English is the language of Great Britain and the United States. The country is the origin of A Severed Wasp and includes many Asian Americans.",
+            "A Severed Wasp is from the English speaking (also spoken in Great Britain) United States. The United States is home to the Asian American ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans. The English language is spoken in the US as well as Great Britain.",
+            "The Book Alcatraz Versus the Evil Librarians originated in the U.S. where Native Americans make up many of the countries ethnic groups. English is the national language of both Great Britain and the United States.",
+            "English is spoken in Great Britain and is also the language of the United States, of which Native Americans are one of its ethnic groups and from where Alcatraz Versus the Evil Librarians has come."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "David Cameron"
+                ],
+                [
+                    "AIDS (journal)",
+                    "country",
+                    "United Kingdo"
+                ],
+                [
+                    "AIDS (journal)",
+                    "publisher",
+                    "Lippincott Williams &amp; Wilkins"
+                ],
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "In the United Kingdom, the Prime Minister is David Cameron and the queen is Elizabeth II. The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins.",
+            "AIDS Journal, published by Lippincott Williams and Wilkins, is from the United Kingdom. The leader of the UK was David Cameron and Elizabeth II is the Queen.",
+            "The AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the United Kingdom, the two leaders of this country are David Cameron and Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id19",
+            "shape": "(X (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice is from the United states where African American is an ethnic group and English is spoken like in Great Britain.",
+            "English is spoken in Great Britain and the United States. A Fortress of Grey Ice is from the United States where one of the ethnic groups are African Americans.",
+            "A Fortress of Grey Ice is from the United States where the African Americans are an ethnic group. English is spoken in the United States and also in Great Britain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id20",
+            "shape": "(X (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice is from the United States. That country has an ethnic group called Asian Americans and they speak English, same as in Great Britain.",
+            "In Great Britain English is the language spoken. The same is true for the United States where there are many Asian Americans. It is also where A Fortress of Grey Ice is from.",
+            "Asian Americans are one of the ethnic groups in the United States of which A Fortress of Grey Ice is also, the English language is spoken in both the United States and in Great Britain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id21",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Barack Obama"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "A Severed Wasp",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "A severed Wasp originates from the United States where the leader is Barack Obama. The English language is spoken in the US where one of the ethnic groups is African American.",
+            "The President of the United States is Barack Obama who is African American, which makes up one of the many ethnic groups in the United States. The national language spoken in the U.S. is English. The book A Severed Wasp originated in the U.S."
+        ]
+    }
+]

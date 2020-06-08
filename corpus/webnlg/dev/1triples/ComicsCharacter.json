@@ -1,0 +1,270 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "René Goscinny"
+                ]
+            ]
+        },
+        "text": [
+            "Asterix was created by Rene Goscinny.",
+            "The creator of Asterix (comics character) is René Goscinny.",
+            "The comic character Asterix, was created by René Goscinny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auron (comicsCharacter)",
+                    "creator",
+                    "Marv Wolfman"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Auron was created by Marv Wolfman.",
+            "Auron was created by Marv Wolfman.",
+            "The comic book character Auron was created by Marv Wolfman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Balder (comicsCharacter)",
+                    "creator",
+                    "Jack Kirby"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character, Balder, was created by Jack Kirby.",
+            "The comic character Balder was created by Jack Kirby.",
+            "Jack Kirby created the comic character Balder."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman is broadcast by STV.",
+            "Bananaman is broadcasted by \"STV\".",
+            "Bananaman was broadcasted by STV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman first aired on 3rd October 1983.",
+            "Bananaman first aired on the 3rd of October, 1983.",
+            "Bananaman was first aired on 10/03/1983."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Bill Odd"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Oddie stars in Bananaman.",
+            "Bananaman starred Bill Oddie.",
+            "Bill Oddie starred in Bananaman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax is a character in Big Hero 6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bill Everett",
+                    "award",
+                    "Eisner Award"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Everett has won the Eisner Award.",
+            "Bill Everett has been awarded the Eisner award."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bill Oddie",
+                    "child",
+                    "Kate Hard"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Oddie's daughter is Kate Hardie.",
+            "Kate Hardie is Bill Oddie's child."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Dan Mishkin"
+                ]
+            ]
+        },
+        "text": [
+            "Dan Mishkin is one of the creators of the comic character, Bolt.",
+            "The comic book character Bolt was created by Dan Mishkin.",
+            "The comic character Bolt was created by Dan Mishkin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bozo the Iron Man",
+                    "fullName",
+                    "Hugh Hazzard"
+                ]
+            ]
+        },
+        "text": [
+            "Bozo the Iron Man’s full name is Hugh Hazzard.",
+            "The full name of Bozo the Iron Man is \"Hugh Hazzard\".",
+            "The comic book character Bozo the Iron Man's alter ego is Hugh Hazzard."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Buscema",
+                    "award",
+                    "Eagle Award (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "John Buscema has won the comic book award, Eagle Award.",
+            "John Buscema received the Eagle Award for his work in comics."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Marv Wolfman",
+                    "award",
+                    "Eagle Award (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "Marv Wolfman is a recipient of the Eagle Award.",
+            "Marv Wolfman won the Eagle Award for comics.",
+            "Marv Wolfman has received the Eagle Award for comics."
+        ]
+    }
+]

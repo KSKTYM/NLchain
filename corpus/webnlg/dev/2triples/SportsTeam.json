@@ -1,0 +1,570 @@
+[
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id1",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ],
+                [
+                    "Serie B",
+                    "champions",
+                    "Carpi F.C. 1909"
+                ]
+            ]
+        },
+        "text": [
+            "AC Cesena are in the Serie B league, the previous champions of which are Carpi FC 1909.",
+            "A.C. Cesena play in Serie B, in which Carpi FC 1909 are the champions.",
+            "AC Cesena are in the Serie B league, previously won by Carpi F.C. 1909."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Stadio Marc'Antonio Bentegodi"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc'Antonio Bentegodi.",
+            "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi and the club is in the league, Serie A.",
+            "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, he played in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Lumezzane's ground is in Italy where the leader is Pietro Grasso.",
+            "A.C. Lumezzane play in italy where the leader is Pietro Grasso.",
+            "A.C. Lumezzane play in Italy, where the leader is Pietro Grasso."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "manager",
+                    "Jorge Humberto Rodríguez"
+                ],
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, he played for the C.D. FAS.",
+            "Jorge Humberto Rodriguez manages A.D. Isidro Metapan. He is in the C.D. FAS.",
+            "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for C.D. FAS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "numberOfMembers",
+                    "1500"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "league",
+                    "A EPSTH 2nd GROUP"
+                ]
+            ]
+        },
+        "text": [
+            "A.E. Dimitra Efxeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.",
+            "With 1500 members, A.E Dimitra Efxeinoupolis, play in the A EPSTH 2nd GROUP."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Runcorn F.C. Halton"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Runcorn F.C. Halton.",
+            "AFC Blackpool have had Stuart Parker as their manager who was a football player for Runcorn FC Halton.",
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer), he played for Runcorn FC Halton."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Sparta Rotterdam"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer), who plays at the Sparta Rotterdam club.",
+            "Stuart Parker, who plays at the Sparta Rotterdam Club, has also managed AFC Blackpool.",
+            "AFC Blackpool have had the manager Stuart Parker who currently plays for Sparta Rotterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "The Fylde"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde has the home ground called The Fylde and has 3180 members.",
+            "AFC Fylde has the home ground called The Fylde, which holds 3180 fans.",
+            "The Fylde, (capacity 3180) is the home ground of AFC Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Bryning Lane"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Fylde has 3180 members and are based at Bryning Lane.",
+            "AFC Fylde has 3180 members and are based at Bryning Lane.",
+            "A.F.C. Fylde are based at Bryning Lane and they have 3180 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id10",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Italy national football team"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team.",
+            "A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team.",
+            "A.S. Livorno Calcio is managed by Christian Panucci who previously played for the Italian national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Rome, Italy"
+                ],
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "Grounds being in Rome, Italy, A.S. Roma to play in Serie A.",
+            "A.S. Roma play in the Serie A league and their ground is in Rome, Italy.",
+            "A.S. Roma's ground is in Rome, Italy and they play in Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id12",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "Serie A",
+                    "country",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "ACF Fiorentina play in Serie A which is based in Italy.",
+            "ACF Fiorentina play in Serie A based in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id13",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "manager",
+                    "Frank de Boer"
+                ],
+                [
+                    "Frank de Boer",
+                    "club",
+                    "Ajax Youth Academy"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy.",
+            "AFC Ajax's manager is Frank de Boer, who played for the Ajax Youth Academy.",
+            "Frank de Boer is in the Ajax Youth Academy and manages AFC Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "owner",
+                    "AFC Ajax N.V."
+                ],
+                [
+                    "AFC Ajax",
+                    "numberOfMembers",
+                    "53502"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax has 53502 members and is the owner of AFC Ajax NV.",
+            "AFC Ajax has 53502 members and is owned by AFC Ajax NV.",
+            "AFC Ajax has 53502 members and is owned by AFC Ajax N.V."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id15",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Amsterdam"
+                ],
+                [
+                    "Amsterdam",
+                    "leader",
+                    "Eberhard van der Laan"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax is based in Amsterdam where the leader is Eberhard van der Laan.",
+            "The ground of AFC Ajax (amateurs) can be found in Amsterdam where Eberhard van der Laan is a leader.",
+            "AFC Ajax is based in Amsterdam where Eberhard van der Laan is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "season",
+                    "2014–15 Topklasse"
+                ],
+                [
+                    "AFC Ajax (amateurs)",
+                    "numberOfMembers",
+                    "5000"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs), who have 5000 members, played in the Topklasse in the 2014-2015 season.",
+            "AFC Ajax (amateurs) have 5000 members and played in the Topklasse in the 2014-2015 season.",
+            "AFC Ajax (amateurs) played in the 2014-15 Topklasse season and their home ground has a capacity for 5000 fans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AZAL Arena",
+                    "location",
+                    "Shuvalan"
+                ],
+                [
+                    "AZAL PFK",
+                    "ground",
+                    "AZAL Arena"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK play their home matches at the AZAL Arena in Shuvalan.",
+            "The AZAL Arena is located in Shuvalan and is the ground of AZAL PFK.",
+            "The AZAL Arena in Shuvalan is the ground of AZAL PFK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id18",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "fullname",
+                    "Alkmaar Zaanstreek"
+                ],
+                [
+                    "AZ Alkmaar",
+                    "numberOfMembers",
+                    "17023"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar's full name is Alkmaar Zaanstreek, it has 17023 members.",
+            "AZ Alkmaar has 17023 member and their full name is \"Alkmaar Zaanstreek\".",
+            "Alkmaar Zaanstreek is the full name of AZ Alkmaar which has 17023 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "ground",
+                    "Estádio Municipal Coaracy da Mata Fonseca"
+                ],
+                [
+                    "Estádio Municipal Coaracy da Mata Fonseca",
+                    "location",
+                    "Brazil"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, its located in Brazil.",
+            "Estádio Municipal Coaracy da Mata Fonseca is located in Brazil and is the ground of Agremiação Sportiva Arapiraquense.",
+            "Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense which is in Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "fullname",
+                    "Agremiação Sportiva Arapiraquense"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense (which is his full name) has a club with 17000 members.",
+            "Agremiação Sportiva Arapiraquense's full name is \"Agremiação Sportiva Arapiraquense\" and they have 17000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id21",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "Akron, Ohio"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The team Akron Summit Assault are based in Akron, Ohio, USA.",
+            "The Akron Summit Assault team is based in Akron, Ohio which is in the U.S.",
+            "The Akron Summit Assault team is based in Akron, Ohio in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id22",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "S.S. Chieti Calcio"
+                ],
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago's club is the S.S. Chieti Calcio and he manages A.C. Cesena.",
+            "Massimo Drago manages A.C. Cesena and plays for S.S. Chieti Calcio."
+        ]
+    }
+]

@@ -1,0 +1,780 @@
+[
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "operator",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAstella",
+                    "shipBeam",
+                    "32.2"
+                ],
+                [
+                    "AIDAstella",
+                    "topSpeed",
+                    "38.892"
+                ],
+                [
+                    "AIDAstella",
+                    "builder",
+                    "Meyer Werf"
+                ],
+                [
+                    "AIDAstella",
+                    "length",
+                    "253260.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line. The AIDAstella has a beam of 32.2 m, is 253260.0 millimetres in length and has a top speed of 38.892.",
+            "The AIDAstella was built by Meyer Werft and operated by the AIDA Cruise Line. It is 253260.0 millimetres long with a beam of 32.2 metres and a top speed of 38.892 km/h.",
+            "The AIDAstella is operated by AIDA Cruise Line and was built by Meyer Werft. It is 253260.0 millimetres in length, has a beam of 32.2m and a top speed of 38.892 km/h."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "builder",
+                    "American Locomotive Company"
+                ],
+                [
+                    "ALCO RS-3",
+                    "length",
+                    "17068.8 (millimetres)"
+                ],
+                [
+                    "ALCO RS-3",
+                    "cylinderCount",
+                    "12"
+                ],
+                [
+                    "ALCO RS-3",
+                    "engine",
+                    "V12 engin"
+                ],
+                [
+                    "ALCO RS-3",
+                    "buildDate",
+                    "May 1950 - August 1956"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3, produced between May 1950 and August 1956 by the American Locomotive Company, has 12 cylinders and a V12 engine and its length is 17068.8 millimetres.",
+            "The ALCO RS-3, built by the American Locomotive Company, has a V12 cylinder engine and is 17068.8mm long. It was produced from May 1950 to August 1956.",
+            "The ALCO RS-3 was produced from May 1950 to August 1956 by the American Locomotive Company. It has a V12, 12 cylinder engine and is 17068.8mm long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "alternativeName",
+                    "American Motors Matador"
+                ],
+                [
+                    "AMC Matador",
+                    "assembly",
+                    "Thames, New Zealand"
+                ],
+                [
+                    "AMC Matador",
+                    "bodyStyle",
+                    "Station wagon"
+                ],
+                [
+                    "AMC Matador",
+                    "class",
+                    "Mid-size ca"
+                ],
+                [
+                    "AMC Matador",
+                    "engine",
+                    "AMC V8 engin"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador (also known as the American Motors Matador) is assembled in Thames, New Zealand. Classified as a mid-size car, it features a wagon style body and an AMC V8 engine.",
+            "The AMC Matador, also known as American Motors Matador, was assembled in Thames, New Zealand. The AMC Matador is a mid-size station wagon with a V8 engine type.",
+            "The AMC Matador aka the American Motors Matador, is assembled in Thames, New Zealand, has a v8 engine, and is classified as a mid-size station wagon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alhambra",
+                    "owner",
+                    "P&amp;O (company)"
+                ],
+                [
+                    "Alhambra",
+                    "powerType",
+                    "Humphrys, Tennant and Dykes"
+                ],
+                [
+                    "Humphrys, Tennant and Dykes",
+                    "location",
+                    "Deptford"
+                ],
+                [
+                    "Alhambra",
+                    "builder",
+                    "Samuda Brothers"
+                ],
+                [
+                    "Alhambra",
+                    "length",
+                    "63800.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "P&amp;O owns the Alhambra which has a Humphrys, Tennant and Dykes engine and is 63800.0 millimetres long. The Alhambra was made by the Samuda Brothers. Humphrys, Tennant and Dykes are located in Deptford.",
+            "The Alhambra was built by the Samuda Brothers is owned by the P &amp; O company. It was 63800.0 millimetres long and has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes are located in Deptford.",
+            "The Alhambra was built by the Samuda Brothers and is owned by P&amp;O. It was 63800.0 millimetres long and has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes is located in Deptford."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "manufacturer",
+                    "Yuzhnoye Design Offic"
+                ],
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2014-10-28"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0"
+                ],
+                [
+                    "Antares (rocket)",
+                    "diameter",
+                    "3.9 (metres)"
+                ],
+                [
+                    "Antares (rocket)",
+                    "finalFlight",
+                    "2013-09-18"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket is 3.9 metres in diametre and is manufactured by the Yuzhnoye Design Office. Its launch site was the Mid-Atlantic Regional Spaceport Launch Pad 0. The Antares rocket made its first flight on October 28th, 2014 and its final flight on September 18th, 2013.",
+            "The Antares rocket, manufactured by the Yuzhnoye Design Office, was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. At 3.9m in diameter, the Antares rocket had its maiden flight on the 28th October, 2014 and final flight on the 18th of September, 2013.",
+            "The Antares rocket, which was manufactured at the Yuzhnoye Design Office, made its first flight on October 28, 2014 and had its final flight on the 18th of September 2013. It is 3.9 m in diameter, and was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "manufacturer",
+                    "Yuzhnoye Design Offic"
+                ],
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Vandenberg Air Force Bas"
+                ],
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spacepo"
+                ],
+                [
+                    "Delta II",
+                    "countryOrigin",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket is manufactured at the Yuzhnoye Design Office, and was launched from the Mid-Atlantic Regional Spaceport. It is comparable to the United States Delta II, which was launched at the Vandenberg Air Force Base.",
+            "Produced at the Yuzhnoye Design Office, the Antares rocket was launched from the Mid-Atlantic Regional Spaceport. The Antares compares to the Delta II US born rocket which launches out of Vandenberg Air Force Base.",
+            "The Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport. It is similar to the Delta II rocket from the United States which launched from the Vandenberg Air Force Base."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "finalFlight",
+                    "2009-12-18"
+                ],
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "2005-08-11"
+                ],
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "Airbus Defence and Spac"
+                ],
+                [
+                    "Ariane 5",
+                    "launchSite",
+                    "Guiana Space Cen"
+                ],
+                [
+                    "Ariane 5",
+                    "diameter",
+                    "5.4 (metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 had its first voyage August 11, 2005 and its last flight on December 18, 2009. It was manufactured by Airbus Defence and Space and launched from the Guiana Space Centre. Its diameter is 5.4 metres.",
+            "The Airbus Defence and Space manufactured the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the final flight on 18 December 2009.",
+            "The Airbus Defence and Space manufactures the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the last flight on December 18 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "launchSite",
+                    "ELA-3"
+                ],
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "2004-03-02"
+                ],
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "European Space Agency"
+                ],
+                [
+                    "Ariane 5",
+                    "diameter",
+                    "5.4 (metres)"
+                ],
+                [
+                    "Ariane 5",
+                    "finalFlight",
+                    "2003-09-27"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5's maiden flight was on the 2nd March 2004 and its last flight being on Sept. 27, 2003. It was made by the European Space Agency and took off from ELA-3. It is 5.4 m in diameter.",
+            "First launched on March 2, 2004 the Ariane 5 took off from ELA-3. That craft is made by the European Space Agency and its last flight was on Sept. 27, 2003. The Ariane 5 is 5.4 m in diameter."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id9",
+            "shape": "(X (X (X)) (X (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Aston Martin Virage",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin DBS"
+                ],
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Aston Martin V8",
+                    "assembly",
+                    "United Kingdo"
+                ],
+                [
+                    "Aston Martin V8",
+                    "successor",
+                    "Aston Martin Virag"
+                ],
+                [
+                    "Aston Martin DBS",
+                    "manufacturer",
+                    "Aston Martin"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin V8 is assembled in the United Kingdom governed by Elizabeth II. The next model of that vehicle was the Aston Martin Virage, which is related to Aston Martin DBS. Aston Martin is the manufacturer of the Aston Martin DBS.",
+            "The Aston Martin V8 is assembled in the United Kingdom, where the ruler is Queen Elizabeth II. The Aston Martin V8 was succeeded by the Aston Martin Virage which along with Aston Martin DBS (Aston Martin manufatured) are related types of transportation.",
+            "Aston Martin manufactures the Aston Martin DBS which is related to the Aston Martin Virage. The latter car succeeded the Aston Martin V8 which is assembled in the United Kingdom which is led by Elizabeth II.",
+            "Aston Mastin DBS, made by Aston Martin, is related to the Aston Martin Virage, which succeeded the Aston Martin V8. The V8 was assembled in the, Elizabeth II led, United Kingdom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Atlas II",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "Atlas II",
+                    "finalFlight",
+                    "1998-03-16"
+                ],
+                [
+                    "Atlas II",
+                    "launchSite",
+                    "Vandenberg Air Force Bas"
+                ],
+                [
+                    "Atlas II",
+                    "diameter",
+                    "3.04"
+                ],
+                [
+                    "Atlas II",
+                    "launchSite",
+                    "Spaceport Florida Launch Complex 36"
+                ]
+            ]
+        },
+        "text": [
+            "From the United States the Atlas II (3.04 m diameter) was sent from Vandenberg Air Force Base and Spaceport Florida Launch Complex 36. March 16, 1998 was its final lift off.",
+            "The Atlas II is from the United States and launched from the Vandenberg Air Force Base and the Spaceport Florida Launch Complex 36. It is 3.04 m in diameter and took its final flight on 16 March 1998.",
+            "The Atlas II, from the united States, was launched at the Spaceport Florida Launch Complex 36 and Vandenberg Air Force Base. 3.04m in diameter, its final flight was March 16, 1998."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Audi A1",
+                    "engine",
+                    "1.2 (litres)"
+                ],
+                [
+                    "Audi A1",
+                    "layout",
+                    "Front-engine, front-wheel-drive layou"
+                ],
+                [
+                    "Audi A1",
+                    "assembly",
+                    "Brussels, Belgium"
+                ],
+                [
+                    "Audi A1",
+                    "class",
+                    "Supermin"
+                ],
+                [
+                    "Audi A1",
+                    "bodyStyle",
+                    "Hatchback"
+                ]
+            ]
+        },
+        "text": [
+            "Audi A1 hatchback is a supermini vehicle made in Brussels, Belgium. It contains a 1.2 l front engine with a front wheel drive layout.",
+            "The Audi A1 is a hatchback belonging to the supermini class. It has a 1.2 litre engine, a front-engine with front-wheel-drive and is assembled in Brussels, Belgium.",
+            "The Audi A1 is a supermini hatchback assembled in Brussels, Belgium. It has a front-engine with front-wheel-drive and a 1.2 litre engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id12",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "keyPerson",
+                    "Douglas R. Oberhelman"
+                ],
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "Illinois"
+                ],
+                [
+                    "Caterpillar Inc.",
+                    "foundationPlace",
+                    "United States"
+                ],
+                [
+                    "AIDAluna",
+                    "owner",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "Douglas R. Oberhelman is the key person at Caterpillar Inc which was founded in the US and located in Illinois. The company provides the engine power to the AIDAluna owned by AIDA Cruises.",
+            "Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the United States and is located in Illinois. The company powers the AIDAluna owned by AIDA Cruises.",
+            "Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the United States and is located in Illinois. It provides the power to the AIDAluna owned by AIDA Cruises."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Costa Crociere",
+                    "location",
+                    "Genoa"
+                ],
+                [
+                    "Costa Crociere",
+                    "parentCompany",
+                    "Carnival Corporation &amp; plc"
+                ],
+                [
+                    "AIDAstella",
+                    "operator",
+                    "AIDA Cruises"
+                ],
+                [
+                    "AIDAstella",
+                    "builder",
+                    "Meyer Werf"
+                ],
+                [
+                    "AIDAstella",
+                    "owner",
+                    "Costa Croc"
+                ]
+            ]
+        },
+        "text": [
+            "Carnival Corporation &amp; plc is the parent company of Costa Crociere in Genoa, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruises.",
+            "The AIDAstella, which was built by Meyer Werft, is operated by AIDA Cruises. Its owner are Costa Crociere who are located in Genoa and a subsidiary of Carnival Corporation &amp; Plc.",
+            "Meyer Werft built the AIDAstella which is operated by the AIDA Cruise Line. It is owned by Costa Crociere who are located in Genoa and have Carnival Corporation &amp; plc as their parent company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id14",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Cape Canaveral Air Force Station"
+                ],
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ],
+                [
+                    "Delta II",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0"
+                ],
+                [
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0",
+                    "associatedRocket",
+                    "Minotaur IV"
+                ]
+            ]
+        },
+        "text": [
+            "The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0 . The latter was similar to the Delta II from the United States that launched at Cape Canaveral Air Force Station.",
+            "The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the rocket, Minotaur IV and is also the launch site of the Antares rocket. This latter rocket is comparable to the United states Delta II which launched from Cape Canaveral Air Force Station.",
+            "Both the Antares rocket and the Minotaur IV rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, while the Delta II (United States) was launched at Cape Canaveral Air Force Station; Delta II is comparable to Antares."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id15",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Vandenberg Air Force Bas"
+                ],
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ],
+                [
+                    "Delta II",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0"
+                ],
+                [
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0",
+                    "associatedRocket",
+                    "Minotaur IV"
+                ]
+            ]
+        },
+        "text": [
+            "The launch site of the rocket Antares was the Mid-Atlantic Regional Spaceport Launch Pad 0, which is associated with the Minotaur IV rocket. The Antares rocket is comparable with the Delta II, which originated from the United States, and was launched at Vandenberg Air Force Base.",
+            "The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. The latter rocket is comparable to the Delta II which originated in the United States and launched from the Vandenberg Air Force Base."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id16",
+            "shape": "(X (X (X (X (X) (X)))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Germany",
+                    "capital",
+                    "Berlin"
+                ],
+                [
+                    "Neptun Werft",
+                    "locationCity",
+                    "Rostock"
+                ],
+                [
+                    "Germany",
+                    "leaderName",
+                    "Joachim Gauck"
+                ],
+                [
+                    "Rostock",
+                    "country",
+                    "Germany"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Neptun Werf"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna was built on the Neptun Werft, located in Rostock, Germany. Germany (whose capital city is Berlin) is led by Joachim Gauck.",
+            "The builder of the A-Rosa Luna is Neptun Werft whose HQ is in Rostock, Germany. Berlin is the capital in that country and Joachim Gauck is the name of one of its leaders.",
+            "The A-Rosa Luna was built by Neptun Werft in Rostock, Germany. Joachim Gauck is a leader of Germany, with its capital at Berlin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id17",
+            "shape": "(X (X (X (X (X) (X)))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Germany",
+                    "demonym",
+                    "Germans"
+                ],
+                [
+                    "Germany",
+                    "leaderName",
+                    "Stanislaw Tillich"
+                ],
+                [
+                    "Neptun Werft",
+                    "locationCity",
+                    "Rostock"
+                ],
+                [
+                    "Rostock",
+                    "country",
+                    "Germany"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "builder",
+                    "Neptun Werf"
+                ]
+            ]
+        },
+        "text": [
+            "The builder of the A-Rosa Luna is Neptun Werft, from Rostock, Germany. The leader of Germany is Stanislaw Tillich and the people are called Germans.",
+            "The builder of the A-Rosa Luna is Neptun Werft, headquartered in Rostock, Germany. Stanislaw Tillich is a leader of Germany, and the demonym for people who live there is Germans.",
+            "Neptun Werft, who built the A-Rosa Luna, is headquartered in Rostock in Germany. Germans is the demonym for people who live in Germany and Stanislaw Tillich is its leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0",
+                    "associatedRocket",
+                    "Minotaur V"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spacepo"
+                ],
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ],
+                [
+                    "Delta II",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0"
+                ]
+            ]
+        },
+        "text": [
+            "The Delta II is from the United States and is comparable to the Antares rocket which was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Rocket Minotaur V.",
+            "The Antares rocket and the Minotaur V, were launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. The Antares is comparable to the, United States origin, Delta II.",
+            "The Antares rocket, comparable to the Delta II (United States), was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0, along with the Minotaur V."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id19",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ],
+                [
+                    "ALV X-1",
+                    "countryOrigin",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "United States",
+                    "anthem",
+                    "The Star-Spangled Bann"
+                ]
+            ]
+        },
+        "text": [
+            "ALV X-1 came from the U.S. whose people are American and whose capital is in Washington, D.C. White Americans are part of an ethnic group in the U.S. and their national anthem is known as The Star Spangled Banner.",
+            "The capital of the United States, where ALV X-1 originated, is Washington, D.C. The inhabitants of the United States are called Americans, and its anthem is The Star Spangled Banner. One of its ethnic groups is White Americans.",
+            "The ALV X-1 originates from the United States where the national anthem is the Star Spangled Banner and the capital city is Washington DC. The country's inhabitants are called Americans and one of the ethnic groups are the White Americans."
+        ]
+    }
+]

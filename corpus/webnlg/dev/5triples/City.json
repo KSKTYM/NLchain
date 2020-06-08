@@ -1,0 +1,1137 @@
+[
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "areaOfWater",
+                    "14.2 (square kilometres)"
+                ],
+                [
+                    "Abilene, Texas",
+                    "elevationAboveTheSeaLevel",
+                    "524.0"
+                ],
+                [
+                    "Abilene, Texas",
+                    "areaCode",
+                    "325"
+                ],
+                [
+                    "Abilene, Texas",
+                    "populationDensity",
+                    "429.9 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Abilene, Texas",
+                    "areaTotal",
+                    "286.5 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene, Texas lies 524.0 above sea level and has the area code of 325 and a population density of 429.9 inhabitants per sq km. It has a total area of 286.5 sq km of which 14.2 sq km are water.",
+            "Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km. Its population density is 429.9 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id2",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ],
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ],
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Texas",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Texas, where the capital is Austin and the largest city is Houston. One of the languages spoken in Texas, which is part of the United States, is Spanish.",
+            "Abilene is in Texas, United States. Houston is the largest city in Texas, where Spanish is spoken, and its capital is Austin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id3",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language of the United States, where Asian Americans are an ethnic group and where the inhabitants are referred to as Americans. The US is home to Albany, which is found in the state of Georgia.",
+            "In the U.S. there are many different types of Americans, including Asian Americans. The native language in the U.S. is English, which is poke in cities like Albany, Georgia.",
+            "Albany is part of Georgia, in the United States. The English speaking country where the inhabitants are known as Americans and where Asian Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "areaOfLand",
+                    "486.2 (square kilometres)"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "populationDensity",
+                    "1142.3 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "areaCode",
+                    "505, 575"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "isPartOf",
+                    "New Mexico"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "areaTotal",
+                    "490.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque in New Mexico has a total area of 490.9 sq km, of which 486.2 is land. The population density is 1142.3 people per square kilometre. The area codes for Albuquerque are 505 and 575.",
+            "The total area of Albuquerque in New Mexico is 490.9 square kilometres of which 486.2 is land. The population density is 1142.3 persons per sq km and the area codes there are 505 and 575.",
+            "Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers. The area codes in Albuquerque, New Mexico are 505 and 575 and there are 1142.3 people per square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id5",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leader",
+                    "Tom Ta"
+                ],
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "United States House of Representatives",
+                    "location",
+                    "United States Capito"
+                ],
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is led by Tom Tait along with the United States House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.",
+            "Located in the United States Capitol, the United States House of Representatives leads Anaheim, California. Tom Tait is a leader in Anaheim, California, where the Spanish language is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id6",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "leader",
+                    "Democratic Party (United States)"
+                ],
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Democratic Party (United States)",
+                    "headquarter",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Anderson in the United States is led by the Democratic Party of the US who have their headquarters in Washington DC. Anderson is located in Indiana, where the state capital is Indianapolis.",
+            "The Democratic Party leads Anderson, Indiana in the US. The party headquarter is located in Washington D.C. Indianapolis is the capital of Indiana.",
+            "Indianapolis is the capital of Indiana, where the city of Anderson is located, in the United States. Anderson, is led by the U.S. Democratic Party, which is headquartered in Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "populationDensity",
+                    "523.9 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "areaCode",
+                    "765"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "areaTotal",
+                    "107.43 (square kilometres)"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "elevationAboveTheSeaLevel",
+                    "268.0"
+                ],
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana lies 268.0 above sea level, has an area code of 765 and a population density of 523.9 inhabitants for each of its 107.43 square kilometres.",
+            "Anderson, Indiana has 523.9 people per square kilometer, an area of 107.43 square kilometres, an elevation of 268.0 above sea level and an area code of 765.",
+            "Anderson, Indiana is 268 above sea level and uses the 765 area code. The city is 107.43 square kilometres large and has 523.9 residents per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "Contra Costa County, California"
+                ],
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ],
+                [
+                    "California",
+                    "language",
+                    "Chinese languag"
+                ],
+                [
+                    "Antioch, California",
+                    "areaTotal",
+                    "75.324 (square kilometres)"
+                ],
+                [
+                    "Contra Costa County, California",
+                    "isPartOf",
+                    "San Francisco Bay Area"
+                ]
+            ]
+        },
+        "text": [
+            "California, where some parts speak Chinese, is home to Antioch, which covers 75.324 square kilometres of Contra Costa County in the San Francisco Bay area.",
+            "Antioch and the San Francisco bay area are parts of Contra Costa County in California. The total area of Antioch is 75.324 square km and Chinese is one of the spoken languages in California.",
+            "With a total area of 75.324 square km, Antioch is part of Contra Costa County. This county is part of the San Francisco Bay area, in California, where, in some parts, Chinese is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id9",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Fountain County, Indiana"
+                ],
+                [
+                    "Fountain County, Indiana",
+                    "countySeat",
+                    "Covington, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is in Fountain County, Indiana, U.S, where the capital is Washington DC. Covington is the County seat of Fountain County.",
+            "Attica is part of Fountain County, Indiana, United States, where the capital is Washington, D.C. Covington is the County seat of Fountain County.",
+            "Covington is the County seat of Fountain County, in Indiana, which is where Attica is part of. This is in the United States, where the capital is Washington D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id10",
+            "shape": "(X (X (X (X (X) (X)))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Lee County, Alabama"
+                ],
+                [
+                    "Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Lee County, Alabama",
+                    "state",
+                    "Alabama"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of Lee County, Alabama, in the United States, the capital of which is Washington D.C. and where Asian Americans are an ethnic group.",
+            "Auburn (part of Lee County, Alabama), is in the United States, the capital of which is Washington D.C. One, of the many ethnic groups, in this country, is Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Lee County, Alabama"
+                ],
+                [
+                    "Lee County, Alabama",
+                    "countySeat",
+                    "Opelika, Alabama"
+                ],
+                [
+                    "Lee County, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Opelika is the county seat of Lee County, Alabama, The United States. Auburn is part of Lee County. African Americans are an ethnic group within the United States.",
+            "Opelika is the county seat of Lee County which is in Auburn, Alabama in the United States where African Americans are.",
+            "One of the ethnic groups in the United States are the African Americans and Lee County, Alabama, is within the United States. Auburn is part of Lee County, Alabama but Opelika is the county seat."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id12",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Williamson County, Texas"
+                ],
+                [
+                    "Williamson County, Texas",
+                    "largestCity",
+                    "Round Rock, Texas"
+                ],
+                [
+                    "Williamson County, Texas",
+                    "countySeat",
+                    "Georgetown, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is in Williamson County Texas where Georgetown is the county seat and Round Rock is the largest city and spanish is spoken.",
+            "Williamson County, Texas contains the towns of Austin, Round Rock, the largest city, and the county seat of Georgetown. Spanish is spoken in Texas.",
+            "Austin is part of Williamson County, Texas, where Spanish is spoken. Round Rock is the largest city in Williamson County and Georgetown is the county seat."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id13",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ],
+                [
+                    "Texas",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Williamson County, Texas"
+                ],
+                [
+                    "Williamson County, Texas",
+                    "countySeat",
+                    "Georgetown, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas, which uses the Spanish language, is Houston.",
+            "Williamson County with county seat Georgetown, and Austin are located inTexas, where the largest city is Houston and Spanish is one of the spoken languages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id14",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ],
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "Madison County, Indiana",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ],
+                [
+                    "Madison County, Indiana",
+                    "largestCity",
+                    "Anderson, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of Madison County, Indiana, in the U.S. Anderson is the biggest city in that county. The capital of Indiana is Indianapolis.",
+            "Alexandria is in Madison County, whose largest city is Anderson and is in Indiana where Indianapolis is the capital. They are all in the United States.",
+            "Indianapolis is the capital of Indiana, United States. Also located in this state are Alexandria and Madison County where the largest city is Anderson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id15",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Tarrant County, Texas",
+                    "countySeat",
+                    "Fort Worth, Texas"
+                ],
+                [
+                    "Texas",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "The county seat of Tarrant County is Fort Worth, Texas where English is spoken. Arlington is part of Tarrant County and the state's largest city is Houston.",
+            "English is a language spoken in Texas and Houston is the largest city there. Arlington is part of Tarrant County in Texas and Fort Worth is the county seat of Tarrant County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id16",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Tarrant County, Texas",
+                    "largestCity",
+                    "Fort Worth, Texas"
+                ],
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington, Tarrant County, is in Texas where the largest city is Fort Worth. Austin is the capital of Texas but Houston is the largest city.",
+            "Austin is Texas' capital and Houston is the largest city. Arlington, Texas is in Tarrant County; where the largest city is Fort Worth.",
+            "Austin is the capital city of Texas, where Houston is the capital. The state, has the largest city, Fort Worth, and is where Arlington is located (Tarrant County), is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Tarrant County in Texas in the U.S. Austin is the capital in that state and Houston is its biggest city.",
+            "Arlington is part of Tarrant County, Texas, the capital city of which, is Austin. Houston is the largest city in Texas, which is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "Dougherty County, Georgia"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Albany, Georgia",
+                    "leaderTitle",
+                    "Mayo"
+                ],
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The inhabitants of the United States are known as Americans and include the ethnic group of Asian Americans. The country is the location of Albany which is led by a Mayor and located in Dougherty County in Georgia.",
+            "Albany is in Dougherty County, Georgia, US where Americans live and Asian Americans are an thnic group. Albany is led by a Mayor.",
+            "Americans, are the inhabitants of the United States, where one of the ethnic groups, is Asian Americans. Also in the United States, is Albany (led by the Mayor), a city in Dougherty County, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id19",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Linn County, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is a city in Linn County, Oregon in the United States. The capital of the country is Washington, D.C. and its inhabitants are called Americans. African Americans are an ethnic group within the United States.",
+            "Albany, Oregon is in Linn County in the United States. Washington, D.C. is the capital of the U.S.; where African Americans and Americans call home."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id20",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Summit County, Ohio is located within the United States. The capital of the U.S. is Washington, D.C. and its people are known as Americans. Native Americans are one ethnic group in that country.",
+            "The inhabitants of the United States are known as Americans and Native Americans are one of the ethnic groups there. Akron, Ohio which is in Summit County is located within the United States and the capital is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id21",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ],
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ],
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "Steuben County, Indiana"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The inhabitants of the United States are known as Americans and include the ethnic group of African Americans. The country is led by the President and is the location of Angola, part of Steuben County, Indiana.",
+            "Angola, Indiana is in Steuben County of the U.S.A. The country is led by a president and among the ethnic groups are African Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id22",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Benton County, Oregon"
+                ],
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States uses the English language, has the capital of Washington DC, and includes the Asian Americans among its ethnic groups. The city of Albany is located within the country and is part of Benton County in Oregon.",
+            "The city of Albany is part of Benton County, Oregon U.S. In the U.S.A. Washington D.C. is the capital, there is an ethnic group of Asian Americans and English is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id23",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Oregon"
+                ],
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Asian Americans are an ethnic group in the US where the capital city is Washington DC and English is the spoken language. The country is the location of Albany in Oregon.",
+            "Albany is a city in Oregon, U.S. where English is the language spoken and Asian Americans are an ethnic group and the capital is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id24",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Lee County, Alabama"
+                ],
+                [
+                    "Lee County, Alabama",
+                    "countySeat",
+                    "Opelika, Alabama"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama, is part of Lee County, which has Opelika as the county seat. Auburn is located in the US, where Native Americans are an ethnic group.",
+            "Native Americans are an ethnic group within the United States. This country is where Auburn is located. Auburn is part of Lee County (Alabama), where the Opelika is the county seat.",
+            "Native Americans are one of the ethnic groups in the United States of America which is where Auburn, Alabama is located. Auburn is part of Lee County in Alabama and their county seat is Opelika."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id25",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "United States",
+                    "leader",
+                    "Barack Obama"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "Albuquerque City Counc"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque in New Mexico, U.S. is led by the Albuquerque City Council and English is the official language. The leader of the United States is Barack Obama and Native Americans are one of the ethnic groups in the country.",
+            "Native Americans are an ethnic group in the United States, where Barack Obama, is the leader. English speaking America, is where Albuquerque, in New Mexico, is located. The Albuquerque City Council has a leadership role in Albuquerque.",
+            "The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, in the United States. The leader of this English speaking country, is Barack Obama, and one of the ethnic groups, is Native Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id26",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language spoken in the United States where the inhabitants are known as Americans and include the ethnic group of Native Americans. The country is the location of Angola, a city in Indiana.",
+            "Angola, Indiana is part of the English speaking, United States. The U.S. is home to Native Americans and Americans.",
+            "Angola is in Indiana which is in the US where English is spoken and the inhabitants are Americans and Native Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id27",
+            "shape": "(X (X (X) (X) (X)) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ],
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is found in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants are referred to as Americans.",
+            "The president is the leader of the United States where Asian Americans are an ethnic group. Albany, Georgia is in the United States, where the inhabitants, are Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id28",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Washington (state)",
+                    "largestCity",
+                    "Sea"
+                ],
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Washington (state)"
+                ],
+                [
+                    "Washington (state)",
+                    "capital",
+                    "Olympia, Washington"
+                ],
+                [
+                    "King County, Washington",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "King County, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Seattle is the largest city of Washington State and Olympia is the capital. Also located in the state is Auburn, part of King County, U.S.",
+            "Auburn is part of King County, Washington, United States. Olympia is the capital of Washington and its largest city is Seattle.",
+            "Auburn is in King County, Washington State, whose largest city is Seattle and whose capital is Olympia. Washington is in the US."
+        ]
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "René Goscinny"
+                ],
+                [
+                    "Asterix (comicsCharacter)",
+                    "creator",
+                    "Albert Uderzo"
+                ]
+            ]
+        },
+        "text": [
+            "The comic strip character Asterix was created by Albert Uderzo and Rene Goscinny.",
+            "The comic book character Asterix was created by René Goscinny and Albert Uderzo.",
+            "The character Asterix was created by René Goscinny and Albert Uderzo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aurakles",
+                    "creator",
+                    "Len Wein"
+                ],
+                [
+                    "Aurakles",
+                    "alternativeName",
+                    "Aurakles"
+                ]
+            ]
+        },
+        "text": [
+            "Created by Len Wein, Aurakles's alternative name is also Aurakles.",
+            "The character Aurakles, also known as Aurakles, was created by Len Wein."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ballistic (comicsCharacter)",
+                    "creator",
+                    "Doug Moench"
+                ],
+                [
+                    "Ballistic (comicsCharacter)",
+                    "alternativeName",
+                    "Kelvin Mao"
+                ]
+            ]
+        },
+        "text": [
+            "Doug Moench was the creator of the comic character Ballistic, who has the alternative name Kelvin Mao.",
+            "Ballistic (also known as Kelvin Mao) is a fictional comic superhero created by Doug Moench.",
+            "Doug Moench created the character Ballistic, the fictional superhero whose alter ego is Kelvin Mao."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ]
+            ]
+        },
+        "text": [
+            "Starring Graeme Garden, Bananaman, the TV series was shown on the BBC.",
+            "Graeme Garden starred in the TV series Bananaman, which was shown on the BBC.",
+            "Bananaman, which starred Graeme Garden, was broadcasted by the BBC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id5",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Bill Oddie"
+                ],
+                [
+                    "Bill Oddie",
+                    "birthPlace",
+                    "Lancashire"
+                ]
+            ]
+        },
+        "text": [
+            "Bill Oddie, who stars in Bananaman, was born in Lancashire.",
+            "Bananaman starred Bill Oddie who was born in Lancashire.",
+            "Bill Oddie, who was born in Lancashire, starred in Bananaman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Bibbo Bibbowski",
+                    "creator",
+                    "Jerry Ordway"
+                ],
+                [
+                    "Jerry Ordway",
+                    "nationality",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Bibbo Bibbowski was created by American, Jerry Ordway.",
+            "The creator of Bibbo Bibbowski is Jerry Ordway, an American.",
+            "Jerry Ordway, an American, is the creator of Bibbo Bibbowski."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Black Pirate",
+                    "creator",
+                    "Sheldon Moldoff"
+                ],
+                [
+                    "Black Pirate",
+                    "alternativeName",
+                    "Jon Valor"
+                ]
+            ]
+        },
+        "text": [
+            "Black Pirate, also known as Jon Valor, was created by Sheldon Moldoff.",
+            "The Black Pirate (Jon Valor) was created by Sheldon Moldoff.",
+            "Sheldon Moldoff is the creator of Black Pirate, who is also known as Jon Valor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Roger Stern"
+                ],
+                [
+                    "Blockbuster (comicsCharacter)",
+                    "creator",
+                    "Tom Lyle"
+                ]
+            ]
+        },
+        "text": [
+            "The comic character Blockbuster was created by Roger Stern and Tom Lyle.",
+            "Blockbuster is a comic book character which was created by both Roger Stern and Tom Lyle.",
+            "The comic book character Blockbuster was created by Roger Stern and Tom Lyle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Paris Cullins"
+                ],
+                [
+                    "Bolt (comicsCharacter)",
+                    "creator",
+                    "Gary Cohn (comics)"
+                ]
+            ]
+        },
+        "text": [
+            "Paris Cullins and Gary Cohn are the creators of the comics character Bolt.",
+            "Both Paris Cullins and Gary Cohn were the creator's of the comic character Bolt.",
+            "The comic character Bolt, was created by Paris Cullins and Gary Cohn."
+        ]
+    }
+]

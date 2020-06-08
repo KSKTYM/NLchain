@@ -1,0 +1,121 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "designer",
+                    "Pietro Canonica"
+                ]
+            ]
+        },
+        "text": [
+            "The Atatürk Monument in Izmir was designed by Pietro Canonica.",
+            "Pietro Canonica designed the Atatürk Monument in Izmir.",
+            "Pietro Canonica is the designer of the Ataturk Monument (Izmir).",
+            "The Ataturk Monument was designed by Pietro Canonica.",
+            "Ataturk Monument was designed by Pietro Canonica.",
+            "The Atatürk Monument (İzmir) was designed by Pietro Canonica.",
+            "The designer of the Atatürk Monument (İzmir) is Pietro Canonica.",
+            "Pietro Canonica is the designer of the Ataturk Monument in Izmir."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "material",
+                    "Bronze"
+                ]
+            ]
+        },
+        "text": [
+            "The Atatürk Monument in Izmir is made of bronze.",
+            "The material of the Ataturk Monument (Izmir) is bronze.",
+            "The Ataturk Monument is made from Bronze.",
+            "The Atatürk Monument (İzmir) is made of Bronze.",
+            "Ataturk Monument is made of Bronze."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "leaderName",
+                    "Artur Rasizad"
+                ]
+            ]
+        },
+        "text": [
+            "Azerbaijan leader's name is Artur Rasizade.",
+            "The name of the leader of Azerbaijan is Artur Rasizade."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "location",
+                    "Azerbaijan"
+                ]
+            ]
+        },
+        "text": [
+            "The Baku Turkish Martyrs' Memorial is located in Azerbaijan.",
+            "The Baku Turkish Martyrs' Memorial is in Azerbaijan.",
+            "The Turkish Martyrs' memorial is located in Baku, Azerbaijan.",
+            "Baku Turkish Martyrs' Memorial is located in Azerbaijan.",
+            "The Baku Turkish Martyrs' Memorial can be found in Azerbaijan.",
+            "The Baku Turkish Martyrs' Memorial is situated in Azerbaijan.",
+            "The Baku Turkish Martyrs' Memorial is found in Azerbaijan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "material",
+                    "Red granite and white marble"
+                ]
+            ]
+        },
+        "text": [
+            "The materials used for the Baku Turkish Martyrs' Memorial is red granite and white marble.",
+            "The Baku Turkish Martyrs' Memorial is created in red granite and white marble.",
+            "The material of the Baku Turkish Martyrs' Memorial is Red granite and white marble.",
+            "The Baku Turkish Martyrs' Memorial is made from red granite and white marble.",
+            "Baku Turkish Martyrs' Memorial is made of red granite and white marble.",
+            "Baku Turkish Martyrs' Memorial is made from red granite and white marble.",
+            "The Baku Turkish Martyrs' Memorial is made with red granite and white marble."
+        ]
+    }
+]

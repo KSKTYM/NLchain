@@ -1,0 +1,4433 @@
+[
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Baltic War",
+                    "author",
+                    "David Web"
+                ]
+            ]
+        },
+        "text": [
+            "David Weber is the author of 1634: The Baltic War.",
+            "1634: The Baltic War was written by David Weber."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "ISBN number",
+                    "978-1-4165-4253-7"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis can be located by its ISBN number \"978-1-4165-4253-7\".",
+            "The ISBN number of 1634: The Bavarian Crisis is 978-1-4165-4253-7."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "author",
+                    "Virginia DeMarce and Eric Flint"
+                ]
+            ]
+        },
+        "text": [
+            "The authors of 1634: The Bavarian Crisis are Virginia DeMarce and Eric Flint.",
+            "1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "author",
+                    "Virginia DeMarc"
+                ]
+            ]
+        },
+        "text": [
+            "Virginia DeMarce is the author of 1634: The Bavarian Crisis.",
+            "The author of 1634: The Bavarian Crisis is Virginia DeMarce."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "followedBy",
+                    "Ring of Fire II"
+                ]
+            ]
+        },
+        "text": [
+            "The novel 1634: The Bavarian Crisis is followed by Ring of Fire II.",
+            "1634: The Bavarian Crisis was followed by Ring of Fire II.",
+            "1634: The Bavarian Crisis is followed by Ring of Fire II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis is written in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis is available in print form.",
+            "The 1634 The Bavarian Crisis was put in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "1634 The Bavarian Crisis comes in hardcover.",
+            "1634: The Bavarian Crisis is a hardcover publication.",
+            "1634: The Bavarian Crisis is available in hardcover."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "numberOfPages",
+                    "448"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis has 448 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "DeMarce short stories in the The Grantville Gazettes"
+                ]
+            ]
+        },
+        "text": [
+            "DeMarce short stories in the Grantville Gazettes preceded 1634: The Bavarian Crisis.",
+            "1634: The Bavarian Crisis was preceded by DeMarce short stories in the Grantville Gazettes."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "1634: The Baltic Wa"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis was preceded by 1634: The Baltic War.",
+            "1634: The Bavarian Crisis is preceded by 1634: The Baltic War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "1634: The Ram Rebellion"
+                ]
+            ]
+        },
+        "text": [
+            "1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.",
+            "1634: The Bavarian Crisis was preceded by 1634: The Ram Rebellion.",
+            "1634: The Bavarian Crisis is preceded by 1634: The Ram Rebellion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "Grantville Gazette II"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis was preceded by Grantville Gazette II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "Grantville Gazette III"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis was preceded by Grantville Gazette III.",
+            "1634: The Bavarian Crisis is the sequel to Grantville Gazette III."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Galileo Affair",
+                    "followedBy",
+                    "1634: The Ram Rebellion"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Galileo Affair was followed by 1634: The Ram Rebellion.",
+            "1634: The Galileo Affair is followed by 1634: The Ram Rebellion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Galileo Affair",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "The book \"1634: The Galileo Affair is available in English.",
+            "1634: The Galileo Affair is written in the English language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "author",
+                    "Eric Flint, Virginia DeMarce, et al."
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Ram Rebellion was written by Eric Flint, Virginia DeMarce, et al."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "author",
+                    "Virginia DeMarc"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Ram Rebellion was written by Virginia DeMarce.",
+            "Virginia DeMarce is the author of 1634: The Ram Rebellion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "1634 The Ram Rebellion comes from the United States.",
+            "1634 The Ram Rebellion was written in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language used in 1634: The Ram Rebellion.",
+            "1634: The Ram Rebellion is written in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "mediaType",
+                    "E-book"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Ram Rebellion can be found as an E book.",
+            "1634: The Ram Rebellion is of the media type E book.",
+            "1634: The Ram Rebellion is available as an E-Book."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "The book titled 1634: The Ram Rebellion is a hardcover.",
+            "1634: The Ram Rebellion can be found in hardcover."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "mediaType",
+                    "Paperback"
+                ]
+            ]
+        },
+        "text": [
+            "The 1634: The Ram Rebellion is a paperback.",
+            "1634 The Ram Rebellion is available in paperback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "numberOfPages",
+                    "512"
+                ]
+            ]
+        },
+        "text": [
+            "The novel 1634 The Ram Rebellion is 512 pages long.",
+            "1634: The Ram Rebellion has 512 pages.",
+            "1634: The Ram Rebellion is 512 pages long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "precededBy",
+                    "1634: The Galileo Affa"
+                ]
+            ]
+        },
+        "text": [
+            "1634 The Ram Rebellion was preceded by 1634 The Galileo Affair.",
+            "1634: The Ram Rebellion was preceded by 1634: The Galileo Affair.",
+            "1634: The Ram Rebellion is preceded by 1634: The Galileo Affair."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.T. Charlie Johnson",
+                    "almaMater",
+                    "Harvard University"
+                ]
+            ]
+        },
+        "text": [
+            "Harvard University is A.T. Charlie Johnson's almaMater.",
+            "Harvard University is the alma mater of A T Charlie Johnson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.T. Charlie Johnson",
+                    "almaMater",
+                    "Stanford University"
+                ]
+            ]
+        },
+        "text": [
+            "Stanford University is A.T. Charlie Johnson's almaMater.",
+            "Stanford University is the alma mater for A.T. Charlie Johnson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.T. Charlie Johnson",
+                    "doctoralAdvisor",
+                    "Michael Tinkha"
+                ]
+            ]
+        },
+        "text": [
+            "A.T. Charlie Johnson did his PhD under the supervision of Michael Tinkham.",
+            "A T Charlie Johnson's doctoral advisor was Michael Tinkham.",
+            "Michael Tinkham was a doctoral advisor of A.T. Charlie Johnson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.T. Charlie Johnson",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A T Charlie Johnson is a United States national.",
+            "A.T. Charlie Johnson is from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.T. Charlie Johnson",
+                    "residence",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A.T. Charlie Johnson resides in the United States.",
+            "The United States is the residence of A T Charlie Johnson.",
+            "A.T. Charlie Johnson lives in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "CODEN code",
+                    "ATISET"
+                ]
+            ]
+        },
+        "text": [
+            "ATISET is the CODEN code for ACM Transactions on Information Systems.",
+            "The CODEN code for ACM Transactions on Information Systems is \"ATISET\".",
+            "The CODEN code for ACM Transactions on Information Systems is ATISET."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "ISSN number",
+                    "1046-8188"
+                ]
+            ]
+        },
+        "text": [
+            "The ISSN number of ACM Transactions on Information Systems is 1046-8188."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "ISSN number",
+                    "1558-2868"
+                ]
+            ]
+        },
+        "text": [
+            "ACM Transactions on Information Systems has the ISSN number 1558-2868.",
+            "The ISSN number of ACM Transactions on Information Systems is 1558-2868.",
+            "The ACM Transactions on Information Systems ISSN number is 1558-2868."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "LCCN number",
+                    "89646863"
+                ]
+            ]
+        },
+        "text": [
+            "89646863 is the LCCN number of ACM Transactions on Information Systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "abbreviation",
+                    "ACM Trans. Inf. Syst."
+                ]
+            ]
+        },
+        "text": [
+            "ACM Transactions on Information Systems has the abbreviation of ACM Trans. Inf. Syst.",
+            "The abbreviation \"ACM Trans. Inf. Syst.\" is for ACM Transactions on Information Systems.",
+            "ACM Transactions on Information Systems is abbreviated to ACM Trans. Inf. Syst."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "academicDiscipline",
+                    "Computer scienc"
+                ]
+            ]
+        },
+        "text": [
+            "ACM Transactions on Information Systems is part of the academic Discipline of Computer Science."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "publisher",
+                    "Association for Computing Machinery"
+                ]
+            ]
+        },
+        "text": [
+            "Association for Computing Machinery is the publisher of ACM Transactions on information Systems.",
+            "ACM Transactions on Information Systems is published by the Association for Computing Machinery.",
+            "ACM Transactions on Information Systems was published by the Association for Computing Machinery."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "ISSN number",
+                    "0269-9370"
+                ]
+            ]
+        },
+        "text": [
+            "ISSN number 0269-9370 is the AIDS journal.",
+            "AIDS (journal) has the ISSN number of \"0269-9370\".",
+            "The ISSN number of AIDS (journal) is 0269-9370."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "ISSN number",
+                    "1473-5571"
+                ]
+            ]
+        },
+        "text": [
+            "AIDS journal has the ISSN number 1473-5571.",
+            "The Aids Journal ISSN number is 1473-5571.",
+            "The ISSN number of AIDS journal is 1473-5571."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "LCCN number",
+                    "90640840"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDS journal has the LCCN number 90640840.",
+            "The LCCN number of AIDS (journal) is 90640840.",
+            "The LCCN number of AIDS journal is 90640840."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "academicDiscipline",
+                    "HIV"
+                ]
+            ]
+        },
+        "text": [
+            "AIDS (journal) comes under the academic discipline HIV.",
+            "The academic discipline of AIDS journal is HIV.",
+            "The AIDS (journal) publishes about HIV."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "academicDiscipline",
+                    "HIV/AIDS"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDS journal studies HIV/AIDS.",
+            "The Aids Journal's discipline is HIV/AIDS.",
+            "The AIDS journal belongs to the academic discipline, HIV/AIDS."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "firstPublicationYear",
+                    "1987"
+                ]
+            ]
+        },
+        "text": [
+            "AIDS (journal) was first published in 1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "publisher",
+                    "Lippincott Williams &amp; Wilkins"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDS journal is published by Lippincott, Williams &amp; Wilkins.",
+            "AIDS (journal) was published by Lippincott Williams &amp; Wilkins.",
+            "The AIDS (journal) is published by Lippincott Williams &amp; Wilkins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "CODEN code",
+                    "AAIDBI"
+                ]
+            ]
+        },
+        "text": [
+            "The coden code for AIP Advances is AAIDBI.",
+            "AIP Advances has a CODEN code of \"AAIDBI\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "ISSN number",
+                    "2158-3226"
+                ]
+            ]
+        },
+        "text": [
+            "AIP Advances, ISSN number 2158-3226.",
+            "AIP Advances has the ISSN number of \"2158-3226\".",
+            "AIP Advances has the ISSN number 2158-3226."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "abbreviation",
+                    "AIP Adv."
+                ]
+            ]
+        },
+        "text": [
+            "\"AIP Adv.\" is the abbreviation of AIP Advances.",
+            "AIP Advances is abbreviated to AIP Adv."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "academicDiscipline",
+                    "Physics"
+                ]
+            ]
+        },
+        "text": [
+            "AIP Advances is devoted to the study of physics.",
+            "AIP Advances covers the discipline of physics."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "editor",
+                    "Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson,  Masaaki Tanaka, Enge G. Wang"
+                ]
+            ]
+        },
+        "text": [
+            "AIP Advances editors include the following: Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang.",
+            "The editors of AIP Advances are Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "editor",
+                    "A.T. Charlie Johnson"
+                ]
+            ]
+        },
+        "text": [
+            "A T Charlie Johnson is the editor of AIP Advances.",
+            "The editor of AIP Advances is A.T. Charlie Johnson.",
+            "AIP Advances was edited by A.T. Charlie Johnson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "impactFactor",
+                    "1.524"
+                ]
+            ]
+        },
+        "text": [
+            "AIP Advances has the impact factor 1.524.",
+            "The impact factor of AIP Advances is 1.524."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIP Advances",
+                    "publisher",
+                    "American Institute of Physics"
+                ]
+            ]
+        },
+        "text": [
+            "The American Institute of Physics publishes AIP Advances.",
+            "AIP Advances was published by American Institute of Physics.",
+            "AIP Advances publisher is American Institute of Physics."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "ISBN number",
+                    "0-7653-0633-6"
+                ]
+            ]
+        },
+        "text": [
+            "The ISBN number of the book A Fortress of Grey Ice is 0-7653-0633-6.",
+            "The ISBN number of A Fortress of Grey Ice is 0-7653-0633-6.",
+            "A Fortress of Grey Ice's ISBN number is 0-7653-0633-6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "OCLC number",
+                    "51969173"
+                ]
+            ]
+        },
+        "text": [
+            "The OCLC number of A Fortress of Grey Ice is 51969173."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "author",
+                    "J. V. Jones"
+                ]
+            ]
+        },
+        "text": [
+            "J.V. Jones authored A Fortress of Grey Ice.",
+            "The author of A Fortress of Grey Ice is J.V. Jones.",
+            "A Fortress of Grey Ice was written by J. V. Jones."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice is from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice is written in the English language.",
+            "A Fortress of Grey Ice was originally published in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "The book \"A Fortress of Grey Ice\" can be found in print.",
+            "A Fortress of Grey Ice was made in \"Print\".",
+            "A fortress of Grey Ice is available in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "numberOfPages",
+                    "672"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice has 672 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "publisher",
+                    "Tor Books"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice is published by Tor Books.",
+            "Tor Books publishes A Fortress of Grey Ice.",
+            "The book \"A Fortress of Grey Ice\" was published by Tor Books."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "ISBN number",
+                    "0-7156-3648-0"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance has the ISBN number 0-7156-3648-0.",
+            "The ISBN number of A Glastonbury Romance is 0-7156-3648-0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "LibraryofCongressClassification",
+                    "PR6031.O867"
+                ]
+            ]
+        },
+        "text": [
+            "The Library of Congress Classification of \"A Glastonbury Romance\" is PR6031.O867.",
+            "The Library of Congress Classification of A Glastonbury Romance is PR6031O867."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "author",
+                    "John Cowper Powys"
+                ]
+            ]
+        },
+        "text": [
+            "The author of A Glastonbury Romance is John Cowper Powys.",
+            "A Glastonbury Romance was written by John Cowper Powys."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "followedBy",
+                    "Weymouth Sands"
+                ]
+            ]
+        },
+        "text": [
+            "The book \"A Glastonbury Romance\" was followed by \"Weymouth Sands\".",
+            "A Glastonbury Romance was followed by Weymouth Sands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance is in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "numberOfPages",
+                    "1174"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance has 1174 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "precededBy",
+                    "Wolf Solen"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance was preceded By Wolf Solent.",
+            "A Glastonbury Romance is the sequel to Wolf Solent."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "publisher",
+                    "Simon &amp; Schus"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance is published by Simon &amp; Schuster.",
+            "Simon &amp; Schuster is the publisher of A Glastonbury Romance."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "publisher",
+                    "The Bodley Head"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance is published by The Bodley Head.",
+            "The Bodley Head published A Glastonbury Romance.",
+            "A Glastonbury Romance was published by The Bodley Head."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "OCLC number",
+                    "57392246"
+                ]
+            ]
+        },
+        "text": [
+            "The OCLC number of A Long Long Way is 57392246."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "country",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "A Long Long Way comes from Ireland.",
+            "A Long Long Way was written in Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "followedBy",
+                    "The Secret Scriptu"
+                ]
+            ]
+        },
+        "text": [
+            "The novel A Long Long Way was followed by The Secret Scripture.",
+            "The book A Long Long Way was followed by The Secret Scripture.",
+            "The book The Secret Scripture followed the book \"A Long Long Way\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "mediaType",
+                    "Print  &amp; Paperback"
+                ]
+            ]
+        },
+        "text": [
+            "A Long Long Way was published in Print &amp; Paperback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "A Long Long Way is available in hardcover."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "numberOfPages",
+                    "292"
+                ]
+            ]
+        },
+        "text": [
+            "A Long Long Way is 292 pages long.",
+            "A Long Long Way has 292 pages in it."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "precededBy",
+                    "Annie Dunn"
+                ]
+            ]
+        },
+        "text": [
+            "Annie Dunne preceded A Long Long Way.",
+            "A Long Long Way is preceded by Annie Dunne.",
+            "A Long Long Way was preceded by Annie Dunne."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "publisher",
+                    "Viking Press"
+                ]
+            ]
+        },
+        "text": [
+            "The book \"A Long Long Way was published by Viking Press.",
+            "A Long Long Way was published by Viking Press.",
+            "A long long way is published by Viking press."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "OCLC number",
+                    "49805501"
+                ]
+            ]
+        },
+        "text": [
+            "The OCLC number of A Loyal Character Dancer is 49805501."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "author",
+                    "Qiu Xiaolong"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer was penned by Qiu Xiaolong.",
+            "Qiu Xiaolong is the author of A Loyal Character Dancer.",
+            "A Loyal Character Dancer was written by Qiu Xiaolong."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer is published in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer is written in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer is in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer can be found in hardcover.",
+            "A Loyal Character Dancer was published in Hardcover."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "numberOfPages",
+                    "360"
+                ]
+            ]
+        },
+        "text": [
+            "A loyal Character Dancer is 360 pages long.",
+            "A Loyal Character Dancer has 360 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "publisher",
+                    "Soho Press"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer is published by Soho Press.",
+            "A Loyal Character Dancer was published by Soho Press."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "ISBN number",
+                    "0-374-26131-8"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp has an ISBN number of \"0-374-26131-8\".",
+            "A Severed Wasp has the ISBN number 0-374-26131-8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "LibraryofCongressClassification",
+                    "PS3523.E55 S4 1982"
+                ]
+            ]
+        },
+        "text": [
+            "PS3523.E55 S4 1982 is the Library of Congress Classification of \"A Severed Wasp\".",
+            "The Library of Congress Classification of A Severed Wasp is PS3523.E55 S4 1982."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "OCLC number",
+                    "8805735"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp was assigned the OCLC number 8805735.",
+            "The OCLC number of A Severed Wasp is 8805735."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp is from the United States.",
+            "A severed Wasp originates from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp was written in the English language.",
+            "A Severed Wasp is in the English language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "A severed wasp can be found in print.",
+            "The book \"A Severed Wasp\" is available in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "A Severed Wasp is a hardcover book.",
+            "A Severed Wasp was published in hardback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "numberOfPages",
+                    "388"
+                ]
+            ]
+        },
+        "text": [
+            "388 is the number of pages A severed Wasp has.",
+            "There are 388 pages in the book \"A Severed Wasp\".",
+            "A Severed Wasp has 388 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Severed Wasp",
+                    "publisher",
+                    "Farrar, Straus and Giroux"
+                ]
+            ]
+        },
+        "text": [
+            "Farrar, Straus and Giroux publish A Severed Wasp.",
+            "A Severed Wasp was published by Farrar, Straus, and Giroux.",
+            "A severed wasp is published by Farrar, Straus and Giroux."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "ISBN number",
+                    "978-0-15-204770-2"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars ISBN number is \"978-0-15-204770-2\".",
+            "A Wizard of Mars has the ISBN number 978-0-15-204770-2.",
+            "A Wizard of Mars' ISBN number is \"978-0-15-204770-2\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "OCLC number",
+                    "318875313"
+                ]
+            ]
+        },
+        "text": [
+            "The OCLC number of A Wizard of Mars is 318875313."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "\" A Wizard of Mars was Published in the United States \".",
+            "A Wizard of Mars originates from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars is available in print form.",
+            "A Wizard of Mars was published in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars is published in Hardcover.",
+            "A Wizard of Mars was published in hardback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "numberOfPages",
+                    "560"
+                ]
+            ]
+        },
+        "text": [
+            "A wizard of Mars is 560 pages long.",
+            "There are 560 pages in \"A Wizard of Mars\".",
+            "The book A Wizard of Mars has 560 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "precededBy",
+                    "Wizards at Wa"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars is preceded by Wizards at War.",
+            "Wizards at War preceded A Wizard of Mars.",
+            "A Wizard of Mars was preceded by Wizards at War."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "publisher",
+                    "Harcourt (publisher)"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars was published by Harcourt.",
+            "Harcourt is the publisher of A Wizard of Mars.",
+            "A Wizard of Mars is published by Harcourt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg",
+                    "CODEN code",
+                    "AMHAAJ"
+                ]
+            ]
+        },
+        "text": [
+            "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the CODEN code AMHAAJ.",
+            "The CODEN code for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is AMHAAJ.",
+            "The code for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is AMHAAJ."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg",
+                    "ISSN number",
+                    "1865-8784"
+                ]
+            ]
+        },
+        "text": [
+            "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the ISSN number 1865-8784.",
+            "The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg ISSN number is 1865-8784.",
+            "The ISSN number of Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is 1865-8784."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg",
+                    "abbreviation",
+                    "Abh. Math. Semin. Univ. Hambg."
+                ]
+            ]
+        },
+        "text": [
+            "\"Abh.Math.Semin.Univ.Hambg\" is the abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg.",
+            "The abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is Abh. Math. Semin. Univ. Hambg.",
+            "The abbreviation of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is Abh. Math. Semin. Univ. Hambg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg",
+                    "academicDiscipline",
+                    "Pure mathematics"
+                ]
+            ]
+        },
+        "text": [
+            "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is concerned with the academic discipline of Pure Mathematics."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg",
+                    "publisher",
+                    "Springer Science+Business Media"
+                ]
+            ]
+        },
+        "text": [
+            "Springer Science &amp; Business Media is the publisher of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "ISBN number",
+                    "0-439-17685-9"
+                ]
+            ]
+        },
+        "text": [
+            "The ISBN number of Above the Veil is 0-439-17685-9.",
+            "Above the Veil has an ISBN number 0-439-17685-9."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "OCLC number",
+                    "46451790"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil has the OCLC number 46451790.",
+            "Above the Veil has a OCLC number of 46451790."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "country",
+                    "Australians"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil is from the country of Australia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "followedBy",
+                    "Into Battle (novel)"
+                ]
+            ]
+        },
+        "text": [
+            "The novel \"Into Battle\" followed \"Above the Veil\".",
+            "The novel Into Battle followed Above the Veil.",
+            "Above the Veil is followed by Into Battle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil is written in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "numberOfPages",
+                    "248"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil is 248 pages long.",
+            "Above the Veil contains 248 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "precededBy",
+                    "Aen"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil was preceded By Aenir.",
+            "Above the Veil is the sequel to Aenir."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Mathematica Hungarica",
+                    "CODEN code",
+                    "AMAHE9"
+                ]
+            ]
+        },
+        "text": [
+            "The Acta Mathematica Hungarica CODEN code is \"AMAHE9\".",
+            "The CODEN code for Acta Mathematica Hungarica is \"AMAHE9\".",
+            "The code of Acta Mathematica Hungarica is AMAHE9."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Mathematica Hungarica",
+                    "ISSN number",
+                    "0236-5294"
+                ]
+            ]
+        },
+        "text": [
+            "The Acta Mathematica Hungarica has the ISSN number 0236-5294.",
+            "The Acta Mathematica Hungarica ISSN number is \"0236-5294\".",
+            "The ISSN number of Acta Mathematica Hungarica is 0236-5294."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Mathematica Hungarica",
+                    "ISSN number",
+                    "1588-2632"
+                ]
+            ]
+        },
+        "text": [
+            "Acta Mathematica Hungarica is ISSN number 1588-2632.",
+            "Acta Mathematica Hungarica has the ISSN number of \"1588-2632\".",
+            "The ISSN number of Acta Mathematica Hungarica is 1588-2632."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Mathematica Hungarica",
+                    "LCCN number",
+                    "83646315"
+                ]
+            ]
+        },
+        "text": [
+            "83646315 is the LCCN number for Acta Mathematica Hungarica.",
+            "Acta Mathematica Hungarica has the LCCN number 83646315."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Mathematica Hungarica",
+                    "publisher",
+                    "Springer Science+Business Media"
+                ]
+            ]
+        },
+        "text": [
+            "Acta Mathematica Hungarica is published by Springer Science and Business Media.",
+            "Springer Science+Business Media is the publisher of Acta Mathematica Hungarica.",
+            "Acta Mathematica Hungarica are the publishers of Springer Science+Business Media."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "ISSN number",
+                    "1732-2421"
+                ]
+            ]
+        },
+        "text": [
+            "Acta Palaeontologica Polonica has the ISSN number 1732-2421.",
+            "The Acta Palaeontologica Polonica ISSN number is \"1732-2421\".",
+            "The ISSN number for the Acta Palaeontologica Polonica is 1732-2421."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "LCCN number",
+                    "60040714"
+                ]
+            ]
+        },
+        "text": [
+            "The Acta Palaeontologica Polonica has a LCCN number of 60040714."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "abbreviation",
+                    "Acta Palaeontol. Pol."
+                ]
+            ]
+        },
+        "text": [
+            "Acta Palaeontologica Polonica is abbreviated to Acta Palaeontol. Pol.",
+            "The Acta Palaeontologica Polonica is abbreviated Acta Palaeontol. Pol.",
+            "Acta Palaeontologica Polonica's abbreviated name is Acta Palaeontol. Pol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "academicDiscipline",
+                    "Paleobiology"
+                ]
+            ]
+        },
+        "text": [
+            "Paleobiology is the academic discipline of Acta Palaeontologica Polonica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "academicDiscipline",
+                    "Paleontology"
+                ]
+            ]
+        },
+        "text": [
+            "Acta Palaeontologica Polonica is academically focused on Paleontology.",
+            "The Acta Palaeontologica Polonica comes under the academic discipline of paleontology."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "publisher",
+                    "Institute of Paleobiology, Polish Academy of Sciences"
+                ]
+            ]
+        },
+        "text": [
+            "Acta Palaeontologica Polonica was published by the Institute of Paleobiology, Polish Academy of Sciences.",
+            "Acta Palaeontologica Polonica is published by the Institute of Paleobiology, Polish Academy of Sciences."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acta Palaeontologica Polonica",
+                    "publisher",
+                    "Polish Academy of Sciences"
+                ]
+            ]
+        },
+        "text": [
+            "Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica.",
+            "Acta Palaeontologica Polonica was published by the Polish Academy of Sciences."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addiction (journal)",
+                    "CODEN code",
+                    "ADICE5"
+                ]
+            ]
+        },
+        "text": [
+            "Addiction (Journal) has the CODEN Code ADICE5.",
+            "The CODEN code \"ADICE5\" is for Addiction (journal)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addiction (journal)",
+                    "ISSN number",
+                    "0965-2140"
+                ]
+            ]
+        },
+        "text": [
+            "The journal Addiction had the ISSN number 0965-2140.",
+            "The Addiction journal has an ISSN number of 0965-2140.",
+            "The ISSN number of Addiction journal is 0965-2140."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addiction (journal)",
+                    "ISSN number",
+                    "1360-0443"
+                ]
+            ]
+        },
+        "text": [
+            "The journal Addiction has the ISSN number 1360-0443.",
+            "The ISSN number of Addiction (journal) is 1360-0443.",
+            "The ISSN number of Addiction journal is 1360-0443."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addiction (journal)",
+                    "abbreviation",
+                    "Addiction"
+                ]
+            ]
+        },
+        "text": [
+            "Addiction is the abbreviated version of the Addiction journal.",
+            "Addiction (journal) has the abbreviation of \"Addiction\".",
+            "Addiction (journal) is abbreviated to Addiction."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addiction (journal)",
+                    "publisher",
+                    "Wiley-Blackwell on behalf of the Society for the Study of Addiction"
+                ]
+            ]
+        },
+        "text": [
+            "The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.",
+            "Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.",
+            "The journal Addiction is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "CODEN code",
+                    "ASCQAG"
+                ]
+            ]
+        },
+        "text": [
+            "The Administrative Science Quarterly has a Coden code of \"ASCQAG\".",
+            "Administrative Science Quarterly has a CODEN code of \"ASCQAG\".",
+            "The code for Administrative Science Quarterly is ASCQAG."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "ISSN number",
+                    "0001-8392"
+                ]
+            ]
+        },
+        "text": [
+            "Administrative Science Quarterly has the ISSN number of 0001-8392.",
+            "The ISSN number \"0001-8392\" is for Administrative Science Quarterly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "OCLC number",
+                    "1461102"
+                ]
+            ]
+        },
+        "text": [
+            "Administrative Science Quarterly has the OCLC number 1461102.",
+            "1461102 is the OCLC number for Administrative Science Quarterly.",
+            "The Administrative Science Quarterly has a OCLC number of 1461102."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "abbreviation",
+                    "Admin. Sci. Q."
+                ]
+            ]
+        },
+        "text": [
+            "Administrative Science Quarterly is abbreviated to Admin. Sci. Q.",
+            "Admin. Sci. Q is the abbreviation for the Administrative Science Quarterly.",
+            "The abbreviation of the Administrative Science Quarterly is Admin. Sci. Q."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "academicDiscipline",
+                    "Managemen"
+                ]
+            ]
+        },
+        "text": [
+            "The Administrative Science Quarterly comes under the academic discipline of Management.",
+            "The academic discipline of Administrative Science Quarterly is Management."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "publisher",
+                    "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"
+                ]
+            ]
+        },
+        "text": [
+            "Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University.",
+            "Administrative Science Quarterly publisher of SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "publisher",
+                    "Cornell University"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University is the publisher of the Administrative Science Quarterly.",
+            "Cornell University is the publisher of Administrative Science Quarterly.",
+            "Administrative Science Quarterly was published by Cornell University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "publisher",
+                    "SAGE Publications"
+                ]
+            ]
+        },
+        "text": [
+            "SAGE Publications is the publisher of Administrative Science Quarterly.",
+            "The Administrative Science Quarterly is published by Sage Publications.",
+            "Administrative Science Quarterly is published by SAGE Publications."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "ISBN number",
+                    "0-439-17684-0"
+                ]
+            ]
+        },
+        "text": [
+            "The ISBN number of Aenir is 0-439-17684-0.",
+            "Aenir has the ISBN number of \"0-439-17684-0\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "author",
+                    "Garth Nix"
+                ]
+            ]
+        },
+        "text": [
+            "Aenir was written by Garth Nix.",
+            "The author of Aenir is Garth Nix."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "country",
+                    "Australians"
+                ]
+            ]
+        },
+        "text": [
+            "The book Aenir was written by Australians.",
+            "Aenir is an Australian novel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "followedBy",
+                    "Above the V"
+                ]
+            ]
+        },
+        "text": [
+            "The novel Aenir was followed by Above the Veil.",
+            "The book Aenir was followed up by Above the Veil.",
+            "Above the Veil followed the book Aenir."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "Aenir is available in print.",
+            "Aenir was produced in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "mediaType",
+                    "Paperback"
+                ]
+            ]
+        },
+        "text": [
+            "Aenir is a paperback.",
+            "The book titled Aenir is a paperback.",
+            "The book Aenir is available in paperback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "numberOfPages",
+                    "233"
+                ]
+            ]
+        },
+        "text": [
+            "Aenir is a book that has 233 pages.",
+            "Aenir is 233 pages long.",
+            "Aenir has a total of 233 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aenir",
+                    "precededBy",
+                    "Castle (novel)"
+                ]
+            ]
+        },
+        "text": [
+            "The novel Aenir was preceded by the novel Castle.",
+            "Aenir was written after Castle.",
+            "Aenir was preceded by the novel Castle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "ISBN number",
+                    "0-439-92550-9"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians has the ISBN number 0-439-92550-9.",
+            "The ISBN number of Alcatraz Versus the Evil Librarians is 0-439-92550-9."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "author",
+                    "Brandon Sanderson"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians was written by Brandon Sanderson.",
+            "The author of Alcatraz Versus the Evil Librarians is Brandon Sanderson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "genre",
+                    "Fantasy literatu"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians is in the genre of Fantasy literature.",
+            "Alcatraz Versus the Evil Librarians is Fantasy literature.",
+            "Alcatraz Versus the Evil Librarians is a fantasy novel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "literaryGenre",
+                    "Fantasy literatu"
+                ]
+            ]
+        },
+        "text": [
+            "The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature.",
+            "Alcatraz Versus the Evil Librarians is considered Fantasy literature."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "The book \"Alcatraz Versus the Evil Librarians is in print.",
+            "Alcatraz Versus the Evil Librarians is produced in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "mediaType",
+                    "Hardcov"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians is published in Hardcover."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "numberOfPages",
+                    "320"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians is 320 pages long.",
+            "Alcatraz Versus the Evil Librarians has 320 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alcatraz Versus the Scrivener's Bones",
+                    "author",
+                    "Brandon Sanderson"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Scrivener's Bones was authored by Brandon Sanderson.",
+            "Alcatraz Versus the Scrivener's Bones was written by Brandon Sanderson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "EISSN number",
+                    "1080"
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Math EISSN number is 1080.",
+            "1080 is the EISSN number for the American Journal of Mathematics.",
+            "The EISSN number of the American Journal of Mathematics is 1080."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "ISSN number",
+                    "0002-9327"
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Mathematics has an ISSN number of 0002-9327.",
+            "The ISSN number \"0002-9327\" is for American Journal of Mathematics.",
+            "American Journal of Mathematics ISSN number: 0002-9327."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "ISSN number",
+                    "1080-6377"
+                ]
+            ]
+        },
+        "text": [
+            "The ISSN number of the American Journal of Mathematics is 1080-6377.",
+            "The book American Journal of Mathematics has the ISSN number 1080-6377.",
+            "The American Journal of Mathematics has an ISSN number 1080-6377."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "OCLC number",
+                    "1480153"
+                ]
+            ]
+        },
+        "text": [
+            "American Journal of Mathematics has the OCLC number 1480153.",
+            "The OCLC number of the American Journal of Mathematics is 1480153.",
+            "The American Journal of Mathematics has an OCLC number of 1480153."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "abbreviation",
+                    "Am. J. Math."
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Mathematics is also known by the abbreviated title of Am. J. Math.",
+            "Am. J. Math is the abbreviation for the American Journal of Mathematics.",
+            "The American Journal of Mathematics is abbreviated to Am. J. Math."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "firstPublicationYear",
+                    "1878"
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Mathematics was first published in 1878."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "frequency",
+                    "Bimonthly"
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Mathematics is published bimonthly.",
+            "The American Journal of Mathematics is published bi-monthly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "American Journal of Mathematics",
+                    "publisher",
+                    "Johns Hopkins University Press"
+                ]
+            ]
+        },
+        "text": [
+            "The American Journal of Mathematics was published by Johns Hopkins University Press.",
+            "Johns Hopkins University Press is the publisher of the American Journal of Mathematics.",
+            "American Journal of Mathematics is published by the Johns Hopkins University Press."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Annie Dunne",
+                    "followedBy",
+                    "A Long Long Way"
+                ]
+            ]
+        },
+        "text": [
+            "The novel Annie Dunne is followed by A Long Long Way.",
+            "Annie Dunne was followed by A Long, Long Way."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Association for Computing Machinery",
+                    "headquarter",
+                    "New York City"
+                ]
+            ]
+        },
+        "text": [
+            "New York City is where the Association for Computing machinery headquarters is located.",
+            "The Association for Computing Machinery is headquartered in New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Association for Computing Machinery",
+                    "leaderName",
+                    "Alexander L. Wolf"
+                ]
+            ]
+        },
+        "text": [
+            "Alexander L. Wolf is a leader of the Association for Computing Machinery.",
+            "Alexander L. Wolf is the leader of the Association for Computing Machinery.",
+            "The leader of the Association for Computing Machinery is Alexander L. Wolf."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brandon Sanderson",
+                    "birthPlace",
+                    "Lincoln, Nebraska"
+                ]
+            ]
+        },
+        "text": [
+            "Brandon Sanderson was born in Lincoln Nebraska.",
+            "Lincoln, Nebraska is the birthplace of Brandon Sanderson.",
+            "Brandon Sanderson was born in Lincoln, Nebraska."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cornell University",
+                    "affiliation",
+                    "Association of American Universities"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University is affiliated with the Association of American Universities."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cornell University",
+                    "affiliation",
+                    "Association of Public and Land-grant Universities"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University is affiliated with the Association of Public and Land-grant Universities."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cornell University",
+                    "city",
+                    "Ithaca, New York"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University is in the city of Ithaca, New York.",
+            "Cornell University is in Ithaca, New York.",
+            "Cornell University is located in Ithaca, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cornell University",
+                    "president",
+                    "Elizabeth Ga"
+                ]
+            ]
+        },
+        "text": [
+            "The president of Cornell University is Elizabeth Garrett.",
+            "Elizabeth Garrett is president of Cornell University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cornell University",
+                    "state",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University is in the state of New York.",
+            "Cornell University is in New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "English language",
+                    "spokenIn",
+                    "Great Britain"
+                ]
+            ]
+        },
+        "text": [
+            "The English language is spoken in Great Britain.",
+            "English is spoken in Great Britain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Eric Flint",
+                    "influencedBy",
+                    "Robert A. Heinlein"
+                ]
+            ]
+        },
+        "text": [
+            "Eric Flint was influenced by Robert A. Heinlein.",
+            "Eric Flint was influenced by Robert A Heinlein."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Grantville Gazette II",
+                    "precededBy",
+                    "The Grantville Gaz"
+                ]
+            ]
+        },
+        "text": [
+            "Grantville Gazette II is preceded by The Grantville Gazette.",
+            "The Grantville Gazette preceded The Grantville Gazette II.",
+            "Grantville Gazette II was preceded by The Grantville Gazette."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "HIV",
+                    "family",
+                    "Orthoretrovirina"
+                ]
+            ]
+        },
+        "text": [
+            "HIV is part of the Orthoretrovirinae family.",
+            "The HIV virus is part of the family of orthoretrovirinae.",
+            "HIV belongs to the family Orthoretrovirinae."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "HIV",
+                    "family",
+                    "Retrovirus"
+                ]
+            ]
+        },
+        "text": [
+            "HIV comes under the family of Retroviruses.",
+            "HIV is part of the family Retrovirus.",
+            "HIV is classed as a Retrovirus."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Into Battle (novel)",
+                    "country",
+                    "Australians"
+                ]
+            ]
+        },
+        "text": [
+            "The novel Into Battle is published by Australians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Into Battle (novel)",
+                    "followedBy",
+                    "The Violet Keyston"
+                ]
+            ]
+        },
+        "text": [
+            "The novel Into Battle is followed by The Violet Keystone.",
+            "The Violet Keystone followed the novel Into Battle.",
+            "Into Battle was followed by The Violet Keystone."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Into Battle (novel)",
+                    "precededBy",
+                    "Above the V"
+                ]
+            ]
+        },
+        "text": [
+            "The novel Into Battle is preceded by Above the Veil.",
+            "Into Battle (novel) was preceded by Above the Veil.",
+            "Above the Veil is the sequel to Into Battle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ireland",
+                    "ethnicGroup",
+                    "White peo"
+                ]
+            ]
+        },
+        "text": [
+            "White people are an ethnic group within Ireland.",
+            "An ethnic group of Ireland is white people.",
+            "The ethnic group of Ireland is White people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ireland",
+                    "largestCity",
+                    "Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "The largest city in Ireland is Dublin.",
+            "Dublin is the largest city in Ireland.",
+            "Dublin is Ireland's largest city."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ireland",
+                    "location",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "Ireland is located within Europe.",
+            "Ireland is located in Europe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Cowper Powys",
+                    "birthPlace",
+                    "Shirley, Derbysh"
+                ]
+            ]
+        },
+        "text": [
+            "John Cowper Powys was born in Shirley, Derbyshire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Cowper Powys",
+                    "deathPlace",
+                    "Blaenau Ffestiniog"
+                ]
+            ]
+        },
+        "text": [
+            "John Cowper Powys died in Blaenau Ffestiniog.",
+            "John Cowper Powys passed away in Blaenau Ffestiniog."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Cowper Powys",
+                    "notableWork",
+                    "Owen Glendower (novel)"
+                ]
+            ]
+        },
+        "text": [
+            "One of John Cowper Powys notable works is Owen Glendower.",
+            "The novel Owen Glendower is a notable work by the author John Cowper Powys.",
+            "The novel Owen Glendower is a notable work by John Cowper Powys."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Cowper Powys",
+                    "notableWork",
+                    "Porius: A Romance of the Dark Ages"
+                ]
+            ]
+        },
+        "text": [
+            "A notable work of John Cowper Powys is Porius: A Romance of the Dark Ages.",
+            "John Cowper Powys's notable work was Porius A Romance of the Dark Ages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Johns Hopkins University Press",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Johns Hopkins University Press is located in the United States.",
+            "Johns Hopkins University Press is based in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Johns Hopkins University Press",
+                    "parentCompany",
+                    "Johns Hopkins University"
+                ]
+            ]
+        },
+        "text": [
+            "Johns Hopkins University is the parent company of the Johns Hopkins University Press.",
+            "Johns Hopkins University is the parent company of Johns Hopkins University Press."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lippincott Williams &amp; Wilkins",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States is the country of origin of Lippincott, Williams &amp; Wilkins.",
+            "Lippincott, Williams, and Wilkins is located in the United States.",
+            "Lippincott Williams &amp; Wilkins are from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lippincott Williams &amp; Wilkins",
+                    "parentCompany",
+                    "Wolters Kluw"
+                ]
+            ]
+        },
+        "text": [
+            "Wolters Kluwer is the parent company of Lippincott Williams &amp; Wilkins.",
+            "The parent company of Lippincott Williams &amp; Wilkins is Wolters Kluwer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Madeleine L'Engle",
+                    "influencedBy",
+                    "George MacDonald"
+                ]
+            ]
+        },
+        "text": [
+            "Madeleine L'Engle was influenced by George MacDonald.",
+            "Madeleine L'Engle is influenced by George MacDonald."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Polish Academy of Sciences",
+                    "headquarter",
+                    "Warsaw"
+                ]
+            ]
+        },
+        "text": [
+            "The headquarters of the Polish Academy of Sciences is in Warsaw.",
+            "The Polish Academy of Sciences is headquartered in Warsaw."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Polish Academy of Sciences",
+                    "regionServed",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "The Polish Academy of Sciences serves Poland.",
+            "The Polish Academy of Sciences is based in Poland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ring of Fire II",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "Ring of Fire II is written in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ring of Fire II",
+                    "precededBy",
+                    "1634: The Bavarian Crisis"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis was written prior to \"Ring of Fire II\".",
+            "Ring of Fire II was preceded by 1634: The Bavarian Crisis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "SAGE Publications",
+                    "founder",
+                    "Sara Miller McCun"
+                ]
+            ]
+        },
+        "text": [
+            "Sara Miller McCune is the founder of SAGE publications.",
+            "Sara Miller McCune founded SAGE Publications."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Springer Science+Business Media",
+                    "founder",
+                    "Julius Spring"
+                ]
+            ]
+        },
+        "text": [
+            "Julius Springer is the founder of Springer Science and Business Media.",
+            "The founder of Springer Science and Business Media is Julius Springer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "The Bodley Head",
+                    "founder",
+                    "Charles Elkin Mathews"
+                ]
+            ]
+        },
+        "text": [
+            "The Bodley Head was founded by Charles Elkin Mathews.",
+            "The founder of The Bodley Head is Charles Elkin Mathews."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "The Secret Scripture",
+                    "precededBy",
+                    "A Long Long Way"
+                ]
+            ]
+        },
+        "text": [
+            "A Long Long Way came before the book \"The Secret Scripture\".",
+            "The Secret Scripture is preceded by A Long, Long Way."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tor Books",
+                    "parentCompany",
+                    "Macmillan Publishers"
+                ]
+            ]
+        },
+        "text": [
+            "Macmillan Publishers is the parent company of Tor Books.",
+            "Macmillan Publishers owns Tor Books.",
+            "Macmillan Publishers are the parent company of Tor Books."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "capital",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "London is the capital city in the UK.",
+            "The capital of the United Kingdom is London.",
+            "The capital city of the United Kingdom is London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "demonym",
+                    "British peo"
+                ]
+            ]
+        },
+        "text": [
+            "British people live in the United Kingdom.",
+            "The United Kingdom is populated by the British people.",
+            "British people inhabit the UK."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language spoken in the United Kingdom.",
+            "United Kingdom has the English language.",
+            "The language spoken in the United Kingdom is English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "David Cameron"
+                ]
+            ]
+        },
+        "text": [
+            "David Cameron is a leader in the UK.",
+            "The leader of the United Kingdom is David Cameron."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "The capital of the United States is Washington, D.C.",
+            "Washington D. C. is the capital of the United States.",
+            "The capital city of the United States is Washington D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Americans inhabit the U.S.",
+            "The demonym for people living in the United States is Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "In the United States one of the ethnic groups is African American.",
+            "The African Americans are an ethnic group in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are an ethnic group in the U.S.",
+            "Native Americans are one of the ethnic groups of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ]
+            ]
+        },
+        "text": [
+            "White Americans are an ethnic group in the U.S.",
+            "White Americans live in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Barack Obama"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the United States is Barack Obama.",
+            "Barack Obama is the leader of the United States.",
+            "Barack Obama is the president of the US."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the United States is known as the President.",
+            "The title of the leader of the United States is the President."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Viking Press",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Viking Press is in the United States.",
+            "Viking Press is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Viking Press",
+                    "parentCompany",
+                    "Penguin Random Hous"
+                ]
+            ]
+        },
+        "text": [
+            "Penguin Random House is the parent company of Viking Press."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Weymouth Sands",
+                    "author",
+                    "John Cowper Powys"
+                ]
+            ]
+        },
+        "text": [
+            "Weymouth Sands' author was John Cowper Powys.",
+            "John Cowper Powys is the author of Weymouth Sands.",
+            "Weymouth Sands was written by John Cowper Powys."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Weymouth Sands",
+                    "followedBy",
+                    "Maiden Castle (novel)"
+                ]
+            ]
+        },
+        "text": [
+            "Maiden Castle (novel) was preceded by Weymouth Sands.",
+            "The novel Maiden Castle followed the novel Weymouth Sands.",
+            "Maiden Castle is a sequel to Weymouth Sands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Wiley-Blackwell",
+                    "parentCompany",
+                    "John Wiley &amp; Sons"
+                ]
+            ]
+        },
+        "text": [
+            "The parent company of Wiley-Blackwell is John Wiley &amp; Sons.",
+            "John Wiley &amp; Sons is the parent company of Wiley-Blackwell."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Wizards at War",
+                    "publisher",
+                    "Harcourt (publisher)"
+                ]
+            ]
+        },
+        "text": [
+            "Wizards at War was published by Harcourt (publishers).",
+            "Wizards at War is published by Harcourt."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Wolf Solent",
+                    "followedBy",
+                    "A Glastonbury Romanc"
+                ]
+            ]
+        },
+        "text": [
+            "Wolf Solent was followed by A Glastonbury Romance.",
+            "A Glastonbury Romance is the sequel to Wolf Solent."
+        ]
+    }
+]

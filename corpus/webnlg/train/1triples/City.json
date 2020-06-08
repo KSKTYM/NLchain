@@ -1,0 +1,4984 @@
+[
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "areaOfWater",
+                    "14.2 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "There are 14.2 square kilometers of water in Abilene, Texas.",
+            "Abilene, Texas has a water area of 14.2 square kilometres.",
+            "Abilene, Texas has an area of water that is 14.2 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "areaTotal",
+                    "286.5 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene (Texas) has a total area of 286.5 square kilometres.",
+            "Abilene in Texas has a total area of 286.5 SqK.",
+            "Abilene, Texas has a total area of 286.5 sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is in Texas, in the United States.",
+            "Abilene, Texas is located in the United States.",
+            "Abilene, Texas is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "elevationAboveTheSeaLevel",
+                    "524.0"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene Texas is 524m above sea level.",
+            "Abilene, Texas is 524.0 above sea level.",
+            "Abilene, Texas is situated at 524.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Jones County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Jones County in Texas.",
+            "Abilene is part of Jones County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Taylor County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is part of Taylor County in Texas.",
+            "Abilene, Texas is located in Taylor County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "populationDensity",
+                    "429.9 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The total population density of Abilene, Texas is 429.9 inhabitants per sq km.",
+            "Abilene, Texas has a population density of 429.9 inhabitants per square kilometre.",
+            "Abilene, Texas, has a population density of 429.9 (inhabitants per square kilometre)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adams Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Adams Township is in Madison County, in Indiana, in the United States.",
+            "Adams Township, Madison County, Indiana is in the United States.",
+            "Adams Township, Madison County, Indiana is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "areaCode",
+                    "234, 330"
+                ]
+            ]
+        },
+        "text": [
+            "The area codes in Akron, Ohio are 234 and 330."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "areaOfWater",
+                    "0.88 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Akron in Ohio has .88 square kilometres of water.",
+            "The area of water with Akron, Ohio, is .88 sq. km.",
+            "There is 0.88 square km of water in Akron, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "areaTotal",
+                    "161.54 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio has a total area of 161.54 square kilometres.",
+            "The total area of Akron Ohio is 161.54 Sq Km.",
+            "The total area of Akron, Ohio is 161.54 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is located in the U.S.",
+            "Akron, Ohio is located within the United States.",
+            "The country of Akron, Ohio, is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "elevationAboveTheSeaLevel",
+                    "306.0"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is at a height of 306.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron is in Summit County, Ohio.",
+            "Akron is a part of Summit County, Ohio.",
+            "Akron is located within Summit County, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Ohio is part of the U.S.",
+            "Akron, Ohio is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "leaderTitle",
+                    "Mayo"
+                ]
+            ]
+        },
+        "text": [
+            "Mayor is the title of the leader of Akron, Ohio.",
+            "The leader of Akron, Ohio is the Mayor.",
+            "The leader in Akron, Ohio is the Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron, Ohio",
+                    "populationDensity",
+                    "1239.3 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density, of Akron (Ohio), is 1239.3 inhabitants per square kilometre.",
+            "The population density of Akron, Ohio is 1239.3 inhabitants per square km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alabama",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Alabama is in the United States.",
+            "Alabama is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "areaTotal",
+                    "144.7 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area, of Albany (Georgia), is 144.7 square kilometres.",
+            "Albany, Georgia has a total area of 144.7 SqKm.",
+            "The total area of Albany, Georgia is 144.7 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is in the United States.",
+            "Albany is in Georgia in the United States.",
+            "Albany, Georgia, is within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "elevationAboveTheSeaLevel",
+                    "62.0"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is located at 62.0 above sea level.",
+            "The elevation above the sea level in Albany, Georgia, is 62.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "Dougherty County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is a city in Dougherty County, Georgia.",
+            "Albany is part of Dougherty County in Georgia.",
+            "Albany is located in Dougherty County, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is part of the U.S. State of Georgia.",
+            "Albany is located in the US state of Georgia.",
+            "Albany is part of the state of Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is in the United States.",
+            "Albany is in Georgia which is a part of the United States.",
+            "Albany, Georgia, is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "populationDensity",
+                    "535.0 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre.",
+            "Albany in Georgia has a population density of 535 people per square kilometer.",
+            "The population density of Albany, Georgia is 535.0 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "areaCode",
+                    "541, 458"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon has area codes 541 and 458.",
+            "The area codes for Albany, Oregon are 541 and 458."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "areaOfWater",
+                    "0.54 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "There is .54 square kilometers of water in Albany, Oregon.",
+            "Albany, Oregon has a water area of 0,54 square kilometres.",
+            "The area of water in Albany, Oregon, is 0.54 (square kilometres)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "elevationAboveTheSeaLevel",
+                    "64.008"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon is 64,008 above sea level.",
+            "Albany, Oregon is located at 64.008 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Benton County, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is part of Benton County in Oregon.",
+            "The city of Albany is part of Benton County, Oregon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Linn County, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is a city in Linn County, Oregon.",
+            "Albany, Oregon falls under Linn County Oregon.",
+            "Albany is part of Linn County, Oregon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is a city in Oregon.",
+            "Albany is part of Oregon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "populationDensity",
+                    "1104.1 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density of Albany, in Oregon, is 1104.1 inhabitants per square kilometre.",
+            "Albany is located in Oregon, where the population density is 1104.1 inhabitants per square kilometre.",
+            "The population density for Albany, Oregon is 1104.1 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "areaCode",
+                    "505, 575"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico has area codes 505 and 575.",
+            "The area codes in Albuquerque, New Mexico are 505 and 575."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "areaOfLand",
+                    "486.2 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The land area, of Albuquerque (New Mexico), is 486.2 square kilometres.",
+            "Albuquerque, N.M. has an area of land of 486.2 square kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "areaTotal",
+                    "490.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, in New Mexico, has a total are of 490.9 square kilometres.",
+            "The total area of Albuquerque, New Mexico is 490.9 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque is in New Mexico, in the United States.",
+            "Albuquerque, New Mexico is in the United States.",
+            "Albuquerque, New Mexico, is within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "isPartOf",
+                    "Bernalillo County, New Mexico"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico is part of Bernalillo County, New Mexico.",
+            "Albuquerque is part of Bernalillo County, New Mexico.",
+            "Albuquerque, New Mexico, is part of Bernalillo County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "isPartOf",
+                    "New Mexico"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque is in New Mexico.",
+            "Albuquerque is part of New Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leader",
+                    "Richard J. Berry"
+                ]
+            ]
+        },
+        "text": [
+            "The leader, of Albuquerque (New Mexico), is Richard J. Berry.",
+            "Richard J. Berry is the leader of Albuquerque, New Mexico.",
+            "The leader of Albuquerque in New Mexico is Richard J Berry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "Mayor of Albuquerqu"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Albuquerque (New Mexico) is called the Mayor of Albuquerque.",
+            "The leader of Albuquerque, New Mexico has the title of Mayor of Albuquerque.",
+            "Albuquerque in New Mexico is led by the Mayor of Albuquerque."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "In Albuquerque (New Mexico), the leader is called, the United States House of Representatives.",
+            "The leader for Albuquerque in New Mexico is the United States House of Representatives.",
+            "The leader of Albuquerque, New Mexico is the United States House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "populationDensity",
+                    "1142.3 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per square kilometre.",
+            "There are 1142.3 people per square kilometers in Albuquerque, N.M.",
+            "The population density of Albuquerque in New Mexico is 1142.3 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque City Council",
+                    "leader",
+                    "Richard J. Berry"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque City Council is led by Richard J. Berry.",
+            "The leader of the Albuquerque City Council is Richard J. Berry.",
+            "Richard J Berry is the leader of Albuquerque City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "areaCode",
+                    "765"
+                ]
+            ]
+        },
+        "text": [
+            "The area code for Alexandria, Indiana is 765.",
+            "The area code of Alexandria, Indiana is 765."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "areaTotal",
+                    "6.81 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria, in Indiana, has a total area of 6,81 square kilometres.",
+            "Alexandria in Indiana occupies 6.81 square kilometers.",
+            "The total area of Alexandria, Indiana is 6.81 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "elevationAboveTheSeaLevel",
+                    "265.0"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria, Indiana is 265m above sea level.",
+            "Alexandria, Indiana is located at 265.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of Indiana.",
+            "Alexandria is located in Indiana.",
+            "Alexandria is part of the state of Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of Madison County, Indiana.",
+            "Alexandria, Indiana, is part of Madison County.",
+            "Alexandria, Indiana is part of Madison County Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "isPartOf",
+                    "Monroe Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria is part of the Monroe Township which is in Madison County, in Indiana.",
+            "Alexandria, Indiana is part of Monroe Township, in Madison County.",
+            "Alexandria is part of Monroe township, Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "populationDensity",
+                    "755.3 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria, Indiana has a population density of 755.3 inhabitants per square kilometre.",
+            "The population density of Alexandria, Indiana is 755.3 inhabitants per sq km.",
+            "The population density of Alexandria, Indiana, is 755.3 (inhabitants per square kilometer)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "areaCode",
+                    "770, 404, 678"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, Georgia has area codes 770, 404, and 678.",
+            "The area codes for Alpharetta, Georgia are 770, 404 and 678."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "areaOfWater",
+                    "1.0 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, Georgia has an area of water 1.0 sq km.",
+            "Alpharetta, Georgia has a total area of water of 1.0 sq km.",
+            "The area of water in Alpharetta, Georgia, is 1.0 (square kilometres)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "areaTotal",
+                    "55.4 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Alpharetta, Georgia is 55.4 SqKm.",
+            "The area of Alpharetta, Georgia is 55.4 square kilometres.",
+            "Alpharetta in Georgia has a total area of 55.4 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, is in Georgia, in the United States.",
+            "Alpharetta, Georgia is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "elevationAboveTheSeaLevel",
+                    "346.0"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, Georgia is elevated 346.0 above sea level.",
+            "Alpharetta, Georgia is located at 346.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta, is part of Fulton County, in Georgia.",
+            "Fulton County is the location of Alpharetta, Georgia.",
+            "Alpharetta is part of Fulton County in Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ]
+            ]
+        },
+        "text": [
+            "Alpharetta is part of the U.S. state, Georgia.",
+            "Alpharetta is part of the state of Georgia in the United States.",
+            "Alpharetta is part of Georgia (U.S state)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alpharetta, Georgia",
+                    "populationDensity",
+                    "992.6 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "There are 992.6 people per square kilometres in Alpharetta, Georgia.",
+            "Alpharetta, Georgia has a population density of 992.6 inhabitants per square kilometre.",
+            "The population density in Alpharetta, Georgia is 992.6 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "areaCode",
+                    "806"
+                ]
+            ]
+        },
+        "text": [
+            "The area code for Amarillo, Texas is 806.",
+            "806 is the area code for Amarillo, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "elevationAboveTheSeaLevel",
+                    "1099.0"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo Texas is elevated 1099.0 above sea level.",
+            "Amarillo, Texas is 1099 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is a city in Texas.",
+            "Amarillo is part of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "populationDensity",
+                    "746.0 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo, Texas has a population density of 746 inhabitants per square kilometre.",
+            "746 people per square kilometre inhabit Amarillo, Texas.",
+            "Amarillo Texas has a population density of 746.0 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "UTCOffset",
+                    "-7"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California has a UTC offset of - 7.",
+            "Anaheim, CA has a UTC offset of minus 7.",
+            "Anaheim, California has an UTC offset of -7."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "UTCOffset",
+                    "-8"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, in California, has a UTC offset of -8.",
+            "The UTC offset for Anaheim, California is -8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaCode",
+                    "657, 714"
+                ]
+            ]
+        },
+        "text": [
+            "657 and 714 are area codes for Anaheim, CA.",
+            "Anaheim in California has the area code: 657, 714."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaOfWater",
+                    "25.2 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The area of water, in Anaheim (California), is 25.2 square kilometres.",
+            "Anaheim, CA has 25.2 square kilometres of water.",
+            "The total area of water in Anaheim, California is 25.2 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California has a total area of 131.6 square kilometres.",
+            "The total area of Anaheim California is 131.6 sq km.",
+            "The total area for Anaheim California is 131.6 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California is in the U.S.",
+            "Anaheim is in California in the U.S.",
+            "Anaheim, California is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "elevationAboveTheSeaLevel",
+                    "48.0"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim in California has an elevation of 48.0m above sea level.",
+            "Anaheim, California elevation is 48.0 above the sea level.",
+            "Anaheim, California is situated at 48.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is part of California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "isPartOf",
+                    "Orange County, California"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim is a city in Orange County which is part of California.",
+            "Anaheim is in Orange County, CA.",
+            "Anaheim, California is part of Orange County, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leader",
+                    "Tom Ta"
+                ]
+            ]
+        },
+        "text": [
+            "Tom Tait is a leader in Anaheim, California.",
+            "Tom Tait is the leader of Anaheim, California.",
+            "The leader of Anaheim, California, is Tom Tait."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "California State Assembly"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California is led by the California State Assembly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "California State Sena"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Senate leads Anaheim, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "leaderTitle",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "The United States House of Representatives leads Anaheim, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "populationTotal",
+                    "336265"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, CA has 336265 people inhabiting it.",
+            "The total population of Anaheim California is 336265.",
+            "Anaheim, California has a population of 336265."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "areaCode",
+                    "765"
+                ]
+            ]
+        },
+        "text": [
+            "The area code of Anderson, in Indiana, is 765.",
+            "The area code of Anderson, Indiana is 765.",
+            "The area code of Anderson, Indiana, is 765."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "areaTotal",
+                    "107.43 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana has an area of 107.43 square kilometres.",
+            "Anderson is located in Indiana, whose total area is 107.43 square kilometres.",
+            "The total area of Anderson, Indiana is 107.43 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "elevationAboveTheSeaLevel",
+                    "268.0"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson Indiana has an elevation of 268.0 above sea level.",
+            "Anderson, Indiana is located at 268.0 above sea level.",
+            "The elevation above the sea level for Anderson, Indiana, is 268.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Adams Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is part of Adams Township, Madison County, Indiana.",
+            "Anderson is located within Adams Township, Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Anderson Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is part of Anderson Township, Madison County, Indiana.",
+            "Anderson is part of Anderson Township, Madison County, Indiana.",
+            "Anderson, Indiana, is part of the Anderson Township, Madison County in Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Fall Creek Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is part of Fall Creek Township, Madison County, Indiana.",
+            "Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana.",
+            "Anderson, Indiana, is part of Fall Creek Township, Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is a city in Indiana.",
+            "Anderson is part of Indiana.",
+            "The city of Anderson is part of Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Lafayette Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is part of Lafayette Township, Madison County, Indiana.",
+            "Anderson is part of Lafayette Township, Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson in Madison County is in Indiana.",
+            "Anderson is located in Madison County, Indiana.",
+            "Anderson is part of Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Union Township, Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is part of the Union Township, Madison County.",
+            "Anderson is part of Union Township, Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "leader",
+                    "Democratic Party (United States)"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is led by the Democratic Party of the US."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "populationDensity",
+                    "523.9 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana has 523.9 people per square kilometer.",
+            "The population density of Anderson, Indiana is 523.9 inhabitants per square kilometre.",
+            "The population density of Anderson, Indiana, is 523.9 (inhabitants per square kilometre)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Township of Madison County, Indiana is in the Country of United States.",
+            "Anderson Township, Madison County, Indiana is located within the United States.",
+            "The country of Anderson Township, Madison County, Indiana, is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "areaTotal",
+                    "16.55 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, in Indiana, has a total area of 16.55 square kilometres.",
+            "The total area of Angola, Indiana, is 16.55 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is in the United States.",
+            "Angola, Indiana is in the U.S.",
+            "Angola, Indiana is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Angola is a city in Indiana.",
+            "Angola is part of the state of Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "Steuben County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Angola, Indiana is part of Steuben County, Indiana.",
+            "Angola, Indiana, is part of Steuben County.",
+            "Angola, Indiana is in Steuben County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Angola is part of Indiana which is in the United States.",
+            "Angola, Indiana is part of the U.S.",
+            "Angola in Indiana is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "populationDensity",
+                    "524.5 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density of Angola, Indiana, is 524.5 (inhabitants per square kilometre).",
+            "The population density of Angola, Indiana is 524.5 inhabitants per sq km.",
+            "The population density in Angola, Indiana, is 524.5 (inhabitants per square kilometre)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "areaCode",
+                    "734"
+                ]
+            ]
+        },
+        "text": [
+            "The area code for Ann Arbor Michigan is 734.",
+            "734 is the area code for Ann Arbor, Michigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "areaTotal",
+                    "74.33 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor, Michigan has a total area of 74.33 square kilometres.",
+            "Ann Arbor (Michigan), has a total area of 74.33 square kilometres.",
+            "Ann Arbor in Michigan has a total area of 74.33 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "isPartOf",
+                    "Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor is in Michigan.",
+            "Ann Arbor is part of Michigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "isPartOf",
+                    "Washtenaw County, Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor is part of Washtenaw County in Michigan.",
+            "Ann Arbor, Michigan is part of Washtenaw County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "leader",
+                    "Christopher Taylor (politician)"
+                ]
+            ]
+        },
+        "text": [
+            "Christopher Taylor, politician, leads Ann Arbor, Michigan.",
+            "Ann Arbor, Michigan is led by the politician Christopher Taylor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "leaderTitle",
+                    "City Manag"
+                ]
+            ]
+        },
+        "text": [
+            "The city manager is the leader of Ann Arbor, Michigan.",
+            "The title of the leader of Ann Arbor in Michigan is the City Manager.",
+            "City Manager is the leader title in Ann Arbor, Michigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "UTCOffset",
+                    "-7"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch, California has a UTC offset of - 7.",
+            "Antioch, California time zone offset is -7.",
+            "The UTC offset for Antioch California is -7."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "UTCOffset",
+                    "-8"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch in California has a UTC offset of -8.",
+            "The UTC offset for Antioch, California is -8.",
+            "The UTC offset in Antioch, California, is -8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "areaTotal",
+                    "75.324 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Antioch, California is 75.324 square km.",
+            "Antioch, California has a total area of 75.324 square km.",
+            "The total area in Antioch, California is 75.324 (square kilometres)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch is part of California.",
+            "The city of Antioch is located within California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "leaderTitle",
+                    "Mayo"
+                ]
+            ]
+        },
+        "text": [
+            "The mayor is the leader of Antioch, California.",
+            "Mayor, is the title for the leader of Antioch, in California.",
+            "The Mayor leads Antioch, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "leaderTitle",
+                    "United States House of Representatives"
+                ]
+            ]
+        },
+        "text": [
+            "The United States House of Representatives is the leader of Antioch, California.",
+            "Antioch, California is led by the United States House of Representatives.",
+            "The leader title of Antioch, California, is United States House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "populationTotal",
+                    "102372"
+                ]
+            ]
+        },
+        "text": [
+            "The population of Antioch California is 102372.",
+            "The total population of Antioch, California is 102372.",
+            "The population of Antioch, California is 102372."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "postalCode",
+                    "94509, 94531"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch, California has postal codes 94509 and 94531.",
+            "Antioch California has the postal codes 94509 and 94531.",
+            "94509 and 94531 are postal codes for Antioch, CA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "areaCode",
+                    "682, 817, 214, 469, 972"
+                ]
+            ]
+        },
+        "text": [
+            "Area codes for Arlington, Texas are: 682, 817, 214, 469 and 972.",
+            "The area codes for Arlington, Texas are 682, 817, 214, 469 and 972.",
+            "The area codes for Arlington, Texas are 682, 817, 214, 469, 972."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "areaOfWater",
+                    "82.8 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington, Texas has a water area of 82.8 square kilometres.",
+            "The area of water within Arlington Texas is 82.8 sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "areaTotal",
+                    "258.2 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Arlington (Texas) is 258.2 square kilometres.",
+            "Arlington Texas has an area of 258.2 SqK.",
+            "The total area of Arlington in Texas is 258.2 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Tarrant County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Tarrant County in Texas.",
+            "Arlington, Tarrant County, is in Texas.",
+            "Arlington is part of Tarrant County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Texas.",
+            "Arlington is part of the state of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "areaCode",
+                    "404"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta has the area code of 404.",
+            "Atlanta has an area code of 404.",
+            "The area code for Atlanta is 404."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "areaCode",
+                    "404, 678, 470"
+                ]
+            ]
+        },
+        "text": [
+            "The area codes in Atlanta are 404, 678, and 470.",
+            "The area codes for Atlanta are 404, 678 and 470.",
+            "Atlanta has the area codes 404, 678, and 470."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "areaOfLand",
+                    "344.9 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta covers 344.9 square kilometres.",
+            "Atlanta covers an area of 344.9 (square kilometres)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "areaTotal",
+                    "347.1 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of Atlanta is 347.1 SqKm.",
+            "The total area of Atlanta is 347.1 square kilometres.",
+            "The total area of Atlanta is 347.1 (square kilometres)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is in the United States.",
+            "Atlanta is in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "DeKalb County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Most of Atlanta is part of DeKalb County in Georgia.",
+            "Atlanta is part of DeKalb County in Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is a part of Fulton County in Georgia.",
+            "Atlanta is part of Fulton County in Georgia.",
+            "Atlanta is part of Fulton County, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta, is a part of the U.S. state, Georgia.",
+            "Atlanta is part of Georgia in the U.S.",
+            "Atlanta is located within the US state of Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "leader",
+                    "Atlanta City Counc"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Atlanta is the Atlanta City Council.",
+            "Atlanta is led by Atlanta City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlanta",
+                    "populationDensity",
+                    "1299.0 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta has a population density of 1299 inhabitants per square kilometre.",
+            "The population density of Atlanta is 1299.0 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "areaCode",
+                    "609"
+                ]
+            ]
+        },
+        "text": [
+            "The area code in Atlantic City (New Jersey) is 609.",
+            "609 is the area code of Atlantic City, N.J.",
+            "The area code of Atlantic City, New Jersey, is 609."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City, New Jersey is in the United States.",
+            "Atlantic City is in new Jersey, in the United States.",
+            "Atlantic City, New Jersey, is within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "isPartOf",
+                    "Atlantic County, New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City is part of Atlantic County, New Jersey.",
+            "Atlantic City, New Jersey is in Atlantic County, New Jersey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "leader",
+                    "Don Guardian"
+                ]
+            ]
+        },
+        "text": [
+            "Don Guardian is the leader of Atlantic City (New Jersey).",
+            "The leader of Atlantic City, New Jersey is Don Guardian.",
+            "The leader in Atlantic City, New Jersey is Don Guardian."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "leaderTitle",
+                    "Clerk (municipal official)"
+                ]
+            ]
+        },
+        "text": [
+            "The leader's title in Atlantic City (New Jersey) is Clerk, which is a municipal official.",
+            "A Clerk (municipal official) is the leader of Atlantic City, N.J.",
+            "The municipal official titled the Clerk leads Atlantic City, New Jersey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "leaderTitle",
+                    "Mayors of Atlantic City, New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "\"Mayor\" is the title of the leader in Atlantic City, New Jersey.",
+            "The municipal leader of Atlantic City, New Jersey is known as the Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic City, New Jersey",
+                    "populationDensity",
+                    "1421.2 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic City, in New Jersey, has a population density of 1421.2 inhabitants per square kilometre.",
+            "Atlantic City, New Jersey, has a population of 1421.2 inhabitants per square kilometre.",
+            "The population density of Atlantic City, New Jersey is 1421.2 inhabitants per square kilometre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "areaTotal",
+                    "4.14 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Attica in Indiana, has a total area of 4.14 square kilometres.",
+            "The area of Attica Indiana is 4.14 SqKm.",
+            "Attica, Indiana has a total area of 4.14 sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is in the U.S.",
+            "Attica, Indiana, is part of the United States.",
+            "Attica, Indiana is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica is part of Indiana.",
+            "Attica is part of the state of Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Logan Township, Fountain County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is part of Logan Township, Fountain County, Indiana.",
+            "Attica is a city in Logan Township which is a part of Fountain County in Indiana.",
+            "Attica is part of Logan Township, Fountain County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Attica, Indiana is part of the U.S.",
+            "Attica, Indiana is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "populationDensity",
+                    "783.1 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density, of Attica (Indiana), is 783.1 inhabitants per square kilometre.",
+            "The population density of Attica, Indiana, is 783.1 inhabitants per sq km.",
+            "The population density of Attica Indiana is 783.1 (inhabitants per square kilometre)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "areaCode",
+                    "334"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama, has the area code, 334.",
+            "The area code for Auburn, Alabama is 334."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "areaOfWater",
+                    "1.7 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "1.7 square kilometres is the area of water in Auburn, Alabama.",
+            "Auburn, Alabama has an area of water that is 1.7 km.",
+            "There is a total area of 1.7 square kilometres of water in Auburn, Alabama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "areaTotal",
+                    "140.8 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The total area of the city Auburn, in Alabama, is 140.8 square kilometres.",
+            "The total area of Auburn, Alabama is 140.8 Sq Km.",
+            "The total area of Auburn, Alabama is 140.8 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama is in the United States.",
+            "Auburn Alabama is in the United States.",
+            "Auburn, Alabama is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "elevationAboveTheSeaLevel",
+                    "214.0"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn Alabama has an elevation above sea level of 214.",
+            "Auburn, Alabama is located at 214.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "populationDensity",
+                    "368.65 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Population density in Auburn, Alabama is 368.65 inhabitants per square kilometre.",
+            "Auburn, Alabama has a population density of 368.65 inhabitants per sq km.",
+            "The population density of the city, Auburn in Alabama is 368.65 (inhabitants per square kilometre)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Washington is in the U.S.",
+            "Auburn, Washington is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "King County, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "King County is the location of Auburn, Washington.",
+            "Auburn is part of King County in Washington.",
+            "Auburn is part of King County, Washington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Pierce County, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is in Pierce County, Washington.",
+            "Auburn forms part of Pierce County, Washington.",
+            "Auburn is part of Pierce County, Washington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Washington is part of the U.S.",
+            "Auburn, Washington is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "isPartOf",
+                    "Washington (state)"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of Washington state.",
+            "Auburn is located within the state of Washington.",
+            "Auburn is part of Washington (state)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "leaderTitle",
+                    "Mayo"
+                ]
+            ]
+        },
+        "text": [
+            "Mayor is the title of the leader of Auburn, in Washington.",
+            "The Mayor is the leader in Auburn, Washington.",
+            "The title of the leader in Auburn, Washington is the Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Washington",
+                    "populationDensity",
+                    "914.8 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Washington has a population density of 914.8 inhabitants per square kilometre.",
+            "The population density, of Auburn (Washington), is 914.8 inhabitants per square kilometre.",
+            "The population density of Auburn, Washington, is 914.8 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "areaCode",
+                    "512"
+                ]
+            ]
+        },
+        "text": [
+            "The area code of Austin (Texas), is 512.",
+            "The area code for Austin, Texas is 512.",
+            "The area code of Austin, Texas, is 512."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "areaCode",
+                    "512, 737"
+                ]
+            ]
+        },
+        "text": [
+            "The ares codes of Austin (Texas) are 512 and 737."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "areaOfLand",
+                    "686.0 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Austin, Texas has a land area of 686 square kilometres.",
+            "Austin, Texas has a area of land that measures 686.0 (square kilometers).",
+            "Austin, Texas covers 686.0 square kilometres of land."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "areaTotal",
+                    "703.95 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The area of Austin, Texas is 703.95 (square kilometres).",
+            "Austin, Texas has a total area of 703.95 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Austin, Texas is in the United States.",
+            "Austin, Texas is located within the country of the United States.",
+            "The country of Austin, Texas, is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Hays County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is in Hays County, Texas.",
+            "Austin is a part of Hays County in Texas.",
+            "Austin, Texas, is part of Hays County Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Travis County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is part of Travis County, in Texas.",
+            "Austin is located in Travis County, Texas.",
+            "Austin is part of Travis County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Williamson County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is part of Williamson County, in Texas.",
+            "Austin Texas is part of Williamson County.",
+            "Austin is part of Williamson County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "leaderTitle",
+                    "City Manag"
+                ]
+            ]
+        },
+        "text": [
+            "The city manager is the leader of Austin, Texas.",
+            "The City Manager leads Austin, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "leaderTitle",
+                    "Mayo"
+                ]
+            ]
+        },
+        "text": [
+            "The leader in Austin Texas is the Mayor.",
+            "The leader of Austin, Texas is called the Mayor.",
+            "Austin Texas is led by a Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "populationDensity",
+                    "1296.65 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The population density, of Austin (Texas), is 1296.65 inhabitants per square kilometre.",
+            "Austin in Texas has a population of 1296.65 people per square kilometer.",
+            "The population density of Austin, Texas, is 1296.65 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Benton County, Oregon",
+                    "largestCity",
+                    "Corvallis, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Corvallis is the largest city in Benton County, Oregon.",
+            "The largest city in Benton County, Oregon, is Corvallis, Oregon.",
+            "The largest city in Benton County Oregon is Corvallis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California",
+                    "language",
+                    "Chinese languag"
+                ]
+            ]
+        },
+        "text": [
+            "Chinese is one of the languages spoken in California.",
+            "Some parts of California speak Chinese.",
+            "The Chinese language is spoken in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "The English language is spoken in California.",
+            "English is spoken in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California",
+                    "language",
+                    "Vietnamese languag"
+                ]
+            ]
+        },
+        "text": [
+            "Vietnamese is a language spoken in California.",
+            "One of the languages spoken in California is Vietnamese.",
+            "Vietnamese is one of the languages being spoken in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California State Assembly",
+                    "isPartOf",
+                    "California State Legislatu"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Assembly is part of the California State Legislature."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California State Assembly",
+                    "location",
+                    "California State Capito"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Assembly is located in the California State Capitol.",
+            "The California State Assembly is in the California State Capitol.",
+            "The California State Assembly is located at the California State Capitol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California State Senate",
+                    "isPartOf",
+                    "California State Legislatu"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Senate is part of the California State Legislature.",
+            "The senate in California is part of the California State Legislature."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California State Senate",
+                    "location",
+                    "California State Capito"
+                ]
+            ]
+        },
+        "text": [
+            "The California State Senate is located at the California State Capitol.",
+            "The California State Senate is located in the California State Capitol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Contra Costa County, California",
+                    "isPartOf",
+                    "San Francisco Bay Area"
+                ]
+            ]
+        },
+        "text": [
+            "Contra Costa County is part of the San Francisco Bay area, in California.",
+            "Contra Costa County in California is part of the San Francisco Bay Area."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "DeKalb County, Georgia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "DeKalb County, Georgia, is located in the United States.",
+            "DeKalb County, Georgia is located within the United States.",
+            "DeKalb County, Georgia is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Democratic Party (United States)",
+                    "chairperson",
+                    "Debbie Wasserman Schultz"
+                ]
+            ]
+        },
+        "text": [
+            "The chair of the Democratic Party in the United States is Debbie Wasserman Schultz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Democratic Party (United States)",
+                    "headquarter",
+                    "South Capitol S"
+                ]
+            ]
+        },
+        "text": [
+            "The Democratic Party of the U.S. headquarters on South Capitol Street.",
+            "The headquarters of the Democratic Party (United States) is at South Capitol Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Democratic Party (United States)",
+                    "headquarter",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "The Democratic Party headquarters are in Washington, D.C.",
+            "The Democratic Party (U.S.) is headquartered in Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fall Creek Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Fall Creek Township, Madison County, Indiana is located in the U.S.",
+            "Fall Creek Township, Madison County, Indiana is within the United States.",
+            "Fall Creek Township, Madison County, Indiana is in the country United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fountain County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Fountain County is in Indiana, in the United States.",
+            "Fountain County is in Indiana in the U.S.",
+            "Fountain County, Indiana is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fountain County, Indiana",
+                    "countySeat",
+                    "Covington, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Covington is the County seat of Fountain County, in Indiana.",
+            "Covington is the county seat of Fountain County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fulton County, Georgia",
+                    "countySeat",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is the county seat of Fulton County, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Georgia (U.S. state)",
+                    "capital",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Georgia is Atlanta.",
+            "Atlanta is the capital of the U.S. state of Georgia.",
+            "Atlanta is the capital of Georgia, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hays County, Texas",
+                    "countySeat",
+                    "San Marcos, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "San Marcos is the county seat of Hays County, Texas.",
+            "Hays County Texas county seat is San Marcos Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hays County, Texas",
+                    "largestCity",
+                    "San Marcos, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "The largest city in Hays County, Texas is San Marcos.",
+            "San Marcos is the largest city in Hays County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Indiana is the United States.",
+            "Indiana is in the U.S.",
+            "Indiana is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Indiana",
+                    "language",
+                    "English Americans"
+                ]
+            ]
+        },
+        "text": [
+            "In Indiana, the language spoken is American English.",
+            "The language in Indiana is American English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jones County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Jones County, Texas is in the United States.",
+            "Jones County, Texas is within the United States.",
+            "Jones County, Texas is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "King County, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "King County Washington is in the U.S.",
+            "King County, Washington is located in the United States.",
+            "King County, Washington is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "King County, Washington",
+                    "largestCity",
+                    "Sea"
+                ]
+            ]
+        },
+        "text": [
+            "Seattle is the largest city in King County, in Washington.",
+            "Seattle is the largest city in King County Washington.",
+            "Seattle is the largest city in King County, Washington."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lafayette Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Lafayette Township, Madison County, Indiana is part of the United States.",
+            "Lafayette Township, Madison County, Indiana is situated within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lee County, Alabama",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Lee County in Alabama is in the U.S.",
+            "Lee County, Alabama, is within the United States.",
+            "Lee County in Alabama is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lee County, Alabama",
+                    "countySeat",
+                    "Opelika, Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Opelika is the county seat of Lee County, Alabama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Linn County, Oregon",
+                    "largestCity",
+                    "Albany, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Albany is the largest city in Linn County, Oregon.",
+            "Albany is the largest city in Linn county which is in Oregon.",
+            "The largest city in Linn County, Oregon, is Albany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Madison County is in Indiana, which is in the United States.",
+            "Madison County, Indiana is in the country of the United States.",
+            "Madison County, Indiana, is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Madison County, Indiana",
+                    "largestCity",
+                    "Anderson, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is the largest city in Madison County, Indiana.",
+            "Anderson is the largest city of Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michigan",
+                    "capital",
+                    "Lansing, Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Lansing is the capital of Michigan.",
+            "The capital of Michigan is Lansing."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michigan",
+                    "language",
+                    "Arabic"
+                ]
+            ]
+        },
+        "text": [
+            "Arabic is a language found in Michigan.",
+            "Arabic is spoken in Michigan.",
+            "The language used in Michigan is Arabic."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michigan",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "The English language is spoken in Michigan.",
+            "English is the language spoken in Michigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Michigan",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Spanish is one of the languages spoken in Michigan.",
+            "Spanish is a language spoken in Michigan.",
+            "The Spanish language is spoken in Michigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Monroe Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Monroe Township, Madison County, Indiana is in the U.S.",
+            "Monroe Township, Madison County, Indiana is situated within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Monroe Township, Madison County, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Monroe Township is in Madison County which is a part of Indiana.",
+            "Monroe Township, Madison County is in Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Monroe Township, Madison County, Indiana",
+                    "isPartOf",
+                    "Madison County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Monroe Township is part of Madison County in Indiana.",
+            "Monroe Township is a part of Madison County in Indiana.",
+            "Monroe Township is part of Madison County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Jersey",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "New Jersey is in the United States.",
+            "New Jersey is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Jersey",
+                    "largestCity",
+                    "Newark, New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Newark is the largest city of New Jersey.",
+            "The largest city in New Jersey is Newark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Mexico",
+                    "language",
+                    "Navajo languag"
+                ]
+            ]
+        },
+        "text": [
+            "The Navajo language, is one of the languages spoken in New Mexico.",
+            "The Navajo language is spoken in New Mexico.",
+            "Navajo is a language in New Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Mexico House of Representatives",
+                    "leader",
+                    "Don T"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of New Mexico's House of Representatives is Don Tripp.",
+            "Don Tripp leads the New Mexico House of representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Mexico Senate",
+                    "leader",
+                    "John Sánchez"
+                ]
+            ]
+        },
+        "text": [
+            "John Sánchez, is one of the leaders, in the New Mexico Senate.",
+            "John Sanchez is the Senate leader of New Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Orange County, California",
+                    "isPartOf",
+                    "Greater Los Angeles Area"
+                ]
+            ]
+        },
+        "text": [
+            "Orange County, California is part of the Greater Los Angeles area.",
+            "Orange County, is part of the greater Los Angeles area, in California.",
+            "Orange County in California is part of the Greater Los Angeles area."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Oregon",
+                    "capital",
+                    "Salem, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Salem is the capital of Oregon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Pierce County, Washington",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Pierce County, Washington is in the United States.",
+            "Pierce County, Washington is located within the United States.",
+            "The country of Pierce County, Washington, is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Pierce County, Washington",
+                    "largestCity",
+                    "Tacoma, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Pierce County is the largest city in Tacoma, Washington.",
+            "Tacoma, Washington, is the largest city in Pierce County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Potter County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Potter County is in Texas, in the United States.",
+            "Potter County, Texas is in the US.",
+            "Potter County, Texas is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Potter County, Texas",
+                    "countySeat",
+                    "Amarillo, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is the county seat of Potter County which is in Texas.",
+            "Amarillo is the county seat for Potter County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Randall County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Randall County is in Texas, in the United States.",
+            "Randall County is located in Texas, United States.",
+            "Randall County in Texas is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Randall County, Texas",
+                    "countySeat",
+                    "Canyon, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Canyon, is the county seat of Randall County, which is in Texas.",
+            "Randall County is a county located in Texas with the county seat being Canyon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Richland Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Richland Township is in Madison County, Indiana, U.S.",
+            "Richland Township, in Madison County, Indiana is in the United States.",
+            "Richland Township, Madison County, Indiana is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tarrant County, Texas",
+                    "countySeat",
+                    "Fort Worth, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "The county seat of Tarrant County in Texas is Fort Worth.",
+            "The county seat of Tarrant County is Fort Worth in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Taylor County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Taylor County is in Texas, in the United States.",
+            "Taylor County, Texas is in the US.",
+            "Taylor County, Texas is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Taylor County, Texas",
+                    "largestCity",
+                    "Abilene, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is the largest city, in Taylor County, Texas.",
+            "Abilene is the largest city in Taylor County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is the capital city of Texas.",
+            "Austin is the capital of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Texas is in the United States.",
+            "Texas is in the U.S.",
+            "Texas is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id220",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Texas",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is a language spoken in Texas.",
+            "English is spoken in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id221",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Texas",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Spanish is a language spoken in Texas.",
+            "One of the languages spoken in Texas is Spanish.",
+            "Spanish is spoken in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id222",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ]
+            ]
+        },
+        "text": [
+            "Houston is the largest city in Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id223",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Travis County, Texas",
+                    "countySeat",
+                    "Austin, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is the county seat of Travis County, in Texas.",
+            "The County Seat for Travis County is in Austin, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id224",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Travis County, Texas",
+                    "largestCity",
+                    "Austin, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is the largest city in Travis County, Texas.",
+            "Austin, Texas is the largest city in Travis County, Texas.",
+            "The largest city in Travis County, Texas, is Austin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id225",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Union Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Union Township is in Madison County, which is in Indiana, in the United States.",
+            "Union Township, Madison County, Indiana is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id226",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "The capital of the U.S. is Washington, D.C.",
+            "Washington, D.C. is the capital of the U.S.",
+            "The capital of the United States is Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id227",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Americans live in the U.S.",
+            "Americans are the people occupying the U.S.",
+            "The inhabitants of the United States are known as Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id228",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "African Americans are an ethnic group in the United States.",
+            "African Americans are an ethnic group within the United States.",
+            "One of the ethnic groups in the United States are the African Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id229",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in the United States, is Asian Americans.",
+            "Asian Americans are an ethnic group in the U.S.",
+            "The Asian Americans are an ethnic group of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id230",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are one of the ethnic groups in the United States of America.",
+            "The Native Americans are an ethnic group within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id231",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ]
+            ]
+        },
+        "text": [
+            "White Americans are an ethnic group in the United States.",
+            "White Americans are an ethnic group within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id232",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language spoken in the United States.",
+            "English is the language of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id233",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "largestCity",
+                    "New York City"
+                ]
+            ]
+        },
+        "text": [
+            "The biggest city in the U.S. is New York City.",
+            "New York City is the largest city of the United States.",
+            "The largest city in United States is New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id234",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The president is the leader of the United States.",
+            "The leader of the United States is called the President of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id235",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States House of Representatives",
+                    "isPartOf",
+                    "United States Congress"
+                ]
+            ]
+        },
+        "text": [
+            "The United States House of Representatives is part of the United States Congress.",
+            "The House of Representatives forms part of the United States Congress.",
+            "United States House of Representatives is part of United States Congress."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id236",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States House of Representatives",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States house of Representatives is in the Unites States.",
+            "The United States House of Representatives is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id237",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States House of Representatives",
+                    "location",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "The U.S. House of Reps is located in Washington, D.C.",
+            "The United States House of Representatives is located in Washington D.C.",
+            "United States House of Representatives is located in Washington DC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id238",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Washington (state)",
+                    "capital",
+                    "Olympia, Washington"
+                ]
+            ]
+        },
+        "text": [
+            "Olympia is the capital of Washington.",
+            "The Washington state capital is Olympia.",
+            "Olympia is the capital of Washington (state)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id239",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Washington (state)",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Washington state is located within the United States.",
+            "Washington is a state is United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id240",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Washington (state)",
+                    "largestCity",
+                    "Sea"
+                ]
+            ]
+        },
+        "text": [
+            "Seattle is the largest city in Washington State.",
+            "The largest city of Washington state is Seattle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id241",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Washtenaw County, Michigan",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Washtenaw County, Michigan is in the United States.",
+            "Washtenaw County in Michigan is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id242",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Williamson County, Texas",
+                    "countySeat",
+                    "Georgetown, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Georgetown is the county seat of Williamson County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id243",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Williamson County, Texas",
+                    "largestCity",
+                    "Round Rock, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Round Rock is the largest city in Williamson County, Texas.",
+            "The largest city of Williamson County, Texas is Round Rock."
+        ]
+    }
+]

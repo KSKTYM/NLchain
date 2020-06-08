@@ -1,0 +1,693 @@
+[
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Bertram",
+                    "activeYearsStartYear",
+                    "1998"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Bertram started performing in 1998."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Deer",
+                    "associatedBand/associatedMusicalArtist",
+                    "The Horns of Happiness"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Deer collaborates with The Horns of Happiness.",
+            "Aaron Deer plays with The Horns of Happiness."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Avant-garde meta"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner falls in the genre of avant-garde metal music.",
+            "Aaron Turner performs avant-garde metal music.",
+            "Aaron Turner also uses the musical genre Avant-garde metal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black meta"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner performs black metal music.",
+            "Aaron Turner is a Black metal musician.",
+            "Black Metal is a genre of Aaron Turner's music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "origin",
+                    "Boston"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner originates from Boston.",
+            "Aaron Turner was born in Boston.",
+            "Aaron Turner is originally from Boston."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abradab",
+                    "associatedBand/associatedMusicalArtist",
+                    "Magik (rapper)"
+                ]
+            ]
+        },
+        "text": [
+            "Abradab is associated with Magik (rapper).",
+            "Abradab is musically associated with the rapper Magik.",
+            "Abradab is associated with the rapper Magik."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abradab",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Abradab has a background as a solo singer.",
+            "Abradab's background is that of solo singer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ace Wilder",
+                    "birthDate",
+                    "1982-07-23"
+                ]
+            ]
+        },
+        "text": [
+            "Ace Wilder was born on July 23, 1982.",
+            "Ace Wilder was born July 23, 1982.",
+            "Ace Wilder's date of birth is 1982-07-23."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ace Wilder",
+                    "recordLabel",
+                    "EMI Records"
+                ]
+            ]
+        },
+        "text": [
+            "Ace Wilder is signed to the record label EMI Records.",
+            "Ace Wilder' recording label is EMI records.",
+            "Ace Wilder was signed to EMI Records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agustín Barboza",
+                    "recordLabel",
+                    "Philips Records"
+                ]
+            ]
+        },
+        "text": [
+            "Agustin Barboza is signed to Philips Records.",
+            "Agustin Barboza is signed to the record label of Philips Records.",
+            "Agustín Barboza is signed to Philips Records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Frew",
+                    "associatedBand/associatedMusicalArtist",
+                    "Glass Tig"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Frew plays with Glass Tiger.",
+            "Alan Frew is a musician with the Glass Tiger band."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albennie Jones",
+                    "birthPlace",
+                    "Errata, Mississ"
+                ]
+            ]
+        },
+        "text": [
+            "Albennie Jones was born in Errata Mississippi.",
+            "Albennie Jones was born in Errata, Mississippi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kornelije Kovač"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovac is associated with Kornelije Kovac.",
+            "Aleksandra Kovač is in same band with Kornelije Kovač.",
+            "Aleksandra Kovač is associated with the musical artist Kornelije Kovač."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovac is a solo singer.",
+            "A solo singer is part of Aleksandra Kovač's background."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "genre",
+                    "Soul music"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovač's genre is soul music.",
+            "Aleksandra Kovač performs soul music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Garth Jones died in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "associatedBand/associatedMusicalArtist",
+                    "Hilario Pérez"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa is musically associated with Hilario Perez.",
+            "Alfredo Zitarrosa is a musician associated with Hilario Perez."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "genre",
+                    "Milonga (music)"
+                ]
+            ]
+        },
+        "text": [
+            "The musical genre of Alfredo Zitarrosa is Milonga.",
+            "Alfredo Zitarrosa is an exponent of Milonga.",
+            "Alfredo Zitarrosa music genre is Milonga."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "recordLabel",
+                    "Movieplay"
+                ]
+            ]
+        },
+        "text": [
+            "Movieplay is the record label of Alfredo Zitarrosa.",
+            "The record label of Alfredo Zitarrosa is Movieplay."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alison O'Donnell",
+                    "activeYearsStartYear",
+                    "1963"
+                ]
+            ]
+        },
+        "text": [
+            "Alison O'Donnell started performing in 1963.",
+            "1963 was the beginning of Alison O'Donnell's active years."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Allen Forrest",
+                    "genre",
+                    "Pop music"
+                ]
+            ]
+        },
+        "text": [
+            "Allen Forrest plays pop music.",
+            "Allen Forrest was a pop artist.",
+            "Allen Forrest is an exponent of Pop music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "recordLabel",
+                    "Alligator Records"
+                ]
+            ]
+        },
+        "text": [
+            "Anders Osborne was signed to the record label 'Alligator Records'.",
+            "Anders Osborne is signed to the record label Alligator Records.",
+            "Anders Osborne's record label is Alligator Records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "recordLabel",
+                    "Shanachie Records"
+                ]
+            ]
+        },
+        "text": [
+            "Anders Osborne is signed to Shanachie Records.",
+            "The record label of Anders Osborne is Shanachie Records.",
+            "Anders Osborne was signed to the Shanachie Records label."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Jwaydan Moyin"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew Rayel is associated with the musician Jwaydan Moyine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrew Rayel",
+                    "birthPlace",
+                    "Chișinău, Moldova"
+                ]
+            ]
+        },
+        "text": [
+            "The birth place of Andrew Rayel is Chisinau, Moldova.",
+            "Andrew Rayel was born in Chisinau, Moldova."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Andrew White (musician)",
+                    "genre",
+                    "Alternative rock"
+                ]
+            ]
+        },
+        "text": [
+            "The musician Andrew White's genre is alternative rock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asunción",
+                    "isPartOf",
+                    "Gran Asunción"
+                ]
+            ]
+        },
+        "text": [
+            "Asunción is a part of Gran Asunción.",
+            "Asunción is part of Gran Asunción."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Deram Records",
+                    "location",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "Deram Records is based in London.",
+            "Deram Records can be found in London.",
+            "Deram Records are located in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Funk",
+                    "musicFusionGenre",
+                    "Afrobea"
+                ]
+            ]
+        },
+        "text": [
+            "Afrobeat is a fusion of funk music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Hip hop music",
+                    "musicSubgenre",
+                    "Gangsta ra"
+                ]
+            ]
+        },
+        "text": [
+            "Hip hop music has the sub genre Gangsta rap.",
+            "Gangsta rap is a sub genre of Hip Hop music.",
+            "Hip hop music has a sub genre called Gangsta rap."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jazz",
+                    "stylisticOrigin",
+                    "Blues"
+                ]
+            ]
+        },
+        "text": [
+            "Jazz originated its style from Blues music.",
+            "The stylistic origins of Jazz come from Blues.",
+            "Jazz style originates from the Blues."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "RCA Records",
+                    "distributingCompany",
+                    "Legacy Recordings"
+                ]
+            ]
+        },
+        "text": [
+            "Legacy Recordings is the distributing company for RCA Records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Twilight (band)",
+                    "genre",
+                    "Black meta"
+                ]
+            ]
+        },
+        "text": [
+            "The musical genre of the band Twilight is black metal.",
+            "Twilight performs black metal music.",
+            "The genre for the band Twilight, can be described as Black metal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "demonym",
+                    "British peo"
+                ]
+            ]
+        },
+        "text": [
+            "People from the United Kingdom are called British people.",
+            "The native people of the United Kingdom are known as the British people.",
+            "British people is a demonym for people in the United Kingdom."
+        ]
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "areaCode",
+                    "325"
+                ]
+            ]
+        },
+        "text": [
+            "The area code of Abilene, in Texas, is 325.",
+            "325 is the area code for Abilene, Texas.",
+            "The area code for Abilene in Texas is 325."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Abilene is a part of Texas.",
+            "Abilene, Texas, is part of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "leaderTitle",
+                    "Mayo"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia has a Mayor as leader.",
+            "Albany, Georgia is led by a Mayor.",
+            "The leader of Albany, Georgia is the Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "areaTotal",
+                    "45.97 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon has a total area of 45.97 square kilometres.",
+            "The total area of Albany Oregon is 45.97 Sq K.",
+            "The total area of Albany, Oregon is 45.97 sq kms."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Oregon is in the U.S.",
+            "Albany, Oregon is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "State Senate"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque, New Mexico is led by the State Senate."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Albuquerque, New Mexico",
+                    "leaderTitle",
+                    "Albuquerque City Counc"
+                ]
+            ]
+        },
+        "text": [
+            "The Albuquerque City Council has a leadership role in Albuquerque, New Mexico.",
+            "Albuquerque in New Mexico is led by the Albuquerque City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is in Texas, in the United States.",
+            "The United States is the home country to Amarillo, Texas.",
+            "Amarillo, Texas is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Potter County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is part of Potter County in Texas.",
+            "Amarillo is part of Potter County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo is in Texas, in the United States.",
+            "Amarillo, Texas is part of the United States.",
+            "Amarillo, Texas, is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "areaCode",
+                    "657"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, in California, has the area code 657.",
+            "The area code of Anaheim, California is 657.",
+            "The area code for Anaheim, California, is 657."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Adams, Fall Creek, Lafayette, Richland, Union"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Angola, Indiana",
+                    "isPartOf",
+                    "Pleasant Township, Steuben County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Angola is in Pleasant Township which is part of Steuben County, in Indiana.",
+            "Angola, Indiana is part of Pleasant Township, which is in Steuben County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "leaderTitle",
+                    "City Administrator"
+                ]
+            ]
+        },
+        "text": [
+            "A City Administrator leads Ann Arbor, Michigan.",
+            "The City Administrator leads Ann Arbor in Michigan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "leaderTitle",
+                    "Mayo"
+                ]
+            ]
+        },
+        "text": [
+            "Mayor, is the title of the leader in Ann Arbor, Michigan.",
+            "Ann Arbor, Michigan is led by the Mayor.",
+            "The leader title of Ann Arbor, Michigan, is Mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "populationDensity",
+                    "1580.7 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "The city of Ann Arbor, Michigan, has a population of 1580.7 as per square kilometre.",
+            "AnnArbor, Michigan has a population of 1580.7 peer square kilometer.",
+            "The population density of Ann Arbor, Michigan is 1580.7 inhabitants per sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "elevationAboveTheSeaLevel",
+                    "13.0"
+                ]
+            ]
+        },
+        "text": [
+            "Antioch, CA is 13 above sea level.",
+            "Antioch, California is 13.0 metres above sea level.",
+            "Antioch, California is located at 13.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antioch, California",
+                    "leaderTitle",
+                    "California's 11th State Assembly distric"
+                ]
+            ]
+        },
+        "text": [
+            "The leader title of Antioch, California, is California's 11th State Assembly district.",
+            "The leader title of Antioch California is California's 11th State Assembly district."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arlington, Texas",
+                    "elevationAboveTheSeaLevel",
+                    "184.0"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington Texas is has an elevation of 184 above sea level.",
+            "Arlington in Texas is located at 184.0 above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlantic County, New Jersey",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Atlantic County, New Jersey is located in the United States.",
+            "Atlantic County in New Jersey is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Fountain County, Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica is part of Fountain County Indiana.",
+            "Attica, Indiana is in Fountain County, Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "isPartOf",
+                    "Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn is part of Alabama.",
+            "Auburn is located in Alabama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "California",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "California is in the United States.",
+            "California is in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Fulton County, Georgia",
+                    "largestCity",
+                    "Atlanta"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is the largest city of Fulton County, Georgia.",
+            "Atlanta is the largest city in Fulton County, Georgia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Georgia (U.S. state)",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The state of Georgia is in the U.S.",
+            "Georgia is in the country of United States.",
+            "The state of Georgia is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ]
+            ]
+        },
+        "text": [
+            "Indianapolis is the capital of Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lee County, Alabama",
+                    "state",
+                    "Alabama"
+                ]
+            ]
+        },
+        "text": [
+            "Lee County is in Alabama.",
+            "Lee County is in the state of Alabama.",
+            "Lee County is situated within the state of Alabama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New Jersey",
+                    "capital",
+                    "Trenton, New Jersey"
+                ]
+            ]
+        },
+        "text": [
+            "Trenton is the capital of New Jersey.",
+            "The capital of the state of New Jersey is Trenton."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Potter County, Texas",
+                    "state",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Potter County is in Texas.",
+            "Potter County is in the State of Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Tarrant County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Tarrant County, Texas is situated in the United States.",
+            "Tarrant County in Texas is in the U.S.",
+            "Tarrant County, Texas is located within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Washtenaw County, Michigan",
+                    "largestCity",
+                    "Ann Arbor, Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor is the largest city in Washtenaw County, Michigan.",
+            "The largest town in Washtenaw county Michigan is Ann Arbor.",
+            "The largest city in Washtenaw County, Michigan is Ann Arbor."
+        ]
+    }
+]

@@ -1,0 +1,717 @@
+[
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Milan",
+                    "chairman",
+                    "Silvio Berluscon"
+                ]
+            ]
+        },
+        "text": [
+            "The Chairman of A C Milan is Silvio Berlusconi.",
+            "Silvio Berlusconi is the chairman of A.C. Milan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard's birthplace is Canada.",
+            "Aaron Boogaard was born in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay Olympic football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez is in the Uruguay Olympic football team.",
+            "Abel Hernandez played for the Uruguay Olympic football team.",
+            "Abel Hernández plays for the Uruguay Olympic football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Uruguay national football tea"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez's club is the Uruguay National football team.",
+            "Abel Hernandez plays for the Uruguay national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "C.D. FAS"
+                ]
+            ]
+        },
+        "text": [
+            "The footballer Abner belongs to the club C.D. FAS.",
+            "The footballer Abner plays for C.D. FAS.",
+            "Abner is a footballer for the CD FAS club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Maher",
+                    "birthPlace",
+                    "Ait Ikkou, Morocco"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Maher was born in Ait Ikkou, Morocco.",
+            "Ait Ikkou, Morocco is the birth place of Adam Maher."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam Maher",
+                    "birthPlace",
+                    "Diemen"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Maher's birthplace is Diemen.",
+            "Diemen is the birth place of Adam Maher.",
+            "Adam Maher was born in Diemen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adam McQuaid",
+                    "birthPlace",
+                    "Charlottetown"
+                ]
+            ]
+        },
+        "text": [
+            "Adam McQuaid was born in Charlottetown.",
+            "Charlottetown was the birthplace of Adam McQuaid."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "birthPlace",
+                    "Iraq"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad's birthplace is Iraq.",
+            "Ahmad Kadhim Assad was born in Iraq.",
+            "Ahmad Kadhim Assad's place of birth is Iraq."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "PAS Tehran F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad played for the club PAS Tehran F.C.",
+            "Ahmad Kadhim Assad plays for PAS Tehran FC.",
+            "Ahmad Kadhim Assad plays for PAS Tehran F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "position",
+                    "Lineback"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers plays as a linebacker.",
+            "Akeem Ayers' position is linebacker."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "club",
+                    "FK Mughan"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley plays for FK Mughan.",
+            "Akeem Priestley played for FK Mughan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "youthclub",
+                    "Jacksonville Dolphins"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Priestley played for the Jacksonville Dolphins youth team.",
+            "Akeem Priestley is in the Jacksonville Dolphins youth club.",
+            "Akeem Priestley's youth club is the Jacksonville Dolphins."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Al-Khor Sports Club",
+                    "league",
+                    "Qatar Stars Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Al-Khor Sports Club is in the Qatar Stars League.",
+            "Al-Khor Sports Club play in the Qatar Stars League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "birthPlace",
+                    "Baghdad"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra was born in Baghdad.",
+            "Baghdad is the birth place of Alaa Abdul-Zahra.",
+            "Alaa Abdul Zahra was born in Baghdad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Accrington Stanley F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin played football for Accrington Stanley F.C.",
+            "Footballer, Alan Martin plays for the club, Accrington Stanley F.C.",
+            "Alan Martin played for Accrington Stanley F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Crewe Alexandra F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Alan Martin, plays for the club Crewe Alexandra F.C.",
+            "The footballer Alan Martin plays for Crewe Alexandra F.C.",
+            "Alan Martin is a footballer for the Crewe Alexandra FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr was born in Finland.",
+            "Aleksander Barkov Jr. was born in Finland.",
+            "Aleksander Barkov, Jr's birth place is Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "club",
+                    "Florida Panthers"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr has played for the Florida Panthers.",
+            "Aleksander Barkov, Jr's club is the Florida Panthers.",
+            "Aleksander Barkov Jr. plays for the Florida Panthers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "league",
+                    "National Hockey Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr played in the National Hockey League.",
+            "Aleksander Barkov Jr. plays in the National Hockey League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "FC Samtredia"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli plays for FC Samtredia.",
+            "Aleksandre Guruli's club is FC Samtredia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Manitoba"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Manitoba.",
+            "Alex Plante's birthplace is Manitoba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "height",
+                    "1.9304"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante is 1.9304m tall.",
+            "Alex Plante is 1.9304 m tall.",
+            "Alex Plante is 1.9304 metres tall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brandon, Manitoba",
+                    "leaderName",
+                    "Drew Caldw"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Brandon, Manitoba is Drew Caldwell.",
+            "Drew Caldwell is leader of Brandon, Manitoba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Budapest",
+                    "country",
+                    "Hungary"
+                ]
+            ]
+        },
+        "text": [
+            "Budapest is a city in Hungary."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Canada",
+                    "language",
+                    "Inuktitu"
+                ]
+            ]
+        },
+        "text": [
+            "Inuktitut is a language spoken in Canada.",
+            "Inuktitut is a spoken language in Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Columbus Blue Jackets",
+                    "city",
+                    "Columbus, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "The Columbus Blue Jackets' city is Columbus, Ohio.",
+            "The Columbus Blue Jackets are based in the city of Columbus, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Terek Grozny",
+                    "ground",
+                    "Grozny"
+                ]
+            ]
+        },
+        "text": [
+            "FC Terek Grozny's ground is based at Grozny.",
+            "FC Terek Grozny's ground is located in Grozny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Tom Tomsk",
+                    "league",
+                    "Russian Football National Leagu"
+                ]
+            ]
+        },
+        "text": [
+            "The league FC Tom Tomsk plays in the Russian Football National League.",
+            "FC Tom Tomsk play in the Russian National Football League.",
+            "FC Tom Tomsk play in the Russian Football National League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "FC Torpedo Moscow",
+                    "manager",
+                    "Valery Petrakov"
+                ]
+            ]
+        },
+        "text": [
+            "Valery Petrakov is the manager of FC Torpedo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Florida Panthers",
+                    "generalManager",
+                    "Dale Tallon"
+                ]
+            ]
+        },
+        "text": [
+            "The general manager of Florida Panthers is Dale Tallon.",
+            "Florida Panthers' general manager is Dale Tallon.",
+            "Dale Tallon is the general manager of the Florida Panthers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Maccabi Tel Aviv B.C.",
+                    "coach",
+                    "Žan Tabak"
+                ]
+            ]
+        },
+        "text": [
+            "Maccabi Tel Aviv B.C.'s coach is Zan Tabak.",
+            "Zan Tabak is the coach for the Maccabi Tel Aviv B.C. team.",
+            "The coach of Maccabi Tel Aviv B.C. is Zan Tabak."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Olympique Lyonnais",
+                    "ground",
+                    "Parc Olympique Lyonnais"
+                ]
+            ]
+        },
+        "text": [
+            "Olympique Lyonnais play their home games at the Parc Olympique Lyonnais.",
+            "Olympique Lyonnais' home ground is the Parc Olympique Lyonnais stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Peñarol",
+                    "manager",
+                    "Jorge Orosmán da Silva"
+                ]
+            ]
+        },
+        "text": [
+            "Peñarol's manager is Jorge Orosmán da Silva.",
+            "The manager of Peñarol is Jorge Orosmán da Silva.",
+            "Jorge Orosmán da Silva is the manager of Peñarol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Point Fortin",
+                    "country",
+                    "Trinidad"
+                ]
+            ]
+        },
+        "text": [
+            "Point Fortin is in Trinidad.",
+            "Point Fortin is located in Trinidad.",
+            "Point Fortin is located in the country of Trinidad."
+        ]
+    }
+]

@@ -1,0 +1,1777 @@
+[
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "latinName",
+                    "Universitas Apulensis"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "state",
+                    "Alba"
+                ]
+            ]
+        },
+        "text": [
+            "1 Decembrie 1918 University is located in Alba, Romania and its Latin name is \"Universitas Apulensis\".",
+            "The 1 Decembrie 1918 University is located in the state of Alba, Romania. The latin name for this university is \"Universitas Apulensis\".",
+            "The Latin name of 1 Decembrie 1918 University in Alba, Romania, is Universitas Apulensis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "nickname",
+                    "Uab"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "city",
+                    "Alba Iulia"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "state",
+                    "Alba"
+                ]
+            ]
+        },
+        "text": [
+            "The 1 Decembrie 1918 University is located in Alba Iulia, Alba. Its nickname is Uab.",
+            "The nickname of the 1 Decembrie 1918 University in Alba Iulia, Alba, is Uab.",
+            "The 1 Decembrie 1918 University is also known as Uab and located in Alba Iulia, Alba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "nickname",
+                    "Uab"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "rector",
+                    "Breaz Valer Daniel"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "latinName",
+                    "Universitas Apulensis"
+                ]
+            ]
+        },
+        "text": [
+            "The nickname of the 1 Decembrie 1918 University is Uab. The latin name is \"Universitas Apulensis\" and the rector is Breaz Valer Daniel.",
+            "1 Decembrie 1918 University is known informally as Uab and the latin name is Universitas Apulensis. The rector is Breaz Valer Daniel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1 Decembrie 1918 University",
+                    "rector",
+                    "Breaz Valer Daniel"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "city",
+                    "Alba Iulia"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "1 Decembrie 1918 University is located in Alba Iulia, Romania and its rector is Breaz Valer Daniel.",
+            "The rector of 1 Decembrie 1918 University in Alba Iulia in Romania is Breaz Valer Daniel.",
+            "The rector of 1 Decembrie 1918 University, in Alba Iulia, Romania, is Breaz Valer Daniel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "academicStaffSize",
+                    "250"
+                ],
+                [
+                    "AWH Engineering College",
+                    "state",
+                    "Kerala"
+                ],
+                [
+                    "AWH Engineering College",
+                    "city",
+                    "Kuttikkattoor"
+                ]
+            ]
+        },
+        "text": [
+            "The AWH Engineering College is located in Kuttikkattoor, Kerala and it has 250 academic staff.",
+            "There is an academic staff of 250 at the AWH Engineering College which is located in Kuttikkattoor in the state of Kerala.",
+            "AWH Engineering College is located in Kuttikkattoor, Kerala and has a staff of 250."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "country",
+                    "India"
+                ],
+                [
+                    "AWH Engineering College",
+                    "established",
+                    "2001"
+                ],
+                [
+                    "AWH Engineering College",
+                    "academicStaffSize",
+                    "250"
+                ]
+            ]
+        },
+        "text": [
+            "The AWH Engineering College was established in India in 2001 and has 250 academic staff.",
+            "AWH Engineering College was established in 2001 and is located in India. It currently has 250 members of staff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "country",
+                    "India"
+                ],
+                [
+                    "AWH Engineering College",
+                    "established",
+                    "2001"
+                ],
+                [
+                    "AWH Engineering College",
+                    "city",
+                    "Kuttikkattoor"
+                ]
+            ]
+        },
+        "text": [
+            "AWH Engineering College was established in 2001 in Kuttikkattoor, India.",
+            "Kuttikkattoor, India is the location of the AWH Engineering College which was established in 2001.",
+            "The AWH Engineering College was established in 2001 in Kuttikkattoor, India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "country",
+                    "India"
+                ],
+                [
+                    "AWH Engineering College",
+                    "state",
+                    "Kerala"
+                ],
+                [
+                    "Kerala",
+                    "has to its northwest",
+                    "Mahé, India"
+                ]
+            ]
+        },
+        "text": [
+            "AWH Engineering College is located in Kerala, India. Kerala has Mahe, India to its northwest.",
+            "The AWH Engineering College is located in the state of Kerala in India which is southeast of Mahe, India.",
+            "AWH Engineering College is located in Kerala, India which is southeast of Mahe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AWH Engineering College",
+                    "established",
+                    "2001"
+                ],
+                [
+                    "AWH Engineering College",
+                    "academicStaffSize",
+                    "250"
+                ],
+                [
+                    "AWH Engineering College",
+                    "state",
+                    "Kerala"
+                ]
+            ]
+        },
+        "text": [
+            "There are 250 academic staff at the AWH Engineering College in the state of Kerala. The College was established in 2001.",
+            "AWH Engineering College was established in 2001 in Kerala. It has an academic staff of 250.",
+            "The AWH Engineering College was established in 2001 in Kerala and has a staff compliment of 250."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is in Mendrisio. It has 600 students and an academic staff of 100.",
+            "The Accademia di Architettura di Mendrisio has a staff compliment of 100 and 600 students.",
+            "The Accademia di Architettura di Mendrisio is located in the city of Mendrisio. It has an academic staff of 100 and a total of 600 students."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ],
+                [
+                    "Switzerland",
+                    "leaderName",
+                    "Johann Schneider-Ammann"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio in Switzerland has 100 academic staff. Switzerland's leader is Johann Schneider-Ammann.",
+            "The Accademia di Architettura di Mendrisio has 100 academic staff and is located in Switzerland where Johann Schneider-Ammann is the country's leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id12",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ],
+                [
+                    "Switzerland",
+                    "legislature",
+                    "Federal Assembly (Switzerland)"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Switzerland's legislature is the Federal Assembly.",
+            "The Federal Assembly is the legislature of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio.",
+            "Accademia di Architettura di Mendrisio is located in Medrisio, Switzerland which has a federal assembly as the legislative body."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio was established in Switzerland in 1996. It has 100 academic staff.",
+            "The Accademia di Architettura di Mendrisio was established in Switzerland in 1996 and has 100 academic staff.",
+            "Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and has a staff of 100."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ]
+            ]
+        },
+        "text": [
+            "Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland and has 600 students.",
+            "The Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland. It has 600 students.",
+            "The Accademia di Architettura di Mendrisio in Switzerland, Mendrisio has a student count of 600."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id15",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Switzerland",
+                    "anthem",
+                    "Swiss Psalm"
+                ],
+                [
+                    "Switzerland",
+                    "leaderName",
+                    "Johann Schneider-Ammann"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is in Switzerland. The Swiss anthem is the Swiss Psalm and its leader is Johann Schneider-Ammann.",
+            "Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader is Johann Schneider-Ammann and their national anthem is the Swiss Psalm."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id16",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Switzerland",
+                    "leaderName",
+                    "Johann Schneider-Ammann"
+                ],
+                [
+                    "Switzerland",
+                    "leaderTitle",
+                    "Federal Chancellor of Switzerland"
+                ]
+            ]
+        },
+        "text": [
+            "The Federal Chancellor of Switzerland is called Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in Switzerland.",
+            "Switzerland's leader is Federal Chancellor Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio.",
+            "The Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader Johann Schneider-Ammann is officially known as the Federal Chancellor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Switzerland",
+                    "legislature",
+                    "Federal Assembly (Switzerland)"
+                ],
+                [
+                    "Switzerland",
+                    "leaderName",
+                    "Johann Schneider-Ammann"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is located in Switzerland. The Swiss legislature is the Federal Assembly and its leader is Johann Schneider-Ammann.",
+            "Johann Schneider-Ammann is the leader of Switzerland where the Federal Assembly is the national legislature. The country is the home of the Accademia di Architettura di Mendrisio.",
+            "Johann Schneider-Ammann is the leader of the Federal Assembly in that country. Accademia di Architettura di Mendrisio is located in Switzerland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio was established in Mendrisio in 1996. Its dean is Mario Botta.",
+            "Mario Botta is Dean of the Accademia di Architettura di Mendrisio which is located in the city of Mendrisio and was established in 1996.",
+            "The dean of the Accademia di Architettura di Mendrisio is Mario Botta and the university was established in 1996."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio has 100 academic staff and 600 students. Its dean is called Mario Botta.",
+            "The Dean of Accademia di Architettura di Mendrisio is Mario Botta. There are 600 students and 100 academic staff.",
+            "The dean of Accademia di Architettura di Mendrisio is Mario Botta. The University has a staff of 100 and 600 students."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id20",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Mendrisio",
+                    "neighboringMunicipality",
+                    "Meride"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is located in Mendrisio and its dean is Mario Botta. The neighbouring municipality of Mendrisio is Meride.",
+            "The Dean of the Accademia di Architettura di Mendrisio is Mario Botta. It is located in the city of Mendrisio, a neighbouring municipality of Meride.",
+            "The dean of Accademia di Architettura di Mendrisio is Mario Botta. A neighbouring municipality to Mendrisio is Meride."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "location",
+                    "Ticino"
+                ]
+            ]
+        },
+        "text": [
+            "Accademia di Architettura di Mendrisio is located in Ticino. It has 600 students and 100 staff.",
+            "The Accademia di Architettura di Mendrisio is located in Ticino. There are 600 students and 100 staff members.",
+            "Accademia di Architettura di Mendrisio in Ticino has a staff of 100 and 600 students."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is located in Mendrisio. Its dean is called Mario Botta and it has 600 students.",
+            "There are 600 students at the Accademia di Architettura di Mendrisio which has Mario Botta as Dean and is situated in the city of Mendrisio.",
+            "The dean of Accademia di Architettura di Mendrisio is Mario Botta and it has 600 students."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "Accademia di Architettura di Mendrisio was established in 1996. It has 100 staff and 600 students.",
+            "In 1996 the Accademia di Architettura di Mendrisio was established. There are 600 students and an academic staff of 100.",
+            "The Accademia di Architettura di Mendrisio, established 1996, has 600 students and 100 academic staff."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "academicStaffSize",
+                    "~500"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "motto",
+                    "Nurturing Excellence"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology has an academic staff of 500. It is located in India and its motto is \"Nurturing Excellence\".",
+            "The Acharya Institute of Technology in India has an academic staff of approximately 500. Its motto is \"Nurturing Excellence\".",
+            "The Acharya Institute of Technology in India has a staff of about 500, the university's motto is \"Nurturing Excellence\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Bangalore, India. It is associated with the Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology is in Bangalore, India. It's affiliated with the Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology in Bangalore, India is affiliated with the Visvesvaraya Technological University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "state",
+                    "Karnataka"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is in Bangalore, Karnataka. It is associated with the Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology of Bangalore, Karnataka is affiliated with Visvesvaraya Technological University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id27",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ],
+                [
+                    "Visvesvaraya Technological University",
+                    "city",
+                    "Belgaum"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is in Soldevanahalli, its address is Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with the Visvesvaraya Technological University in Belgaum.",
+            "The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id28",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. It is affiliated with the Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It's affiliated with the Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University. Its campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id29",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "director",
+                    "Dr. G. P. Prabhukumar"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. Its director is Dr. G. P. Prabhukumar.",
+            "The director of the Acharya Institute of Technology is Dr. G. P. Prabhukumar and the university is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id30",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "numberOfPostgraduateStudents",
+                    "700"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology was established at Bangalore in 2000. It has 700 postgraduate students.",
+            "There are 700 postgraduate students at the Acharya Institute of Technology which was established in 2000 in Bangalore.",
+            "The Acharya Institute of Technology in Bangalore was established in 2000 and has 700 post-graduate students."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id31",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, 560090, India. It is affiliated with the Visvesvaraya Technological University.",
+            "The Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University and the campus is located in India at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+            "India's Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and the campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id32",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "numberOfPostgraduateStudents",
+                    "700"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is in Soldevanahalli, India its address is Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It has 700 postgraduate students.",
+            "The Acharya Institute of Technology has 700 post-graduate students and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, India, 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id33",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "state",
+                    "Karnataka"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Karnataka, India and it was established in 2000.",
+            "The Acharya Institute of Technology was established in the state of Karnataka, India, in 2000.",
+            "The Acharya Institute of Technology was established in 2000 in Karnataka, India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id34",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "sportsOffered",
+                    "Tennis"
+                ],
+                [
+                    "Tennis",
+                    "sportsGoverningBody",
+                    "International Tennis Federation"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of technology is located in India and the offered sport is tennis. The governing tennis body is the International Tennis Federation.",
+            "The sport of tennis, governed by the International Tennis Federation, is offered at the Acharya Institute of Technology in India.",
+            "The Acharya Institute of Technology is governed by the International Tennis Federation in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id35",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "was given the 'Technical Campus' status by",
+                    "All India Council for Technical Education"
+                ],
+                [
+                    "All India Council for Technical Education",
+                    "location",
+                    "Mumbai"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Bangalore. It was given the \"Technical Campus\" status by the All India Council for Technical Education, which is located in Mumbai.",
+            "The Acharya Institute of Technology in Bangalore was given the \"Technical Campus\" status by the All India Council for Technical Education in Mumbai.",
+            "The Acharya Institute of Technology, Bangalore, was given 'Technical Campus' status by the All India Council for Technical Education in Mumbai."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id36",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Alba Iulia",
+                    "country",
+                    "Romania"
+                ],
+                [
+                    "Romania",
+                    "capital",
+                    "Bucharest"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "city",
+                    "Alba Iulia"
+                ]
+            ]
+        },
+        "text": [
+            "1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania.",
+            "The 1 Decembrie 1918 University is located in the city of Alba Iulia, Romania (capital Bucharest)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id37",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alba Iulia",
+                    "isPartOf",
+                    "Alba County"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "city",
+                    "Alba Iulia"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "The 1 Decembrie 1918 University is in Alba Iulia, Alba County, Romania.",
+            "The 1 Decembrie 1918 University is located in the city of Alba Iulia, Alba County, Romania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id38",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bangalore",
+                    "founder",
+                    "Kempe Gowda I"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Bangalore. Its founder is Kempe Gowda.",
+            "Bangalore was founded by Kempe Gowda and is the location of the Acharya Institute of Technology which is affiliated with Visvesvaraya Technological University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id39",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Bangalore",
+                    "founder",
+                    "Kempe Gowda I"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "president",
+                    "B.M. Reddy"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ]
+            ]
+        },
+        "text": [
+            "Kempe Gowda is the founder of Bangalore, the location of the Acharya Institute of Technology whose President is B M Reddy.",
+            "The President of the Acharya Institute of Technology is B.M. Reddy and the university is located in Bangalore. The city was foundered by Kempe Gowda I."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id40",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Karnataka",
+                    "has to its northeast",
+                    "Telangana"
+                ],
+                [
+                    "Karnataka",
+                    "has to its west",
+                    "Arabian Sea"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "state",
+                    "Karnataka"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Karnataka. Karnataka has Telangana to its northeast and the Arabian Sea to its west.",
+            "The state of Karnataka, the location of the Acharya Institute of Technology has Telangana to the northeast and the Arabian Sea to the west."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id41",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Kerala",
+                    "leaderName",
+                    "Kochi"
+                ],
+                [
+                    "AWH Engineering College",
+                    "academicStaffSize",
+                    "250"
+                ],
+                [
+                    "AWH Engineering College",
+                    "state",
+                    "Kerala"
+                ]
+            ]
+        },
+        "text": [
+            "AWH Engineering College at Kerala has 250 academic staff. Kerala's leader is Kochi.",
+            "Kochi is the leader of Kerala which is the location of the AWH Engineering College that has an academic staff of 250.",
+            "With a staff compliment of 250, AWH Engineering College is located in Kerala, the leader of that state is named Kochi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id42",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Kerala",
+                    "leaderName",
+                    "Kochi"
+                ],
+                [
+                    "AWH Engineering College",
+                    "state",
+                    "Kerala"
+                ],
+                [
+                    "AWH Engineering College",
+                    "city",
+                    "Kuttikkattoor"
+                ]
+            ]
+        },
+        "text": [
+            "The AWH Engineering College is in Kuttikkattoor, Kerala. Kerala is led by Kochi.",
+            "AWH Engineering College is located in the city of Kuttikkattoor, Kerala. Kochi is the name of the leader of Kerala."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id43",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Mendrisio",
+                    "neighboringMunicipality",
+                    "Meride"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ]
+            ]
+        },
+        "text": [
+            "Accademia di Architettura di Mendrisio was established in 1996. It is located in Mendrisio, which has Meride as its neighbouring municipality as Meride.",
+            "The .Accademia di Architettura di Mendrisio was established in 1996 within the city of Mendrisio, a neighbouring municipality to Meride .",
+            "The Accademia di Architettura di Mendrisio was established in 1996. It is situated in Mendrisio, which is near to Meride."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id44",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Romania",
+                    "ethnicGroup",
+                    "Germans of Romania"
+                ],
+                [
+                    "Romania",
+                    "capital",
+                    "Bucharest"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Romania is Bucharest. The country is the location of the 1 Decembrie 1918 University and the home of one of the ethnic groups of Romania who are the Germans of Romania.",
+            "The 1 Decembrie 1918 University is in Romania. Two facts about Romania are its capital is Bucharest, and one of its ethnic groups are known as the Germans of Romania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id45",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Romania",
+                    "leaderName",
+                    "Klaus Iohannis"
+                ],
+                [
+                    "Romania",
+                    "capital",
+                    "Bucharest"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "1 Decembrie 1918 University is located in Romania. The capital of the country is Bucharest and the leader's name is Klaus Iohannis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id46",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Romania",
+                    "leaderTitle",
+                    "Prime Minister of Romania"
+                ],
+                [
+                    "Romania",
+                    "capital",
+                    "Bucharest"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.",
+            "1 Decembrie 1918 University is located in Romania. Bucharest is the capital of the country, which is led by a Prime Minister."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id47",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Romania",
+                    "leaderTitle",
+                    "Prime Minister of Romania"
+                ],
+                [
+                    "Romania",
+                    "ethnicGroup",
+                    "Germans of Romania"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "Romania is led by the Prime Minister; its ethnic group are Germans of Romania and its university is called the 1 Decembrie 1918 University.",
+            "The Germans of Romania are an ethnic group within Romania which has a Prime Minister as its leader. The country is the location for the 1 Decembrie 1918 University.",
+            "1 Decembrie 1918 University is located in Romania, the leader of which is the Prime Minister and Romania has Germans as an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id48",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "School of Business and Social Sciences at the Aarhus University is in Denmark. It was established in 1928 and has an academic staff of 737.",
+            "The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark and has a staff of 737.",
+            "The School of Business and Social Sciences at the Aarhus University, Denmark, has an academic staff of 737 and was established in 1928."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id49",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "numberOfStudents",
+                    "16000"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association. It has 737 staff and 16,000 students.",
+            "The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association. There are 737 academic staff and 16000 students.",
+            "With a staff of 737 and a student population of 1600, the School of Business and Social Sciences at the Aarhus University has an affiliation with the European University Association."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id50",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "city",
+                    "Aarhus"
+                ],
+                [
+                    "Aarhus",
+                    "has to its northeast",
+                    "Mols"
+                ],
+                [
+                    "Aarhus",
+                    "governmentType",
+                    "Magistrate"
+                ]
+            ]
+        },
+        "text": [
+            "Aarhus has a magistrate government. To its northeast is Mols. The School of Business and Social Sciences at the Aarhus University is located in Aarhus.",
+            "Mols is northeast of Aarhus where the government is that of magistrate. The city is the location of the School of Business and Social Sciences at Aarhus University.",
+            "The School of Business and Social Sciences at the Aarhus University, located in Aarus which is governed by a magistrate and is southwest of Mols."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id51",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "city",
+                    "Aarhus"
+                ],
+                [
+                    "European University Association",
+                    "headquarters",
+                    "Brussels"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is in Aarhus. It is affiliated with the European University Association in Brussels.",
+            "The School of Business and Social Sciences at the Aarhus University, Aarhus, is affiliated with the European University Association which has its headquarters in Brussels."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id52",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "city",
+                    "Aarhus"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ],
+                [
+                    "Aarhus",
+                    "governmentType",
+                    "Magistrate"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University at Arhus was established in 1928. Arhus has a Magistrate government.",
+            "The city of Aarhus has a magistrate type of government and is the location of the School of Business and Social Sciences at Aarhus University which was established in 1928.",
+            "The School of Business and Social Sciences at the Aarhus University was established in 1928. Aarus is governed by a magistrate."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id53",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Lars Løkke Rasmussen"
+                ],
+                [
+                    "Denmark",
+                    "religion",
+                    "Church of Denmark"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark's leader is Lars Lokke Rasmussen and Denmark's religion is the Church of Denmark.",
+            "The School of Business and Social Sciences at the Aarhus University is located in Denmark. The leader of the country is Lars Lokke Rasmussen, and the state religion is the Church of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id54",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "Denmark",
+                    "leaderTitle",
+                    "Monarchy of Denmark"
+                ],
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Lars Løkke Rasmussen"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.",
+            "Lars Lokke Rasmussen is the leader of Denmark and has the title of Monarchy of Denmark. The country is the location of the School of Business and Social Sciences at the Aarhus University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id55",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "latinName",
+                    "Universitas Aarhusiensis"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University (Latin name - \"Universitas Aarhusiensis\" was established in 1928 and it is affiliated with the European University Association.",
+            "\"Universitas Aarhusiensis\" is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.",
+            "The School of Business and Social Sciences at the Aarhus University, affiliated with the European University Association, was established in 1928. Its Latin name is Universitas Aarhusiensis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id56",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "numberOfStudents",
+                    "16000"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is located in Denmark, has 16,000 students and was established in 1928.",
+            "The School of Business and Social Sciences at Aarhus University in Denmark was established in 1928 and has 16000 students.",
+            "School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and currently has a student body of 16000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id57",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Visvesvaraya Technological University",
+                    "city",
+                    "Belgaum"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology was established in 2000, and is affiliated with the Visvesvaraya Technological University based in Belgaum.",
+            "The Acharya Institute of Technology was established in 2000 and is affiliated with the Visvesvaraya Technological University in Belgaum."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id58",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Visvesvaraya Technological University",
+                    "city",
+                    "Belgaum"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "numberOfPostgraduateStudents",
+                    "700"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and has 700 postgraduate students. The university is located in Belgaum.",
+            "The Visvesvaraya Technological university in Belgaum, is affiliated with the Acharya Institute of Technology, which has 700 postgraduate students."
+        ]
+    }
+]

@@ -1,0 +1,2358 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "numberOfEmployees",
+                    "8500"
+                ],
+                [
+                    "AmeriGas",
+                    "foundingDate",
+                    "1959-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas, a U.S. company founded on 01-01-1959, has 8,500 employees.",
+            "AmeriGas is a United States company founded on Jan. 1, 1959 that employs 8,500 people.",
+            "AmeriGas was founded on January, 1 in 1959 and has 8500 employees in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "numberOfEmployees",
+                    "8500"
+                ],
+                [
+                    "AmeriGas",
+                    "netIncome",
+                    "211200000"
+                ]
+            ]
+        },
+        "text": [
+            "The United States based company, AmeriGas, earned a net income of $211,200,000 while employing 8500 people.",
+            "Operating out of the United States, AmeriGas, which has 8,500 employees, has a net income of 211200000.",
+            "AmeriGas is a company operating in the United States that employs 8500 people and has a net income of 211200000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "longName",
+                    "United States of America"
+                ]
+            ]
+        },
+        "text": [
+            "The long name of the United States is the United States of America home to AmeriGas company in the energy industry.",
+            "AmeriGas is part of the energy industry in the US, whose full name is the United States of America.",
+            "AmeriGas works in the energy industry of the USA, which stands for the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is an energy industry in the United States that is located in King of Prussia, Pennsylvania.",
+            "AmeriGas is a United States energy company located in King of Prussia, Pennsylvania.",
+            "AmeriGas, in the energy industry, is located in King of Prussia, Pennsylvania, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is a company in the energy industry that is located in King of Prussia, Pennsylvania with an operating income of $380,700,000.",
+            "AmeriGas is an energy company located in King of Prussia, PA with an operating income of $380,700,000.",
+            "AmeriGas is a company in the energy industry that has an operating income of 380700000 and is located in King of Prussia, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "United States",
+                    "populationTotal",
+                    "324720797"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The United States is home to 324,720,797 people as well as AmeriGas, located in King of Prussia, Pennsylvania.",
+            "The total population of the United States is 324,720,796 and is the home to the company AmeriGas located in a city in Pennsylvania called King of Prussia.",
+            "AmeriGas is located in King of Prussia, Pennsylvania, doing work in the United States which has a population of 324,720,797."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "numberOfEmployees",
+                    "8500"
+                ],
+                [
+                    "AmeriGas",
+                    "foundingDate",
+                    "1959-01-01"
+                ],
+                [
+                    "AmeriGas",
+                    "netIncome",
+                    "211200000"
+                ]
+            ]
+        },
+        "text": [
+            "8,500 people work in AmeriGas, that has a net income of $211,200,000 and was founded on January 1, 1959,.",
+            "AmeriGas was founded on 01-01-1959, a net income of AmeriGas of 211200000, and 8,500 employees.",
+            "AmeriGas, a company that earns 211200000 of net income, has 8500 employees and was founded on 1959-01-01."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "foundingDate",
+                    "1776-07-04"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas generates an operating income of $3,807,000,00 while operating in its home country of the United States which was founded on July 4, 1776.",
+            "The United States was founded on July 4, 1776 and is home to AmeriGas that has an operating income of $380,700,000.",
+            "AmeriGas has an operating income of 380700000 working in the United States which was founded on 07-04-1776."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas, classified as the energy industry, works and serves in the United States.",
+            "AmeriGas is a company in the energy industry, serving all regions of its home country the United States.",
+            "AmeriGas provides energy services in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas serves all the United States with its headquarters in King of Prussia, Pennsylvania, USA.",
+            "AmeriGas, located in King of Prussia, Pennsylvania, provides services in the United States.",
+            "AmeriGas is a United States based company that is located in King of Prussia, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas, located in King of Prussia, Pennsylvania, services the United States, and has an operating income of $380,700,000.",
+            "Serving the United States, AmeriGas has an operating income of 380700000 and is located in King of Prussia, Pennsylvania.",
+            "AmeriGas, which serves all regions of the United States, is located in King of Prussia, Pennsylvania, and had operating income of 380,700,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is in the energy industry serving the United States. AmeriGas has an operating income of 3807000000.",
+            "With an operating income of 380700000, the energy company AmeriGas serves all regions of the United States.",
+            "AmeriGas an energy industry provides services in the United States and has an operating income of $380,700,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id13",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "areaTotal",
+                    "9833516.63  (square kilometres)"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is an energy provider covering the 9833516.63 (square kilometres) of the United States.",
+            "AmeriGas, an energy industry, serves the United States area of 9,833,516.63 square kilometers.",
+            "Energy company AmeriGas, serves all regions of the United States, a country with an area of 9833516.63 (square kilometres)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id14",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "populationTotal",
+                    "324720797"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas serves the population of the US, which is 324, 70, 797.",
+            "AmeriGas works and provides its services in the United States, a country that has a total population of 324720797.",
+            "AmeriGas serves all regions of its home country, the United States, which has a total population of 324,720,797."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id15",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a public company that was founded at the Insular Government of the Philippine Islands in Manila.",
+            "Chinabank, a publicly traded company, was founded in the Insular Government of the Philippine islands at Manila.",
+            "The publicly traded company Chinabank was founded in Manila by the Insular Government of the Philippine Islands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id16",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ],
+                [
+                    "Manila",
+                    "type",
+                    "Capital city"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a publicly traded company founded in the capital, Manila.",
+            "Chinabank, a public company, was founded in Manila, the capital city of the Philippines.",
+            "Founded in the capital city of Manila, Chinabank is a publicly traded company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Insular Government of the Philippine Islands",
+                    "foundingDate",
+                    "1901-07-01"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in Manila at the Insular Government of the Philippine Islands which was established on July 1,1901.",
+            "Chinabank was founded in 109-07-01 in Manila, located the Insular Government of the Philippine Islands.",
+            "Chinabank was founded in Manila at the Insular Government of the Philippine Islands which was founded on 07-01-1901."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Manila",
+                    "isPartOf",
+                    "Metro Manila"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in Manila which is the insular government of the Philippine Islands located in Metro Manila.",
+            "Chinabank's foundation place is the Insular Government of the Philippine Islands and was founded in Manila, a city that is part of the Metro Manila.",
+            "Chinabank was founded in the Insular Government of the Philippine Islands, in Manila which is a part of Metro Manila."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfEmployees",
+                    "5594"
+                ],
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, a company that was founded on the August 16th,1920, has 5594 workers and a net income of 15,100,000,000.",
+            "Founded on August 16th, 1920, Chinabank, which has 5594 employees, currently has a net income of 15100000000.",
+            "Founded on 08-16-1920, Chinabank has 5594 employees which generate $15,100,000,000. net income for the company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ],
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, founded on 08-16-1920, offers banking services as well as having a net income of 15,100,000,000.",
+            "Founded on August 16, 1920, Chinabank earned a net income of 15,100,000,000 as a provider of banking services.",
+            "Chinabank has a current net income of 15100000000 and founded its banking service on 1920-08-16."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfEmployees",
+                    "5594"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a bank with 5594 employees that was founded on Aug. 16, 1920.",
+            "Chinabank, a banking service founded on 08-16-1920, has 5594 employees.",
+            "Chinabank, which was founded on the 16th of August, 1920, has 5594 workers and provides banking services to customers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, a banking service with 295 branches, was founded 1920-08-16.",
+            "Chinabank, which was founded on the 16th of August, 1920, provides banking services to customers across 295 banking centers.",
+            "The banking service company Chinabank was established on August 26, 1920 and currently has 295 locations."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, whose place of foundation was Manila, has 295 locations and a net income of 15,100,000,000.",
+            "Chinabank, founded in Manila, has 295 banking centers and yearly net income of 15,100,000,000.",
+            "Chinabank was founded in Manila and currently has 295 branches as well as a net income of 15100000000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ],
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a public company which has 295 branches, and whose current net income is 15100000000.",
+            "Chinabank, a publicly traded company with a net income of 15,100,000,000, has 295 banking centers.",
+            "Chinabank is a publicly traded company with 295 locations and a net income of 15,100,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, founded in the insular Government of the Philippine islands at Manila has 295 locations.",
+            "Chinabank founded in Manila has 295 branches with the Chinabank base within the insular Government of the Philippine Islands.",
+            "Chinabank was founded in Manila in the Insular Government of the Philippine Islands and has grown to 295 banking centers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a public company that was founded in Manila with 295 branches.",
+            "Chinabank, founded in Manila, is a publicly traded company with 295 locations.",
+            "Chinabank, a publicly traded company founded in Manila, has 295 banking centers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon is the key person of mass media copmany GMA New Media, which was founded on 01/01/2000.",
+            "GMA New Media founded January 1, 2000 is a mass media industry whose key person is Felipe Gozon.",
+            "Felipe Gozon plays a key role in the mass media industry company of GMA New Media that was founded on January 1, 2000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id28",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a mass media founded on 01-01-2000 that makes mobile applications.",
+            "Founded on January 1, 2000, GMA New Media is in the mass media industry, specifically in the area of creating mobile apps.",
+            "Founded on January 1, 2000, GMA New Media is part of the mass media industry, offering products such as mobile applications."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id29",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Center"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, a company inside the GMA Network Center that offers products such as mobile applications, was founded on January 1, 2000.",
+            "GMA New Media founded on 01/01/2000, is located in the GMA Network Center and makes mobile apps.",
+            "A mobile application company, GMA New Media was founded on 01-01-2000 with its headquarters in the GMA Network Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id30",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainment"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Portal"
+                ]
+            ]
+        },
+        "text": [
+            "Philippine Entertainment Portal, Inc. is a subsidiary of GMA New Media, which is a media company offering applications in the entertainment industry.",
+            "GMA New Media is a media company that belongs to the entertainment industry and whose subsidiary company is Philippine Entertainment Portal.",
+            "Philippine Entertainment Portal is a subsidiary of GMA New Media, Inc., a media company in the entertainment industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id31",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Center"
+                ]
+            ]
+        },
+        "text": [
+            "The key person in GMA New Media, a company in the mass media industry, located inside GMA Network Centre, is Felipe Gozon.",
+            "Felipe Gozon is a key employee of mass media industry company GMA New Media, which is headquartered in the GMA Network Center.",
+            "Felipe Gozon is the key person of GMA New Media, which is in the mass media industry and is located in the GMA Network Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id32",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Online Game"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a mass media industry that produces online games and services for the World Wide Web.",
+            "GMA New Media is in the mass media industry that produces web services, focusing mainly in online gaming.",
+            "GMA New Media is in the mass media industry and creates web sites and online games."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id33",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Portal"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Digify, Inc."
+                ]
+            ]
+        },
+        "text": [
+            "Philippine Entertainment Portal Inc along with Digify Inc are subsidaries of GMA New Media. The head of GMA New Media is Felipe Gozon.",
+            "Philippine Entertainment Portal as well as Digify Inc. are both subsidiaries of GMA New Media, of which Felipe Gozon is the key person.",
+            "Philippine Entertainment Portal and Digify Inc. are subsidiaries of GMA New Media where Felipe Gozon is a key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id34",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Center"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, Inc is a media company based in the Philippines, it belongs to the GMA Network Center.",
+            "GMA New Media is a media company with headquarters in the GMA Network Center in the Philippines.",
+            "GMA New Media, Inc. is a media company located in the GMA Network Center in the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id35",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Center"
+                ],
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Pangasinense people"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media's headquarters are located in the GMA Network Center in the Philippines where the major ethnic group is called the Pangasinense.",
+            "GMA New Media is located in the GMA Network Center in the Philippines where Pangasinense people are the ethnic group.",
+            "GMA New Media is a company located inside GMA Network Center in the Philippines. One of the ethnicities in the Philippines is the Pangasinense."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id36",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media produces web services and is located in Quezon, Philippines.",
+            "GMA New Media, headquarted in Quezon City, Philippines, makes web sites.",
+            "GMA New Media offers webs services in Quezon City, Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id37",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Pangasinense people"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New media is headquartered in Quezon City, Philippines, where Pangasinense is the ethnic gorup.",
+            "GMA New Media is located near the Pangasinense people in Quezon City, Philippines.",
+            "GMA New Media is located in the City of Quezon in the Philippines, which is also where the Pangasinense people are native to."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id38",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Online Game"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, which is located in Quezon City, makes web sites and online games.",
+            "GMA New Media, located in Quezon City, offers Web services and makes online games.",
+            "GMA New Media located in the city of Quezon produces web services with the main product being online games."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id39",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ],
+                [
+                    "Quezon City",
+                    "type",
+                    "Cities of the Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a media company located in Quezon City, Philippines.",
+            "GMA New Media, Inc. is a media company that is headquartered in Quezon City, Philippines.",
+            "GMA New Media, Inc. is a Philippine media company located in the city of Quezon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id40",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon is the key person of GMA New Media, a mass media industry, that makes mobile apps.",
+            "Felipe Gozon is a key person at GMA New Media, a mass media company that makes mobile applications.",
+            "The key person of GMA New Media, in the industry of mass media, is a company that offers products such as mobile applications, is Felipe Gozon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id41",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Center"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a company, located at the GMA Network Centre in the Philippines, that offers products such as mobile applications.",
+            "GMA New Media, located in the GMA Network Center in the Philippines makes mobile apps.",
+            "GMA New Media makes mobile applications located at GMA Network Center in the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id42",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Portal"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Online Game"
+                ],
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Digify, Inc."
+                ]
+            ]
+        },
+        "text": [
+            "Philippine Entertainment Portal, Inc, and Digify, Inc, are subsidiaries of GMA New Media, which produces online games.",
+            "Philippine Entertainment Portal and Digify, Inc. are subsidiary's of GMA News Media that makes online games.",
+            "Philippine Entertainment Portal and Digify Inc are subsidiaries of GMA New Media, which produces online games."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id43",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "subsidiary",
+                    "Philippine Entertainment Portal"
+                ],
+                [
+                    "Philippine Entertainment Portal",
+                    "parentCompany",
+                    "Summit Media"
+                ],
+                [
+                    "GMA New Media",
+                    "parentCompany",
+                    "GMA Network (company)"
+                ]
+            ]
+        },
+        "text": [
+            "Summit Media is the parent company of Philippine Entertainment Portal, also known as a subsidiary of GMA New Media, whose parent company is the GMA Network.",
+            "Philippine Entertainment Portal, whose parent company is Summit Media, is also a subsidiary of GMA New Media who, in turn is a subsidiary of GMA Network.",
+            "Philippine Entertainment Portal is a subsidiary of the Summit Media company as well as GMA New Media; whose parent organization is GMA Network."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id44",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ]
+            ]
+        },
+        "text": [
+            "The key person of the pharmaceutical company Hypermarcas, which is located in Brazil, is the CEO.",
+            "The CEO is the key person in Hypermarcas, which is a pharmaceutical company located in Brazil.",
+            "Hypermarcas located in Brazil and managed by their CEO is in the pharmaceuticals industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id45",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a pharmaceutical drugs producer located in Brazil.",
+            "Hypermarcas, which is located in Brazil, operates in the pharmaceutical industry and makes drugs.",
+            "Located in Brazil, Hypermarcas is part of the pharmaceuticals industry with its main product being drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id46",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, whose key person is their CEO, makes drugs and is located in Brazil.",
+            "Hypermarcas whose main product is drugs is located in Brazil and managed by their CEO.",
+            "Led by its CEO, Hypermarcas is a company in Brazil that produces pharmaceutical drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id47",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ],
+                [
+                    "Brazil",
+                    "leaderTitle",
+                    "President of the Supreme Federal Court"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is located in Sao Paulo, Brazil, whose President of the Supreme Federal Court is also recognized as one of the leaders of the country.",
+            "Hypermarcas is located in San Paulo, Brazil, a country whose leader is called the President of the Supreme Federal Court.",
+            "Hypermarcas is located in Sao Paulo, Brazil, where the President of the Supreme Federal Court is a leader title."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id48",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a company that makes healthcare products, employs 10,252 people, and has a net income of $108,600,000.",
+            "The healthcare product purveyor, Hypermarcas employs 10,252 workers while bringing in a net income of $108,600,000.",
+            "Hypermarcas, which produces healthcare products, has 10252 employees and a net income of 108,600,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id49",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ]
+            ]
+        },
+        "text": [
+            "Located in São Paulo, Hypermarcas, which produces healthcare products, employs 10252 people.",
+            "Hypermarcas, located in Sao Paulo, sells healthcare products and has employs 10252.",
+            "Hypermarcas, which is located in Sao Paulo, makes healthcare products and has 10,252 employees."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id50",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, whose key person is the CEO, is a pharmaceutical company that produces drugs.",
+            "Hypermarcas, a drug company managed by their CEO, is in the pharmaceutical industry.",
+            "The most prominant member of Hypermarcas, a company making drugs in the pharmaceutical industry, is their CEO."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id51",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, in Sao Paulo, sells healthcare products and earns yearly 180000000.",
+            "Hypermarcas, which is located in Sao Paulo, makes healthcare products and has a revenue of $1,800,000,000.",
+            "Hypermarcas, located in Sao Paulo, produces healthcare products and makes $1,800,000,000 a year."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id52",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Cosmetics"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas which produces healthcare products and cosmetic makes $1,800,000,000 a year.",
+            "Hypermarcas, which has a revenue of $1,800,000,000, makes healthcare products as well as sells cosmetics.",
+            "Hypermarcas sells healthcare products, produces cosmetics and earns 1800000000 yearly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id53",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Mantecorp"
+                ],
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, which has a subsidiary called Mantecorp, has a total of 10252 employees and a net income of 108,600,000.",
+            "Hypermarcas, an employer of 10,252 people, with a net income of $108,600,000, has a subsidiary called Mantecorp.",
+            "Hypermarcas, with a net income of Hypermarcas is 108,600,000, and 10252 employees, has a subsidiary called Mantecorp."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id54",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ],
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Mantecorp"
+                ]
+            ]
+        },
+        "text": [
+            "The S.A. (corporation) Hypermarcas, which earns 1800000000 annually, has a subsidiary called Mantecorp.",
+            "Mantecorp is a subsidiary of Hypermarcas, an S.A. corporation with a revenue of $1,800,000,000.",
+            "Hypermarcas is a type of S.A. corporation that has a subsidiary called Mantecorp and makes $1,800,000,000 per year."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id55",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Mantecorp"
+                ],
+                [
+                    "Hypermarcas",
+                    "netIncome",
+                    "108600000"
+                ]
+            ]
+        },
+        "text": [
+            "The S.A. corporation Hypermarcas, which has a subsidiary called Mantecorp, had a net income of $108,600,000.",
+            "Mantecorp is a subsidiary of Hypermarcas, a type of S.A. corporation with a net income of 108,600,000.",
+            "S.A. corporation Hypermarcas, which has a net income of 108,600,000, has a subsidiary called Mantecorp."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id56",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "subsidiary",
+                    "Mantecorp"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a type of S.A. (corporation) that has a subsidiary called Mantecorp and employs 10252 employees.",
+            "Hypermarcas, a type of S.A. corporation, has a subsidiary called Mantecorp and 10252 employees.",
+            "Mantecorp is a subsidiary of Hypermarcas S.A. which employs 10,252 people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id57",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "La Crosse, Wisconsin",
+                    "isPartOf",
+                    "Wisconsin"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, founded in La Crosse, Wisconsin, is located in Swords, Dublin.",
+            "Although Trane is located in Swords, Dublin, the foundation place of Trane can be found in La Crosse Wisconsin, a state in the U.S.",
+            "Although Trane was founded in La Crosse, Wisconsin, it is currently located in Swords, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id58",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane was founded in 1913-01-01 in La Crosse, Wisconsin and now employs over 29000 people.",
+            "Trane has 29,000 employees and was founded in La Crosse, Wisconsin on 1913-01-01.",
+            "Trane was founded on January 1, 1913 in La Crosse, Wisconsin with 29,000 current employees."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id59",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, whose products include HVAC, was founded in La Crosse, Wisconsin on 1913-01-01.",
+            "Trane, a manufacturer of HVAC, was founded on 01-01-1913 in La Crosse, Wisconsin.",
+            "Trane, producers of HVAC, was founded on 1913-01-01 in La Crosse, Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id60",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "Trane company was founded on the first of January 1913 in LaCrosse, Wisconsin and is located in Ireland.",
+            "Trane company located in Ireland was founded on 1913-01-01 in La Crosse, Wisconsin.",
+            "Trane was founded on 01-01-1913 in La Crosse, Wisconsin but is located in Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id61",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane located in Ireland was founded on 01-01-1913 and has 29,000 employees.",
+            "Trane is an Irish company that employs 29,000 people, it was founded on January 1st, 1913.",
+            "Trane was founded on 01/01/1913 in Ireland. Trane has 29000 employees."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id62",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane was founded on January 1, 1913 has 29,000 employees and produces HVAC.",
+            "Trane (founded on January 1, 1913) employs 29000 people and manufactures products such as HVAC.",
+            "Trane, a company that manufactures HVAC and has, 29,000 employees, was founded on 01-01-1913."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id63",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ],
+                [
+                    "Ireland",
+                    "location",
+                    "Europe"
+                ]
+            ]
+        },
+        "text": [
+            "The location of Trane is in Ireland, a country in Europe. One of their product is HVAC.",
+            "Trane manufactures HVAC and is located in Europe in Ireland.",
+            "The company Trane produces HVAC equipment and is located in Ireland in Europe,."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id64",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, a company in the building materials industry, is located in Swords, Dublin, Ireland.",
+            "As a member of the building materials industry, Trane is located in Swords Dublin which is in Ireland.",
+            "Trane operates in the building materials industry and is located in Swords, Dublin, Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id65",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, a subsidiary company located in Swords, Dublin, has a net income of $556,300,000.",
+            "Trane, a subsidiary, is located in Swords, Dublin, while having a net income of $556 million.",
+            "Trane, a subsidiary company, has a net income of $556,300,000 and is located in Swords, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id66",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ],
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ]
+            ]
+        },
+        "text": [
+            "Trane whose industry is building materials, produces HVAC and employs 29,000 people.",
+            "Trane has 29,000 employees and operates in the building materials industry and produces HVAC.",
+            "Trane manufactures HVAC equipment in the building materials industry and employs 29,000 people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id67",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "operatingIncome",
+                    "875400000"
+                ],
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, a company founded on 1913-01-01 in Ireland, has an operating income of 875.4 million USD.",
+            "Trane is a company located in Ireland that was founded on January 1st, 1913, and has an operating income of $875,400,000.",
+            "Trane, which was founded on 1913-01-01, is located in Ireland and has an operating income of $875,400,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id68",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "operatingIncome",
+                    "875400000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, founded in La Crosse, Wisconsin but located in Ireland, has an operating income of $875,400,000.",
+            "Trane, founded in La Crosse, Wisconsin, and located in Ireland, has an operating income of 875.4 million USD.",
+            "The company Trane in Ireland, which was founded in La Crosse, Wisconsin has an operating income of $875,400,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id69",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is in the building materials industry producing building management systems. One of the products offered by Trane is HVAC.",
+            "Trane is a manufacturer of building materials, including building management systems and HVAC.",
+            "Trane operates in the building materials industry and produces HVAC and building management systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id70",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Trane located in Swords, Dublin produces building management systems also located in Ireland.",
+            "Trane is an Irish company located in Swords, Dublin that manufactures building management systems.",
+            "Trane located in Ireland makes building management systems with a location also in Swords, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id71",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, which manufactures building management systems, is located in Swords, Dublin, and has a net income of $556,300,000.",
+            "Trane, which produces building management systems, is located in Swords, Dublin, and has a net income of about $556 million.",
+            "Trane, which makes building management systems, is located in Swords, Dublin, and has a net income of $556,300,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id72",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "With a revenue of 10264000000 and operating out of Swords, Dublin, Trane specializes in building management systems.",
+            "Trane, a manufacturer of building management systems located in Swords, Dublin, has a revenue of $10,264,000,000.",
+            "Trane is a profitable building management systems company located in Swords, Dublin with a yearly revenue of $10,264,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id73",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane makes building management systems generating $10,264,000,000 in revenue resulting in $556,300,000 net income.",
+            "Trane, which manufactures building management systems, has a revenue of $10,264,000,000 and a net income of $556,300,000.",
+            "Trane, which builds management systems, has a revenue of $10,264,000,000 and a net income of about $556 million."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id74",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, which is a subsidiary that produces building management systems, has a revenue of $10,264,000,000.",
+            "The Trane company is a subsidiary manufacture building management systems with a revenue of $10,264,000,000 .",
+            "Trane is a subsidiary that makes building management systems with a revenue of 10264000000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id75",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, a company located in Swords, Dublin has a revenue of $10,264,000,000, with a net income of $556,300,000.",
+            "Located in Swords, Dublin, Trane sees a revenue of $10,264,000,000, with a net income of about $556 million.",
+            "Trane, which is located in Swords, Dublin, has a revenue of 10264000000 but a net income of $556,300,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id76",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ],
+                [
+                    "Trane",
+                    "operatingIncome",
+                    "875400000"
+                ],
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, a subsidiary company founded on 01-01-1913, has an operating income of $875,400,000.",
+            "The subsidiary company Trane, founded on 1913-01-01, has an operating income of $875,400,000.",
+            "Trane is a subsidiary that has an operating income of 875.4 million USD and was founded on 1913-01-01."
+        ]
+    }
+]

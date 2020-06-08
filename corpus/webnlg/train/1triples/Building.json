@@ -1,0 +1,4756 @@
+[
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "architecturalStyle",
+                    "Brutalist architectu"
+                ]
+            ]
+        },
+        "text": [
+            "The architecture style of 103 Colmore Row falls under Brutalist architecture.",
+            "103 Colmore Row is in the architectural style \" Brutalist architecture\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "buildingStartDate",
+                    "1973"
+                ]
+            ]
+        },
+        "text": [
+            "1973 was the start date for the building at 103 Colmore Row.",
+            "The building of 103 Colmore Row began in 1973.",
+            "103 Colmore Row opened in 1973."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "completionDate",
+                    "1976"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row was completed in 1976.",
+            "The building of 103 Colmore Row was completed in 1976."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "There are 23 floors at 103 Colmore Row.",
+            "103 Colmore Row has 23 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row, Birmingham, England"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row is located on Colmore Row, Birmingham, England.",
+            "103 Colmore Row is located in Colmore Row, Birmingham, England.",
+            "103 Colmore Row is in Birmingham, England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Birmingha"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row is located in Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "buildingStartDate",
+                    "1981"
+                ]
+            ]
+        },
+        "text": [
+            "The construction of 108 St Georges Terrace began in 1981.",
+            "The building of 108 St. Georges Terrace was started in 1981."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "completionDate",
+                    "1988"
+                ]
+            ]
+        },
+        "text": [
+            "108 St Georges Terrace was completed in 1988."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "cost",
+                    "120 million (Australian dollars)"
+                ]
+            ]
+        },
+        "text": [
+            "108 St Georges Terrace cost 120 million Australian dollars.",
+            "108 St Georges Terrace cost 120m Australian dollars.",
+            "The cost of 108 St. Georges Terrace is 120 million AUD."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "floorArea",
+                    "39500.0 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "108 St. Georges Terrace has a floor area of 39500.0 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "floorCount",
+                    "50"
+                ]
+            ]
+        },
+        "text": [
+            "108 St Georges Terrace has a floor count of 50.",
+            "There are 50 floors at 108 St Georges Terrace."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "location",
+                    "Perth"
+                ]
+            ]
+        },
+        "text": [
+            "The 108 St. Georges Terrace is located in Perth.",
+            "108 St. Georges Terrace is located in Perth."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "architect",
+                    "Helmut Jahn"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of 11 Diagonal Street is Helmut Jahn."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "buildingStartDate",
+                    "1978"
+                ]
+            ]
+        },
+        "text": [
+            "The 11 Diagonal Street originated in 1978.",
+            "11 Diagonal Street was built in 1978.",
+            "The building at 11 Diagonal Street was started to be erected in 1978."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "floorArea",
+                    "1200 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street has a floor area of 1200 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "floorCount",
+                    "20"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street has 20 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "Johannesburg"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is in Johannesburg.",
+            "11 Diagonal Street is located in Johannesburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "owner",
+                    "Redefine Properties Limited"
+                ]
+            ]
+        },
+        "text": [
+            "Redefine Properties Limited is the owner of 11 Diagonal Street.",
+            "11 Diagonal Street is owned by Redefine Properties Limited.",
+            "Redefine Properties Limited owns 11 Diagonal Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "architect",
+                    "HOK (firm)"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of 200 Public Square is HOK.",
+            "HOK (firm) were the architects of 200 Public Square."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "floorArea",
+                    "111484 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square has a floor area of 111484 square metres.",
+            "200 Public Square is 111484 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "floorCount",
+                    "45"
+                ]
+            ]
+        },
+        "text": [
+            "There are 45 floors at 200 Public Square.",
+            "200 Public Square has a floor count of 45."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland, Ohio 44114"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is located in Cleveland, Ohio 44114.",
+            "200 Public Square is located in Cleveland Ohio 44114."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public square is in Cleveland.",
+            "200 Public Square is located in Cleveland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Public Square, Cleveland"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is located at Public Square, Cleveland.",
+            "200 Public Square is located in Public Square, Cleveland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "architect",
+                    "Rafael Viñoly"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street was designed by the architect Rafael Viñoly.",
+            "Rafael Viñoly designed 20 Fenchurch Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "completionDate",
+                    "April 2014"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street was completed in April of 2014.",
+            "20 Fenchurch Street was completed in April 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "floorArea",
+                    "62145.3 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street has a floor area of 62145.3 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "floorCount",
+                    "34"
+                ]
+            ]
+        },
+        "text": [
+            "There are 34 floors at 20 Fenchurch Street.",
+            "20 Fenchurch Street has a floor count of 34."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street is located in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "buildingStartDate",
+                    "January, 2014"
+                ]
+            ]
+        },
+        "text": [
+            "The construction of 250 Delaware Avenue began in January 2014.",
+            "The start date of building 250 Delaware Avenue was January 2014.",
+            "January 2014 is the building start date of 250 Delaware Avenue."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "cost",
+                    "110 million (dollars)"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue cost 110 million dollars.",
+            "The cost to build 250 Delaware Avenue is \"110 million (dollars)\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "floorArea",
+                    "30843.8 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue has a floor area of 30843.8 square metres.",
+            "250 Delaware Avenue has a floor area of 30843.8 (square metres).",
+            "250 Delaware Avenue possesses a floor area of 30843.8 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "floorCount",
+                    "12"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue has 12 floors.",
+            "There are a total of 12 floors in 250 Delaware Avenue.",
+            "250 Delaware Avenue has a floor count of 12."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is a location in Buffalo, New York.",
+            "250 Delaware Avenue is located in Buffalo, New York.",
+            "250 Delaware Avenue is in Buffalo, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "architect",
+                    "Pickard Chilton"
+                ]
+            ]
+        },
+        "text": [
+            "Pickard Chilton is the architect of 300 North LaSalle.",
+            "The architect of 300 North LaSalle is Pickard Chilton.",
+            "The architect of 300 North LaSalle was Pickard Chilton."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "completionDate",
+                    "2009"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle was completed in 2009.",
+            "The building at 300 North LaSalle was completed in 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id39",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "floorArea",
+                    "120770.0 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The floor area of 300 North LaSalle is 120770.0 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id40",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is in Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id41",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "320 South Boston Building",
+                    "completionDate",
+                    "1929"
+                ]
+            ]
+        },
+        "text": [
+            "The construction of 320 South Boston Building was completed in 1929.",
+            "320 South Boston was completed in 1929.",
+            "320 South Boston Building was completed in 1929."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id42",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "320 South Boston Building",
+                    "floorCount",
+                    "22"
+                ]
+            ]
+        },
+        "text": [
+            "There are 22 floors in 320 South Boston Building.",
+            "The building at 320 South Boston Street has 22 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id43",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "320 South Boston Building",
+                    "formerName",
+                    "Exchange National Bank Building"
+                ]
+            ]
+        },
+        "text": [
+            "320 South Boston Building was formerly called the Exchange National Bank Building.",
+            "The previous name of 320 South Boston Building was the Exchange National Bank Building."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id44",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "320 South Boston Building",
+                    "height",
+                    "121.92 (metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The 320 South Boston Building is 121.92 metres high.",
+            "The 320 South Boston Building has a height of 121.92 metres.",
+            "320 South Boston Building is 121.92 metres in height."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id45",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "architect",
+                    "Populous (company)"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of 3Arena was the company Populous.",
+            "The company Populous were the architects who designed the 3Arena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id46",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "buildingType",
+                    "Concert and events venue"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena is a concerts and events venue type building.",
+            "The 3Arena hosts concerts and events."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id47",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "completionDate",
+                    "December 2008"
+                ]
+            ]
+        },
+        "text": [
+            "The completion date of 3Arena is December 2008.",
+            "The 3Arena was completed in December 2008."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id48",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "height",
+                    "28.0 (metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The height of 3Arena is 28 metres.",
+            "The height of 3Arena is 28.0 metres.",
+            "3Arena is 28.0 metres high."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id49",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall Quay"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena is located at the North Wall Quay.",
+            "The 3Arena is located on North Wall Quay.",
+            "The 3Arena is located at \"North Wall Quay\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id50",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena is located in Dublin.",
+            "3Arena is located in Dublin.",
+            "3Arena is situated in Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id51",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena is located at North Wall, Dublin.",
+            "The 3Arena is located at North Wall, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id52",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainmen"
+                ]
+            ]
+        },
+        "text": [
+            "The owner of 3Arena is Live Nation Entertainment.",
+            "3Arena is owned by Live Nation Entertainment."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id53",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "architect",
+                    "3XN"
+                ]
+            ]
+        },
+        "text": [
+            "3XN was the architect of the AC Hotel Bella Sky Copenhagen.",
+            "The AC Hotel Bella Sky in Copenhagen was designed by the architects of the 3XN firm.",
+            "The architect of the AC Hotel Bella Sky, Copenhagen was 3XN."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id54",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "developer",
+                    "Bella Cen"
+                ]
+            ]
+        },
+        "text": [
+            "The AC Hotel Bella Sky, Copenhagen was developed by the Bella Center.",
+            "The developer of the AC Hotel Bella Sky in Copenhagen is Bella Center.",
+            "Bella Center were developers of AC Hotel Bella Sky Copenhagen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id55",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "The AC Hotel Bella Sky Copenhagen has 23 floors.",
+            "There are 23 floors in the AC Hotel Bella Sky Copenhagen.",
+            "The Bella Sky hotel in Copenhagen has 23 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id56",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "location",
+                    "Copenhagen"
+                ]
+            ]
+        },
+        "text": [
+            "The AC Hotel Bella Sky is in Copenhagen.",
+            "AC Hotel Bella Sky Copenhagen is located in Copenhagen.",
+            "The AC Hotel Bella Sky is located in Copenhagen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id57",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "location",
+                    "Denmark"
+                ]
+            ]
+        },
+        "text": [
+            "AC Hotel Bella Sky is in Copenhagen, Denmark.",
+            "AC Hotel Bella Sky Copenhagen is located in Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id58",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "owner",
+                    "Bella Cen"
+                ]
+            ]
+        },
+        "text": [
+            "AC Hotel Bella Sky Copenhagen is owned by Bella Center.",
+            "The owner of the AC Hotel Bella Sky Copenhagen is Bella Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id59",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott Internationa"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International is the tenant of AC Hotel Bella Sky Copenhagen.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id60",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare",
+                    "isPartOf",
+                    "Muns"
+                ]
+            ]
+        },
+        "text": [
+            "Adare is part of Munster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id61",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Augustus Pugin"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Adare Manor is Augustus Pugin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id62",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "George Richard Pain"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Adare Manor is George Richard Pain.",
+            "Adare Manor's architect was George Richard Pain.",
+            "The architect of Adare Manor was George Richard Pain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id63",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "James Pain"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Adare Manor was James Pain.",
+            "James Pain was the architect of the Adare Manor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id64",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Lewis Nockalls Cottingha"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manor was designed by the architect Lewis Nockalls Cottingham.",
+            "Lewis Nockalls Cottingham is the architect of Adare Manor.",
+            "Lewis N. Cottingham is the architect of Adare Manor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id65",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Philip Charles Hardwick"
+                ]
+            ]
+        },
+        "text": [
+            "Philip Charles Hardwick was the architect of Adare Manor.",
+            "Adare Manor's architect was Philip Charles Hardwick.",
+            "The architect responsible for Adare Manor was Philip Charles Hardwick."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id66",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ]
+            ]
+        },
+        "text": [
+            "The construction of Adare Manor was completed in 1862.",
+            "Adare Manor was completed in 1862.",
+            "The completion date of Adare Manor is 1862."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id67",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "location",
+                    "Ada"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manor is located in Adare."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id68",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "location",
+                    "County Limerick"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manor is located in County Limerick.",
+            "Adare Manor can be found in County Limerick."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id69",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "owner",
+                    "J. P. McManus"
+                ]
+            ]
+        },
+        "text": [
+            "J P McManus is the owner of Adare Manor.",
+            "J.P. McManus is the owner of Adare Manor.",
+            "JP McManus owns Adare Manor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id70",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa",
+                    "country",
+                    "Ethiopia"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa is located in Ethiopia.",
+            "Addis Ababa is in Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id71",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa",
+                    "isPartOf",
+                    "Addis Ababa Stadiu"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa Stadium is part of Addid Ababa.",
+            "Addis Ababa Stadium is situated in Addis Ababa.",
+            "The Addis Ababa Stadium is part of Addis Ababa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id72",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "buildingStartDate",
+                    "1961"
+                ]
+            ]
+        },
+        "text": [
+            "Building started on the Addis Ababa City Hall in 1961.",
+            "The start date for building Addis Ababa City Hall was 1961.",
+            "They started to build Addis Ababa City Hall in 1961."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id73",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "buildingType",
+                    "Seat of local governmen"
+                ]
+            ]
+        },
+        "text": [
+            "The Addis Ababa City Hall is the seat of the local government.",
+            "Addis Ababa City Hall is the seat of Local Government."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id74",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "completionDate",
+                    "1964"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall was completed in 1964.",
+            "Addis Ababa City Hall's completion date was in 1964.",
+            "Addis Ababa City Hall was finished in 1964."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id75",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "country",
+                    "Ethiopia"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall is located in the country of Ethiopia.",
+            "The Addis Ababa City Hall is in the country of Ethiopia.",
+            "Addis Ababa City Hall is in Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id76",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "currentTenants",
+                    "Government of Addis Ababa"
+                ]
+            ]
+        },
+        "text": [
+            "The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall.",
+            "The Government of Addis Ababa is the current tenants of the Addis Ababa city hall.",
+            "The \" Government of Addis Ababa\" are the current tenants of Addis Ababa City Hall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id77",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "floorArea",
+                    "140000.0 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The floor area of Addis Ababa City Hall is 140000.0 (square metres).",
+            "Addis Ababa City Hall has a 140000.0 (square metres) floor area.",
+            "Addis Ababa City Hall has a floor area of 140000.0 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id78",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "height",
+                    "42 m"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall has a height of 42 metres.",
+            "Addis Ababa City Hall is 42 m high."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id79",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "location",
+                    "Addis Ababa"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall is located in Addis Ababa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id80",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "address",
+                    "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located on St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka.",
+            "The address of Adisham Hall is St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.",
+            "The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputhale, Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id81",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor and Jacabian"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Halls Architectural style`is Tudor and Jacabian.",
+            "The architecture style of Adisham Hall is Tudor and Jacabian.",
+            "Adisham Hall is in the architectural style of \"Tudor and Jacobean\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id82",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor Revival architectu"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall has the Tudor Revival architectural style.",
+            "Adisham Hall has the architectural style 'Tudor Revival'.",
+            "The Adisham Hall's style of architecture is Tudor Revival."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id83",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "buildingStartDate",
+                    "1927"
+                ]
+            ]
+        },
+        "text": [
+            "Construction of Adisham Hall began in 1927.",
+            "Adisham Hall was begun to be built in 1927."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id84",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "completionDate",
+                    "1931"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall was completed in 1931.",
+            "The construction of Adisham Hall was completed in 1931.",
+            "Adisham Hall was finished in 1931."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id85",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "country",
+                    "Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located in Sri Lanka.",
+            "Adisham Hall is located in the country of Sri Lanka.",
+            "Adisham Hall is in Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id86",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Haputale, Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located at Haputale, Sri Lanka.",
+            "Adisham Hall is located in Haputale, Sri Lanka.",
+            "Adisham Hall is in Haputale, Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id87",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located in Sri Lanka.",
+            "Adisham Hall is in Sri Lanka.",
+            "Adisham Hall is situated in Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id88",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ahmedabad",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmedabad is in India.",
+            "Ahmedabad is located in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id89",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita, Akita",
+                    "country",
+                    "Japan"
+                ]
+            ]
+        },
+        "text": [
+            "Akita Akita is found in the country of Japan.",
+            "Akita is located in Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id90",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita, Akita",
+                    "isPartOf",
+                    "Akita Prefectu"
+                ]
+            ]
+        },
+        "text": [
+            "Akita, Akita is part of Akita Prefecture."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id91",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "address",
+                    "1-4-2 Nakadori"
+                ]
+            ]
+        },
+        "text": [
+            "The address of Akita Museum of Art is \"1-4-2 Nakadori\".",
+            "The address of Akita Museum of Art is 142 Nakadori."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id92",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "architect",
+                    "Tadao Ando"
+                ]
+            ]
+        },
+        "text": [
+            "Tadao Ando is the architect who designed the Akita Museum of Art.",
+            "Tadao Ando is the architect of the Akita Museum of Art.",
+            "Tadao Ando is the architect of Akita Museum of Art."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id93",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "floorArea",
+                    "3746.66 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art has a floor area of 3746.66 (square metres).",
+            "The floor area of the Akita Museum of Art is 3746.66 square metres.",
+            "The Akita Museum of Art has a floor area of 3746.66 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id94",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "floorCount",
+                    "3"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art has 3 floors.",
+            "The Akita Museum of Art 3 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id95",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita, Akita"
+                ]
+            ]
+        },
+        "text": [
+            "Akita Museum of Art is an art museum in the city of Akita.",
+            "Akita Museum of Art is located in Akita, Akita.",
+            "The Akita Museum of Art is located in Akita, Akita."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id96",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita Prefectu"
+                ]
+            ]
+        },
+        "text": [
+            "Akita Museum of Art is located in Akita Prefecture.",
+            "The Akita Museum of Art is located in Akita Prefecture."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id97",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akita Prefecture",
+                    "country",
+                    "Japan"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Prefecture is located in Japan.",
+            "The Akita Prefecture is part of the country of Japan.",
+            "Akita Prefecture is located in Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id98",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "address",
+                    "101 Ukrop Way"
+                ]
+            ]
+        },
+        "text": [
+            "The address of Alan B. Miller Hall is \"101 Ukrop Way\".",
+            "The address of Alan B. Miller Hall is 101 Ukrop Way."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id99",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "architect",
+                    "Robert A. M. Stern"
+                ]
+            ]
+        },
+        "text": [
+            "Robert A.M. Stern is the architect for Alan B. Miller Hall.",
+            "The architect of Alan B Miller Hall is Robert A M Stern.",
+            "Alan B. Miller Hall was designed by Robert A.M. Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id100",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "architecturalStyle",
+                    "Georgian architectu"
+                ]
+            ]
+        },
+        "text": [
+            "The architectural style of the Alan B. Miller Hall is Georgian.",
+            "The architectural style of the Alan B Miller Hall is Georgian.",
+            "Alan B Miller Hall was built in the Georgian architecture style."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id101",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "buildingStartDate",
+                    "30 March 2007"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B. Miller Hall's building start date was in 30th March 2007.",
+            "They started to build Alan B Miller Hall on 30 March, 2007."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id102",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "completionDate",
+                    "1 June 2009"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B. Miller Hall was completed on June 1st, 2009.",
+            "Alan B. Miller Hall was completed on \"1 June 2009\".",
+            "The Alan B. Miller Hall was completed on 1st June 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id103",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "cost",
+                    "75.0 million (dollars)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alan B Miller Hall cost 75 million dollars.",
+            "Alan B. Miller Hall cost 75 million dollars."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id104",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "inaugurationDate",
+                    "2009-10-02"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B. Miller Hall was inaugurated on 2009-10-02.",
+            "Alan B. Miller Hall was inaugurated on \"2009-10-02\".",
+            "The inauguration date of the Alan B. Miller Hall was 2nd October, 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id105",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B Miller Hall is located in Virginia.",
+            "Alan B. Miller Hall is situated in Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id106",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Williamsburg, Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "The Alan B. Miller Hall is in Williamsburg, Virginia.",
+            "The Alan B Miller Hall's location is Williamsburg, Virginia.",
+            "The Alan B Miller Hall is located in Williamsburg, Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id107",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "tenant",
+                    "Mason School of Business"
+                ]
+            ]
+        },
+        "text": [
+            "Mason School of Business is a tenant of the Alan B. Miller Hall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id108",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Giles (architect)",
+                    "birthPlace",
+                    "England"
+                ]
+            ]
+        },
+        "text": [
+            "The architect Alfred Giles was born in England.",
+            "Architect, Alfred Giles was born in England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id109",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfred Giles (architect)",
+                    "placeOfDeath",
+                    "Kendall County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "The architect Alfred Giles died in Kendall County, Texas.",
+            "The architect Alfred Giles died in Kendall County Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id110",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "completionDate",
+                    "1995"
+                ]
+            ]
+        },
+        "text": [
+            "Amdavad ni Gufa was completed in 1995."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id111",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "Amdavad ni Gufa is located in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id112",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Ahmedabad"
+                ]
+            ]
+        },
+        "text": [
+            "The location of Amdavad ni Gufa is Ahmedabad.",
+            "Amdavad ni Gufa is located in Ahmedabad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id113",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Gujara"
+                ]
+            ]
+        },
+        "text": [
+            "Amdavad ni Gufa is located in Gujarat."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id114",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "bedCount",
+                    "476"
+                ]
+            ]
+        },
+        "text": [
+            "The bed count of Ampara Hospital is 476.",
+            "Ampara Hospital has 476 beds."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id115",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "location",
+                    "Ampara"
+                ]
+            ]
+        },
+        "text": [
+            "The Ampara Hospital is in Ampara.",
+            "Ampara Hospital is located in Ampara."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id116",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "region",
+                    "Ampara Distric"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is located in the region of Ampara District.",
+            "Ampara hospital is located in Ampara district."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id117",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "state",
+                    "Eastern Province, Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is in Eastern Province, Sri Lanka.",
+            "Ampara Hospital is in the Eastern Province, Sri Lanka.",
+            "The Ampara Hospital is situated in the Eastern Province state of Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id118",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "website",
+                    "&lt;http://www.ghampara.gov.lk/&gt;"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital has a website: http://www.ghampara.gov.lk/."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id119",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "architect",
+                    "Alfred Giles (architect)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Giles was the architect of Asher and Mary Isabelle Richardson House.",
+            "Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles.",
+            "The architect of Asher and Mary Isabelle Richardson House was Alfred Giles."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id120",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "Asherton, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id121",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "U.S. Route 83"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House is located at U.S. Route 83.",
+            "The Asher and Mary Isabelle Richardson House is located on U.S. Route 83."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id122",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "yearOfConstruction",
+                    "1911"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House was built in 1911.",
+            "Asher and Mary Isabelle Richardson House was constructed in 1911."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id123",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asherton, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Asherton Texas is in the United States.",
+            "Asherton is situated in Texas, United States.",
+            "Asherton, Texas is in the country of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id124",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asherton, Texas",
+                    "isPartOf",
+                    "Dimmit County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Asherton, Texas is part of Dimmit County, Texas.",
+            "Asherton is part of Dimmit County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id125",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asherton, Texas",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Asherton, Texas is part of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id126",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "87000823"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds has the reference number 87000823 in the National Register of Historic Places.",
+            "The reference number in the National Register of Historic Places for Asilomar Conference Grounds is 87000823.",
+            "\"87000823\" is Asilomar Conference Grounds' reference number in the National Register of Historic Places."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id127",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "added to the National Register of Historic Places",
+                    "1987-02-27"
+                ]
+            ]
+        },
+        "text": [
+            "The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.",
+            "Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id128",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architecturalStyle",
+                    "American Craftsman"
+                ]
+            ]
+        },
+        "text": [
+            "The Asilomar Conference Grounds have the architectural style of American Craftsman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id129",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architecturalStyle",
+                    "Arts and Crafts movemen"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.",
+            "The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.",
+            "The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id130",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Asilomar Blvd., Pacific Grove, California"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California.",
+            "Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.",
+            "The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id131",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ]
+            ]
+        },
+        "text": [
+            "The Asilomar Conference Grounds is located at Pacific Grove, California.",
+            "Asilomar Conference Grounds are located in Pacific Grove, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id132",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "80002709"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths has the reference number 80002709 in the National Register of Historic Places.",
+            "The Reference Number in the National Register of Historic Places of Asser Levy Public Baths is 80002709.",
+            "Asser Levy Public Baths' reference number is 80002709 in the National Register of Historic Places."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id133",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "added to the National Register of Historic Places",
+                    "1980-04-23"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths was added to the National Register of Historic Places on 1980-04-23.",
+            "Asser Levy Public Baths was added to the National Register of Historic Places on \"1980-04-23\".",
+            "Asser Levy Public Baths was added to the National Register of Historic Places on 23rd April 1980."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id134",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "architecturalStyle",
+                    "Romanesque Revival architectu"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths have the Romanesque Revival style of architecture.",
+            "The Asser Levy Public Baths architectural style is that of Romanesque Revival.",
+            "The Asser Levy Public Baths are in the architectural style of Romanesque Revival architecture."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id135",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Asser Levy Place and East 23rd Street"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.",
+            "Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.",
+            "The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id136",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "23rd Street (Manhattan)"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths is located at 23rd Street (Manhattan).",
+            "Asser Levy Public Baths is located on 23rd Street, Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id137",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Avenue A (Manhattan)"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths is located in Avenue A, Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id138",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Manhattan"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths is located in Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id139",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Augustus Pugin",
+                    "birthPlace",
+                    "Bloomsbury"
+                ]
+            ]
+        },
+        "text": [
+            "The birth place of Augustus Pugin is Bloomsbury.",
+            "Augustus Pugin's birthplace is Bloomsbury."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id140",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Augustus Pugin",
+                    "significantBuilding",
+                    "Palace of Westmins"
+                ]
+            ]
+        },
+        "text": [
+            "One of the significant buildings designed by Augustus Pugin is the Palace Of Westminster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id141",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "governingBody",
+                    "Birmingham City Counc"
+                ]
+            ]
+        },
+        "text": [
+            "Birmingham's governing body is Birmingham City Council.",
+            "The Birmingham City Council is the governing body of Birmingham.",
+            "The governing body of Birmingham is Birmingham City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id142",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "leaderName",
+                    "Andrew Mitch"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew Mitchell is the leader of Birmingham.",
+            "Birmingham's leader is Andrew Mitchell."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id143",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "leaderName",
+                    "Conservative Party (UK)"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Birmingham is the Conservative Party (UK)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id144",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "leaderName",
+                    "John Clancy (Labour politician)"
+                ]
+            ]
+        },
+        "text": [
+            "Labour politician, John Clancy is the leader of Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id145",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "leaderName",
+                    "Khalid Mahmood (British politician)"
+                ]
+            ]
+        },
+        "text": [
+            "Khalid Mahmood (British politician) is one of the leaders of Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id146",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "leaderName",
+                    "Labour Party (UK)"
+                ]
+            ]
+        },
+        "text": [
+            "Birmingham Council is led by the Labour Party (UK).",
+            "The Labour Party leads Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id147",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Birmingham",
+                    "leaderName",
+                    "Liberal Democrats"
+                ]
+            ]
+        },
+        "text": [
+            "The Liberal Democrats are the leaders of Birmingham.",
+            "The leader of Birmingham are the Liberal Democrats.",
+            "Liberal Democrats are leaders of Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id148",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Buffalo, New York",
+                    "isPartOf",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "Buffalo New York is part of New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id149",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chicago",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Chicago is located in the United States.",
+            "Chicago is located in the U.S.",
+            "Chicago is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id150",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chicago",
+                    "isPartOf",
+                    "Cook County, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Chicago is part of Cook County, Illinois.",
+            "Chicago is in Cook County, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id151",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chicago",
+                    "isPartOf",
+                    "Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Chicago is part of Illinois.",
+            "Chicago is part of the State of Illinois.",
+            "The city of Chicago is part of the state of Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id152",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chicago",
+                    "leaderName",
+                    "Rahm Emanu"
+                ]
+            ]
+        },
+        "text": [
+            "Rahm Emanuel is a leader in Chicago.",
+            "Chicago's leader is called Rahm Emanuel.",
+            "Rahm Emanuel is the leader of Chicago."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id153",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chicago",
+                    "leaderName",
+                    "Susana Mendoza"
+                ]
+            ]
+        },
+        "text": [
+            "Susana Mendoza is the leader of Chicago.",
+            "The leader of Chicago is Susana Mendoza.",
+            "Susana Mendoza is a leader in Chicago."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id154",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cleveland",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Cleveland is located in the United States.",
+            "Cleveland is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id155",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cleveland",
+                    "governingBody",
+                    "Cleveland City Counc"
+                ]
+            ]
+        },
+        "text": [
+            "Cleveland's governing body is Cleveland City Council.",
+            "The Cleveland City Council is the governing body of Cleveland.",
+            "The governing body of Cleveland is Cleveland City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id156",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cleveland",
+                    "isPartOf",
+                    "Cuyahoga County, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Cleveland is part of Cuyahoga County, Ohio.",
+            "Cleveland is part of the Cuyahoga County in Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id157",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cleveland",
+                    "isPartOf",
+                    "Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Cleveland is located within Ohio.",
+            "Cleveland is part of Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id158",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Cleveland",
+                    "leaderName",
+                    "Frank G. Jackson"
+                ]
+            ]
+        },
+        "text": [
+            "Frank G Jackson is a leader in Cleveland.",
+            "The leader in Cleveland is Frank G Jackson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id159",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "College of William &amp; Mary",
+                    "chancellor",
+                    "Robert Gates"
+                ]
+            ]
+        },
+        "text": [
+            "Robert Gates is the chancellor of the College of William &amp; Mary.",
+            "The Chancellor of the College of William and Mary is Robert Gates.",
+            "Robert Gates served as chancellor of the College of William and Mary."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id160",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "County Limerick",
+                    "governmentType",
+                    "Limerick City and County Counc"
+                ]
+            ]
+        },
+        "text": [
+            "County Limerick is governed by the Limerick City and County Council.",
+            "Limerick City and County Council governs County Limerick."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id161",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "capital",
+                    "Copenhagen"
+                ]
+            ]
+        },
+        "text": [
+            "Copenhagen is the capital of Denmark.",
+            "The capital of Denmark is Copenhagen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id162",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "language",
+                    "Faroese languag"
+                ]
+            ]
+        },
+        "text": [
+            "The Faroese Language is spoken in Denmark.",
+            "The language Faroese is spoken in Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id163",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "language",
+                    "German languag"
+                ]
+            ]
+        },
+        "text": [
+            "One of the languages in Denmark is German.",
+            "One of the languages used in Denmark is the German language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id164",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "language",
+                    "Greenlandic languag"
+                ]
+            ]
+        },
+        "text": [
+            "Greenlandic is one of the languages of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id165",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Lars Løkke Rasmussen"
+                ]
+            ]
+        },
+        "text": [
+            "Lars Lokke Rasmussen is Denmark's leader.",
+            "The leader of Denmark is Lars Løkke Rasmussen.",
+            "Lars Løkke Rasmussen is the prime minister of Denmark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id166",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Margrethe II of Denmark"
+                ]
+            ]
+        },
+        "text": [
+            "Margrethe II of Denmark is the leader of Denmark.",
+            "Margrethe II of Denmark is the name of Denmark's leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id167",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dublin",
+                    "isPartOf",
+                    "Republic of Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "Dublin is part of the Republic of Ireland.",
+            "Dublin is a part of the Republic of Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id168",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dublin",
+                    "leaderTitle",
+                    "Dáil Éireann"
+                ]
+            ]
+        },
+        "text": [
+            "Dáil Éireann is a leader in Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id169",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dublin",
+                    "leaderTitle",
+                    "European Parliamen"
+                ]
+            ]
+        },
+        "text": [
+            "Dublin is led by the European Parliament.",
+            "European Parliament is the title of the leader of Dublin.",
+            "The leader of the government in Dublin is the European Parliament."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id170",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Eastern Province, Sri Lanka",
+                    "governingBody",
+                    "Eastern Provincial Counc"
+                ]
+            ]
+        },
+        "text": [
+            "The governing body of the Eastern Province Sri Lanka is the Eastern Provincial Council.",
+            "Eastern Provincial Council is the governing body of Eastern Province in Sri Lanka.",
+            "The Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id171",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Eastern Province, Sri Lanka",
+                    "leaderName",
+                    "Austin Fernando"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the Eastern Province, Sri Lanka is Austin Fernando.",
+            "Austin Fernando is the leader of the Eastern Province of Sri Lanka.",
+            "Austin Fernando is the name of the leader in the Eastern Province of Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id172",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ethiopia",
+                    "currency",
+                    "Ethiopian b"
+                ]
+            ]
+        },
+        "text": [
+            "Ethiopia's currency is the Ethiopian Birr.",
+            "The Ethiopian birr is the money used in Ethiopia.",
+            "The currency of Ethiopia is the Ethiopian birr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id173",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ethiopia",
+                    "language",
+                    "Amharic"
+                ]
+            ]
+        },
+        "text": [
+            "Amharic is a language found in Ethiopia.",
+            "The language spoken in Ethiopia is Amharic.",
+            "Amharic is the language of Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id174",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ethiopia",
+                    "leaderName",
+                    "Hailemariam Desalegn"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Ethiopia is Hailemariam Desalegn.",
+            "Hailemariam Desalegn is the leader of Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id175",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "George Winkler",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "George Winkler is from the United States.",
+            "George Winkler is from the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id176",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gujarat",
+                    "leaderName",
+                    "Anandiben Pa"
+                ]
+            ]
+        },
+        "text": [
+            "Anandiben Patel is the leader of Gujarat.",
+            "Anandiben Patel was the leader of Gujarat."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id177",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gujarat",
+                    "leaderTitle",
+                    "Gujarat Legislative Assembly"
+                ]
+            ]
+        },
+        "text": [
+            "Gujarat's leader is known as the Gujarat Legislative Assembly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id178",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Illinois",
+                    "capital",
+                    "Springfield, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Illinois is Springfield, Illinois.",
+            "The capital of Illinois is Springfield."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id179",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Illinois",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Illinois is in the United States.",
+            "Illinois state is in the United States.",
+            "Illinois is situated in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id180",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Illinois",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "The English language is spoken in Illinois.",
+            "The language of Illinois is the English language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id181",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "India",
+                    "leaderName",
+                    "Narendra Mod"
+                ]
+            ]
+        },
+        "text": [
+            "Narendra Modi leads India.",
+            "The leader of India is Narendra Modi.",
+            "Narendra Modi is the prime minister of India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id182",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thaku"
+                ]
+            ]
+        },
+        "text": [
+            "T S Thakur is a leader in India.",
+            "The leader of India is called T S Thakur.",
+            "T. S. Thakur was an Indian leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id183",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "ethnicGroup",
+                    "Chinese people in Japan"
+                ]
+            ]
+        },
+        "text": [
+            "There is an ethnic group of Chinese people in Japan.",
+            "In Japan there is an ethnic group of Chinese people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id184",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "ethnicGroup",
+                    "Filipinos in Japan"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups in Japan is the Filipinos."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id185",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "ethnicGroup",
+                    "Japanese peo"
+                ]
+            ]
+        },
+        "text": []
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id186",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "ethnicGroup",
+                    "Koreans in Japan"
+                ]
+            ]
+        },
+        "text": [
+            "Japan has an ethnic group called Koreans in Japan.",
+            "Japan has an ethnic group of Koreans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id187",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "ethnicGroup",
+                    "Vietnamese people in Japan"
+                ]
+            ]
+        },
+        "text": [
+            "There is an ethnic group of Vietnamese people in Japan.",
+            "Vietnamese people in Japan are an ethnic group from Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id188",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "leaderName",
+                    "Akihito"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Japan is called Akihito.",
+            "The leader of Japan is Akihito.",
+            "The Emperor of Japan is Akihito."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id189",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Japan",
+                    "leaderName",
+                    "Shinzō Ab"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Japan is Shinzō Abe.",
+            "Shinzo Abe is the leader of Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id190",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Madin",
+                    "birthPlace",
+                    "Birmingha"
+                ]
+            ]
+        },
+        "text": [
+            "John Madin was born in Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id191",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John Madin",
+                    "hometown",
+                    "Birmingha"
+                ]
+            ]
+        },
+        "text": [
+            "Birmingham is the home town of John Madin.",
+            "The hometown of John Madin is Birmingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id192",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Julia Morgan",
+                    "birthPlace",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "The birth place of Julia Morgan is California.",
+            "Julia Morgan was born in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id193",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Julia Morgan",
+                    "birthPlace",
+                    "San Francisco"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan was born in San Francisco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id194",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Asilomar State Beach"
+                ]
+            ]
+        },
+        "text": [
+            "One of the significant buildings designed by Julia Morgan is the Asilomar State Beach."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id195",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Chinatown, San Francisco"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan designed significant buildings in Chinatown, San Francisco.",
+            "Julia Morgan is the architect behind Chinatown in San Francisco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id196",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Riverside Art Museu"
+                ]
+            ]
+        },
+        "text": [
+            "The Riverside Art Museum is one of Julia Morgan's significant buildings."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id197",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Julia Morgan",
+                    "significantProject",
+                    "Hearst Cas"
+                ]
+            ]
+        },
+        "text": [
+            "Hearst Castle was a significant project of Julia Morgan.",
+            "Julia Morgan was the architect of the landmark Hearst Castle.",
+            "Hearst Castle was a significant project for Julia Morgan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id198",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "London",
+                    "leaderName",
+                    "Boris Johnson"
+                ]
+            ]
+        },
+        "text": [
+            "Boris Johnson is the leader in London.",
+            "The leader of London is called Boris Johnson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id199",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "London",
+                    "leaderTitle",
+                    "European Parliamen"
+                ]
+            ]
+        },
+        "text": [
+            "London is led via the European Parliament."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id200",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "London",
+                    "leaderTitle",
+                    "Parliament of the United Kingdo"
+                ]
+            ]
+        },
+        "text": [
+            "The Parliament of the United Kingdom is the leader of London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id201",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Manhattan",
+                    "leaderName",
+                    "Cyrus Vance, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Manhattan is Cyrus Vance Jr.",
+            "Cyrus Vance Jr. is one of the leaders of Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id202",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Manhattan",
+                    "leaderName",
+                    "Gale Brew"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Manhattan is Gale Brewer.",
+            "Gale Brewer is the leader of Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id203",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Marriott International",
+                    "foundationPlace",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International was founded in Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id204",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Marriott International",
+                    "location",
+                    "Bethesda, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International is based in Bethesda, Maryland.",
+            "Marriott International is located in Bethesda Maryland.",
+            "The Marriott International is located in Bethesda, Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id205",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mason School of Business",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Mason School of Business is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id206",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New York City",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "New York city is located in the U.S.",
+            "New York City is in the United States.",
+            "New York City is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id207",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New York City",
+                    "isPartOf",
+                    "Brooklyn"
+                ]
+            ]
+        },
+        "text": [
+            "Brooklyn is part of New York City.",
+            "Brooklyn is a part of New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id208",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New York City",
+                    "isPartOf",
+                    "Manhattan"
+                ]
+            ]
+        },
+        "text": [
+            "Manhattan is part of New York City.",
+            "New York City is part of Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id209",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "New York City",
+                    "isPartOf",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "New York City is part of New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id210",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Pacific Grove, California",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Pacific Grove, California is in the United States.",
+            "Pacific Grove, California is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id211",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Perth",
+                    "country",
+                    "Australia"
+                ]
+            ]
+        },
+        "text": [
+            "Perth is located in Australia.",
+            "Perth is in Australia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id212",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Republic of Ireland",
+                    "currency",
+                    "Euro"
+                ]
+            ]
+        },
+        "text": [
+            "The currency of the Republic of Ireland is the euro.",
+            "The Republic of Ireland's currency is the Euro."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id213",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Republic of Ireland",
+                    "demonym",
+                    "Irish peo"
+                ]
+            ]
+        },
+        "text": [
+            "Irish people are the inhabitants of the Republic of Ireland.",
+            "Irish people inhabit the Republic of Ireland.",
+            "The demonym of natives of the Republic of Ireland is Irish people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id214",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Republic of Ireland",
+                    "language",
+                    "Irish languag"
+                ]
+            ]
+        },
+        "text": [
+            "In the Republic of Ireland they speak Irish.",
+            "Irish is one of the official language in the Republic of Ireland.",
+            "Irish is the official language of the Republic of Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id215",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Republic of Ireland",
+                    "leaderName",
+                    "Enda Kenny"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the Republic of Ireland is Enda Kenny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id216",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Africa",
+                    "demonym",
+                    "South Africa"
+                ]
+            ]
+        },
+        "text": [
+            "People from South Africa can say they are from South Africa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id217",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "Asian South Africans"
+                ]
+            ]
+        },
+        "text": [
+            "In South Africa there is an ethnic group of Asian South Africans.",
+            "One of the ethnic groups within South Africa is Asian South Africans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id218",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "Coloured"
+                ]
+            ]
+        },
+        "text": [
+            "One of South Africa's ethnic groups are the Coloured.",
+            "Coloured people are an ethnic group in South Africa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id219",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Cyril Ramaphosa"
+                ]
+            ]
+        },
+        "text": [
+            "Cyril Ramaphosa is the leader of South Africa.",
+            "Cyril Ramaphosa is one of the leaders of South Africa.",
+            "The leader of South Africa is called Cyril Ramaphosa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id220",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Jacob Zuma"
+                ]
+            ]
+        },
+        "text": [
+            "South Africa's leader is called Jacob Zuma.",
+            "The leader of South Africa is Jacob Zuma.",
+            "Jacob Zuma is a leader in South Africa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id221",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sri Lanka",
+                    "capital",
+                    "Sri Jayawardenepura Ko"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Sri Lanka is Sri Jayawardenepura Kotte.",
+            "Sri Jayawardenepura Kotte is the capital of Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id222",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sri Lanka",
+                    "currency",
+                    "Sri Lankan ru"
+                ]
+            ]
+        },
+        "text": [
+            "Ski Lanka's currency is the Sri Lankan rupee.",
+            "The currency of Sri Lanka is the Sri Lankan rupee."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id223",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sri Lanka",
+                    "language",
+                    "Tamil languag"
+                ]
+            ]
+        },
+        "text": [
+            "The language of Sri Lanka is the Tamil language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id224",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Sri Lanka",
+                    "leaderName",
+                    "Ranil Wickremesingh"
+                ]
+            ]
+        },
+        "text": [
+            "Ranil Wickremesinghe is a leader of Sri Lanka.",
+            "Sri Lanka's leader is called Ranil Wickremesinghe.",
+            "The leader of Sri Lanka is Ranil Wickremesinghe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id225",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "currency",
+                    "Pound sterling"
+                ]
+            ]
+        },
+        "text": [
+            "The United Kingdom's currency is Pound sterling.",
+            "The currency of the United Kingdom is the Pound sterling."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id226",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United Kingdom",
+                    "demonym",
+                    "British peo"
+                ]
+            ]
+        },
+        "text": [
+            "The demonym for natives of the United kingdom is British people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id227",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Washington DC is the capital of the United States.",
+            "The capital of the United States is Washington D.C.",
+            "Washington D.C. is the capital of the USA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id228",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups of the United States are the African Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id229",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "An ethnic group of the United States is Asian Americans.",
+            "Asian Americans are an ethnic group in the U.S.",
+            "There is an ethnic group of Asian Americans in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id230",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ]
+            ]
+        },
+        "text": [
+            "One United States ethnic group is White Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id231",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "English is the language of the U.S.",
+            "English is the language in the United States.",
+            "The English language is the language of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id232",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Barack Obama"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the United States was Barack Obama.",
+            "Barack Obama is the leader of the U.S.",
+            "Barack Obama is the leader of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id233",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Joe Biden"
+                ]
+            ]
+        },
+        "text": [
+            "Joe Biden is a leader of the United States.",
+            "The leader of the United States is Joe Biden.",
+            "Joe Biden is a leader of the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id234",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "John Roberts"
+                ]
+            ]
+        },
+        "text": [
+            "The United States of America`s Chief Justice is John Roberts.",
+            "John Roberts is a leader in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id235",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of the United States is known as the President of the United States.",
+            "The title of the leader of the United States is President of the United States.",
+            "The leader of the United States has the title President of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id236",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Virginia",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Virginia is in the United States."
+        ]
+    }
+]

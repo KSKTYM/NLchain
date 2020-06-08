@@ -1,0 +1,247 @@
+[
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio is in Switzerland. Its dean is Mario Botta and it has 600 students.",
+            "The Accademia di Architettura di Mendrisio of Switzerland has 600 students and the dean is called Mario Botta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "motto",
+                    "Nurturing Excellence"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Bangalore, India and its motto is: \"Nurturing Excellence\".",
+            "The Acharya Institute of Technology in Bangalore, India has the motto \"Nurturing Excellence\".",
+            "Acharya Institute of Technology is in Bangalore, India and its motto is\"Nurturing Excellence\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "president",
+                    "B.M. Reddy"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalore"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "B.M. Reddy is the president of the Acharya Institute of Technology, which is located in Bangalore, India.",
+            "The Acharya Institute of Technology is in Bangalore, India. Its president is B.M. Reddy.",
+            "The Acharya Institute of Technology (Bangalore, India) has B. M. Reddy as its president."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id4",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "sportsOffered",
+                    "Tennis"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Tennis",
+                    "sportsGoverningBody",
+                    "International Tennis Federation"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.",
+            "The International Tennis Federation is the governing body for the sport which is offered at the Acharya Institute of Technology which was established in 2000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id5",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "India",
+                    "largestCity",
+                    "Mumbai"
+                ],
+                [
+                    "AWH Engineering College",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "river",
+                    "Ganges"
+                ]
+            ]
+        },
+        "text": [
+            "AWH Engineering College is in India. Mumbai is the largest city in India. The river Ganges runs through India.",
+            "AWH Engineering College is located in the country of India, whose capital city is Mumbai. One of the rivers in India is called the Ganges."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id6",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Romania",
+                    "leaderTitle",
+                    "Prime Minister of Romania"
+                ],
+                [
+                    "Romania",
+                    "leaderName",
+                    "Klaus Iohannis"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Romania is Prime Minister Klaus Iohannis. The 1 Decembrie 1918 University is in Romania.",
+            "The Prime Minister of Romania is Klaus Iohannis. The 1 Decembrie 1918 University is situated in Romania.",
+            "1 Decembrie 1918 University is located in Romania. The country's Prime Minister is Klaus Iohannis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id7",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Romania",
+                    "patronSaint",
+                    "Andrew the Apostle"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "latinName",
+                    "Universitas Apulensis"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "1 Decembrie 1918 University is located in Romania. Its Latin name is \"Universitas Apulensis\". The patron saint of Romania is Andrew the Apostle.",
+            "Universitas Apulensis is the latin name of the 1 Decembrie 1918 University in Romania. The patron saint of the country is Andrew the Apostle.",
+            "The 1 Decembrie 1918 University has the Latin name, Universitas Apulensis. It is situated in Romania, which has the patron Saint Andrew the Apostle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "numberOfStudents",
+                    "16000"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University was established in 1928. It has 737 academic staff and 16,000 students.",
+            "The School of Business and Social Sciences at Aarhus University was established in 1928. It has 16000 students and an academic staff of 737.",
+            "The School of Business and Social Sciences at the Aarhus University was established in 1928 and currently has a staff of 737 and a student population of 16000."
+        ]
+    }
+]

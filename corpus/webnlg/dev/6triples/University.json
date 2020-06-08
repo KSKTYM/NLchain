@@ -1,0 +1,369 @@
+[
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ],
+                [
+                    "Switzerland",
+                    "leaderName",
+                    "Johann Schneider-Ammann"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "location",
+                    "Ticino"
+                ],
+                [
+                    "Switzerland",
+                    "leaderTitle",
+                    "Federal Chancellor of Switzerland"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio located in Ticino, Switzerland was established in 1996. It has 600 students. Switzerland's leader is Federal Chancellor Johann Schneider-Ammann.",
+            "Federal Chancellor Johann Schneider-Ammann is the current leader of Switzerland where the Accademia di Architettura di Mendrisio is located in Ticino. It was established in 1996 and has 600 students.",
+            "Accademia di Architettura di Mendrisio in Ticino, Switzerland was established in 1996 and currently has 600 students. The Federal Chancellor of Switzerland is named Johann Schneider-Ammann."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 6,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalo"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "director",
+                    "\"Dr. G. P. Prabhukumar\""
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "\"India\""
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "state",
+                    "Karnataka"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "\"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\""
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology is in Bangalore, India in the state of Karnataka. The school was established in 2000 and its director is Dr. G. P. Prabhukumar. The full address of the school is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+            "Established in 2000, the Acharya Institute of Technology is in Bangalore, Karnataka India. The institute's director is Dr. G. P. Prabhukumar and the campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+            "The Acharya Institute of Technology campus is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. The Institute was established in the year 2000 and the director there is Dr. G. P. Prabhukumar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 6,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "president",
+                    "\"B.M. Reddy\""
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalo"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "director",
+                    "\"Dr. G. P. Prabhukumar\""
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "\"India\""
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology in Bangalore, India was established in 2000. It is affiliated with the Visvesvaraya Technological University. Its president is B.M. Reddy and its directore is Dr. G.P. Prabhukumar.",
+            "The Acharya Institute of Technology in Bangalore, India was established in 2000 and is affiliated to the Visvesvaraya Technological University. It was established in 2000 and has B M Reddy as President and Dr G P Prabhukumar as Director.",
+            "Acharya Institute of Technology is located in Bangalore, India. Its president is B.M. Reddy and the director is Dr. G. P. Prabhukumar. It was established in 2000 and its affiliation is Visvesvaraya Technological University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id4",
+            "shape": "(X (X (X)) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "was given the 'Technical Campus' status by",
+                    "All India Council for Technical Education"
+                ],
+                [
+                    "All India Council for Technical Education",
+                    "location",
+                    "Mumba"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "sportsOffered",
+                    "Tennis"
+                ],
+                [
+                    "Karnataka",
+                    "has to its west",
+                    "Arabian Sea"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "state",
+                    "Karnataka"
+                ],
+                [
+                    "Tennis",
+                    "sportsGoverningBody",
+                    "International Tennis Federation"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology in Mumbai, Karnataka was given the \"Technological Campus\" status by the All India Council for Technical Education (located in Mumbai). The Acharya Institute offers tennis and the sports governing body is the International Tennis Federation. Karnataka has the Arabian Sea to its west.",
+            "Tennis, which has the International Tennis Federation as its governing body, is offered as a sport at the Acharya Institute of Technology. The Institute was given Technical Campus status by the All India Council for Technical Education based in Mumbai and is situated in the state of Karnataka which has the Arabian Sea to the west.",
+            "Governed by the International Tennis Federation, the Acharya Institute of Technology in Karnataka offers tennis courses and was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. Karnataka is east of the Arabian Sea."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id5",
+            "shape": "(X (X (X)) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "was given the 'Technical Campus' status by",
+                    "All India Council for Technical Education"
+                ],
+                [
+                    "All India Council for Technical Education",
+                    "location",
+                    "Mumba"
+                ],
+                [
+                    "Visvesvaraya Technological University",
+                    "city",
+                    "Belgau"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "sportsOffered",
+                    "Tennis"
+                ],
+                [
+                    "Tennis",
+                    "sportsGoverningBody",
+                    "International Tennis Federation"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgaum. The institute was given Technical Campus' status by the All India Council for Technical Education in Mumbai. The institute offers tennis which is governed by the International Tennis Federation.",
+            "Governed by the International Tennis Federation, the Acharya Institute of Technology offers tennis courses and was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. It is also affiliated with the Visvesvaraya Technological University in Belgaum."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id6",
+            "shape": "(X (X (X) (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "Romania",
+                    "ethnicGroup",
+                    "Germans of Romania"
+                ],
+                [
+                    "Romania",
+                    "leaderName",
+                    "Klaus Iohannis"
+                ],
+                [
+                    "Romania",
+                    "leaderTitle",
+                    "Prime Minister of Romania"
+                ],
+                [
+                    "Romania",
+                    "patronSaint",
+                    "Andrew the Apos"
+                ],
+                [
+                    "Romania",
+                    "capital",
+                    "Buchares"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "Bucharest is the capital of Romania where one of the country's ethnic groups are the Germans of Romania. The country's leader is Prime Minister Klaus Iohannis. The patron saint of the country is Andrew the Apostle and the country is the location of the 1 Decembrie 1918 University.",
+            "Romania is governed by a Prime Minister who is Klaus Iohannis. The country is also known for its patron saint Andrew the Apostle, the ethnic group the Germans of Romania and the capital Bucharest. Romania is also home to the 1 Decembrie 1918 University.",
+            "The leader of Romania, the Prime Minister, is Klaus Iohannis. The capital is Bucharest, their ethnic group is Germans of Romania and its patron Saint is Andrew the Apostle. In Romania we can find 1 Decembrie 1918 University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 6,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "Denmark",
+                    "leaderName",
+                    "Lars Løkke Rasmussen"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "city",
+                    "Aarhus"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark was established in 1928. Its academic staff numbers 737 and it is affiliated to the European University Association. Denmark's leader is Lars Lokke Rasmussen.",
+            "The city of Aarhus is the location of the School of Business and Social Sciences at the Aarhus University which is affiliated with the European University Association. The School, which has 737 academic staff, was established in 1928 in Denmark where the leader is Lars Lokke Rasmussen.",
+            "Established in 1928 and with a current staff of 737, the School of Business and Social Sciences at the Aarhus University in Aarus, Denmark is affiliated with the European University Association. The country's leader is named Lars Løkke Rasmussen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 6,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "city",
+                    "Aarhus"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "numberOfStudents",
+                    "16000"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University at Aarhus, Denmark was established in 1928. It has 737 academic staff and 16,000 students. It is affiliated to the European University Association.",
+            "The School of Business and Social Sciences at the Aarhus University is based in the city of Aarhus, Denmark. It was established in 1928 and is affiliated to the European University Association. There are 16000 students and an academic staff of 727.",
+            "School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. It was established in 1928 and its affiliation is European University Association. The number of students is 16000 and academic staff is 737."
+        ]
+    }
+]

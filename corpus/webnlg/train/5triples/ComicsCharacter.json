@@ -1,0 +1,450 @@
+[
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "John Geering"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Bananaman last aired on 15th April 1986. Graeme Garden is one of the stars of the series which was created by John Geering.",
+            "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The fictional comic superhero Bananaman was created by John Geering and stars Graeme Garden.",
+            "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Graeme Garden was one of the stars on the series which was created by John Geering."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Bill Odd"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Steve Bright created the series which starred Bill Oddie.",
+            "Bananaman was shown by the BBC and aired between 3 October 1985 and 15 April 1986. It was created by Steve Bright and starred Bill Oddie.",
+            "Bananaman was the TV series shown by the BBC between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Bill Oddie."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman first aired on the BBC 10/03/1983 and its last broadcast was 15th April 1986. The creator of Bananaman is Steve Bright and the show stars Graeme Garden.",
+            "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. It was created by Steve Bright and stars Graeme Garden."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Jill Shilling"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "The BBC aired the TV series of Bananaman between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Jill Shilling.",
+            "Bananaman began airing on the BBC on 10/03/1983 and its last broadcast was April 15th, 1986. The creator of Bananaman is Steve Bright and among its stars are Jill Shilling.",
+            "Bananaman was broadcast by the BBC, airing between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Jill Shilling."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "creator",
+                    "John Geering"
+                ],
+                [
+                    "Bananaman",
+                    "starring",
+                    "Graeme Garden"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman first aired on STV on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The series, which was created by John Geering, stars Graeme Garden.",
+            "The TV character Bananaman was created by John Geering. The programme was broadcast by STV and starred Graeme Garden. Bananaman was first shown on 10th March 1983 and last aired on 15th April 1986.",
+            "Bananaman first aired on STV on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. John Geering created the series which stars Graeme Garden."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Jill Shilling"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "STV"
+                ]
+            ]
+        },
+        "text": [
+            "Bananaman was broadcast by STV between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Jill Shilling.",
+            "Bananaman first aired on STV on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The series was created by Steve Bright and starred Jill Shilling.",
+            "Bananaman was broadcast by STV from 3 October 1983 until 15 April 1986. It was created by Steve Bright and starred Jill Shilling."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Bananaman",
+                    "starring",
+                    "Tim Brooke-Taylo"
+                ],
+                [
+                    "Bananaman",
+                    "broadcastedBy",
+                    "BBC"
+                ],
+                [
+                    "Bananaman",
+                    "creator",
+                    "Steve Brigh"
+                ],
+                [
+                    "Bananaman",
+                    "firstAired",
+                    "1983-10-03"
+                ],
+                [
+                    "Bananaman",
+                    "lastAired",
+                    "1986-04-15"
+                ]
+            ]
+        },
+        "text": [
+            "The BBC began broadcasting Bananaman on 10/03/1983 and its last episode went to air on April 15th, 1986. Steve Bright is one of the creators of Bananaman which has Tim Brooke-Taylor as one of its stars.",
+            "Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Its creator was Steve Bright and the series starred Tim Brooke-Taylor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Ryan Po"
+                ],
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seag"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax was created by the American, Duncan Rouleau and Steven T Seagle. The character appeared in Big Hero 6 which stars Ryan Potter.",
+            "The character of Baymax appeared in Big Hero 6 which stars Ryan Potter. He was created by Steven T Seagle and the American, Duncan Rouleau."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id9",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seag"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Damon Wayans, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Baymax, a character in Big Hero 6, was created by the american Duncan Rouleau and by Steven T. Seagle. Damon Wayans, Jr. starred in the film Big Hero 6.",
+            "Baymax, a character in Big Hero 6, was created by the american Duncan Rouleau and by Steven T. Seagle. Damon Wayans, Jr. starred in the film version of Big Hero 6.",
+            "Baymax is a character in the film Big Hero 6 which stars Damon Wayans Jr. He was created by Steven T. Seagle and the American, Duncan Rouleau."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id10",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seag"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Jamie Chung"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax is a character in Big Hero 6 which stars Jamie Chung and was created by Steven T. Seagle and Duncan Rouleau, an American.",
+            "Baymax is a character created by Steven T Seagle and the American, Duncan Rouleau. He appears in Big Hero 6 that stars Jamie Chung.",
+            "Baymax is a character in Big Hero 6 which stars Jamie Chung. Baymax was created by American Duncan Rouleau and Steven T. Seagle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "ComicsCharacter",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Duncan Rouleau",
+                    "nationality",
+                    "Americans"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Duncan Rouleau"
+                ],
+                [
+                    "Baymax",
+                    "creator",
+                    "Steven T. Seag"
+                ],
+                [
+                    "Baymax",
+                    "series",
+                    "Big Hero 6 (film)"
+                ],
+                [
+                    "Big Hero 6 (film)",
+                    "starring",
+                    "Maya Rudolph"
+                ]
+            ]
+        },
+        "text": [
+            "Baymax a character in Big Hero 6 was created by the American Duncan Rouleau and by Steven T. Seagle. Maya Rudolph was one of the stars in the film version of Big Hero 6.",
+            "Baymax, is a character in Big Hero 6 whose creators are Steven T. Seagle and Duncan Rouleau, an American and it stars Maya Rudolph.",
+            "Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Maya Rudolph."
+        ]
+    }
+]

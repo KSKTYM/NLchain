@@ -1,0 +1,688 @@
+[
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "alternativeName",
+                    "Ajo blanco"
+                ]
+            ]
+        },
+        "text": [
+            "The alternative name for Ajoblanco is \"Ajo blanco\".",
+            "Ajo blanco is an alternative name to Ajoblanco.",
+            "Ajo blanco is an alternative name of Ajoblanco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "mainIngredients",
+                    "Bread, almonds, garlic, water, olive oil"
+                ]
+            ]
+        },
+        "text": [
+            "The main ingredients in ajoblanco are bread, almonds, garlic, water and olive oil.",
+            "Bread, almonds, garlic, water, and olive oil are the main ingredients in Ajoblanco.",
+            "The main ingredients of Ajoblanco are bread, almonds, garlic, water, olive oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "region",
+                    "Nationwide in Indonesia, but more specific to Java"
+                ]
+            ]
+        },
+        "text": [
+            "Arem-arem is found nationwide in Indonesia, but is more specific to Java.",
+            "Arem-arem is nationwide in Indonesia, but more specific to Java."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "region",
+                    "Indonesia"
+                ]
+            ]
+        },
+        "text": [
+            "Arem arem comes from Indonesia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "mainIngredients",
+                    "Tomatoes, red chili, garlic, olive oil"
+                ]
+            ]
+        },
+        "text": [
+            "Arrabbiata sauce is made with tomatoes, red chili, garlic and olive oil.",
+            "The main ingredients in Arrabbiata sauce are Tomatoes, red chili, garlic and olive oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Cuttlefish"
+                ]
+            ]
+        },
+        "text": [
+            "Cuttlefish is an ingredient in Arros negre.",
+            "Cuttlefish is an ingredient of the dish Arròs negre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "ingredient",
+                    "Squid"
+                ]
+            ]
+        },
+        "text": [
+            "Squid is an ingredient of Arros negre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Asam pedas",
+                    "country",
+                    "Malaysia"
+                ]
+            ]
+        },
+        "text": [
+            "Asam pedas is a food found in Malaysia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Avocado",
+                    "genus",
+                    "Persea"
+                ]
+            ]
+        },
+        "text": [
+            "The genus of the avocado is persea.",
+            "The genus of Avocado is Persea."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ayam penyet",
+                    "servingTemperature",
+                    "Hot"
+                ]
+            ]
+        },
+        "text": [
+            "Ayam penyet should be served hot.",
+            "Ayam penyet is a dish that should be served hot.",
+            "Ayam penyet is served hot."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "course",
+                    "Dess"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska is a dessert."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bakewell tart",
+                    "ingredient",
+                    "Frangipan"
+                ]
+            ]
+        },
+        "text": [
+            "An ingredient of bakewell tart is frangipane.",
+            "Frangipane is an ingredient in a Bakewell tart.",
+            "Frangipane is an ingredient of Bakewell tart."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bakso",
+                    "ingredient",
+                    "Nood"
+                ]
+            ]
+        },
+        "text": [
+            "The dish Bakso contains noodles.",
+            "Noodle is an ingredient in Bakso.",
+            "Bakso contains noodles."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bakso",
+                    "ingredient",
+                    "Vermic"
+                ]
+            ]
+        },
+        "text": [
+            "Vermicelli is an ingredient in Bakso.",
+            "Vermicelli is an ingredient of the dish Bakso.",
+            "Vermicelli is included in bakso."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Bandeja paisa",
+                    "ingredient",
+                    "Chorizo"
+                ]
+            ]
+        },
+        "text": [
+            "Chorizo is an ingredient in the dish Bandeja paisa.",
+            "Chorizo is an ingredient in Bandeja paisa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "creator",
+                    "Mondelez Internationa"
+                ]
+            ]
+        },
+        "text": [
+            "Mondelez International is the creator of Barny cakes.",
+            "Barny cakes were created by Mondelez International.",
+            "Barny cakes is created by Mondelez International."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "dishVariation",
+                    "Chocola"
+                ]
+            ]
+        },
+        "text": [
+            "Barny Cakes can be chocolate flavoured.",
+            "Chocolate is one variation of the Barny Cakes dish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "protein",
+                    "1.8 g"
+                ]
+            ]
+        },
+        "text": [
+            "Barny cakes contain 1.8 g of protein.",
+            "Barny cakes contain 1.8g of protein."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Batchoy",
+                    "country",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "Batchoy is eaten in the Philippines.",
+            "Philippines is the country Batchoy comes from."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Batchoy",
+                    "ingredient",
+                    "Chicken"
+                ]
+            ]
+        },
+        "text": [
+            "Chicken is an ingredient in Batchoy.",
+            "Batchoy includes chicken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Batchoy",
+                    "ingredient",
+                    "Vegetab"
+                ]
+            ]
+        },
+        "text": [
+            "Vegetable are used in the preparation of Batchoy.",
+            "Vegetables are an ingredient in Batchoy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Binignit",
+                    "region",
+                    "Visayas"
+                ]
+            ]
+        },
+        "text": [
+            "Binignit is a dish from the region of Visayas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Derbyshire Dales",
+                    "leaderName",
+                    "Patrick McLoughlin"
+                ]
+            ]
+        },
+        "text": [
+            "Patrick McLoughlin is a leader in the Derbyshire Dales.",
+            "Patrick McLoughlin is a leader in Derbyshire Dales.",
+            "Patrick McLoughlin is the leader of Derbyshire Dales."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Cak"
+                ]
+            ]
+        },
+        "text": [
+            "A variation on dessert is cake."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Ice crea"
+                ]
+            ]
+        },
+        "text": [
+            "Ice cream is a type of dessert.",
+            "A type of dessert is an ice cream.",
+            "Ice cream is a dessert."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Jusuf Kalla"
+                ]
+            ]
+        },
+        "text": [
+            "Jusuf Kalla is a leader in Indonesia.",
+            "Jusuf Kalla is the leader of Indonesia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ]
+            ]
+        },
+        "text": [
+            "Italians are from Italy.",
+            "Italians is the name given to people from Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Baduy"
+                ]
+            ]
+        },
+        "text": [
+            "Baduy is the ethnic group of Java.",
+            "The Baduy is an ethnic group in Java.",
+            "Baduy is an ethnic group of Java."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lemon",
+                    "order",
+                    "Rosids"
+                ]
+            ]
+        },
+        "text": [
+            "Lemon is under the order of Rosids.",
+            "The order of lemons is Rosids."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mexico",
+                    "demonym",
+                    "Mexicans"
+                ]
+            ]
+        },
+        "text": [
+            "Mexico is inhabited by Mexicans.",
+            "Mexicans are people from Mexico."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Mexico",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "In Mexico, the spoken language is Spanish.",
+            "Spanish is the language spoken in Mexico.",
+            "The language of Mexico is Spanish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "language",
+                    "Arabic"
+                ]
+            ]
+        },
+        "text": [
+            "One of the languages used in the Philippines is Arabic.",
+            "Arabic is a language spoken in the Philippines.",
+            "One of the languages in Philippines is Arabic.",
+            "Arabic is one of the languages spoken in the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Siomay",
+                    "dishVariation",
+                    "Shuma"
+                ]
+            ]
+        },
+        "text": [
+            "Shumai is a variation of the dish Siomay.",
+            "Siomay and Shumai are variations of the same dish."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans in the United States are one of the ethnic groups of the country."
+        ]
+    }
+]

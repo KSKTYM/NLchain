@@ -1,0 +1,1212 @@
+[
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "mainIngredients",
+                    "Bread, almonds, garlic, water, olive oil"
+                ],
+                [
+                    "Ajoblanco",
+                    "region",
+                    "Andalusia"
+                ],
+                [
+                    "Ajoblanco",
+                    "alternativeName",
+                    "Ajo blanco"
+                ],
+                [
+                    "Ajoblanco",
+                    "ingredient",
+                    "Bread"
+                ]
+            ]
+        },
+        "text": [
+            "From Andalusia, Spain, Ajoblanco is made with bread, almonds, garlic, water and olive oil. Ajo blanco is an alternative name to Ajoblanco.",
+            "Ajoblanco, also known as Ajo blanco is a dish from the Andalusian region of Spain and includes the main ingredients of bread, almonds, garlic, water and olive oil.",
+            "A dish found in the Andalusian region of Spain is called Ajoblanco (or Ajo blanco). It contains bread, almonds, garlic, water and olive oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Amatriciana sauce",
+                    "region",
+                    "Lazio"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "ingredient",
+                    "Guancia"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "course",
+                    "Italian meal structu"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "mainIngredients",
+                    "Tomatoes, guanciale, cheese, olive oil"
+                ]
+            ]
+        },
+        "text": [
+            "Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.",
+            "Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.",
+            "Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id3",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Arem-arem",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Arem-arem",
+                    "region",
+                    "Javanese cuisin"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Joko Widodo"
+                ],
+                [
+                    "Indonesia",
+                    "currency",
+                    "Indonesian rupiah"
+                ],
+                [
+                    "Indonesia",
+                    "language",
+                    "Indonesian languag"
+                ]
+            ]
+        },
+        "text": [
+            "Arem-arem, a Javanese dish, is commonly served in Indonesia where the leader is Joko Widodo. It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id4",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Arrabbiata sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian languag"
+                ],
+                [
+                    "Italy",
+                    "leaderName",
+                    "Sergio Mattarella"
+                ]
+            ]
+        },
+        "text": [
+            "Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.",
+            "Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader. People there are called Italians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id5",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Arròs negre",
+                    "region",
+                    "Valencian Community"
+                ],
+                [
+                    "Valencian Community",
+                    "leaderName",
+                    "Ximo Puig"
+                ],
+                [
+                    "Arròs negre",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Spain",
+                    "demonym",
+                    "Spaniards"
+                ],
+                [
+                    "Spain",
+                    "leaderName",
+                    "Felipe VI of Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Ximo Puig is a leader of the Valencian Community which is where Arros negre comes from. It is a traditional dish from Spain, where the people are called Spaniards and the leader is Felipe VI of Spain.",
+            "Arros negre is from the Valencian Community of Spain, home to the Spaniards, led by Felipe VI and Ximo Puig."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id6",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Asam pedas",
+                    "country",
+                    "Malaysia"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Chines"
+                ],
+                [
+                    "Malaysia",
+                    "capital",
+                    "Kuala Lumpu"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Indian"
+                ],
+                [
+                    "Asam pedas",
+                    "region",
+                    "Malay Peninsula"
+                ]
+            ]
+        },
+        "text": [
+            "Asam pedas is a food found in the Malay Peninsula of Malaysia, whose capital is Kuala Lumpur, and includes the Malaysian Chinese and Malaysian Indians.",
+            "Asam pedas is a food found in the Malay Peninsula in Malaysia, whose capital is Kuala Lumpur, where Malaysian Indians and Malaysian Chinese are ethnic groups.",
+            "Malaysia and the Malay Peninsula are home to the dish Asam pedas. The capital of Malaysian Chinese and Indian inhabited Malaysia is Kuala Lumpur."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id7",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Asam pedas",
+                    "country",
+                    "Malaysia"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Chines"
+                ],
+                [
+                    "Malaysia",
+                    "leaderName",
+                    "Arifin Zakaria"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Indian"
+                ],
+                [
+                    "Asam pedas",
+                    "region",
+                    "Malay Peninsula"
+                ]
+            ]
+        },
+        "text": [
+            "Malaysian Indian and Malaysian chinese are two of the ethnic groups in Malaysia where Arifin Zakaria is the leader. Asam pedas is found in Malaysia and is from the Malay Peninsula region.",
+            "Asam pedas is a food found in the Malay Peninsula region, Malaysia, where ethnic groups include Malaysian Indian and Chinese. Arifin Zakaria is the country's leader.",
+            "Malaysia, led by Arifin Zakaria, is home to the Malaysian Indian and Chinese, as well as the asam pedas of the Malay Peninsula region."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Nationwide, also can be found in Malaysia and Singapore"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ],
+                [
+                    "Ayam penyet",
+                    "ingredient",
+                    "Fried chicken"
+                ],
+                [
+                    "Ayam penyet",
+                    "mainIngredients",
+                    "Squeezed or smashed fried chicken served with samba"
+                ],
+                [
+                    "Ayam penyet",
+                    "servingTemperature",
+                    "Hot"
+                ]
+            ]
+        },
+        "text": [
+            "Ayam penyet is a Javanese dish made nationwide, and can also be found in Malaysia and Singapore. It should be served hot and contains the main ingredients of squeezed or smashed fried chicken served with sambal.",
+            "Ayam penyet is a hot food dish found in Java, Malaysia and Singapore and consists of fried chicken and sambal sauce.",
+            "Ayam penyet is a food made in Java regions of Malaysia and Singapore. It contains fried chicken that is smashed and served hot with sambal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Malaysia"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Chines"
+                ],
+                [
+                    "Ayam penyet",
+                    "ingredient",
+                    "Fried chicken"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Ayam penyet",
+                    "mainIngredients",
+                    "Squeezed or smashed fried chicken served with samba"
+                ]
+            ]
+        },
+        "text": [
+            "Malaysian Chinese is an ethnic group from Malaysia and Ayam Penyet is from there. Ayam Penyet is also from Indonesia and it contains fried chicken as well as \"squeezed\" or \"smashed\" chicken served with sambal.",
+            "Ayam penyet is a dish comprising \"squeezed\" or \"smashed\" fried chicken served with sambal. It can be found in Indonesia and in Malaysia, where there is an ethnic group called Malaysian Chinese.",
+            "Ayam penyet (origins: Indonesia) contains squeezed/smashed fried chicken with sambal and is popular in Malaysia. Malasysia is home to the Malaysian chinese."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id10",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Malaysia"
+                ],
+                [
+                    "Malaysia",
+                    "ethnicGroup",
+                    "Malaysian Chines"
+                ],
+                [
+                    "Ayam penyet",
+                    "ingredient",
+                    "Fried chicken"
+                ],
+                [
+                    "Fried chicken",
+                    "mainIngredients",
+                    "Chicken"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Indonesia"
+                ]
+            ]
+        },
+        "text": [
+            "The Malaysian chinese are an ethnic group from Malaysia which is where Ayam Penyet is from. Ayam Penyet can also be found in Indonesia and it contains fried chicken.",
+            "Ayam penyet a dish made with fried chicken, is popular in Malaysia. It originates from Indonesia. The Malaysian chinese are an ethnic group in Malaysia.",
+            "The fried chicken dish Ayam penyet comes from the region of Indonesia and also Malaysia where Malaysian Chinese are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id11",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Barack Obama"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon Explosion comes from the United States. The US president is Barack Obama, and the capital is in Washington, D.C. English is the language of the US, and white Americans are a major ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id12",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bacon Explosion",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Joe Biden"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ],
+                [
+                    "United States",
+                    "language",
+                    "English languag"
+                ]
+            ]
+        },
+        "text": [
+            "Bacon Explosion is a dish from the United States, where Joe Biden is leader and the capital is Washington DC. English is the language spoken in the US and Asian Americans are an ethnic group there.",
+            "Bacon Explosion originates from the United States where Asian Americans are one of the ethnic groups. The country's capital city is Washington D.C and Joe Biden is a politician there. In the U.S., they speak English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id13",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Baked Alaska",
+                    "country",
+                    "Franc"
+                ],
+                [
+                    "Hong Kong",
+                    "leaderName",
+                    "Carrie Lam (politician)"
+                ],
+                [
+                    "France",
+                    "leaderName",
+                    "Gérard Larch"
+                ],
+                [
+                    "France",
+                    "language",
+                    "French languag"
+                ],
+                [
+                    "Baked Alaska",
+                    "region",
+                    "Hong Kong"
+                ]
+            ]
+        },
+        "text": [
+            "Baked Alaska originates from France where the national language is French and one of the leader is Gerard Larcher. The dessert is served in Hong Kong as well where the leader is Carrie Lam.",
+            "Baked Alaska comes from France where the spoken language is French, and the country's leader is Gerard Larcher. This dessert is also served in Hong Kong where one of the political leaders is Carrie Lam.",
+            "Baked Alaska, served in Hong Kong, whose political leader is Carrie Lam, but is actually from France where the national language is French and the leader is Gerard Larcher."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bandeja paisa",
+                    "ingredient",
+                    "Lemon"
+                ],
+                [
+                    "Lemon",
+                    "order",
+                    "Rosids"
+                ],
+                [
+                    "Lemon",
+                    "family",
+                    "Rutacea"
+                ],
+                [
+                    "Bandeja paisa",
+                    "country",
+                    "Colombian cuisin"
+                ],
+                [
+                    "Bandeja paisa",
+                    "region",
+                    "Paisa Region"
+                ]
+            ]
+        },
+        "text": [
+            "Bandeja paisa is typical Colombian cuisine that originates from the Paisa region and contains lemon. The lemon belongs to the rutaceae family and the order of Rosids."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id15",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "country",
+                    "Franc"
+                ],
+                [
+                    "France",
+                    "language",
+                    "French languag"
+                ],
+                [
+                    "France",
+                    "leaderName",
+                    "Gérard Larch"
+                ],
+                [
+                    "France",
+                    "leaderName",
+                    "Claude Bartolon"
+                ],
+                [
+                    "Barny Cakes",
+                    "ingredient",
+                    "Sponge cak"
+                ]
+            ]
+        },
+        "text": [
+            "Barny Cakes, which are made from sponge cake, are from France, where Gerard Larcher and Claude Bartolone are leaders and French is the language spoken.",
+            "Barny cakes, made with sponge cake, are found in France, where French is spoken and whose leaders are Claude Bartolone and Gerard Larcher."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id16",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Barny Cakes",
+                    "country",
+                    "Franc"
+                ],
+                [
+                    "France",
+                    "leaderName",
+                    "Gérard Larch"
+                ],
+                [
+                    "France",
+                    "language",
+                    "French languag"
+                ],
+                [
+                    "Mondelez International",
+                    "foundationPlace",
+                    "Chicago"
+                ],
+                [
+                    "Barny Cakes",
+                    "creator",
+                    "Mondelez Internationa"
+                ]
+            ]
+        },
+        "text": [
+            "Created by Mondelez International (founded in Chicago), Barny Cakes come from France where Gerard Larcher is leader and they speak French.",
+            "Barny cakes is created by Mondelez International, which was founded in Chicago. It comes from France, which leader is Gérard Larcher and the language is French."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bhajji",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "demonym",
+                    "Indian peo"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thaku"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Sumitra Mahajan"
+                ],
+                [
+                    "Bhajji",
+                    "region",
+                    "Karnataka"
+                ]
+            ]
+        },
+        "text": [
+            "Indian people enjoy the dish bhajji, which originates from the Karnataka region of India. This nation is led by T.S. Thakur and Sumitra Mahajan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Binignit",
+                    "mainIngredients",
+                    "Sweet potato"
+                ],
+                [
+                    "Binignit",
+                    "region",
+                    "Visayas"
+                ],
+                [
+                    "Binignit",
+                    "course",
+                    "Dess"
+                ],
+                [
+                    "Binignit",
+                    "country",
+                    "Philippines"
+                ],
+                [
+                    "Binignit",
+                    "ingredient",
+                    "Banana"
+                ]
+            ]
+        },
+        "text": [
+            "Binignit is a dessert from the Visayas region of the Philippines. It contains sweet potato and banana.",
+            "Binignit comes from the Philippines from the region of Visayas. Its a type of dessert featuring banana and sweet potatoes.",
+            "The dessert Binignit includes sweet potato and banana. It is from the Visayas region of the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Mexico",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "Mexico",
+                    "leaderName",
+                    "Enrique Peña Nieto"
+                ],
+                [
+                    "Bionico",
+                    "dishVariation",
+                    "Honey"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dess"
+                ]
+            ]
+        },
+        "text": [
+            "Enrique Pena Nieto is the leader of Mexico which is where they speak Spanish and eat bionico, flavoured with honey, for dessert."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id20",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Mexico",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "Mexico",
+                    "leaderName",
+                    "Silvano Aureoles Conejo"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dess"
+                ],
+                [
+                    "Dessert",
+                    "dishVariation",
+                    "Cook"
+                ]
+            ]
+        },
+        "text": [
+            "Bionico is a dish found in Mexico, where Spanish is spoken and the leader is Silvano Aureoles Conejo. Bionico is a dish served for dessert and a cookie can be served as a dessert too.",
+            "Mexico is a spanish speaking country and is led by Silvano Aureoles Conejo. A type of food is Bionico, which is a type of cookie served for dessert."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Bionico",
+                    "country",
+                    "Mexico"
+                ],
+                [
+                    "Mexico",
+                    "leaderName",
+                    "Silvano Aureoles Conejo"
+                ],
+                [
+                    "Bionico",
+                    "dishVariation",
+                    "Honey"
+                ],
+                [
+                    "Bionico",
+                    "course",
+                    "Dess"
+                ],
+                [
+                    "Bionico",
+                    "region",
+                    "Guadalajara"
+                ]
+            ]
+        },
+        "text": [
+            "Honey can be used as a variation in the dish Bionico which is served for dessert. It is found in Guadalajara, Mexico where Silvano Aureoles Conejo is the leader.",
+            "The name of the leader in Mexico is Silvano Aureoles Conejo and bionico can be found in the Guadalajara region. It's served as a dessert course and honey can be added to it.",
+            "The dessert Bionico is found in Guadalajara and Silvano Aureoles Conejo led Mexico and may contain honey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id22",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Indonesia",
+                    "capital",
+                    "Jakarta"
+                ],
+                [
+                    "Indonesia",
+                    "language",
+                    "Indonesian languag"
+                ],
+                [
+                    "Bakso",
+                    "region",
+                    "Nationwide in Indonesia, also popular in neighboring Southeast Asian countries"
+                ],
+                [
+                    "Bakso",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Joko Widodo"
+                ]
+            ]
+        },
+        "text": [
+            "Joko Widodo is the leader of Indonesia whose capital is Jakarta and its language is Indonesian. Bakso comes from Indonesia and is popular in Southeastern Asian countries.",
+            "Joko Widodo is the leader of Indonesia, a country where Indonesian is the language spoken and Jakarta is the capital city. Bakso is a traditional food throughout Indonesia and is also popular in neighbouring Southeast Asian countries.",
+            "Bakso originates from Indonesia and also popular in neighbouring Southeast Asian countries. The country's capital city is Jakarta, its main language is Indonesian and led by president Joko Widodo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id23",
+            "shape": "(X (X (X) (X) (X)) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Indonesia",
+                    "capital",
+                    "Jakarta"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Jusuf Kalla"
+                ],
+                [
+                    "Bakso",
+                    "region",
+                    "Indonesia"
+                ],
+                [
+                    "Bakso",
+                    "country",
+                    "Indonesia"
+                ],
+                [
+                    "Indonesia",
+                    "leaderName",
+                    "Joko Widodo"
+                ]
+            ]
+        },
+        "text": [
+            "Bakso is a food found in Indonesia where the capital is Jakarta and the leaders are Jusuf Kalla and Joko Widodo.",
+            "Bakso is dish from Indonesia (capital Jakarta). Jusuf Kalla and Joko Widodo are political leaders in the country.",
+            "Bakso is a dish from Indonesia. The country's capital city is Jakarta and it is led by president Joko Widodo and vice president Jusuf Kalla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id24",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Ro"
+                ],
+                [
+                    "Amatriciana sauce",
+                    "country",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "leaderName",
+                    "Laura Boldrin"
+                ],
+                [
+                    "Italy",
+                    "leaderName",
+                    "Pietro Grasso"
+                ]
+            ]
+        },
+        "text": [
+            "The capital of Italy is Rome and is where Italians are from and Amatriciana is a traditional sauce. The leaders are Laura Boldrini and Pietro Grasso.",
+            "Amatriciana sauce is a traditional dish from Italy, where the capital is Rome and the leaders include Pietro Grasso and Laura Boldrini. Italians is the name given to people from Italy.",
+            "The capital city of Italy is Rome and its inhabitants are the Italians. The country is the home of the Amatriciana sauce and its led by Pietro Grasso and Laura Boldrini."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id25",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Banyumasan peo"
+                ],
+                [
+                    "Singapore",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Halimah Yacob"
+                ],
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Singapo"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ]
+            ]
+        },
+        "text": [
+            "English is spoken in Singapore where the leader is Halimah Yacob. Ayam penyet is from the Singapore region of Java where the Banyumasan people are an ethnic group.",
+            "The Banyumasan people are an ethnic group from Java, where you can find a traditional dish called Ayam penyet. The dish comes from Singapore, where the leader is Halimah Yacob and English is one of the languages spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id26",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Java",
+                    "ethnicGroup",
+                    "Banyumasan peo"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Halimah Yacob"
+                ],
+                [
+                    "Ayam penyet",
+                    "region",
+                    "Singapo"
+                ],
+                [
+                    "Singapore",
+                    "language",
+                    "Standard Chines"
+                ],
+                [
+                    "Ayam penyet",
+                    "country",
+                    "Java"
+                ]
+            ]
+        },
+        "text": [
+            "Halimah Yacob leads Singapore, where Standard Chinese is spoken and where Ayam penyet is from. This dish is a food found in Java; one of the ethnic groups there are the Banyumasan people.",
+            "The Banyumasan people are an ethnic group in Java, the country of Ayam penyet, which is also from the Singapore region. Standard Chinese is spoken in Singapore and Halimah Yacob is the leader.",
+            "Ayam penyet is a dish from the region of Java and Singapore where Standard Chinese is spoken. Halimah Yacob is the leader of Singapore and the Banyumasan people are an ethnic group from Java."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id27",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Ilocano peo"
+                ],
+                [
+                    "Philippines",
+                    "language",
+                    "Arabic"
+                ],
+                [
+                    "Philippines",
+                    "officialLanguage",
+                    "Philippine English"
+                ],
+                [
+                    "Batchoy",
+                    "country",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Igorot peo"
+                ]
+            ]
+        },
+        "text": [
+            "Philippines is the country the dish Batchoy comes from. The Ilocano and Igorot peoples are ethnic groups from the Philippines, where languages spoken include Arabic and Phillippine English.",
+            "Batchoy is eaten in the Philippines, languages spoken there include English (official language) and also Arabic. Ethnic groups there include the Ilocano and Igorot peoples."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id28",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Singapore",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Beef kway teow",
+                    "country",
+                    "Singapo"
+                ],
+                [
+                    "Beef kway teow",
+                    "region",
+                    "Nationwide in Singapore and Indonesia"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Tony Tan"
+                ],
+                [
+                    "Singapore",
+                    "leaderName",
+                    "Halimah Yacob"
+                ]
+            ]
+        },
+        "text": [
+            "Available nationwide in Indonesia and Singapore, Beef kway teow is a dish which comes from Singapore, where English is spoken. It is also where two of the leaders are Halimah Yacob and Tony Tan.",
+            "Just like in Indonesia, Beef kway teow is popular nationwide is Singapore (where it comes from). In this country, English is spoken and two of the leaders are Halimah Yacob and Tony Tan.",
+            "Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id29",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Spain",
+                    "leaderName",
+                    "Felipe VI of Spain"
+                ],
+                [
+                    "Ajoblanco",
+                    "region",
+                    "Andalusia"
+                ],
+                [
+                    "Andalusia",
+                    "leaderName",
+                    "Susana Díaz"
+                ],
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Spain",
+                    "demonym",
+                    "Spaniards"
+                ]
+            ]
+        },
+        "text": [
+            "Ajoblanco is a Spanish dish that originates Andalusia, where the leader is Susana Diaz. Felipe VI is the leader of Spain, where the people that live there are called Spaniards.",
+            "Some famous Spaniards from Spain include Felipe VI (leader of Spain) and Susana Diaz who is the leader of Andalusia where ajoblanco comes from."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Food",
+            "eid": "Id30",
+            "shape": "(X (X (X) (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Spain",
+                    "leaderName",
+                    "Felipe VI of Spain"
+                ],
+                [
+                    "Spain",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "Spain",
+                    "currency",
+                    "Euro"
+                ],
+                [
+                    "Ajoblanco",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Spain",
+                    "demonym",
+                    "Spaniards"
+                ]
+            ]
+        },
+        "text": [
+            "Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.",
+            "Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro."
+        ]
+    }
+]

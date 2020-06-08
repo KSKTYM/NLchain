@@ -1,0 +1,1231 @@
+[
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id1",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kids Imagine Nation"
+                ],
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Suburban Legends"
+                ],
+                [
+                    "Suburban Legends",
+                    "bandMember",
+                    "Brian Robertson (trombonist)"
+                ],
+                [
+                    "Aaron Bertram",
+                    "genre",
+                    "Ska punk"
+                ],
+                [
+                    "Ska punk",
+                    "stylisticOrigin",
+                    "Punk rock"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Bertram is a ska punk musician, a genre that originated from punk rock. He is an artist with Kids Imagine Nation and also plays for Suburban Legends Band. Brian Robertson plays the trombone for Suburban Legends.",
+            "Aaron Bertram plays for the Kids Imagine Nation and the Suburban Legends bands, where he performs ska punk music, a form of punk rock. Brian Robertson, a trombonist, is a band member of Suburban Legends.",
+            "Aaron Bertram plays for the Kids Imagine Nation and for the Suburban Legends, where Brian Robertson is a trombonist. Aaron Bertram's musical genre is ska, which has its origins in punk rock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Aaron Deer",
+                    "genre",
+                    "Indie rock"
+                ],
+                [
+                    "Aaron Deer",
+                    "origin",
+                    "United States"
+                ],
+                [
+                    "Aaron Deer",
+                    "associatedBand/associatedMusicalArtist",
+                    "Wee Gian"
+                ],
+                [
+                    "Aaron Deer",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Aaron Deer",
+                    "origin",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "American Aaron Deer is an Indie rock musician from Indiana. He has a background as a solo singer and was part of the band Wee Giant.",
+            "Aaron Deer comes from Indiana, having been born in the United States. He is a solo singer/ performer of the musical genre indie rock, and is an artist for the Wee Giant band.",
+            "Aaron Deer is an Indie rock soloist, formerly a member of Wee Giant. He was born in Indiana, USA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "House of Low Cultu"
+                ],
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black meta"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Mamiff"
+                ],
+                [
+                    "Aaron Turner",
+                    "instrument",
+                    "Electric guita"
+                ],
+                [
+                    "Black metal",
+                    "musicFusionGenre",
+                    "Death meta"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner is an electric guitar player for the black metal genre who has performed for House of Low Culture and Mamiffer. Death metal is a musical fusion of black metal.",
+            "Aaron Turner is a black metal musician that plays electric guitar and who performs with Mamiffer and has performed for the House of Low Culture and death metal is a musical fusion of black metal.",
+            "Black metal electric guitar player Aaron Turner performs for Mamiffer and House of Low Culture. Death metal is a fusion of black metal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Twilight (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Greymachin"
+                ],
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black meta"
+                ],
+                [
+                    "Aaron Turner",
+                    "instrument",
+                    "Electric guita"
+                ],
+                [
+                    "Black metal",
+                    "musicFusionGenre",
+                    "Death meta"
+                ]
+            ]
+        },
+        "text": [
+            "Black metal musician Aaron Turner, who plays the electric guitar, has been part of the bands Twilight and Greymachine. Black metal has a musical fusion called Death metal.",
+            "Aaron Turner plays electric guitar black metal of which death metal is a musical fusion. He played with Twilight and is associated with Greymachine.",
+            "Black metal music and electric guitarist Aaron Turner is associated with the bands Twilight and Greymachine. Death metal is a fusion of black metal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Twilight (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Lotus Eaters (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Sludge meta"
+                ],
+                [
+                    "Aaron Turner",
+                    "origin",
+                    "Massachusetts"
+                ],
+                [
+                    "Aaron Turner",
+                    "activeYearsStartYear",
+                    "1995"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner was born in Massachusetts and started performing in 1995. He formerly played with the band Twilight and is now in the Lotus Eaters. He is is closely associated with the sludge metal genre.",
+            "Aaron Turner is from Massachusetts. He is a musician who loves Sludge metal and played with the band Twilight as well as the Lotus Eaters Band, in 1995.",
+            "Massachusetts born Sludge metal musician, Aaron Turner, began performing in 1995. He has played with Twilight and has been with the Lotus Eaters band."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Abradab",
+                    "activeYearsStartYear",
+                    "1994"
+                ],
+                [
+                    "Abradab",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kaliber 44"
+                ],
+                [
+                    "Abradab",
+                    "origin",
+                    "Katowic"
+                ],
+                [
+                    "Abradab",
+                    "associatedBand/associatedMusicalArtist",
+                    "Magik (rapper)"
+                ],
+                [
+                    "Abradab",
+                    "origin",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "The musician Abradab originates from Katowice, Poland, and he started performing in 1994. He played with the band Kaliber 44 and is associated with the rapper Magik.",
+            "Abradab came from Katowice, Poland and started peforming in 1994. He played with Kaliber 44 and is associated with the rapper Magik.",
+            "Katowice, Poland born Abradab began performing in 1994 and is associated with Magik and Kaliber 44."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Ace Wilder",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Ace Wilder",
+                    "birthYear",
+                    "1982"
+                ],
+                [
+                    "Ace Wilder",
+                    "occupation",
+                    "Singing"
+                ],
+                [
+                    "Ace Wilder",
+                    "birthPlace",
+                    "Sweden"
+                ],
+                [
+                    "Ace Wilder",
+                    "birthDate",
+                    "1982-07-23"
+                ]
+            ]
+        },
+        "text": [
+            "Ace Wilder has a musical background as a solo singer was born on July 23rd, 1982, in Sweden.",
+            "Solo singer Ace Wilder was born on July 23, 1982 in the country of Sweden.",
+            "Ace Wilder's occupation is a solo singer. He was born in Sweden on 23 July 1982."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Agustín Barboza",
+                    "birthPlace",
+                    "Paraguay"
+                ],
+                [
+                    "Paraguay",
+                    "ethnicGroup",
+                    "Mestizo"
+                ],
+                [
+                    "Agustín Barboza",
+                    "birthPlace",
+                    "Asunción"
+                ],
+                [
+                    "Paraguay",
+                    "leaderName",
+                    "Juan Afara"
+                ],
+                [
+                    "Paraguay",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Agustin Barboza was born in Asuncion, Paraguay and he is ethnic mestizo. Spanish is the official language of Paraguay and Juan Afara is the leader of the country.",
+            "Agustin Barboza was born in Asuncion, Paraguay where the ethnic group are called Mestizo. The country's leader is Juan Afara and uses the Spanish language.",
+            "Agustin Barboza was born in, Spanish speaking, Asuncion, Paraguay. Paraguay is also home to the Mestizo people and is led by Juan Afara."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id9",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Ahmet Ertegun",
+                    "deathPlace",
+                    "United States"
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Rhythm and blues",
+                    "stylisticOrigin",
+                    "Blues"
+                ],
+                [
+                    "Rhythm and blues",
+                    "derivative",
+                    "Disco"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Disco derives from rhythm and blues which originated from the blues. Rhythm and blues is the musical genre of Ahmet Ertegun who died in the United States where the African Americans are an ethnic group.",
+            "Ahmet Ertegun in a rhythm and blues musician who died in the US where African Americans are an ethnic group. Disco is a derivative of rhythm and blues which was itself derived from blues music.",
+            "Rhythm and blues (origins of disco) artist Ahmet Ertegun died in the United States. The United States is home to African Americans. R &amp; B has its origins in Blues."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Ahmet Ertegun",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "birthYear",
+                    "1923"
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "origin",
+                    "Washington, D.C."
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "origin",
+                    "United States"
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "background",
+                    "non performing personnel"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmet Ertegun is a rhythm and blues artist whose background is non performing personnel, and was born 1923, in Washington D.C., the United States.",
+            "Born in 1923, Ahmet Ertegun is from Washington D.C., in the United States. Ertegun has a background as a non performing personnel and his musical genre is Rhythm and Blues.",
+            "Born in Washington, DC, U.S.A. (1923), Ahmet Ertegun genre is rhythm and blues, although his background is non performing."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alan Frew",
+                    "genre",
+                    "Rock music"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Country music"
+                ],
+                [
+                    "Alan Frew",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Blues"
+                ],
+                [
+                    "Rock music",
+                    "musicFusionGenre",
+                    "Bhangra (music)"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Frew, whose musical genre is Rock music, has a background as a solo singer. Rock music originated from country music and has its stylistic origins in the Blues. A musical fusion of rock music is bhangra music.",
+            "Singer Alan Frew is a rock musician. Rock originates from the blues and country music while lending itself to Bhangra fusion.",
+            "Singer Alan Frew is a rock musician. Rock has its origins in country and blues while influencing bhangra."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Alan Frew",
+                    "occupation",
+                    "Musician"
+                ],
+                [
+                    "Alan Frew",
+                    "origin",
+                    "Canada"
+                ],
+                [
+                    "Alan Frew",
+                    "birthPlace",
+                    "Coatbridg"
+                ],
+                [
+                    "Alan Frew",
+                    "origin",
+                    "Newmarket, Ontario"
+                ],
+                [
+                    "Alan Frew",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Frew, who is from Newmarket, Ontario, Canada, was born in Coatbridge. He is a musician and solo singer.",
+            "Alan Frew is from Coatbridge, Newmarket, Ontario, Canada and he is a musician and solo singer.",
+            "Singer Alan Frew was born in Coatbridge but is from Newmarket, Ontario, Canada."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Alex Day",
+                    "associatedBand/associatedMusicalArtist",
+                    "Chameleon Circuit (band)"
+                ],
+                [
+                    "Alex Day",
+                    "genre",
+                    "Electronic music"
+                ],
+                [
+                    "Alex Day",
+                    "birthPlace",
+                    "London Borough of Havering"
+                ],
+                [
+                    "Alex Day",
+                    "associatedBand/associatedMusicalArtist",
+                    "Charlie McDonn"
+                ],
+                [
+                    "Alex Day",
+                    "activeYearsStartYear",
+                    "2006"
+                ]
+            ]
+        },
+        "text": [
+            "Born in the London Borough of Havering, Alex Day, started performing in 2006. He plays with the band Chameleon Circuit and performs electronic music. Alex Day is associated with the musical artist Charlie McDonnell.",
+            "Alex Day was born in the London Borough of Havering and became active in electronic music in 2006. He plays with Chameleon circuit and is associated with Charlie McDonnell.",
+            "Electronic musician Alex Day was born in the London Borough of Havering. He began his active career in 2006 and is associated with artists Charlie McDonnell and the Chameleon Circuit."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id14",
+            "shape": "(X (X) (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "Sidcu"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "London"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "birthPlace",
+                    "Manches"
+                ],
+                [
+                    "Manchester",
+                    "leaderName",
+                    "Labour Party (UK)"
+                ],
+                [
+                    "London",
+                    "leaderTitle",
+                    "European Parliamen"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Garth Jones was born in Manchester and died in Sidcup, London. The leader of London is the European Parliament, and the leader of Manchester is The Labour Party (UK).",
+            "Alfred Garth Jones was born in Manchester and passed away in Sidcup, London. The Labour Party is the leader of Manchester. The European parliament is the leader of London.",
+            "Alfred Garth Jones was born in Manchester and died in Sidcup, London (led by the European Parliament). Manchester is led the Labour Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id15",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "recordLabel",
+                    "RCA Records"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "associatedBand/associatedMusicalArtist",
+                    "Ciro Pérez"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "associatedBand/associatedMusicalArtist",
+                    "Héctor Numa Moraes"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "genre",
+                    "Zamba (artform)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa performs Zamba music and has a background as a solo singer. He was signed to the RCA Records label, and has been associated with the musicians Ciro Pérez and Héctor Numa Moraes.",
+            "Alfredo Zitarrosa recorded his songs with the RCA Records Label. Alfredo's background is solo singing in the zamba style. Ciro Perez and Hector Numa Moraes are musicians associated with Alfredo Zitarrosa.",
+            "Alfredo Zitarrosa is a Zamba solo singer associated with Ciro Perez and Hector Numa Moraes. He is signed to RCA records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Alison O'Donnell",
+                    "associatedBand/associatedMusicalArtist",
+                    "Flibbertigibb"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "associatedBand/associatedMusicalArtist",
+                    "Mellow Cand"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "genre",
+                    "Folk music of Ireland"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "recordLabel",
+                    "Static Caravan Recordings"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "activeYearsStartYear",
+                    "1963"
+                ]
+            ]
+        },
+        "text": [
+            "Alison O'Donnell began her music career in 1963. She has been a member of Flibbertigibbet and Mellow Candle Bands. She is a Irish folk singer signed to the Static Caravan record label.",
+            "Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle. She became active in 1963 and is signed to Static Caravan Recordings."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id17",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Billy Iuso"
+                ],
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Tab Beno"
+                ],
+                [
+                    "Anders Osborne",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Voice of the Wetlands All-Stars"
+                ],
+                [
+                    "Anders Osborne",
+                    "activeYearsStartYear",
+                    "1989"
+                ]
+            ]
+        },
+        "text": [
+            "Anders Osborne's musical career began in 1989. His genre is Rhythm and blues and he is associated with the musical artists Billy Iuso and Tab Benoit. Anders Osborne is also associated with the band, Voice of the Wetlands All-Stars.",
+            "Anders Osborne started his musical performing in 1989, where he met musical artists Tab Benoit and Billy Iuso, with the band Voice of the Wetlands All-Stars. A. Osborne performs in the rhythm and blues style.",
+            "Anders Osborne started performing in 1989. His genre is rhythm and blues. He has worked with Tab Benoit and is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Johnny Sanson"
+                ],
+                [
+                    "Anders Osborne",
+                    "occupation",
+                    "Guitaris"
+                ],
+                [
+                    "Anders Osborne",
+                    "recordLabel",
+                    "Okeh Records"
+                ],
+                [
+                    "Anders Osborne",
+                    "genre",
+                    "Rock music"
+                ],
+                [
+                    "Rock music",
+                    "musicFusionGenre",
+                    "Bhangra (music)"
+                ]
+            ]
+        },
+        "text": [
+            "Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Okeh records. Bhangra is a musical fusion of rock music.",
+            "Rock guitarist Anders Osborne is signed with Okeh Records and is associated with musician Johnny Sansone. Bhangra is a fusion of rock music.",
+            "Rock guitarist Anders Osborne is signed with Okeh Records and is associated with artist Johnny Sansone. Bhangra is fusion of rock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Andra (singer)",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Andra (singer)",
+                    "birthYear",
+                    "1986"
+                ],
+                [
+                    "Andra (singer)",
+                    "occupation",
+                    "Singing"
+                ],
+                [
+                    "Andra (singer)",
+                    "birthPlace",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "Solo singer, Andra, was born in 1986, in Romania. Andra is a rhythm and blues singer whose occupation is singing.",
+            "The singer Andra was born in Romania in 1986 and performs rhythm and blues as a solo artist.",
+            "The Rhythm and blues solo singer musician Andra, was born 1986, in Romania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Andra (singer)",
+                    "birthYear",
+                    "1986"
+                ],
+                [
+                    "Andra (singer)",
+                    "occupation",
+                    "Singing"
+                ],
+                [
+                    "Andra (singer)",
+                    "birthPlace",
+                    "Câmpia Turz"
+                ],
+                [
+                    "Andra (singer)",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Singer, Andra, in Câmpia, Turzii, in 1986. With a carrer in singing, Andra is a solo singer, who performs rhythm and blues music.",
+            "Andra was born in Campia Turzii in 1986. She began her career as a solo singer and sings for a living in the genre Rhythm and blues.",
+            "Andra is a solo rhythm and blues singer who was born in 1986 in Campia Turzii."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Christian Burns"
+                ],
+                [
+                    "Andrew Rayel",
+                    "genre",
+                    "Trance music"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Armin van Buuren"
+                ],
+                [
+                    "Andrew Rayel",
+                    "birthPlace",
+                    "Chișinău, Moldova"
+                ],
+                [
+                    "Andrew Rayel",
+                    "activeYearsStartYear",
+                    "2009"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew Rayel, who was born in Chisinau, Moldova, started his career in 2009 and his musical genre is trance music. He is associated with Christian Burns and Armin van Buuren.",
+            "Andrew Rayel was born in Chisinau, Moldova. He's an associate of Armin van Buuren and Christian Burns. Mr Rayel's musical genre is Trance which he started in 2009.",
+            "Andrew Rayel was born in Chisinau, Moldova. He began his musical career in 2009 and has performed the genre of Trance music. He is associated with the musical artist Armin van Buuren and with Christian Burns."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Andrew White (musician)",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kaiser Chiefs"
+                ],
+                [
+                    "Andrew White (musician)",
+                    "associatedBand/associatedMusicalArtist",
+                    "Marry Banilow"
+                ],
+                [
+                    "Andrew White (musician)",
+                    "recordLabel",
+                    "B-Unique Records"
+                ],
+                [
+                    "Andrew White (musician)",
+                    "recordLabel",
+                    "Polydor Records"
+                ],
+                [
+                    "Andrew White (musician)",
+                    "activeYearsStartYear",
+                    "2003"
+                ]
+            ]
+        },
+        "text": [
+            "The musician Andrew White is part of the Kaiser Chiefs and is signed to the record label B-Unique Records and Polydor Records. He started his musical career in 2003 and was associated with Marry Banilow.",
+            "B-Unique Records and Polydor Records artist Andrew White began in 2003 and is associated with the Kaiser Chiefs and artist Marry Banilow.",
+            "B-Unique Records and Polydor Recording artist Andrew White began his career in 2003. He is associated with the Kaiser Chiefs and Marry Banilow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Christian Burns",
+                    "genre",
+                    "House music"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Bobina"
+                ],
+                [
+                    "Andrew Rayel",
+                    "instrument",
+                    "String instrumen"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Christian Burns"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew Rayel wad a string instrumentalist who is associated with Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, house musician Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.",
+            "String instrumentalist Andrew Rayel is associated with the musical artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.",
+            "String instrumentalist Andrew Rayel is associated with: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id24",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Hip hop music",
+                    "stylisticOrigin",
+                    "Disco"
+                ],
+                [
+                    "Allen Forrest",
+                    "birthDate",
+                    "1981-02-04"
+                ],
+                [
+                    "Allen Forrest",
+                    "genre",
+                    "Hip hop music"
+                ],
+                [
+                    "Hip hop music",
+                    "stylisticOrigin",
+                    "Funk"
+                ],
+                [
+                    "Hip hop music",
+                    "derivative",
+                    "Drum and bass"
+                ]
+            ]
+        },
+        "text": [
+            "Allen Forrest is a hip hop artist who was born on February 4, 1981. Hip hop music originated from disco and funk music, and Drum and bass derives its sounds from hip hop music.",
+            "Allen Forrest, whose musical genre is hip hop music, date of birth is 04th February 1981. Hip Hop music has its origins in Funk and Disco. Drum and bass derives its sounds from hip hop music.",
+            "Allen Forrest was born on February 4, 1981 and plays Hip Hop music which has its origins in Disco music. Hip hop came from funk music and Drum and Bass music is derived from Hip Hop."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id25",
+            "shape": "(X (X) (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Paraguay",
+                    "ethnicGroup",
+                    "Mestizo"
+                ],
+                [
+                    "Agustín Barboza",
+                    "birthPlace",
+                    "Asunción"
+                ],
+                [
+                    "Paraguay",
+                    "leaderName",
+                    "Juan Afara"
+                ],
+                [
+                    "Agustín Barboza",
+                    "deathPlace",
+                    "Paraguay"
+                ],
+                [
+                    "Paraguay",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Agustin Barboza was born in Asuncion, in Paraguay. The country which has an ethnic group called the Mestizo. it is also the country where Spanish is spoken and which is led by Juan Afara.",
+            "Agustin Barboza was born in Asuncion, Paraguay where the people speak Spanish. Juan Afara leads the country and an ethnic group in Paraguay are the Mestizo people.",
+            "Agustin Barboza was born in Spanish speaking Asuncion, Paraguay, home of the Mestizo. Paraguay is led by Juan Afara."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id26",
+            "shape": "(X (X (X)) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Paraguay",
+                    "ethnicGroup",
+                    "Mestizo"
+                ],
+                [
+                    "Agustín Barboza",
+                    "deathPlace",
+                    "Asunción"
+                ],
+                [
+                    "Asunción",
+                    "isPartOf",
+                    "Gran Asunción"
+                ],
+                [
+                    "Paraguay",
+                    "leaderName",
+                    "Juan Afara"
+                ],
+                [
+                    "Agustín Barboza",
+                    "birthPlace",
+                    "Paraguay"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Paraguay is called Juan Afara, and one ethnic group is the Mestizo people. Agustin Barboza was born in Paraguay and died in Asunción, a part of Gran Asunción.",
+            "Agustin Barboza was born in Paraguay and died in Asuncion which is part of Gran Asunción. Juan Afara is the country's leader and the Mestizo are among the ethnic groups in Paraguay.",
+            "Agustin Barboza was born in Paraguay, led by Juan Afara. The Mestizo ethnic group is one of the ethnic groups in Paraguay. Agustin died in Asuncion, Gran Asunción."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id27",
+            "shape": "(X (X) (X (X) (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Rock music",
+                    "musicFusionGenre",
+                    "Bhangra (music)"
+                ],
+                [
+                    "Al Anderson (NRBQ band)",
+                    "instrument",
+                    "Guita"
+                ],
+                [
+                    "Al Anderson (NRBQ band)",
+                    "genre",
+                    "Rock music"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Country music"
+                ],
+                [
+                    "Country music",
+                    "stylisticOrigin",
+                    "Blues"
+                ]
+            ]
+        },
+        "text": [
+            "Al Anderson plays the guitar in the rock music band NRBQ. Rock music originated from country music, which originated from blues music; The music Bhangra is part of the fusion genre, partly coming from Rock music.",
+            "Al Anderson plays the guitar for rock band NRBQ. Rock comes from country music which originates from blues. Bhangra music is a musical fusion of rock music.",
+            "Rock guitarist AI Anderson is a member of NRBQ. Rock originates from rock which has its origins in country which derives from the blues. Bhangra is a rock fusion."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id28",
+            "shape": "(X (X) (X) (X (X (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Twilight (band)",
+                    "genre",
+                    "Black meta"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Twilight (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "House of Low Cultu"
+                ],
+                [
+                    "Aaron Turner",
+                    "instrument",
+                    "Electric guita"
+                ],
+                [
+                    "Black metal",
+                    "musicFusionGenre",
+                    "Death meta"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner plays the electric guitar and performed with Twilight, a black metal band, and House of Low Culture. Black metal is an element of the fusion genre death metal.",
+            "Aaron Turner is an electric guitarist who has performed with House of Low Culture and the black metal band Twilight. Black metal is an element of the fusion genre death metal.",
+            "Electric guitarist Aaron Turner has played with black metal band Twilight and with House of Low Culture. Death metal is a fusion of black metal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id29",
+            "shape": "(X (X (X) (X (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Uruguay",
+                    "leaderName",
+                    "Raúl Fernando Sendic Rodríguez"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "deathPlace",
+                    "Montevideo"
+                ],
+                [
+                    "Montevideo",
+                    "country",
+                    "Uruguay"
+                ],
+                [
+                    "Montevideo",
+                    "leaderName",
+                    "Daniel Martínez (politician)"
+                ],
+                [
+                    "Uruguay",
+                    "language",
+                    "Spanish languag"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa died in Montevideo, Uruguay. Daniel Martinez is a political leader in Montevideo, and Raul Fernando Sendic Rodriguez is a leader in Uruguay, where Spanish is spoken.",
+            "Alfredo Zitarrosa died in Montevideo, the leader of which, is Daniel Martinez. Montevideo is in Uruguay, where Spanish is the language and where Raúl Fernando Sendic Rodríguez is the leader.",
+            "Raúl Fernando Sendic Rodríguez is the leader of Spanish speaking, Uruguay. Daniel Martinez is the leader of Montevideo, the final resting place of Alfredo Zitarrosa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id30",
+            "shape": "(X (X (X) (X (X) (X))))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Uruguay",
+                    "leaderName",
+                    "Tabaré Vázquez"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "deathPlace",
+                    "Montevideo"
+                ],
+                [
+                    "Montevideo",
+                    "country",
+                    "Uruguay"
+                ],
+                [
+                    "Uruguay",
+                    "demonym",
+                    "Uruguayans"
+                ],
+                [
+                    "Montevideo",
+                    "leaderName",
+                    "Daniel Martínez (politician)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa died in Montevideo in Uruguay whose leader is Tabare Vazquez. Another politician in Montevideo is Daniel Martinez. Uruguayans live in Uruguay.",
+            "Montevideo, Uruguay is the final resting place of Alfredo Zitarrosa. Montevideo is led by Daniel Martínez and Tabaré Vázquez. It is home to the Uruguayans.",
+            "Montevideo, Uruguay is led by Daniel Martinez and Tabaré Vázquez. It is the home to Uruguayans and the place of death for Alfredo Zitarrosa."
+        ]
+    }
+]

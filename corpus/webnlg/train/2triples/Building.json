@@ -1,0 +1,4386 @@
+[
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "architect",
+                    "John Madin"
+                ],
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row, Birmingham, England"
+                ]
+            ]
+        },
+        "text": [
+            "Architect John Madin, designed 103 Colmore Row, located on Colmore Row, in Birmingham, England.",
+            "John Madin designed 103 Colmore Row, Birmingham, England.",
+            "103 Colmore Row located in Birmingham, England was designed by the architect John Madin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "architect",
+                    "John Madin"
+                ],
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row, located at Colmore Row, was designed by the architect, John Madin.",
+            "John Madin is the architect of 103 Colmore Row, located in Colmore Row.",
+            "Architect John Madin designed 103 Colmore Row, located at Colmore Row."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "architect",
+                    "John Madin"
+                ],
+                [
+                    "John Madin",
+                    "birthPlace",
+                    "Birmingham"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row was designed by John Madin, born in Birmingham.",
+            "103 Colmore Row was designed by the architect John Madin who was born in Birmingham.",
+            "Architect John Madin, born in Birmingham, designed 103 Colmore Row."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "architect",
+                    "John Madin"
+                ],
+                [
+                    "John Madin",
+                    "hometown",
+                    "Birmingham"
+                ]
+            ]
+        },
+        "text": [
+            "John Madin was an architect from Birmingham who designed 103 Colmore Row.",
+            "103 Colmore Row was designed by the architect John Madin whose hometown was Birmingham.",
+            "John Madin from Birmingham was the architect of 103 Colmore Row."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "completionDate",
+                    "1976"
+                ],
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row at Colmore Row was completed in 1976.",
+            "103 Colmore Row was completed in 1976.",
+            "Number 103 in Colmore Row was completed in 1976."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "floorCount",
+                    "23"
+                ],
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row actually on Colmore Row has 23 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Colmore Row, Birmingham, England"
+                ],
+                [
+                    "103 Colmore Row",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "There are 23 floors at 103 Colmore Row, Birmingham, England.",
+            "103 Colmore Row is in Birmingham, England and has 23 floors.",
+            "103 Colmore Row with 23 floors, is located on Colmore Row, Birmingham, England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Birmingham"
+                ],
+                [
+                    "103 Colmore Row",
+                    "architect",
+                    "John Madin"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row, designed by the architect John Madin is located in Birmingham.",
+            "103 Colmore Row, designed by architect John Madin, is located in Birmingham.",
+            "103 Colmore Row is located in Birmingham and was designed by the architect John Madin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "103 Colmore Row",
+                    "location",
+                    "Birmingham"
+                ],
+                [
+                    "103 Colmore Row",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "103 Colmore Row, Birmingham is a building with 23 floors.",
+            "103 Colmore Row, with 23 floors, is located in Birmingham.",
+            "103 Colmore Row, located in Birmingham has 23 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "cost",
+                    "120 million (Australian dollars)"
+                ],
+                [
+                    "108 St Georges Terrace",
+                    "floorCount",
+                    "50"
+                ]
+            ]
+        },
+        "text": [
+            "108 St Georges Terrace cost 120 million Australian dollars and has 50 floors.",
+            "108 St Georges Terrace has 50 floors and cost 120 million Australian dollars."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id11",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "108 St Georges Terrace",
+                    "location",
+                    "Perth"
+                ],
+                [
+                    "Perth",
+                    "country",
+                    "Australia"
+                ]
+            ]
+        },
+        "text": [
+            "108 St. Georges Terrace is located in Perth, Australia.",
+            "The 108 St. Georges Terrace is located in Perth, Australia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "completionDate",
+                    "1983"
+                ],
+                [
+                    "11 Diagonal Street",
+                    "architect",
+                    "Helmut Jahn"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of 11 Diagonal Street, completed in 1983, was Helmut Jahn.",
+            "Completed in 1983, the architect of 11 Diagonal Street was Helmut Jahn.",
+            "11 Diagonal Street was designed by Helmut Jahn and completed in 1983."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "completionDate",
+                    "1983"
+                ],
+                [
+                    "11 Diagonal Street",
+                    "floorCount",
+                    "20"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street has 20 floors and was completed in 1983.",
+            "11 Diagonal Street was completed in 1983 and has 20 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "floorCount",
+                    "20"
+                ],
+                [
+                    "11 Diagonal Street",
+                    "architect",
+                    "Helmut Jahn"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street has 20 floors and was designed by Helmut Jahn.",
+            "11 Diagonal Street has 20 floors and its architect is Helmut Jahn."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "floorCount",
+                    "20"
+                ],
+                [
+                    "11 Diagonal Street",
+                    "owner",
+                    "Redefine Properties Limited"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street has 20 floors and is owned by Redefine Properties Limited.",
+            "11 Diagonal Street, which is owned by Redefine Properties Limited, has 20 floors.",
+            "11 Diagonal Street which has 20 floors is owned by Redefine Properties Ltd."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id16",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "capital",
+                    "Cape Town"
+                ]
+            ]
+        },
+        "text": [
+            "Cape Town is the capital of South Africa where 11 Diagonal Street is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "Asian South Africans"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is located in South Africa, where there is an ethnic group of Asian South Africans.",
+            "11 Diagonal Street is found in South Africa where one of the ethnic groups is Asian South Africans.",
+            "There is an ethnic group of Asian South Africans and the address 11 Diagonal Street is also located in South Africa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "White South African"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is located in South Africa where white South Africans are an ethnic group.",
+            "The address, 11 Diagonal Street is located in South Africa where White South Africans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Cyril Ramaphosa"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is located in South Africa, which has Cyril Ramaphosa as a leader.",
+            "11 Diagonal Street is located in South Africa, a country led by Cyril Ramaphosa.",
+            "The address, 11 Diagonal Street is located in South Africa, the country that has Cyril Ramaphosa as one of its leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id20",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "leaderName",
+                    "Jacob Zuma"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is located in South Africa, where the leader is called Jacob Zuma.",
+            "Jacob Zuma is the leader of South Africa which is also the location of 11 Diagonal Street.",
+            "The address, 11 Diagonal Street is located in South Africa, which is led by Jacob Zuma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "floorCount",
+                    "45"
+                ],
+                [
+                    "200 Public Square",
+                    "completionDate",
+                    "1985"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square, completed in 1985, has a floor count of 45.",
+            "200 Public Square finished in 1985 has 45 floors.",
+            "200 Public Square was completed in 1985 and has 45 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "floorCount",
+                    "45"
+                ],
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland, Ohio 44114"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square, which has 45 floors, is located in Cleveland, Ohio 44114.",
+            "There are 45 floors of 200 Public Square in Cleveland, Ohio, 44114.",
+            "200 Public Square, which has a floor count of 45, is located in Cleveland, Ohio 44114."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id23",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "Cleveland",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public square is in Cleveland, USA.",
+            "200 Public Square is located in Cleveland, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id24",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "Cleveland",
+                    "governingBody",
+                    "Cleveland City Council"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is in Cleveland, governed by Cleveland City Council.",
+            "200 Public Square is located in Cleveland whose governing body is Cleveland City Council.",
+            "200 Public Square is in Cleveland which is governed by Cleveland City Council."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id25",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "Cleveland",
+                    "isPartOf",
+                    "Cuyahoga County, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is located in Cleveland, Cuyahoga County, Ohio.",
+            "200 Public square is in Cleveland, which is part of Cuyahoga County, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id26",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "Cleveland",
+                    "isPartOf",
+                    "Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is found in Cleveland, Ohio.",
+            "200 Public Square is located in Cleveland, Ohio.",
+            "200 Public Square is in Cleveland, Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id27",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "Cleveland",
+                    "leaderName",
+                    "Frank G. Jackson"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public square is in Cleveland which is led by Frank G Jackson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id28",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Public Square, Cleveland"
+                ],
+                [
+                    "200 Public Square",
+                    "floorCount",
+                    "45"
+                ]
+            ]
+        },
+        "text": [
+            "200 Public Square is located at Public Square, Cleveland and has a floor count of 45.",
+            "200 Public Square has 45 floors and is located in Public Square, Cleveland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id29",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "buildingStartDate",
+                    "January 2009"
+                ],
+                [
+                    "20 Fenchurch Street",
+                    "floorArea",
+                    "62145.3 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street has a floor area of 62145.3 square metres and was begun in January 2009.",
+            "Construction of 20 Fenchurch Street began in January 2009 and the building has a floor area of 62145.3 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id30",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "completionDate",
+                    "April 2014"
+                ],
+                [
+                    "20 Fenchurch Street",
+                    "floorArea",
+                    "62145.3 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square meters.",
+            "20 Fenchurch Street, with a floor area of 62145.3 square metres, was completed in April of 2014.",
+            "20 Fenchurch Street was completed in April 2014 and has a floor area of 62145.3 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id31",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "completionDate",
+                    "April 2014"
+                ],
+                [
+                    "20 Fenchurch Street",
+                    "floorCount",
+                    "34"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street, which has a floor count of 34, was completed in April 2014.",
+            "20 Fenchurch Street was completed in April 2014, and has 34 floors.",
+            "20 Fenchurch Street, with 34 floors, was completed April 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id32",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "London"
+                ],
+                [
+                    "London",
+                    "leaderName",
+                    "Boris Johnson"
+                ]
+            ]
+        },
+        "text": [
+            "Boris Johnson is the leader of London, the city where 20 Fenchurch Street is located.",
+            "The leader of London is Boris Johnson and is home to 20 Fenchurch Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id33",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "London"
+                ],
+                [
+                    "London",
+                    "leaderTitle",
+                    "Parliament of the United Kingdom"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street is located in London whose leader is the Parliament of the United Kingdom.",
+            "20 Fenchurch Street is located in London, which is led by the parliament of the United Kingdom.",
+            "The Parliament of the United Kingdom is the leader of London, the city in which 20 Fenchurch Street is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id34",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "United Kingdom"
+                ],
+                [
+                    "United Kingdom",
+                    "currency",
+                    "Pound sterling"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street is located within the United Kingdom, where the currency is pounds sterling.",
+            "20 Fenchurch Street is located in the United Kingdom, whose currency is the Pound sterling.",
+            "The pound sterling is the currency of the United Kingdom, which is also the location of 20 Fenchurch Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id35",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "United Kingdom"
+                ],
+                [
+                    "United Kingdom",
+                    "demonym",
+                    "British people"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street is located in the United Kingdom where we call the natives British people.",
+            "20 Fenchurch Street is in the United Kingdom where the demonym for natives is British people.",
+            "20 Fenchurch Street is located in the United Kingdom which is occupied by British People which is the demonym for the natives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id36",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "United Kingdom"
+                ],
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "Elizabeth 11 is a leader in the United Kingdom and 20 Fenchurch Street is also located in the United Kingdom.",
+            "20 Fenchurch Street is located in the United Kingdom whose leader is Elizabeth II.",
+            "20 Fenchurch Street is located in the United Kingdom, where Queen Elizabeth II reigns."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id37",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "buildingStartDate",
+                    "January, 2014"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "floorCount",
+                    "12"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Ave. was begun in January 2014 and has 12 floors.",
+            "The construction of 250 Delaware Avenue, which has 12 floors, began in January 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id38",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "floorArea",
+                    "30843.8 (square metres)"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "floorCount",
+                    "12"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue has a floor area of 30843.8 square metres and has 12 floors.",
+            "250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.",
+            "250 Delaware Avenue has a floor area of 30843.8 square metres and a floor count of 12."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id39",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "architecturalStyle",
+                    "Postmodern architecture"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is in Buffalo, New York, and it has the Postmodern style of architecture.",
+            "250 Delaware Ave. in Buffalo, N.Y. is a Postmodern style."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id40",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "floorArea",
+                    "30843.8 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue, Buffalo, New York, has a floor area of 30843.8 square metres.",
+            "250 Delaware Avenue is located in Buffalo, New York, and has a floor area of 30843.8 square metres.",
+            "250 Delaware Avenue has a floor area of 30843.8 square metres and is located in Buffalo, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id41",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "floorCount",
+                    "12"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue has a floor count of 12 and is located in Buffalo New York.",
+            "250 Delaware Avenue is a location in Buffalo, New York, with a floor count of 12.",
+            "250 Delaware Avenue is in Buffalo, New York and has 12 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id42",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "Buffalo, New York",
+                    "isPartOf",
+                    "Erie County, New York"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is in Buffalo, New York which is in Erie County New York.",
+            "250 Delaware Avenue is located in Buffalo, New York, which is part of Erie County New York.",
+            "250 Delaware Avenue is in Buffalo, New York, which is part of Erie County New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id43",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "Buffalo, New York",
+                    "isPartOf",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is a location in Buffalo, New York, New York State.",
+            "250 Delaware Avenue is in Buffalo which is part of New York.",
+            "250 Delaware Avenue is located in Buffalo which is a part of New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id44",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "Buffalo, New York"
+                ],
+                [
+                    "Buffalo, New York",
+                    "leaderName",
+                    "Byron Brown"
+                ]
+            ]
+        },
+        "text": [
+            "Byron Brown is the leader of Buffalo, New York, where 250 Delaware Avenue is located.",
+            "250 Delaware Avenue is in Buffalo, New York, where Byron Brown is the leader.",
+            "250 Delaware Avenue is in Buffalo, New York, which is led by Byron Brown."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id45",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "architecturalStyle",
+                    "Postmodern architecture"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue has the Postmodern style of architecture and is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id46",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "floorCount",
+                    "12"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue has 12 floors and is located in the United States.",
+            "250 Delaware Avenue (which has a total of 12 floors) is located in the United States.",
+            "250 Delaware Avenue is located in the United States and has a floor count of 12."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id47",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "floorCount",
+                    "60"
+                ],
+                [
+                    "300 North LaSalle",
+                    "completionDate",
+                    "2009"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle has 60 floors and was completed in 2009.",
+            "There are 60 floors at 300 North LaSalle, a building that was completed in 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id48",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "300 North LaSalle",
+                    "architect",
+                    "Pickard Chilton"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Chicago and was designed by Pickard Chilton.",
+            "Pickard Chilton was the architect of 300 North LaSalle in Chicago.",
+            "Pickard Chilton is the architect of 300 North LaSalle in Chicago."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id49",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Chicago, United States.",
+            "300 North LaSalle is located in Chicago, in the United States.",
+            "300 North LaSalle is located in Chicago, US."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id50",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "isPartOf",
+                    "Cook County, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Cook County, Chicago, Illinois.",
+            "300 North LaSalle is in Chicago in Cook County, Illinois.",
+            "300 North LaSalle is located in Chicago which is part of Cook County, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id51",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "isPartOf",
+                    "DuPage County, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is in Chicago part of DuPage County in Illinois.",
+            "300 North LaSalle is located in Chicago, which is part of DuPage County, Illinois.",
+            "300 North LaSalle is located in Chicago, which is a part of Dupage County, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id52",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "isPartOf",
+                    "Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is in Chicago, in the State of Illinois.",
+            "300 North LaSalle is located in Chicago, Illinois.",
+            "300 North LaSalle is located in Chicago which is part of Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id53",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "leaderName",
+                    "Rahm Emanuel"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Chicago which is led by Rahm Emanuel.",
+            "300 North LaSalle is located in Chicago, whose leader is called Rahm Emanuel.",
+            "300 North LaSalle is located in Chicago where Rahm Emanuel is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id54",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Chicago"
+                ],
+                [
+                    "Chicago",
+                    "leaderName",
+                    "Susana Mendoza"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Chicago where Susana Mendoza is a leader.",
+            "The leader of Chicago is Susana Mendoza and 300 North LaSalle is also located in that city.",
+            "300 North LaSalle is located in Chicago, which is led by Susana Mendoza."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id55",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Illinois"
+                ],
+                [
+                    "300 North LaSalle",
+                    "architect",
+                    "Pickard Chilton"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of 300 North Lasalle located in Illinois was Pickard Chilton.",
+            "Pickard Chilton is the architect of 300 North LaSalle which is in Illinois.",
+            "The architect of 300 North LaSalle, Illinois is Pickard Chilton."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id56",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Illinois"
+                ],
+                [
+                    "300 North LaSalle",
+                    "completionDate",
+                    "2009"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle, Illinois, was completed in 2009.",
+            "300 North Lasalle was completed in 2009 and is located in Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id57",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Illinois"
+                ],
+                [
+                    "Illinois",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "300 North LaSalle is located in Illinois in the United States.",
+            "300 North LaSalle is in Illinois, United States.",
+            "300 North LaSalle is in Illinois which is a state in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id58",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "320 South Boston Building",
+                    "completionDate",
+                    "1929"
+                ],
+                [
+                    "320 South Boston Building",
+                    "floorCount",
+                    "22"
+                ]
+            ]
+        },
+        "text": [
+            "Completed in 1929, 320 South Boston Building has 22 floors.",
+            "320 South Boston Building was completed in 1929 and has 22 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id59",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "320 South Boston Building",
+                    "height",
+                    "121.92 (metres)"
+                ],
+                [
+                    "320 South Boston Building",
+                    "floorCount",
+                    "22"
+                ]
+            ]
+        },
+        "text": [
+            "The 320 South Boston Building is 121.92 metres tall and has 22 floors.",
+            "The 320 South Boston Building has a height of 121.92 metres and has 22 floors.",
+            "The 320 South Boston Building is 121.92 metres and has 22 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id60",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "architect",
+                    "HOK SVE"
+                ],
+                [
+                    "3Arena",
+                    "completionDate",
+                    "December 2008"
+                ]
+            ]
+        },
+        "text": [
+            "HOK SVE was the architect of the 3Arena, and it was completed in December 2008.",
+            "HOK SVE was the architect of 3Arena which was completed in December 2008.",
+            "3Arena, designed by HOK SVE, was completed in December 2008."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id61",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "architect",
+                    "Populous (company)"
+                ],
+                [
+                    "3Arena",
+                    "completionDate",
+                    "December 2008"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena was completed on December 2008 and its architect was the company Populous.",
+            "The 3Arena was completed in December 2008 and was designed by the company Populous."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id62",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "architect",
+                    "Populous (company)"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena is located at North Wall, Dublin and the architect was the company Populous.",
+            "Populous were architects that designed the 3Arena that is in North Wall, Dublin.",
+            "Populous is the architect of 3Arena located at North Wall, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id63",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "East Link Bridge"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "Populous (company)"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena, designed by the company Populous, is located at East Link Bridge.",
+            "Populous were the architects of the 3Arena at East Link Bridge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id64",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall Quay"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "HOK SVE"
+                ]
+            ]
+        },
+        "text": [
+            "HOK SVE was the architect of the 3Arena which is located on North Wall Quay.",
+            "HOK SVE was the architect of the 3Arena, which is located at the North Wall Quay.",
+            "HOK SVE was the architect of the 3Arena which is located at \"North Wall Quay\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id65",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall Quay"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "Populous (company)"
+                ]
+            ]
+        },
+        "text": [
+            "The 3Arena, designed by the architectural company Populous, is located at \"North Wall Quay\".",
+            "The architect of 3Arena (on North Wall Quay) was the company Populous.",
+            "The 3Arena is located at \"North Wall Quay.\", and was built by the company Populous."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id66",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "HOK SVE"
+                ]
+            ]
+        },
+        "text": [
+            "HOK SVE was the architect of the 3Arena, which can be found in Dublin.",
+            "3Arena is located in Dublin and its architect was HOK SVE."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id67",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ],
+                [
+                    "Dublin",
+                    "isPartOf",
+                    "Leinster"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena is in Dublin which is part of Leinster.",
+            "Located in Dublin, a part of Leinster, is the 3Arena.",
+            "3Arena is located in Dublin in Leinster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id68",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainment"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall Quay"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena at the North Wall Quay is owned by Live Nation Entertainment.",
+            "3Arena at North Wall Quay is owned by Live Nation Entertainment.",
+            "3Arena is located in North Wall Quay and its owner is Live Nation Entertainment."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id69",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainment"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena, in Dublin, is owned by Live Nation Entertainment.",
+            "The 3Arena (located in Dublin) is owned by Live Nation Entertainment.",
+            "The 3Arena is located in Dublin, which is owned by Live Nation Entertainment."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id70",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainment"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena is located in North Wall, Dublin and is owned by Live Nation Entertainment.",
+            "The owner of 3Arena, located at North Wall, Dublin, is Live Nation Entertainment.",
+            "Live Nation Entertainment own 3Arena at North Wall in Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id71",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "architect",
+                    "3XN"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of the AC Hotel Bella Sky, Copenhagen, which has 23 floors, was 3XN.",
+            "The AC Hotel Bella Sky in Copenhagen, which has 23 floors, was designed by the architects of the 3XN firm.",
+            "The AC Hotel Bella Sky Copenhagen was designed by architect 3XN and has 23 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id72",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "developer",
+                    "Bella Center"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "numberOfRooms",
+                    "814"
+                ]
+            ]
+        },
+        "text": [
+            "The AC Hotel Bella Sky, Copenhagen, which has 814 rooms was developed by the Bella Center.",
+            "Bella Center were developers of AC Hotel Bella Sky Copenhagen which has 814 rooms.",
+            "The AC Hotel Bella Sky, Copenhagen has 814 rooms and was developed by the Bella Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id73",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "location",
+                    "Denmark"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott International"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International rents the AC Hotel Bella Sky Copenhagen which is in Denmark.",
+            "The Marriott International Hotel in Denmark is a tenant of AC Hotel Bella Sky Copenhagen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id74",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "owner",
+                    "Bella Center"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "architect",
+                    "3XN"
+                ]
+            ]
+        },
+        "text": [
+            "AC Hotel Bella Sky Copenhagen whose architect was 3XN is owned by Bella Center.",
+            "AC Hotel Bella Sky Copenhagen was designed by the architects of 3XN and is owned by Bella Center.",
+            "3XN was the architect of AC Hotel Bella Sky Copenhagen which is owned by Bella Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id75",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "owner",
+                    "Bella Center"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "The owner of the AC Hotel Bella Sky Copenhagen (which has 23 floors) is Bella Center.",
+            "The owner of the 23 floor AC Hotel Bella Sky Copenhagen is Bella Center.",
+            "AC Hotel Bella Sky Copenhagen, which has 23 floors, is owned by Bella Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id76",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott International"
+                ],
+                [
+                    "Marriott International",
+                    "keyPerson",
+                    "Bill Marriott"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International, with Bill Marriott as a key leader, is the tenant of AC Hotel Bella Sky Copenhagen.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, one of whose key people is Bill Marriott.",
+            "AC Hotel Bella Sky Copenhagen is in the Marriott International Hotel overseen by Bill Marriott of Marriott International."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id77",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare",
+                    "isPartOf",
+                    "Munster"
+                ],
+                [
+                    "Adare Manor",
+                    "location",
+                    "Adare"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manore is located in Adare which is a part of Munster.",
+            "Adare Manor is located in Adare, Munster.",
+            "Adare Manor is located in Adare in Munster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id78",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "James Pain and George Richard Pain,"
+                ],
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ]
+            ]
+        },
+        "text": [
+            "The architects James Pain and George Richard Pain designed Adare Manor, which was completed in 1862.",
+            "James Pain and George Richard Pain are the architects of the Adare Manor, completed in 1862.",
+            "James Pain and George Richard Pain were the architects of Adare Manor, completed in 1862."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id79",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Augustus Pugin"
+                ],
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Adare Manor, completed in 1862, was Augustus Pugin.",
+            "The architect of Adare Manor was Augustus Pugin and the building was completed in 1862."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id80",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Augustus Pugin"
+                ],
+                [
+                    "Augustus Pugin",
+                    "birthPlace",
+                    "Bloomsbury"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Adare Manor is Augustus Pugin, whose birthplace is Bloomsbury.",
+            "Augustus Pugin, the architect of Adare Manor, was born in Bloomsbury.",
+            "Augustus Pugin born in Bloomsbury, is the creator of Adare Manor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id81",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Augustus Pugin"
+                ],
+                [
+                    "Augustus Pugin",
+                    "significantBuilding",
+                    "Palace of Westminster"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Adare Manor is Augustus Pugin, who also designed the Palace Of Westminster.",
+            "Augustus Pugin was the architect of Adare Manor and the Palace of Westminster."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id82",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "James Pain"
+                ],
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ]
+            ]
+        },
+        "text": [
+            "James Pain was the architect of Adare Manor, which was completed in 1862.",
+            "The architect of Adare Manor was James Pain and the construction of the building was completed in 1862."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id83",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Lewis Nockalls Cottingham"
+                ],
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ]
+            ]
+        },
+        "text": [
+            "Adare Manor, designed by Lewis N. Cottingham, was completed in 1862.",
+            "Adare Manor was designed by Lewis Nockalls Cottingham and was completed in 1862.",
+            "Adare Manor was completed in 1862, and was designed by Lewis Nockalls Cottingham."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id84",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "architect",
+                    "Philip Charles Hardwick"
+                ],
+                [
+                    "Adare Manor",
+                    "completionDate",
+                    "1862"
+                ]
+            ]
+        },
+        "text": [
+            "The architect responsible for Adare Manor was Philip Charles Hardwick and the building was completed in 1862.",
+            "Philip Charles Hardwick was the architect of Adare Manor which was completed in 1862.",
+            "Adare Manor, completed in 1862, was designed by Philip Charles Hardwick."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id85",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adare Manor",
+                    "country",
+                    "Republic of Ireland"
+                ],
+                [
+                    "Republic of Ireland",
+                    "leaderName",
+                    "Enda Kenny"
+                ]
+            ]
+        },
+        "text": [
+            "Enda Kenny is the leader of the Republic of Ireland where Adare Manor is located.",
+            "Enda Kenny is the leader of the Republic of Ireland where Adare Manor can be found.",
+            "Adare Manor is located in the Republic of Ireland, which is led by Enda Kenny."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id86",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa",
+                    "isPartOf",
+                    "Addis Ababa Stadium"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "location",
+                    "Addis Ababa"
+                ]
+            ]
+        },
+        "text": [
+            "Both the Addis Ababa Stadium and the Addis Ababa City Hall are located in Addis Ababa.",
+            "Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id87",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "buildingStartDate",
+                    "1961"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "floorArea",
+                    "140000.0 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City hall began being constructed in 1961 and has a floor area of 140000.0 square metres.",
+            "Addis Ababa City Hall began construction in 1961 and has a floor area of 140000.0 square metres.",
+            "The Addis Ababa City Hall was built in 1961 and has 140000 square metre floor area."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id88",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "completionDate",
+                    "1964"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "floorArea",
+                    "140000.0 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall was completed in 1964 and has a floor area of 140000.0 square metres.",
+            "Addis Ababa City Hall, with a 140000.0 (square metres) floor area, was completed in 1964.",
+            "Addis Ababa City Hall, with a floor area of 140000,0 square metres, was completed in 1964."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id89",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "country",
+                    "Ethiopia"
+                ],
+                [
+                    "Ethiopia",
+                    "currency",
+                    "Ethiopian birr"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall is in Ethiopia, where the currency is the Ethiopian birr.",
+            "The Ethiopian Birr is the currency of Ethiopia while The Addis Ababa City Hall is also located in Ethiopia.",
+            "The Addis Ababa City Hall is in the country of Ethiopia, where the currency is the Ethiopian Birr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id90",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "country",
+                    "Ethiopia"
+                ],
+                [
+                    "Ethiopia",
+                    "language",
+                    "Amharic"
+                ]
+            ]
+        },
+        "text": [
+            "The Addis Ababa City Hall is in the country of Ethiopia, where Amharic is spoken.",
+            "The Addis Ababa City Hall is in Ethiopia where they speak Amharic.",
+            "The language of Ethiopia is Amharic and the Addis Ababa City Hall is located in Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id91",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "currentTenants",
+                    "Government of Addis Ababa"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "floorArea",
+                    "140000.0 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Addis Ababa City Hall is where the Government of Addis Ababa is currently located and its floor area covers 140000.0 (square metres).",
+            "Addis Ababa City Hall has a floor area of 140000.0 square metres and its current tenants are the Government of Addis Ababa.",
+            "The \" Government of Addis Ababa\" are the current tenants of Addis Ababa City Hall, which has a floor area of 140000.0 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id92",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "location",
+                    "Addis Ababa"
+                ],
+                [
+                    "Addis Ababa",
+                    "country",
+                    "Ethiopia"
+                ]
+            ]
+        },
+        "text": [
+            "The Addis Ababa City Hall is located in Addis Ababa, Ethiopia.",
+            "Addis Ababa city hall is located in the city of Addis Ababa which is in the country of Ethiopia.",
+            "Addis Ababa City Hall is located in Addis Ababa, Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id93",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor and Jacabian"
+                ],
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Haputale"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall whose architectural style is Tudor and Jacabian is located in Haputale.",
+            "Adisham Hall is located in Haputale and has the architectural style of Tudor and Jacobean.",
+            "The architecture style of adisham hall of Haputale, is Tudor and jacabian."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id94",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor and Jacabian"
+                ],
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall which is located in Sri Lanka has the architectural style of Tudor and Jacobean.",
+            "The architectural style of Adisham Hall in Sri Lanka is Tudor and Jacobean.",
+            "Adisham Hall, Sri Lanka, has the Architectural style of Tudor and Jacobean."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id95",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor Revival architecture"
+                ],
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Haputale"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall has the Tudor Revival architectural style, and it is located in Haputale.",
+            "Adisham Hall is styled as Tudor Revival and found in Haputale.",
+            "Located in Haputale, Adisham Hall is Tudor Revival in style."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id96",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "completionDate",
+                    "1931"
+                ],
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Haputale"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall, Haputale was completed in 1931."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id97",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "capital",
+                    "Sri Jayawardenepura Kotte"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located in Sri Lanka, whose capital is Sri Jayawardenepura Kotte.",
+            "Sri Jayawardenepura Kotte is the capital of Sri Lanka where Adisham Hall is located."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id98",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "currency",
+                    "Sri Lankan rupee"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located in Sri Lanka, whose currency is the Sri Lankan rupee.",
+            "Adisham Hall is located in Sri Lanka, where the currency is the Sri Lankan rupee.",
+            "Adisham Hall is in Sri Lanka where the currency is the Sri Lankan rupee."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id99",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "leaderName",
+                    "Ranil Wickremesinghe"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe.",
+            "Adisham Hall is located in the country of Sri Lanka, which is led by Ranil Wickremesinghe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id100",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Haputale, Sri Lanka"
+                ],
+                [
+                    "Adisham Hall",
+                    "completionDate",
+                    "1931"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is in Haputale, Sri Lanka and was completed in 1931.",
+            "Adisham Hall in Haputale, Sri Lanka, was finished in 1931.",
+            "Adisham Hall, completed in 1931, is located at Haputale, Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id101",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Sri Lanka"
+                ],
+                [
+                    "Adisham Hall",
+                    "completionDate",
+                    "1931"
+                ]
+            ]
+        },
+        "text": [
+            "The construction of Adisham Hall, Sri Lanka, was completed in 1931.",
+            "Adisham Hall was completed in 1931 and is located in Sri Lanka.",
+            "Finished in 1931, Adisham Hall is located in Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id102",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "leaderName",
+                    "Ranil Wickremesinghe"
+                ]
+            ]
+        },
+        "text": [
+            "Ranil Wickremesinghe is a leader in Sri Lanka where Adisham Hall is located.",
+            "Adisham Hall is in Sri Lanka whose leader is Ranil Wickremesinghe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id103",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "country",
+                    "Japan"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita, Akita"
+                ]
+            ]
+        },
+        "text": [
+            "Akita Museum of Art is located in Akita, Japan.",
+            "The Akita Museum of Art is located in Akita, Akita, Japan.",
+            "The Akita Museum of Art is located in Akita, Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id104",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "country",
+                    "Japan"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita Prefecture"
+                ]
+            ]
+        },
+        "text": [
+            "Akita Museum of Art located in Akita Prefecture is found in Japan.",
+            "The Akita Museum of Art is located in Akita Prefecture in Japan.",
+            "Akita Museum of Art is located in Akita Prefecture, Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id105",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "floorCount",
+                    "3"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "floorArea",
+                    "3746.66 (square metres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art has 3 floors and 3746.66 square metres of floor area.",
+            "The Akita Museum of Art has 3 floors and an area of 3746.66(square meters).",
+            "The Akita Museum of Art is located on 3 floors and is 3746.66 square metres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id106",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita, Akita"
+                ],
+                [
+                    "Akita, Akita",
+                    "country",
+                    "Japan"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art is in Akita, Akita Japan.",
+            "The Akita Museum of Art is located in Akita, Akita, which is found in Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id107",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita, Akita"
+                ],
+                [
+                    "Akita, Akita",
+                    "isPartOf",
+                    "Akita Prefecture"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art is located in Akita, Akita, part of Akita Prefecture.",
+            "Akita Museum of Art is an art museum in the city of Akita, and is part of Akita Prefecture.",
+            "Akita Museum of Art is located in Akita, Akita which is part of Akita Prefecture."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id108",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita, Akita"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita Prefecture"
+                ]
+            ]
+        },
+        "text": [
+            "Akita Museum of Art is located in Akita, Akita Prefecture.",
+            "The Akita Museum of Art is located in Akita, Akita Prefecture.",
+            "The Akita Museum of Art is located in Akita, in the Akita Prefecture."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id109",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Akita Prefecture",
+                    "country",
+                    "Japan"
+                ],
+                [
+                    "Akita Museum of Art",
+                    "location",
+                    "Akita Prefecture"
+                ]
+            ]
+        },
+        "text": [
+            "The Akita Museum of Art is located in Akita Prefecture, Japan.",
+            "The Akita Museum of Art is located in The Akita Prefecture in Japan.",
+            "Akita Museum of Art is located in Akita Prefecture, Japan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id110",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "completionDate",
+                    "1 June 2009"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "address",
+                    "101 Ukrop Way"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B. Miller Hall is at 101 Ukrop Way and was completed on 1 June 2009.",
+            "Alan B. Miller Hall was completed on 1 June 2009, and its address is 101 Ukrop Way."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id111",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "currentTenants",
+                    "Mason School of Business"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "architect",
+                    "Robert A. M. Stern"
+                ]
+            ]
+        },
+        "text": [
+            "Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant.",
+            "The Mason School of Business are the current tenants of Alan B Miller Hall, which was designed by Robert A M Stern.",
+            "The Mason School of Business are the current tenants of Alan B Miller Hall, designed by Robert A M Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id112",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "inaugurationDate",
+                    "2009-10-02"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "address",
+                    "101 Ukrop Way"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B Miller Hall (which was inaugurated on 2009-10-02) has the address \"101 Ukrop Way\".",
+            "Alan B. Miller Hall which is located at 101 Ukrop Way was inaugurated on 2009-10-02.",
+            "The inauguration date of Alan B. Miller Hall, located at 101 Ukrop Way, was October 2, 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id113",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Virginia"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "owner",
+                    "College of William &amp; Mary"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B Miller Hall in Virginia is owned by The College of William and Mary.",
+            "The Alan B. Miller Hall is owned by The College of William and Mary in Virginia.",
+            "Alan B Miller Hall, which is owned by The College of William and Mary, is located in Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id114",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "owner",
+                    "College of William &amp; Mary"
+                ],
+                [
+                    "College of William &amp; Mary",
+                    "chancellor",
+                    "Robert Gates"
+                ]
+            ]
+        },
+        "text": [
+            "The College of William and Mary owns the Alan B. Miller Hall and the Chancellor of the College is Robert Gates.",
+            "Robert Gates is the chancellor of The College of William and Mary which owns Alan B. Miller Hall.",
+            "Robert Gates served as chancellor of the College of William and Mary, which is the owner of the Alan B. Miller Hall."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id115",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "tenant",
+                    "Mason School of Business"
+                ],
+                [
+                    "Mason School of Business",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Mason School of Business is a tenant of Alan B. Miller Hall in the United States.",
+            "Mason School of Business is a tenant of Alan B. Miller Hall which is located in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id116",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "address",
+                    "Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Ahmedabad"
+                ]
+            ]
+        },
+        "text": [
+            "The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.",
+            "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Ahmedabad.",
+            "The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, Ahmedabad near CEPT University, opp. Gujarat University, University Road."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id117",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Narendra Modi"
+                ]
+            ]
+        },
+        "text": [
+            "The prime minister of India is Narendra Modi and Amdavad ni Gufa is also located in India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id118",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ],
+                [
+                    "India",
+                    "leaderName",
+                    "Sumitra Mahajan"
+                ]
+            ]
+        },
+        "text": [
+            "Sumitra Mahajan is the leader of India where Amdavad ni Gufa is found.",
+            "Amdavad ni Gufa is located in India, the country which has Sumitra Mahajan as one of its leaders.",
+            "Amdavad ni Gufa is located in India whose leader is Sumitra Mahajan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id119",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Ahmedabad"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "Amdavad ni Gufa is located in Ahmedabad in India.",
+            "Amdavad ni Gufa is located in Ahmedabad, India.",
+            "The location of Amdavad ni Gufa is Ahmedabad, India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id120",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Gujarat"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "Amdavad ni Gufa is located in Gujarat, India."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id121",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Gujarat"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Ahmedabad"
+                ]
+            ]
+        },
+        "text": [
+            "Amdavad ni Gufa is in Gujarat Ahmedabad.",
+            "Amdavad ni Gufa is in Ahmedabad, Gujarat.",
+            "Amdavad ni Gufa is located in Gujarat, Ahmedabad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id122",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Ampara Hospital",
+                    "bedCount",
+                    "476"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital (bed count 476) is located in Sri Lanka.",
+            "Ampara Hospital, with a count of 473 beds, is in Sri Lanka.",
+            "Ampara Hospital is located in Sri Lanka and has 476 beds."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id123",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Ampara Hospital",
+                    "location",
+                    "Ampara"
+                ]
+            ]
+        },
+        "text": [
+            "The Ampara Hospital is located in Ampara, Sri Lanka.",
+            "Ampara Hospital is in Sri Lanka, Ampara.",
+            "Ampara Hospital is located in Ampara, Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id124",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Ampara Hospital",
+                    "state",
+                    "Eastern Province, Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is located in Eastern Province, Sri Lanka.",
+            "Ampara Hospital is located in the Eastern Province, Sri Lanka.",
+            "Ampara Hospital is in Eastern Province, a part of Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id125",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "leaderName",
+                    "Ranil Wickremesinghe"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is in Sri Lanka, whose leader is Ranil Wickremesinghe.",
+            "Sri Lanka's leader is Ranil Wickremesinghe and it is home to the Ampara Hospital.",
+            "Ampara Hospital is in Sri Lanka whose leader is Ranil Wickremesinghe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id126",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "architect",
+                    "Alfred Giles (architect)"
+                ],
+                [
+                    "Alfred Giles (architect)",
+                    "birthPlace",
+                    "England"
+                ]
+            ]
+        },
+        "text": [
+            "The architect of Asher and Mary Isabelle Richardson House was Alfred Giles, who was born in England.",
+            "Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles, who was born in England.",
+            "Alfred Giles from England was the architect of Asher and Mary Isabelle Richardson House."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id127",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "architect",
+                    "Alfred Giles (architect)"
+                ],
+                [
+                    "Alfred Giles (architect)",
+                    "placeOfDeath",
+                    "Kendall County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Giles was the architect of Asher and Mary Isabelle Richardson House and died in Kendall County, Texas.",
+            "Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles who died in Kendall County, Texas.",
+            "Alfred Giles, architect of The Asher and Mary Isabelle Richardson House died in Kendall County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id128",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "Asherton, Texas"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "88002539"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House, located in Asherton, Texas, has the reference number 88002539 in the National Register of Historic Places.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton Texas and has a reference number of 88002539 in the National Register of Historic Places.",
+            "The Reference Number in the National Register of Historic Places for Asher and Mary Isabelle Richardson House in Asherton, Texas, is 88002539."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id129",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "Asherton, Texas"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "yearOfConstruction",
+                    "1911"
+                ]
+            ]
+        },
+        "text": [
+            "The Asher and Mary Isabelle Richardson House, constructed in 1911, is located in Asherton, Texas.",
+            "Asher and Mary Isabelle Richardson House, built in 1911, is located in Asherton, Texas.",
+            "Asher and Mary Isabelle Richardson House was built in 1911, and is located in Asherton, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id130",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "U.S. Route 83"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "added to the National Register of Historic Places",
+                    "1988-11-22"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was added to the National Register of Historic Places on 1988-11-22.",
+            "Asher and Mary Isabelle Richardson House is at U.S. Route 83 and was added to the National Register of Historic Places on November 22, 1988."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id131",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "U.S. Route 83"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "yearOfConstruction",
+                    "1911"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House, built in 1911, is located at U.S. Route 83.",
+            "The Asher and Mary Isabelle Richardson House is on U.S. Route 83 and was constructed in 1911.",
+            "The Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was built in 1911."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id132",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asherton, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "Asherton, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, USA.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas in the United States.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id133",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asherton, Texas",
+                    "isPartOf",
+                    "Dimmit County, Texas"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "Asherton, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House is located in Asherton, a part of Dimmit County, Texas.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is part of Dimmit County, Texas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id134",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asherton, Texas",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "Asherton, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which is a part of the United States.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas, United States.",
+            "Asher and Mary Isabelle Richardson House is located in Asherton, Texas in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id135",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architect",
+                    "Julia Morgan"
+                ],
+                [
+                    "Julia Morgan",
+                    "birthPlace",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan was born in California and is the architect of Asilomar Conference Grounds.",
+            "Asilomar Conference Grounds was designed by Julia Morgan, who was born in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id136",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architect",
+                    "Julia Morgan"
+                ],
+                [
+                    "Julia Morgan",
+                    "birthPlace",
+                    "San Francisco"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan from San Francisco was the designer of the Asilomar Conference Grounds.",
+            "The architect of Asilomar Conference Grounds was Julia Morgan, who was born in San Francisco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id137",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architect",
+                    "Julia Morgan"
+                ],
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Asilomar State Beach"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar State Beach is one of the significant buildings designed by architect Julia Morgan, who also designed The Asilomar Conference Grounds.",
+            "Julia Morgan was the architect of the grounds of Asilomar Conference and the Asilomar State Beach."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id138",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architect",
+                    "Julia Morgan"
+                ],
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Chinatown, San Francisco"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan is the architect of Asilomar Conference Grounds and Chinatown in San Francisco.",
+            "Julia Morgan was the architect behind Chinatown in San Francisco and the grounds of Asilomar Conference.",
+            "The architect of Asilomar Conference Grounds was Julia Morgan who also designed significant buildings in Chinatown, San Francisco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id139",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architect",
+                    "Julia Morgan"
+                ],
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Los Angeles Herald-Examiner"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan designed the Asilomar Conference Grounds, and the landmark Los Angeles Herald Examiner building in California.",
+            "Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building, and also designed Asilomar Conference Grounds.",
+            "Julia Morgan is the architect of the grounds of the Asilomar Conference as well as many other significant buildings including the Los Angeles Herald Examiner building."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id140",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "architect",
+                    "Julia Morgan"
+                ],
+                [
+                    "Julia Morgan",
+                    "significantBuilding",
+                    "Riverside Art Museum"
+                ]
+            ]
+        },
+        "text": [
+            "Julia Morgan was the architect of the Asilomar Conference Grounds and the Riverside Art Museum.",
+            "Julia Morgan was the architect of the grounds of Asilomar Conference and the Riverside Art Museum."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id141",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Asilomar Blvd., Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "added to the National Register of Historic Places",
+                    "1987-02-27"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds, which is located at Asilomar Blvd., Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987.",
+            "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.",
+            "Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id142",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Asilomar Blvd., Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "architecturalStyle",
+                    "American Craftsman"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds, with the American Craftsman architectural style, is located at Asilomar Blvd., Pacific Grove, California.",
+            "Asilomar Conference Grounds, which has the architectural style of American Craftsman, is located at Asilomar Blvd., Pacific Grove, California.",
+            "Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and has the architectural style of American Craftsman."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id143",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Asilomar Blvd., Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "yearOfConstruction",
+                    "1913"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.",
+            "The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id144",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "87000823"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds are located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.",
+            "Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is its reference number in the National Register of Historic Places."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id145",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "architecturalStyle",
+                    "Arts and Crafts movement"
+                ]
+            ]
+        },
+        "text": [
+            "The Asilomar Conference Grounds, with an Arts and Crafts movement style architecture, is located at Pacific Grove, California.",
+            "Asilomar Conference Grounds, with an architectural style of the Arts and Crafts Movement, is located in Pacific Grove, California.",
+            "Asilomar Conference Grounds are located in Pacific Grove, California and has the architectural style of Arts and Crafts Movement."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id146",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "yearOfConstruction",
+                    "1913"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds were constructed in 1913 and are located in Pacific Grove, California.",
+            "The Asilomar Conference Grounds, constructed in 1913, is located at Pacific Grove, California.",
+            "Constructed in 1913, the Asilomar Conference Grounds are located at Pacific Grove, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id147",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Pacific Grove, California",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Asilomar Conference Grounds is located at Pacific Grove, California in the United States.",
+            "The Asilomar Conference Grounds are in Pacific Grove, California in the United States.",
+            "Asilomar Conference Grounds are located in Pacific Grove, California which is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id148",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Pacific Grove, California",
+                    "isPartOf",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds in Pacific Grove, CA is part of the state of California.",
+            "The Asilomar Conference Grounds is located at Pacific Grove, which is part of California.",
+            "Asilomar Conference Grounds are located in Pacific Grove, a part of California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id149",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Asser Levy Place and East 23rd Street"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "yearOfConstruction",
+                    "1904"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths are located in Asser Levy Place on East 23rd Street and were built in 1904.",
+            "Asser Levy Public Baths, built in 1904, are located on Asser Levy Place and East 23rd Street.",
+            "The Asser Levy Public Baths (constructed in 1904) is in Asser Levy Place and East 23rd Street."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id150",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Avenue A (Manhattan)"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "yearOfConstruction",
+                    "1904"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths located at Avenue A, Manhattan. and constructed in 1904.",
+            "Asser Levy Public Baths, which was built in 1904, is located in Avenue A, Manhattan.",
+            "Asser Levy Public Baths, which were constructed in 1904, is located in Avenue A, Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id151",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Manhattan"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "yearOfConstruction",
+                    "1904"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths, built in 1904, is located in Manhattan.",
+            "Asser Levy Public Baths in Manhattan were constructed in 1904."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id152",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Manhattan"
+                ],
+                [
+                    "Manhattan",
+                    "isPartOf",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths is located in Manhattan, which is a part of New York.",
+            "Asser Levy Public Baths are in Manhattan, New York."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id153",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Manhattan"
+                ],
+                [
+                    "Manhattan",
+                    "leaderName",
+                    "Cyrus Vance, Jr."
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is the leader.",
+            "Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is one of the leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id154",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "Manhattan"
+                ],
+                [
+                    "Manhattan",
+                    "leaderName",
+                    "Gale Brewer"
+                ]
+            ]
+        },
+        "text": [
+            "Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.",
+            "Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.",
+            "Asser Levy Public Baths is located in Manhattan whose leader is Gale Brewer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id155",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "New York City"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "yearOfConstruction",
+                    "1904"
+                ]
+            ]
+        },
+        "text": [
+            "The Asser Levy Public Baths which was built in 1904 is located in New York City.",
+            "Asser Levy Public Baths (constructed in 1904) are located in New York City.",
+            "The location of Asser Levy Public Baths, built in 1904, is New York City."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id156",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "New York City"
+                ],
+                [
+                    "New York City",
+                    "isPartOf",
+                    "Manhattan"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths are located in New York City which Manhattan is a part of.",
+            "The Asser Levy Public Baths are in New York City which is part of Manhattan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id157",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "New York City"
+                ],
+                [
+                    "New York City",
+                    "isPartOf",
+                    "New Netherland"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths are in New York City of which New Netherland is a part.",
+            "Asser Levy Public Baths are located in New York City, which is part of New Netherland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id158",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "New York City"
+                ],
+                [
+                    "New York City",
+                    "isPartOf",
+                    "New York"
+                ]
+            ]
+        },
+        "text": [
+            "New York City, part of New York, has the Asser Levy Public Baths.",
+            "Asser Levy Public Baths are located in New York City, which is part of New York.",
+            "The location of Asser Levy Public Baths are New York City, New York State."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id159",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Dublin",
+                    "country",
+                    "Republic of Ireland"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena is located in Dublin, in the Republic of Ireland.",
+            "3Arena is located in Dublin, Republic of Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id160",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ethiopia",
+                    "leaderName",
+                    "Hailemariam Desalegn"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "country",
+                    "Ethiopia"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall is located in the country of Ethiopia which is led by Hailemariam Desalegn.",
+            "Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.",
+            "The leader of Ethipoia is Hailemariam Desalegn and Addis Ababa City Hall is also located in Ethiopia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id161",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ethiopia",
+                    "leaderName",
+                    "Mulatu Teshome"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "country",
+                    "Ethiopia"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall is located in Ethiopia whose leader is Mulatu Teshome.",
+            "The leader of Ethiopia is Mulatu Teshome and the Addis Ababa City Hall is located in Ethiopia.",
+            "The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id162",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "India",
+                    "demonym",
+                    "Indian people"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "The demonym for people living in India, where Amdavad ni Gufa is located, is Indian.",
+            "Amdavad ni Gufa is located in India and the demonym for people living in India is Indian.",
+            "Amdavad ni Gufa is located in India, which is populated by Indian People."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id163",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "India",
+                    "leaderName",
+                    "T. S. Thakur"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "country",
+                    "India"
+                ]
+            ]
+        },
+        "text": [
+            "T S Thakur is the leader of India; also the location of Amdavad ni Gufa."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id164",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Marriott International",
+                    "foundationPlace",
+                    "Washington, D.C."
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott International"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which was founded in Washington, D.C.",
+            "Marriott International is a tenant of AC Hotel Bella Sky Copenhagen and was founded in Washington, D.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id165",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Marriott International",
+                    "location",
+                    "Bethesda, Maryland"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott International"
+                ]
+            ]
+        },
+        "text": [
+            "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethesda, Maryland.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id166",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Mason School of Business",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "currentTenants",
+                    "Mason School of Business"
+                ]
+            ]
+        },
+        "text": [
+            "The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.",
+            "The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.",
+            "The Mason School of Business is located in Alan B Miller Hall in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id167",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in the United States, in which English is the main language.",
+            "English is the language of the United States, where 250 Delaware Avenue is located.",
+            "250 Delaware Avenue is located in the United States where they speak the English language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id168",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Joe Biden"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in the United States, which is led by Joe Biden.",
+            "Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.",
+            "250 Delaware Avenue is in the United States where Joe Biden is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id169",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "John Roberts"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A leader of the United States, which is home to 250 Delaware Avenue, is John Roberts."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id170",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in the United States which is led by Paul Ryan.",
+            "250 Delaware Avenue is located in the United States whose leader is Paul Ryan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id171",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leaderTitle",
+                    "President of the United States"
+                ],
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in the USA and its leader is the President.",
+            "250 Delaware Avenue is located in the United States whose leader has the title of President."
+        ]
+    }
+]

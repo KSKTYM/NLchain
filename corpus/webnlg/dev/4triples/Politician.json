@@ -1,0 +1,1116 @@
+[
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "American Civil Wa"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "award",
+                    "Purple Hea"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "deathPlace",
+                    "West Roxbury"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "birthPlace",
+                    "Main"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron S Daggett was born in Maine and died in West Roxbury. He fought in the American Civil War and was awarded the Purple Heart.",
+            "Maine born Aaron S Daggett fought in the American Civil War, was awarded the Purple Heart and died in West Roxbury.",
+            "American Civil War soldier and Purple Heart recipient Aaron S. Daggett, was born in Maine and died in West Roxbury."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Aaron S. Daggett",
+                    "battles",
+                    "Battle of the Wilderness"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "award",
+                    "Purple Hea"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "deathPlace",
+                    "West Roxbury"
+                ],
+                [
+                    "Aaron S. Daggett",
+                    "birthPlace",
+                    "Main"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Maine, Aaron S. Daggett; fought in the Battle of the Wilderness, was awarded the Purple Heart, and died in West Roxbury.",
+            "Born in Maine, Aaron S. Daggett fought in the Battle of the Wilderness, awarded the Purple Heart, and died in West Roxbury.",
+            "Aaron S Daggett was born in Maine and died in West Roxbury. He fought in the Battle of the Wilderness and was awarded the Purple Heart."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Ab Klink",
+                    "office (workedAt, workedAs)",
+                    "Member of the House of Representatives"
+                ],
+                [
+                    "Ab Klink",
+                    "party",
+                    "Christian Democratic Appea"
+                ],
+                [
+                    "Ab Klink",
+                    "birthPlace",
+                    "Stellenda"
+                ],
+                [
+                    "Ab Klink",
+                    "almaMater",
+                    "Leiden University"
+                ]
+            ]
+        },
+        "text": [
+            "Ab Klink was born in Stellendam and graduated from Leiden University. He belongs to the Christian Democratic Appeal party and worked as a Member of the House of Representatives.",
+            "Ab Klink was born in Stellendam and attended Leiden University. He belongs to the Christian Democratic Appeal Party and worked as a Member of the House of Representatives.",
+            "Leiden University is where Stellendam born Ab Klink studied. He belongs to the Christian Democratic Appeal party and worked as a Member of the House of Representatives."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "region",
+                    "Asajaya"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Kuching"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Miri, Malaysia"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud was born in Miri, Malaysia and he lives in Kuching. His party is the Parti Pesaka Bumiputera Bersatu and he represented Asajaya.",
+            "Mirir, Malaysia born Abdul Taib Mahmud, who lives in Kuching, represented the Asajaya region and was a member of the Parti Pesaka Bumiputera Bersatu.",
+            "Abdul Taib Mahmud, who was born in Miri, Malaysia and lives in Kuching, was a member of the Parti Pesaka Bumiputera Bersatu and represented Asajaya."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "region",
+                    "Kota Samarahan"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "birthPlace",
+                    "Kingdom of Sarawak"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Demak Jaya, Jalan Bako, Kuching, Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Abdul Taib Mahmud, who was born in the Kingdom of Sarawak and who lived in Demak Jaya, Jalan Bako, Kuching, Sarawak, represented Kota Samarahan and was a member of the Parti Pesaka Bumiputera Bersatu.",
+            "Abdul Taib Mahmud belongs to the Parti Pesaka Bumiputera Bersatu and represented Kota Samarahan. He was born in the Kingdom of Sarawak and lived in Demak Jaya, Jalan Bako, Kuching, Sarawak."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "successor",
+                    "Adenan Sa"
+                ],
+                [
+                    "Adenan Satem",
+                    "birthPlace",
+                    "Japanese occupation of British Borneo"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Parti Pesaka Bumiputera Bersatu"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Kuching"
+                ]
+            ]
+        },
+        "text": [
+            "Japanese occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu.",
+            "Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud resides in Kuching. Japanese Occupation of British Borneo is the birth place of Adenan Satem.",
+            "Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud, succeeded by Adenan Satem, lived in Kuching. Satem was born in Japanese Occupied British Borneo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Abdul Taib Mahmud",
+                    "successor",
+                    "Adenan Sa"
+                ],
+                [
+                    "Adenan Satem",
+                    "birthPlace",
+                    "Japanese occupation of British Borneo"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "residence",
+                    "Sarawak"
+                ],
+                [
+                    "Abdul Taib Mahmud",
+                    "party",
+                    "Barisan Ra'ayat Jati Sarawak"
+                ]
+            ]
+        },
+        "text": [
+            "Adenan Satem was born in Japanese Occupied British Borneo. His successor was Abdul Taib Mahmud, who, resides in Sarawak and is a member of the \"Barisan Ra'ayat Jati Sarawak\" party.",
+            "Japanese occupied, British Borneo, was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party and resides in Sarawak.",
+            "Abdul Taib Mahmud, a member of the Barisan Ra'ayat Jati Sarawak party, lives in Sarawak. He was succeeded by Adenan Satem, who was born in the Japanese Occupation of British Borneo."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "inOfficeWhileMonarch",
+                    "Juan Carlos I of Spain"
+                ],
+                [
+                    "Juan Carlos I of Spain",
+                    "predecessor",
+                    "Francisco Franco"
+                ],
+                [
+                    "Abel Caballero",
+                    "inOfficeWhilePrimeMinister",
+                    "Felipe González"
+                ],
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Spain"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Spain, Abel Caballero was in office while Felipe González was Prime Minister. That was also when Juan Carlos I of Spain, successor to Francisco Franco, was Monarch.",
+            "Abel Caballero was born in Spain and was in office when Felipe Gonzalez was prime minister and during the reign of Juan Carlos I of Spain. Juan Carlos was succeeded by Francisco Franco.",
+            "Spanish-born Abel Caballero was in office while Felipe Gonzalez was Prime Minister and Juan Carlos I of Spain was Monarch. Carlos succeeded Francisco Franco as Monarch.",
+            "Spanish born Abel Caballero was in office at the time that Felipe Gonzalez was Prime Minister and Juan Carlos I of Spain was King. The King was preceded as leader by Francisco Franco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "office (workedAt, workedAs)",
+                    "Member of the Congress of Deputies"
+                ],
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Galicia (Spain)"
+                ],
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Spain"
+                ],
+                [
+                    "Abel Caballero",
+                    "party",
+                    "Spanish Socialist Workers' Party"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Caballero was born in Galicia, Spain, belongs to the Spanish Socialist Workers' Party, and worked as a Member of the Congress of Deputies.",
+            "Abel Caballero, who belongs to the Spanish Socialist Workers' Party, is a member of the Congress of Deputies. Caballero was born in Galicia, Spain.",
+            "Abel Caballero was born in Galicia in Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abel Caballero",
+                    "office (workedAt, workedAs)",
+                    "Minister of Transport"
+                ],
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Ponteareas"
+                ],
+                [
+                    "Abel Caballero",
+                    "birthPlace",
+                    "Spain"
+                ],
+                [
+                    "Abel Caballero",
+                    "party",
+                    "Spanish Socialist Workers' Party"
+                ]
+            ]
+        },
+        "text": [
+            "Ponteareas, Spain, is the birthplace of Abel Caballero, a member of the Spanish Socialist Workers' Party, who, was the Minister of Transport.",
+            "Abel Caballero was born in Ponteareas in Spain. He belongs to the Spanish Socialist Workers' Party and worked as the Minister of Transport.",
+            "Abel Caballero was born in Spain in Ponteareas and was the Minister of Transport. He was also a member of the Spanish Socialist Workers' Party.",
+            "Abel Caballero was born in Ponteareas in Spain. He belonged to the Spanish Socialist Workers' Party and worked as the Minister of Transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abner W. Sibal",
+                    "office (workedAt, workedAs)",
+                    "Member of the Connecticut Senate from the 26th District"
+                ],
+                [
+                    "Abner W. Sibal",
+                    "party",
+                    "Republican Party (United States)"
+                ],
+                [
+                    "Abner W. Sibal",
+                    "successor",
+                    "Donald J. Irwin"
+                ],
+                [
+                    "Abner W. Sibal",
+                    "birthPlace",
+                    "Ridgewood, Queens"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Ridgewood, Queens, Abner W. Sibal was a member of the Republican party of the United States. Abner W. Sibal was a member of the Connecticut Senate from the 26th District and was the predecessor to, Donald J. Irwin.",
+            "Abner W. Sibal; was born in Ridgewood, Queens, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.",
+            "Abner W. Sibal was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Abraham A. Ribicoff",
+                    "office (workedAt, workedAs)",
+                    "United States Secretary of Health, Education, and Welfare"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "successor",
+                    "John N. Dempsey"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "deathPlace",
+                    "New York City"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "John N Dempsey's predecessor Abraham A Ribicoff was born in the United States, worked as the United States Secretary of Health, Education and Welfare and died in New York City.",
+            "Abraham A Ribicoff, who was born in the US and died in New York City, worked as the United States Secretary of Health, Education and Welfare and was succeeded by John N Dempsey.",
+            "United States Secretary of Health, Education and Welfare member Abraham A Ribicoff, born in the U.S and died in New York City, preceded John N Dempsey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adam Holloway",
+                    "battles",
+                    "Gulf Wa"
+                ],
+                [
+                    "Gulf War",
+                    "commander",
+                    "Colin Pow"
+                ],
+                [
+                    "Adam Holloway",
+                    "birthPlace",
+                    "Faversham, Kent, England"
+                ],
+                [
+                    "Adam Holloway",
+                    "militaryBranch",
+                    "Grenadier Guards"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Holloway, born in Faversham, in Kent, England, served in the Grenadier Guards and was involved in the battles of the Gulf War under the commander, Colin Powell.",
+            "Adam Holloway was born in Faversham, Kent, England and he served in the Grenadier Guards. He was involved in Gulf War battles where Colin Powell was a commander."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id14",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "Polish–Soviet Wa"
+                ],
+                [
+                    "Poland",
+                    "language",
+                    "Kashubian languag"
+                ],
+                [
+                    "Polish–Soviet War",
+                    "commander",
+                    "Joseph Stalin"
+                ],
+                [
+                    "Adam Koc",
+                    "nationality",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Pole Adam Koc fought in the Polish–Soviet War. A commander of that war was Joseph Stalin and one of the languages spoken in Poland is Kashubian.",
+            "Adam Koc's nationality is Polish and he fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. The Kashubian language is spoken in Poland.",
+            "Adam Koc is from Poland, where the Kashubian language is spoken. He fought in the Polish-Soviet War where Joseph Stalin was a commander."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id15",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "Polish–Soviet Wa"
+                ],
+                [
+                    "Poland",
+                    "language",
+                    "Polish languag"
+                ],
+                [
+                    "Polish–Soviet War",
+                    "commander",
+                    "Joseph Stalin"
+                ],
+                [
+                    "Adam Koc",
+                    "nationality",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc is a national of Poland where the language used is Polish. He was involved in battles of the Polish-Soviet war during which Joseph Stalin was a commander.",
+            "Adam Koc, a Polish nationalist, fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. The Polish language is used in Poland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id16",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "Polish–Soviet Wa"
+                ],
+                [
+                    "Poland",
+                    "language",
+                    "Polish languag"
+                ],
+                [
+                    "Polish–Soviet War",
+                    "commander",
+                    "Leon Trotsky"
+                ],
+                [
+                    "Adam Koc",
+                    "nationality",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc was born in Poland and fought in the Polish-Soviet war. Leon Trotsky was the commender in this war.",
+            "The Polish language is used in Poland and Adam Koc is of Polish nationality. He fought in the Polish–Soviet War where Leon Trotsky was a commander.",
+            "Polish–Soviet War veteran Adam Koc was born in Poland (Polish language). The Polish-Soviet War commander was Leon Trotsky."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id17",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adam Koc",
+                    "battles",
+                    "Polish–Soviet Wa"
+                ],
+                [
+                    "Polish–Soviet War",
+                    "isPartOfMilitaryConflict",
+                    "Russian Civil Wa"
+                ],
+                [
+                    "Polish–Soviet War",
+                    "commander",
+                    "Joseph Stalin"
+                ],
+                [
+                    "Adam Koc",
+                    "birthPlace",
+                    "Congress Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Adam Koc, born in Congress Poland, was involved in battles in the Polish–Soviet War. Joseph Stalin was a commander at the Polish-Soviet War, which was a conflict within the Russian Civil War.",
+            "Adam Koc was born in Congress, Poland, and was involved in battles in the Polish–Soviet War. This war was part of the Russian Civil War military conflict and Joseph Stalin was one of the commanders.",
+            "Adam Koc was born in Congress in Poland and fought in the Polish-Soviet War which was part of the Russian Civil War military conflict. A commander in this war was Joseph Stalin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "birthPlace",
+                    "Athens"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "birthPlace",
+                    "Greec"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "office (workedAt, workedAs)",
+                    "Ministry of Economy, Development and Tourism (Greece)"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "successor",
+                    "Makis Voridis"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis was born in Athens, Greece and worked for the Ministry of Economy, Development and Tourism in Greece. He was succeeded by Makis Voridis.",
+            "Adonis Georgiadis, who was born in Athens Greece worked for the Ministry of Economy, Development and Tourism and his successor was Makis Voridis.",
+            "Adonis Georgiadis was born in Athens, Greece and worked at the Ministry of Economy, Development and Tourism. He was succeeded by Makis Voridis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id19",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adonis Georgiadis",
+                    "inOfficeWhilePrimeMinister",
+                    "Antonis Samaras"
+                ],
+                [
+                    "Antonis Samaras",
+                    "successor",
+                    "Konstantinos Mitsotakis"
+                ],
+                [
+                    "New Democracy (Greece)",
+                    "colour",
+                    "Blu"
+                ],
+                [
+                    "Adonis Georgiadis",
+                    "party",
+                    "New Democracy (Greece)"
+                ]
+            ]
+        },
+        "text": [
+            "Adonis Georgiadis, a member of the Greek New Democracy Party (the party's colour is blue), was in office while Antonis Samaras was Prime Minister. Konstantinos Mitsotakis was the successor to Antonis Samaras.",
+            "Adonis Georgiadis, is a member of the Greek New Democracy Party, the colour of which is blue. Adonis Georgiadis was in office while Antonis Samaras, was Prime Minister. Konstantinos Mitsotakis was the successor to Antonis Samaras.",
+            "Adonis Georgiadis was a member of the New Democracy Party in Greece under Prime Minister Antonis Samaras. Samaras was succeeded by Konstantinos Mitsotakis and the party's colours are blue."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "Battle of Franc"
+                ],
+                [
+                    "Airey Neave",
+                    "birthPlace",
+                    "Knightsbridg"
+                ],
+                [
+                    "Airey Neave",
+                    "activeYearsStartDate",
+                    "1974-03-04"
+                ],
+                [
+                    "Airey Neave",
+                    "activeYearsEndDate",
+                    "1979-03-30"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Knightsbridge, Airey Neave; began his career on March 4th 1974, fought in the Battle of France, and ended his career on 30th March 1979.",
+            "Airey Neave was born in Knightsbridge and began his career on March 4th 1974. He fought in the Battle of France and ended his career on March 30th 1979.",
+            "Knightsbridge born Airey Neave, who fought in the Battle of France, had a career which lasted from March 4th 1974 to 30th March 1979."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Airey Neave",
+                    "battles",
+                    "World War II"
+                ],
+                [
+                    "Airey Neave",
+                    "birthPlace",
+                    "Knightsbridg"
+                ],
+                [
+                    "Airey Neave",
+                    "activeYearsStartDate",
+                    "1953-06-30"
+                ],
+                [
+                    "Airey Neave",
+                    "activeYearsEndDate",
+                    "1979-03-30"
+                ]
+            ]
+        },
+        "text": [
+            "Airey Neave was born in Knightsbridge, England and fought in World War Two. He started his career on June 30th, 1953 and ended it on March 30th, 1979.",
+            "Knightsbridge born Airey Neave fought in World War II. His career began on 30th June 1953 and ended on 30th March 1979.",
+            "World War II veteran Airey Neave was born in Knightsbridge. He began his career 06/30/1953 and retired 03/30/1979."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Albert B. White",
+                    "birthYear",
+                    "1856"
+                ],
+                [
+                    "Albert B. White",
+                    "birthDate",
+                    "1856-09-22"
+                ],
+                [
+                    "Albert B. White",
+                    "deathPlace",
+                    "Parkersburg, West Virginia"
+                ],
+                [
+                    "Albert B. White",
+                    "dateOfDeath",
+                    "1941-07-03"
+                ]
+            ]
+        },
+        "text": [
+            "Born on 22nd September 1856, Albert B. White died on the 1941-07-03, in Parkersburg, West Virginia.",
+            "Albert B White was born on 22nd September 1856 and he died in Parkersburg, West Virginia on 1941-07-03.",
+            "Albert B White was born on 22nd September 1856 and died on the 3rd July 1941 in Parkersburg, West Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Albert Jennings Fountain",
+                    "deathPlace",
+                    "Doña Ana County, New Mexico"
+                ],
+                [
+                    "Albert Jennings Fountain",
+                    "deathPlace",
+                    "United States"
+                ],
+                [
+                    "Albert Jennings Fountain",
+                    "birthPlace",
+                    "New York"
+                ],
+                [
+                    "Albert Jennings Fountain",
+                    "birthPlace",
+                    "Staten Island"
+                ]
+            ]
+        },
+        "text": [
+            "Staten Island (New York) is the birth place of Albert Jennings Fountain who died in Dona Ana County, New Mexico, in the United States.",
+            "Albert Jennings Fountain was born in Staten Island, New York and died in Dona Ana County, New Mexico, United States.",
+            "Albert Jennings Fountain, born in Staten Island, New York, died in Dona Ana County, New Mexico, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alberto Teisaire",
+                    "profession",
+                    "Rear admira"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "successor",
+                    "Isaac Rojas"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "birthPlace",
+                    "Mendoza, Argentina"
+                ],
+                [
+                    "Alberto Teisaire",
+                    "birthDate",
+                    "1891-05-20"
+                ]
+            ]
+        },
+        "text": [
+            "Alberto Teisaire, born on May 20, 1891, was a Rear Admiral originating from Mendoza, Argentina. He preceded Isaac Rojas.",
+            "Alberto teisaire was born in Mendoza, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.",
+            "Alberto Teisaire was born on May 20th 1891 in Mendoza, Argentina and became a Rear Admiral. He was succeeded by Isaac Rojas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Styria"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Austria"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria-Hungary"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Ims"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in Austria-Hungary, in Imst and died in Styria, in Austria.",
+            "Alfons Gorbach was born in Imst in Austria-Hungary and died in Styria, Austria.",
+            "Alfons Gorbach was born in Imst, Austria-Hungary and died in Styria, Austria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Styria"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "deathPlace",
+                    "Graz"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Austria-Hungary"
+                ],
+                [
+                    "Alfons Gorbach",
+                    "birthPlace",
+                    "Tyrol (state)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfons Gorbach was born in Austria-Hungary in the state of Tyrol. He died in Styria in Graz.",
+            "Alfons Gorbach was born in Austria-Hungary in Tyrol state. He died in Styria in Graz.",
+            "Alfons Gorbach was born in the County of Tyrol in Austria-Hungary and died in Styria, Graz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alfred N. Phillips",
+                    "militaryBranch",
+                    "United States Army"
+                ],
+                [
+                    "United States Army",
+                    "battles",
+                    "Whiskey Rebellion"
+                ],
+                [
+                    "Alfred N. Phillips",
+                    "birthPlace",
+                    "Connecticu"
+                ],
+                [
+                    "Alfred N. Phillips",
+                    "office (workedAt, workedAs)",
+                    "Member of the U.S. House of Representatives from Connecticut's 4th district"
+                ]
+            ]
+        },
+        "text": [
+            "Connecticut born Alfred N Phillips, who served in the US Army, fought in the battle called Whiskey Rebellion. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.",
+            "Connecticut born Alfred N Phillips served in the US Army and fought in the Whiskey Rebellion battle. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.",
+            "U.S. House of Representatives, 4th District, Connecticut member Alfred N Phillips (born: Connecticut) was a US Army veteran. The Whiskey Rebellion was fought by the United States Army."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id28",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Allan Shivers",
+                    "party",
+                    "Democratic Party (United States)"
+                ],
+                [
+                    "Allan Shivers",
+                    "successor",
+                    "Price Dan"
+                ],
+                [
+                    "Allan Shivers",
+                    "birthPlace",
+                    "Lufkin, Texas"
+                ],
+                [
+                    "Allan Shivers",
+                    "office (workedAt, workedAs)",
+                    "Governor of Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Allan Shivers was born in Lufkin, Texas and served in the Democratic Party in the U.S. He worked as the Governor of Texas and was succeeded by, Price Daniel.",
+            "U.S. Democratic Party member and Texas Governor, Allan Shivers, was born in Lufkin, Texas. He was succeeded by Price Daniel.",
+            "United States Democratic Party member and Governor of Texas Allan Shivers was born in Lufkin, Texas and succeeded by Price Daniel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id29",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "party",
+                    "Whig Party (United States)"
+                ],
+                [
+                    "Whig Party (United States)",
+                    "leaderName",
+                    "Daniel Webs"
+                ],
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermon"
+                ],
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ]
+            ]
+        },
+        "text": [
+            "The largest city in Vermont is Burlington and Alvah Sabin represented Vermont because he belongs to the Whig Party (United States). Daniel Webster was a leader of the Whig Party in the United States.",
+            "Alvah Sabin was a member of the Whig Party of the United States and he represented Vermont, whose biggest city is Burlington. Daniel Webster was a leader of the Whig Party in the United States.",
+            "Whig Party of the United States was led by Daniel Webster. Member Alvah Sabin represented Burlington and the rest of Vermont."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id30",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Alvah Sabin",
+                    "region",
+                    "Vermont's 3rd congressional distric"
+                ],
+                [
+                    "Vermont",
+                    "largestCity",
+                    "Burlington, Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "state",
+                    "Vermon"
+                ],
+                [
+                    "Alvah Sabin",
+                    "deathPlace",
+                    "Sycamore, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Alvah Sabin was from Vermont where the largest city is Burlington. He represented Vermont's 3rd Congressional District and eventually died in Sycamore, Illinois.",
+            "Alvah Sabin represented Vermont's 3rd Congressional District. The state's largest city is Burlington and Sabin died in Sycamore, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Politician",
+            "eid": "Id31",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Native Americans in the United States"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "birthPlace",
+                    "New Britain, Connecticu"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "spouse",
+                    "Ruth Ribicoff"
+                ],
+                [
+                    "Abraham A. Ribicoff",
+                    "nationality",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Native Americans are an ethnic group in the U.S. where in New Britain, Connecticut, Abraham A Ribicoff was born. U.S. Abraham A. Ribicoff's spouse is Ruth Ribicoff.",
+            "Abraham A Ribicoff was born in New Britain, Connecticut and his nationality is American. He was married to Ruth Ribicoff. Native Americans are an ethnic group in the U.S.",
+            "American Abraham A. Ribicoff was born in New Britain, Connecticut and is married to Ruth Ribicoff. One of the ethnic groups in the U.S. are Native Americans."
+        ]
+    }
+]

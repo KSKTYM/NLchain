@@ -1,0 +1,836 @@
+[
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "category",
+                    "Contributing property"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument falls under the category of Contributing property.",
+            "The 11th Mississippi Infantry Monument is categorized as a Contributing Property.",
+            "The 11th Mississippi Infantry Monument is categorised as a contributing property."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument is located in the United States.",
+            "11th Mississippi Infantry Monument is in the United States.",
+            "The 11th Mississippi Infantry Monument is in the United States.",
+            "The 11th Mississippi Infantry Monument is based in the US."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Adams County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "11th Mississippi Infantry Monument's location is Adams County, Pennsylvania.",
+            "The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania.",
+            "11th Mississippi Infantry Monument is found in the Adams County in Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "location",
+                    "Seminary Ridg"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument is located at Seminary Ridge.",
+            "The 11th Mississippi Infantry Monument's location is in the Seminary Ridge."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "municipality",
+                    "Gettysburg, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg in Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is in the municipality of Gettysburg in Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.",
+            "11th Mississippi Infantry Monument is in Gettysburg, Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg, Pennsylvania.",
+            "The municipality for the 11th Mississippi Infantry Monument is Gettysburg, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "11th Mississippi Infantry Monument",
+                    "state",
+                    "Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "The 11th Mississippi Infantry Monument is in Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is located in the state of Pennsylvania.",
+            "The 11th Mississippi Infantry Monument stands in the state of Pennsylvania.",
+            "11th Mississippi Infantry Monument is in Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is found in Pennsylvania.",
+            "The 11th Mississippi Infantry Monument is located in Pennsylvania state."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "category",
+                    "Historic districts in the United States"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts in the United States.",
+            "The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument is located in the United States.",
+            "The 14th New Jersey Volunteer Infantry Monument is found in the United States.",
+            "14th New Jersey Volunteer Infantry Monument is located in the United States.",
+            "14th New Jersey Volunteer Infantry Memorial is in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "district",
+                    "Monocacy National Battlefield"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield.",
+            "The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield.",
+            "The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield.",
+            "The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "established",
+                    "1907-07-11"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11.",
+            "The 14th New Jersey Volunteer Infantry Monument was established 1907-07-11.",
+            "The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907.",
+            "The 14th New Jersey Volunteer Infantry Monument was established on 11th July 1907."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "foundingDate",
+                    "1907-07-11"
+                ]
+            ]
+        },
+        "text": [
+            "14th New Jersey Volunteer Infantry Monument was founded 1907-07-11.",
+            "The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th, 1907.",
+            "The 14th New Jersey Volunteer Infantry Monument was started on 11th July 1907.",
+            "The 14th New Jersey Volunteer Infantry Monument's founding date was on 1907-07-11."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "owner",
+                    "National Park Servic"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.",
+            "The National Park Service looks after the 14th New Jersey Volunteer Infantry Monument.",
+            "14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.",
+            "The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "owningOrganisation",
+                    "National Park Servic"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.",
+            "The 14th New Jersey Volunteer Infantry Monument has been provided by the National Park Service.",
+            "14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.",
+            "The National Park Service has responsibility for the 14th New Jersey Volunteer Infantry Monument.",
+            "The National Park Service owns the 14th New Jersey Volunteer Infantry Monument."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "14th New Jersey Volunteer Infantry Monument",
+                    "state",
+                    "Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "The 14th New Jersey Volunteer Infantry Monuments is located in the state of Maryland.",
+            "The 14th New Jersey Volunteer infantry Monument is in the state of Maryland.",
+            "The 14th New Jersey Volunteer Infantry Monument is located in the state of Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its north",
+                    "Cumberland County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.",
+            "Cumberland county, Pennsylvania is north of Adams County, Pennsylvania.",
+            "Pennsylvania's Cumberland County is to the north of the Adams County.",
+            "Cumberland County Pennsylvania is located in the north of Adams County Pennsylvania.",
+            "To the north of Adams County, Pennsylvania is Cumberland County, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its southwest",
+                    "Frederick County, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Frederick County, Maryland is to the southwest of Adams County, Pennsylvania.",
+            "Adams County, Pennsylvania has Frederick County, Maryland to its southwest.",
+            "Frederick County Maryland is southwest of Adams County Pennsylvania.",
+            "Maryland's Frederick County is found to the southwest of Pennsylvania's Adams County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Adams County, Pennsylvania",
+                    "has to its west",
+                    "Franklin County, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "Adams County Pennsylvania is East of Franklin County, Pennsylvania.",
+            "To the west of Adams County, Pennsylvania, is Franklin County, Pennsylvania.",
+            "Pennsylvania's Franklin County is found to the west of Adams County.",
+            "Adams County, Pennsylvania has to its west Franklin County, Pennsylvania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "inaugurationDate",
+                    "1932-07-27"
+                ]
+            ]
+        },
+        "text": [
+            "The Ataturk Monument was inaugurated on 27th July, 1932.",
+            "The inauguration date of the Atatürk Monument in Izmir is the 27th of July, 1932.",
+            "The inauguration date for the Atatürk Monument (İzmir) is 1932-07-27.",
+            "The inauguration of the Atatürk Monument was at July 27th, 1932."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atatürk Monument (İzmir)",
+                    "location",
+                    "Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The Atatürk Monument is located in Izmir, Turkey.",
+            "The Ataturk Monument (Izmir) is located in Turkey.",
+            "The Atatürk Monument is in Turkey.",
+            "The Atatürk Monument is located in İzmir, Turkey.",
+            "The Atatürk Monument (İzmir) can be found in Turkey.",
+            "The Atatürk Monument (İzmir) is found in Turkey.",
+            "Atatürk Monument is located in İzmir, Turkey."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "capital",
+                    "Baku"
+                ]
+            ]
+        },
+        "text": [
+            "Baku is the capital of Azerbaijan.",
+            "The capital of Azerbaijan is Baku."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Azerbaijan",
+                    "legislature",
+                    "National Assembly (Azerbaijan)"
+                ]
+            ]
+        },
+        "text": [
+            "The National Assembly dictates the legislature of Azerbaijan.",
+            "The National Assembly (Azerbaijan) is the source of legislature in Azerbaijan.",
+            "The Azerbaijan legislature is known as the National Assembly.",
+            "The National Assembly is the legislative branch of government in Azerbaijan.",
+            "The legislature in Azerbaijan is National Assembly.",
+            "Azerbaijan has legislature of National Assembly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "dedicatedTo",
+                    "Ottoman Army soldiers killed in the Battle of Baku"
+                ]
+            ]
+        },
+        "text": [
+            "Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.",
+            "The Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.",
+            "The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku.",
+            "The Baku Turkish Martyrs Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Baku Turkish Martyrs' Memorial",
+                    "designer",
+                    "Hüseyin Bütüner and Hilmi Güner"
+                ]
+            ]
+        },
+        "text": [
+            "Baku Turkish Martyrs' Memorial's designer was Hüseyin Bütüner and Hilmi Güner.",
+            "The Baku Turkish Martyrs' Memorial was designed by Hüseyin Bütüner and Hilmi Güner.",
+            "The designers of the Turkish Martyrs' memorial are Huseyin Butuner and Hilmi Guner.",
+            "The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.",
+            "Hüseyin Bütüner and Hilmi Güner designed the Baku Turkish Martyrs' Memorial.",
+            "Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.",
+            "The designers of the Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.",
+            "Huseyin Butuner and Hilmi Guner are the designers of the Baku Turkish Martyrs' Memorial."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "dedicatedTo",
+                    "Æthelwald, Ealdorman of East Anglia"
+                ]
+            ]
+        },
+        "text": [
+            "The Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.",
+            "Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "location",
+                    "England"
+                ]
+            ]
+        },
+        "text": [
+            "The Dead Man's Plack is located in England.",
+            "Dead Man's Plack is in England.",
+            "Dead Man's Plack is found in England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Dead Man's Plack",
+                    "material",
+                    "Rock (geology)"
+                ]
+            ]
+        },
+        "text": [
+            "The Dead Man's Plack is made from rock.",
+            "Dead Man's Plack is made of rock.",
+            "Dead Man's Plack is made from stone.",
+            "The Dead Man's Plack is made with rock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "England",
+                    "capital",
+                    "London"
+                ]
+            ]
+        },
+        "text": [
+            "London is the capital of England.",
+            "The capital of England is London.",
+            "England's capital is London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "England",
+                    "ethnicGroups",
+                    "British Arabs"
+                ]
+            ]
+        },
+        "text": [
+            "One of the ethnic groups found in England is the British Arabs.",
+            "The British Arabs are an English ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "England",
+                    "languages",
+                    "Cornish languag"
+                ]
+            ]
+        },
+        "text": [
+            "One of the languages spoken in England is the Cornish language.",
+            "Cornish language is spoken in England.",
+            "Cornish is a language spoken in the Cornwall region of England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "England",
+                    "religion",
+                    "Church of England"
+                ]
+            ]
+        },
+        "text": [
+            "In England the main religion is the Church of England.",
+            "The established religion in England is The Church of England.",
+            "The religion of England is Church of England."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Monocacy National Battlefield",
+                    "location",
+                    "Frederick County, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "Monocacy National Battlefield is located in Frederick County, Maryland.",
+            "The Monocacy National Battlefield is located in Frederick County, Maryland.",
+            "The Monocacy National Battlefield is in the county Frederick, Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Monocacy National Battlefield",
+                    "nearestCity",
+                    "Frederick, Maryland"
+                ]
+            ]
+        },
+        "text": [
+            "The city nearest to Monocacy National Battlefield is Frederick, Maryland.",
+            "The nearest city to Monocacy National Battlefield is Frederick, Maryland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Turkey",
+                    "capital",
+                    "Ankara"
+                ]
+            ]
+        },
+        "text": [
+            "Ankara is the capital of Turkey.",
+            "The capital of Turkey is Ankara.",
+            "Turkey's capital is Ankara.",
+            "Ankara is the Turkish capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Turkey",
+                    "currency",
+                    "Turkish lira"
+                ]
+            ]
+        },
+        "text": [
+            "The currency of Turkey is Turkish Lira.",
+            "The currency of Turkey is the Turkish lira.",
+            "The currency in Turkey is the Turkish Lira.",
+            "Turkey's currency is the Turkish lira.",
+            "The currency used in Turkey is lira.",
+            "The Turkish currency is the Turkish lira."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Turkey",
+                    "largestCity",
+                    "Istanbu"
+                ]
+            ]
+        },
+        "text": [
+            "The largest city in Turkey is Istanbul.",
+            "Istanbul is the largest city in Turkey.",
+            "Turkey's largest City is Istanbul."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Turkey",
+                    "leader",
+                    "Ahmet Davutoğlu"
+                ]
+            ]
+        },
+        "text": [
+            "Ahmet Davutoglu is a leader of Turkey.",
+            "Ahmet Davutoglu is the leader of Turkey.",
+            "Leader of Turkey is Ahmet Davutoglu.",
+            "Ahmet Davutoğlu is Turkey's leader.",
+            "The Leader Of Turkey is Ahmet Davutoğlu.",
+            "Ahmet Davutoglu is the Turkish leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Turkey",
+                    "leaderName",
+                    "Ahmet Davutoğlu"
+                ]
+            ]
+        },
+        "text": [
+            "Turkey's leader is Ahmet Davutoğlu.",
+            "Turkey leader name is Ahmet Davutoğlu.",
+            "The Turkish leader's name is Ahmet Davutoglu."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Monument",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Turkey",
+                    "leaderTitle",
+                    "President of Turkey"
+                ]
+            ]
+        },
+        "text": [
+            "The leader's title in Turkey is the President of Turkey.",
+            "Turkey's leader is the President of Turkey.",
+            "President of Turkey is the official title of the Turkish leader."
+        ]
+    }
+]

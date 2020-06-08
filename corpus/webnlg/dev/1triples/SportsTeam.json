@@ -1,0 +1,641 @@
+[
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stög"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stoger is the manager of FC Koln.",
+            "Peter Stöger is manager of 1. FC Köln.",
+            "The manager of 1. FC Koln is Peter Stoger."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "1 FC Magdeburg played in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "season",
+                    "2014–15 Lega Pro"
+                ]
+            ]
+        },
+        "text": [
+            "A C Lumezzane played the 2014-2015 season in Lega Pro.",
+            "Lumezzane played in the Lega Pro during the 2014-15 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Asociación Deportiva"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. Isidro Metapan's full name is \"Asociación Deportiva\".",
+            "A.D. Isidro Metapán's full name is Asociación Deportiva.",
+            "The full name of A.D. Isidro Metapan is Asociacion Deportiva."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "fullname",
+                    "A.E Dimitra Efxeinoupolis"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis's full name is A.E Dimitra Efxeinoupolis.",
+            "\"A.E Dimitra Efxeinoupolis\" is the full name of A.E Dimitra Efxeinoupolis.",
+            "A.E Dimitra Efxeinoupolis has the full name A.E Dimitra Efxeinoupolis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis played in the 2014 season.",
+            "A.E Dimitra Efxeinoupolis were in the 2014 season.",
+            "A.E Dimitra Efxeinoupolis played in season 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "season",
+                    "2014–15 A EPSTH, Greec"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis were in the 2014–15 A EPSTH. Greece season.",
+            "A.E Dimitra Efxeinoupolis were in the 2014-15 A EPSTH, Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "numberOfMembers",
+                    "1500"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Blackpool has 1500 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "The Fyld"
+                ]
+            ]
+        },
+        "text": [
+            "The Fylde is the home ground of AFC Fylde.",
+            "AFC Fylde has the home ground called The Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio has 19238 members.",
+            "The AS Livorno Calcio has 19238 members.",
+            "The A.S. Livorno Calcio has 19238 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "season",
+                    "2014–15 Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma were in Serie A in 2014-15."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "manager",
+                    "Frank de Bo"
+                ]
+            ]
+        },
+        "text": [
+            "Frank de Boer manages the AFC Ajax team.",
+            "AFC Ajax's manager is Frank de Boer.",
+            "The manager of AFC Ajax is Frank de Boer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "nickname",
+                    "Joden , Godenzonen"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs) have the nickname \"Joden, Godenzonen\".",
+            "The AFC Ajax team's nickname is Joden, Godenzonen.",
+            "AFC Ajax (amateurs) nickname is Joden, Godenzonen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "numberOfMembers",
+                    "5000"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax has 5000 Members.",
+            "AFC Ajax (amateurs) has 5000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "location",
+                    "Shuvalan, Baku, Azerbaijan"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK is located at Shuvalan, Baku, Azerbaijan.",
+            "AZAL PFK is located in Shuvalan, Baku, Azerbaijan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "numberOfMembers",
+                    "17023"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar has 17023 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "manager",
+                    "Vica"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiacao Sportiva Arapiraquense are managed by Vica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015 Campeonato Brasileiro Série C"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C.",
+            "Agremiacao Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High Schoo"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School.",
+            "St Vincent-St Mary High School is the ground of Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "numberOfMembers",
+                    "3000"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault has 3000 members.",
+            "Akron Summit Assault has got 3000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Amsterdam",
+                    "part",
+                    "Amsterdam-Centru"
+                ]
+            ]
+        },
+        "text": [
+            "Amsterdam-Centrum is part of Amsterdam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Greece is Nikos Voutsis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Gus Poyet",
+                    "club",
+                    "AEK Athens F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Gus Poyet is in AEK Athens F.C.",
+            "Gus Poyet plays for AEK Athens F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Germania Schöneich"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Hartel plays for SV Germania Schoneiche."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "John van den Brom",
+                    "club",
+                    "AZ Alkmaa"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays at the AZ Alkmaar club.",
+            "John van den Brom plays for AZ Alkmaar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "A.D. Isidro Metapán"
+                ]
+            ]
+        },
+        "text": [
+            "Jorge Humberto Rodriguez's club is A.D. Isidro Metapan.",
+            "Jorge Humberto Rodríguez is with the A.D. Isidro Metapán club.",
+            "Jorge Humberto Rodríguez was a member of the club A.D. Isidro Metapán."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Delfino Pescara 1936"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago is attached to the club Delfino Pescara 1936."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "S.S. Chieti Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago plays for S.S.Chieti Calcio.",
+            "Massimo Drago's club is the S.S. Chieti Calcio.",
+            "Massimo Drago plays for S.S. Chieti Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Olympic Stadium (Athens)",
+                    "location",
+                    "Marous"
+                ]
+            ]
+        },
+        "text": [
+            "The Olympic Stadium (Athens) is located at Marousi.",
+            "The Olympic Stadium (Athens) is located in Marousi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Premier Development League",
+                    "champions",
+                    "K-W United FC"
+                ]
+            ]
+        },
+        "text": [
+            "K-W United FC have been champions of the Premier Development League.",
+            "K-W United FC were champions at the Premier Development League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Bury F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker played football for Bury FC.",
+            "The footballer Stuart Parker plays for the Bury FC."
+        ]
+    }
+]

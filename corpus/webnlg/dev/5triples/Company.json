@@ -1,0 +1,207 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, a publicly traded company with 295 banking centers, was founded in Manila on the 16th of August, 1920. The net income of Chinabank is $15,100,000,000.",
+            "Chinabank, a publicly traded company with 295 locations, was founded on 08-16-1920. Chinabank was founded in Manila and has a net income of $15,100,000,000.",
+            "Chinabank, a public company with 295 branches, currently has a net income of $15,100,000,000. Chinabank was founded in Manila on 1920-08-16."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ],
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Cen"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, a maker of mobile applications founded on 01-01-2000, is a mass media industry with headquarters in the GMA Network Center. Felipe Gozon is a key person in GMA New Media.",
+            "GMA New Media (founded on January 01, 2000) is a company in mass media industry that offers products such as mobile applications. Felipe Gozon is the key person on GMA New Media, which is located inside the GMA Network Center.",
+            "GMA New Media founded on January 01,2000 is located in the GMA Network Center. This company is in the mass media industry, makes mobile apps and Felipe Gozon is the key person on board."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Cosmetics"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Braz"
+                ],
+                [
+                    "Brazil",
+                    "populationDensity",
+                    "23.8"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas was founded January 1, 2001 as a pharmaceutical company primarily focusing on cosmetics. It's located in Brazil, which has as population density of 23.8.",
+            "Hypermarcas is a pharmaceutical company founded on January 1, 2001, that also sells cosmetics. It is located in Brazil which has a population density of 23.8 per square kilometer.",
+            "Hypermarcas, founded on January 1, 2001, is a pharmaceutical company and a maker of cosmetics products. The company is located in Brazil, which has a population density of 23.8."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 5,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "Ireland",
+                    "location",
+                    "Euro"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ],
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a European subsidiary company located in Ireland that employs 29,000 people. The company was founded in La Crosse, Wisconsin.",
+            "Founded in La Crosse, Wisconsin, Trane is located in the European country of Ireland. Trane is a subsidiary company with 29000 employees.",
+            "Trane, a subsidiary company founded in La Crosse, Wisconsin, has 29,000 employees and operates in Ireland, which is located in Europe."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 5,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management Sys"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "netIncome",
+                    "556300000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is subsidiary in Swords, Dublin who produces building management systems, they have a net income of $556 million and a total revenue of $10,264,000,000.",
+            "Trane, a maker of building management systems with net income of $556,300,000 from revenue of 10,264,000,000, is a subsidiary company located in Swords, Dublin.",
+            "Trane, a subsidiary located in Swords, Dublin, manufactures building management systems. Trane has net income of $556,300,000 from revenue of $10,264,000,000."
+        ]
+    }
+]

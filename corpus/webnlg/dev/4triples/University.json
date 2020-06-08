@@ -1,0 +1,323 @@
+[
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100, the dean is named Mario Botta.",
+            "The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. It has 100 academic staff and its dean is Mario Botta.",
+            "The Accademia di Architettura di Mendrisio is located in Mendrisio in Switzerland. Its dean is Mario Botta with its staff size being 100."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "country",
+                    "Switzerland"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "numberOfStudents",
+                    "600"
+                ],
+                [
+                    "Switzerland",
+                    "leaderTitle",
+                    "Federal Chancellor of Switzerland"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio was established in Switzerland in 1996. It has 600 students. The leader of Switzerland is the Federal Chancellor.",
+            "Accademia di Architettura di Mendrisio was established in 1996 in Switzerland and has 600 attending students. Its leader is the Federal Chancellor of Switzerland.",
+            "The Accademia di Architettura di Mendrisio of Switzerland was established in 1996 and has 600 students. The leader of the country has the title Federal Chancellor of Switzerland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "dean",
+                    "Mario Botta"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "city",
+                    "Mendrisio"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "established",
+                    "1996"
+                ],
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "The Accademia di Architettura di Mendrisio (Dean - Mario Botta) was established in 1996, has an academic staff of 100 and is located in the city of Mendrisio.",
+            "Accademia di Architettura di Mendrisio in the city of Mendrisio was established in 1996 and has an academic staff size of 100 people. Its dean is Mario Botta.",
+            "The Accademia di Architettura di Mendrisio was established in 1996 in Mendrisio. It has an academic staff size of 100 and the dean is Mario Botta."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id4",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "was given the 'Technical Campus' status by",
+                    "All India Council for Technical Education"
+                ],
+                [
+                    "All India Council for Technical Education",
+                    "location",
+                    "Mumba"
+                ],
+                [
+                    "Visvesvaraya Technological University",
+                    "city",
+                    "Belgau"
+                ]
+            ]
+        },
+        "text": [
+            "Acharya Institute of Technology has an affiliation with Visvesvaraya Technological University (Belgaum) and was given the 'Technical Campus' status by the All India Council for Technical Education, which is located in Mumbai.",
+            "Acharya Institute of Technology, an affiliation of Belgaum's Visvesvaraya Technological University was recognized as the Technical Campus by the All India Council for Technical Education of Mumbai."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "city",
+                    "Bangalo"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "numberOfPostgraduateStudents",
+                    "700"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It has 700 postgraduate students.",
+            "Acharya Institute of Technology campus which has 700 postgraduate students is located in India at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+            "Acharya Institute of Technology in Bangalor, India has 700 post-graduate students and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "director",
+                    "Dr. G. P. Prabhukumar"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "established",
+                    "2000"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "country",
+                    "India"
+                ],
+                [
+                    "Acharya Institute of Technology",
+                    "affiliation",
+                    "Visvesvaraya Technological University"
+                ]
+            ]
+        },
+        "text": [
+            "The Acharya Institute of Technology (Director - Dr. G. P. Prabhukumar), is located in India, was established in 2000 and is affiliated with Visvesvaraya Technological University.",
+            "Acharya Institute of Technology in India was established in 2000. Its director is Dr. G. P. Prabhukumar and the school is affiliated with Visvesvaraya Technological University.",
+            "An affiliate of Visvesvaraya Technological University and established in 2000 in India, Acharya Institute of Technology is led by director Dr. G. P. Prabhukumar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id7",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Romania",
+                    "ethnicGroup",
+                    "Germans of Romania"
+                ],
+                [
+                    "Romania",
+                    "leaderName",
+                    "Klaus Iohannis"
+                ],
+                [
+                    "Romania",
+                    "capital",
+                    "Buchares"
+                ],
+                [
+                    "1 Decembrie 1918 University",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "The 1 Decembrie 1918 University is located in Romania (capital Bucharest). The leader of Romania is Klaus Iohannis and the ethnic group is Germans of Romania.",
+            "The leader of Romania is Klaus Iohannis. The country is home to different ethnic groups, one of which are the Germans of Romania. The capital city is Bucharest and the country is the location of the 1 Decembrie 1918 University."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id8",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "affiliation",
+                    "European University Association"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University is located in Denmark and affiliated to the European University Association. It was established in 1928 and it has 737 academic staff.",
+            "The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It is affiliated with the European University Association and has 737 academic staff.",
+            "Denmark's School of Business and Social Sciences at the Aarhus University was established in 1928. It currently has 737 staff and is affiliated with the European University Association."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "numberOfStudents",
+                    "16000"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ],
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "established",
+                    "1928"
+                ]
+            ]
+        },
+        "text": [
+            "The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark. It has an academic staff of 737 and a student body of 16000.",
+            "The School of Business and Social Sciences at the Aarhus University, Denmark (established 1928) has an academic staff of 737 and a student roll of 16000."
+        ]
+    }
+]

@@ -1,0 +1,730 @@
+[
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Suburban Legends"
+                ],
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kids Imagine Nation"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Bertram plays for the Suburban Legends band and Kids Imagine Nation.",
+            "Aaron Bertram is an artist with the band Kids Imagine Nation and plays for the Suburban Legends band.",
+            "Aaron Bertram plays for both the Suburban Legends band and the Kids Imagine Nation band."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id2",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Suburban Legends"
+                ],
+                [
+                    "Suburban Legends",
+                    "genre",
+                    "Ska"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Bertram plays for the Suburban Legends band and their genre is Ska.",
+            "Aaron Bertram plays for the Suburban Legends band which play Ska music.",
+            "Aaron Bertram plays for the Suburban Legends band who perform Ska music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Deer",
+                    "genre",
+                    "Psychedelia"
+                ],
+                [
+                    "Aaron Deer",
+                    "instrument",
+                    "Guitar"
+                ]
+            ]
+        },
+        "text": [
+            "Guitarist Aaron Deer plays Psychedelia.",
+            "Aaron Deer plays the guitar and performs Psychedelia music.",
+            "Guitarist Aaron Deer performs music from the Psychedelia genre."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Isis (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Lotus Eaters (band)"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner is an artist for the band Isis and a musician in the Lotus Eaters band.",
+            "Aaron Turner, is a musician in the Lotus Eaters band and is an artist for the band Isis.",
+            "Aaron Turner has played for Isis and the Lotus Eaters band."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abradab",
+                    "birthPlace",
+                    "Katowice"
+                ],
+                [
+                    "Abradab",
+                    "birthPlace",
+                    "Poland"
+                ]
+            ]
+        },
+        "text": [
+            "Abradab was born in Katowice, Poland.",
+            "The birth place of Abradab is Poland, in Katowice.",
+            "Abradab was born is Katowice, Poland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ace Wilder",
+                    "genre",
+                    "Hip hop music"
+                ],
+                [
+                    "Hip hop music",
+                    "stylisticOrigin",
+                    "Disco"
+                ]
+            ]
+        },
+        "text": [
+            "Ace Wilder is an exponent of hip hop music, a style that originated from disco.",
+            "The musical genre of Ace Wilder is hip hop music which has its origins in Disco.",
+            "Ace Wilder's musical genre is Hip hop music which has its origins in Disco."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Al Anderson (NRBQ band)",
+                    "genre",
+                    "Rock music"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Country music"
+                ]
+            ]
+        },
+        "text": [
+            "Al Anderson is a performer of rock music, which has its origins in country music.",
+            "Al Anderson, a member of the band NRBQ, performs rock music, the genre which originated from country music.",
+            "Al Anderson is a member of the rock music band NRBQ. Rock music came from country music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id8",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan Frew",
+                    "genre",
+                    "Rock music"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Country music"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Frew plays rock music, which originated from country music.",
+            "Alan Frew's musical genre is rock music, which originated from country music.",
+            "Alan Frew plays rock music which has its roots in country music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id9",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albennie Jones",
+                    "genre",
+                    "Jazz"
+                ],
+                [
+                    "Jazz",
+                    "stylisticOrigin",
+                    "Blues"
+                ]
+            ]
+        },
+        "text": [
+            "Jazz music originated from blues music. Albennie Jones is a jazz performer.",
+            "Albennie Jones plays Jazz, which originated from Blues music.",
+            "The origins of Jazz is Blues and a jazz artist is Albennie Jones."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id10",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albennie Jones",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Rhythm and blues",
+                    "stylisticOrigin",
+                    "Blues"
+                ]
+            ]
+        },
+        "text": [
+            "Albennie Jones performs rhythm and blues music, a genre that originated from blues music.",
+            "Originating from blues music, rhythm and blues is the music genre of Albennie Jones.",
+            "Albennie Jones plays rhythm and blues, derived from the blues."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "genre",
+                    "Soul music"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "activeYearsStartYear",
+                    "1990"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovac stared in 1990 and she performs soul music.",
+            "Aleksandra Kovač began her musical career in 1990, she performs soul music.",
+            "Aleksandra Kovac is a soul music performer who began her musical career in 1990."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id12",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Day",
+                    "genre",
+                    "Synthpop"
+                ],
+                [
+                    "Synthpop",
+                    "stylisticOrigin",
+                    "Disco"
+                ]
+            ]
+        },
+        "text": [
+            "The musical genre of Alex Day is Synthpop which is a derivative of disco music.",
+            "Alex Day is a Synthpop artist, a derivative of disco.",
+            "Synthpop, originated from Disco and is the musical genre of Alex Day."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id13",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alex Day",
+                    "genre",
+                    "Synthpop"
+                ],
+                [
+                    "Synthpop",
+                    "stylisticOrigin",
+                    "New wave music"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Day plays Synthpop, which originated from new wave music.",
+            "Alex Day performs Synthpop music which has its stylistic origin in new wave music.",
+            "Alex Day plays Synthpop, which is derived from New Wave music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id14",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "deathPlace",
+                    "Montevideo"
+                ],
+                [
+                    "Montevideo",
+                    "leaderName",
+                    "Daniel Martínez (politician)"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa died in Montevideo where Daniel Martinez is the leader.",
+            "Alfredo Zitarrosa died in Montevideo, where the leader is Daniel Martinez.",
+            "Alfredo Zitarrosa death place was in Montevideo, the leader of which is, Daniel Martínez."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "genre",
+                    "Zamba (artform)"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa's genre is Zamba which is considered an art form and he started out as a solo singer.",
+            "Alfredo Zitarrosa has a background as a solo singer and performs Zamba music.",
+            "Alfredo Zitarrosa performs Zamba music and started out as a solo singer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alison O'Donnell",
+                    "associatedBand/associatedMusicalArtist",
+                    "Plastik Mak"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "associatedBand/associatedMusicalArtist",
+                    "Head South By Weaving"
+                ]
+            ]
+        },
+        "text": [
+            "Alison O'Donnell is associated with Plastik Mak and the band Head South By Weaving.",
+            "Alison O'Donnell is associated with Plastik Mak and is musically associated with the band Head South By Weaving.",
+            "Alison O'Donnell is musically associated with Plastik Mak and Head South By Weaving."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id17",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alison O'Donnell",
+                    "genre",
+                    "Jazz"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "instrument",
+                    "Autoharp"
+                ]
+            ]
+        },
+        "text": [
+            "Alison O'Donnell is a jazz artist who plays the autoharp.",
+            "Alison O'Donnell plays the autoharp and performs jazz music.",
+            "Alison O'Donnell is a jazz musician who plays the autoharp."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id18",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Allen Forrest",
+                    "genre",
+                    "Pop music"
+                ],
+                [
+                    "Allen Forrest",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Allen Forrest has a background as a solo singer and was a pop artist.",
+            "Allen Forrest is a solo singer and an exponent of pop music.",
+            "Allen Forrest, a solo singer, was a pop artist."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alternative rock",
+                    "musicFusionGenre",
+                    "Nu metal"
+                ],
+                [
+                    "Andrew White (musician)",
+                    "genre",
+                    "Alternative rock"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew White plays alternative rock, of which nu metal is a fusion genre.",
+            "The musician Andrew White's genre is alternative rock and nu metal is an of alternative rock music fusion.",
+            "Andrew White performs alternative rock music, a genre that nu metal is a fusion genre of."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Billy Iuso"
+                ],
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Theresa Andersson"
+                ]
+            ]
+        },
+        "text": [
+            "Anders Osborne is associated with musicians Billy Iuso and Theresa Andersson.",
+            "Anders Osborne is associated with musical artist Billy Iuso and Theresa Andersson.",
+            "Anders Osborne is associated with Billy Iuso and Theresa Andersson."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Anders Osborne",
+                    "recordLabel",
+                    "Rabadash Records"
+                ]
+            ]
+        },
+        "text": [
+            "Rhythm and blues artist Anders Osborne is signed with Rabadash Records.",
+            "Anders Osborne genre is Rhythm and blues and his record label is Rabadash Records.",
+            "Anders Osborne's genre is Rhythm and blues and he is signed to the Rabadash Records label."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Pop music"
+                ],
+                [
+                    "Andra (singer)",
+                    "activeYearsStartYear",
+                    "2000"
+                ]
+            ]
+        },
+        "text": [
+            "Andra began her Pop music singing career in 2000.",
+            "Andra is a pop singer who started in 2000.",
+            "Andra began her singing career in 2000 and sings pop music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Pop music"
+                ],
+                [
+                    "Andra (singer)",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Andra began her career as a solo singer and she sings pop music.",
+            "Andra began her career as a solo singer and sings pop music.",
+            "Andra is a solo singer who performs pop music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id24",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Pop music"
+                ],
+                [
+                    "Pop music",
+                    "musicFusionGenre",
+                    "Disco"
+                ]
+            ]
+        },
+        "text": [
+            "Disco can be considered a fusion genre as it contains elements of other genres such as pop music which is performed by Andra (singer).",
+            "Disco music is a fusion genre of pop music, the genre of singer, Andra.",
+            "Andra sings pop music, a fusion genre of pop music is disco music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id25",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Jonathan Mendelsohn"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Mark Sixma"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew Rayel is associated with both musical artist Jonathan Mendelsohn and Mark Sixma.",
+            "Andrew Rayel has worked musically with Jonathan Mendelsohn and Mark Sixma.",
+            "Andrew Rayel is associated with Jonathan Mendelsohn and Mark Sixma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id26",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Mark Sixma"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Christian Burns"
+                ]
+            ]
+        },
+        "text": [
+            "Musicians Andrew Rayel, who is associated with Christian Burns, and Mark Sixma are associates.",
+            "The musicians Andrew Rayel and Christian Burns are associates and they worked with Mark Sixma.",
+            "Musicians, Andrew Rayel, Christian Burns and Mark Sixma, are associates."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id27",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Andrew White (musician)",
+                    "associatedBand/associatedMusicalArtist",
+                    "Marry Banilow"
+                ],
+                [
+                    "Andrew White (musician)",
+                    "genre",
+                    "Alternative rock"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew White whose genre is alternative rock, is associated with the musical artist Marry Banilow.",
+            "Andrew White is and alternative rock musician who is associated with Marry Banilow.",
+            "Andrew White, whose genre is alternative rock, is associated with the musical artist Marry Banilow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id28",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Uruguay",
+                    "leaderName",
+                    "Tabaré Vázquez"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "birthPlace",
+                    "Uruguay"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa was born in Tabaré Vázquez led Uruguay.",
+            "Alfredo Zitarrosa's birthplace was Uruguay where the leader is Tabaré Vázquez.",
+            "Tabare Vazquez is the leader of Uruguay where Alfredo Zitarrosa was born."
+        ]
+    }
+]

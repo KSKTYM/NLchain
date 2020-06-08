@@ -1,0 +1,2028 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "foundingDate",
+                    "1959-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas was founded in the United States on 1959-01-01.",
+            "AmeriGas, founded on 01-01-1959, works in the country of the United States.",
+            "AmeriGas, whose home country is the United States, was founded on January 1, 1959."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "numberOfEmployees",
+                    "8500"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is based in the United States and employs 8.5 thousand people.",
+            "AmeriGas, whose current employment is 8,500, has its home in the United States.",
+            "AmeriGas works in the United States with 8500 employees."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White American"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is working in the United States. White American is one of the ethnic groups in that same country.",
+            "AmeriGas’s home country is the United States which one of ethnics groups is White Americans.",
+            "AmeriGas works in the United States, where White-American is a category for an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas works in the United States where Paul Ryan is the leader.",
+            "AmeriGas works in the United States, one of whose leaders is Paul Ryan.",
+            "AmeriGas's home country is the United States, which has Paul Ryan as one of its leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderTitle",
+                    "Vice President"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas works in the US, where the Vice President is a leader.",
+            "AmeriGas's home country is the United States, which has Vice President as one of its leadership titles.",
+            "AmeriGas is working in the United States, where Vice President is one of the titles of its government leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas works in the United States in the energy industry.",
+            "Amerigas, which works in the US, is in the energy industry.",
+            "The United States is the home country of AmeriGas, a company in the energy industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ],
+                [
+                    "AmeriGas",
+                    "foundingDate",
+                    "1959-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Classified as energy industry, AmeriGas was founded on January 1st, 1959.",
+            "AmeriGas is a company in the energy industry that was founded on January 1, 1959.",
+            "AmeriGas is a company in the energy industry that was founded on 01-01-1959."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is located in King of Prussia, Pennsylvania, and does lots of work in the US.",
+            "AmeriGas, which works in the United States, is located in King of Prussia, Pennsylvania.",
+            "AmeriGas's location is in the city of King of Prussia, Pennsylvania in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas, which is located in King of Prussia, Pennsylvania, earns an operating income of 380700000.",
+            "The Pennsylvania company, AmeriGas has an operating income of 380700000 and is located in King of Prussia.",
+            "Located in King of Prussia, Pennsylvania, AmeriGas has an operating income of $380,700,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id10",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ],
+                [
+                    "King of Prussia, Pennsylvania",
+                    "type",
+                    "Census-designated place"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is located in King of Prussia, Pennsylvania, which is a census-designated place.",
+            "King of Prussia, Pennsylvania, a census-designated place is the location of AmeriGas."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "numberOfEmployees",
+                    "8500"
+                ],
+                [
+                    "AmeriGas",
+                    "netIncome",
+                    "211200000"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas earns a net income of 211200000 thanks to the efforts of its 8500 employees.",
+            "AmeriGas employs 8,500 people with their net income being 211200000.",
+            "AmeriGas has 8,500 employees and a net income of $211,200,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is a U.S. based company with an operating income of $380,700,000.",
+            "AmeriGas's is based in the United States and has an operating income of 380700000.",
+            "AmeriGas has an operating income of $380,700,000 and works in the country of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "industry",
+                    "Energy industry"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is a company in the energy industry whose operating income is 380700000.",
+            "AmeriGas is a company in the energy industry that has an operating income of $380,700,000.",
+            "With an operating income of 380700000, AmeriGas's industry is classified as energy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ],
+                [
+                    "AmeriGas",
+                    "netIncome",
+                    "211200000"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas has an operating income of $380,700,000 and a net income of $211,200,000.",
+            "The operating income of AmeriGas is 380700000, while their net income is 211200000.",
+            "AmeriGas earned an operating income of 380700000, producing a net income of $211,200,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "locationCity",
+                    "King of Prussia, Pennsylvania"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas, which serves all regions of the United States, is located in the city of King of Prussia, Pennsylvania.",
+            "AmeriGas is located in King of Prussia, Pennsylvania, and serve the United States.",
+            "While a located in king of prussia, pennsylvania, AmeriGas provides its services within the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "AmeriGas",
+                    "operatingIncome",
+                    "380700000"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas serves the United States, and their operating income is 380700000.",
+            "AmeriGas serves all regions of the United States, and their operating income is 380700000.",
+            "AmeriGas, which provides services in the United States, has an operating income of $380,700,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ]
+            ]
+        },
+        "text": [
+            "Paul Ryan is the leader of the United States where AmeriGas provides its services.",
+            "Paul Ryan is the name of one of the government leaders in the United States, which Amerigas serves.",
+            "AmeriGas services all regions of the United States, which boasts Paul Ryan as one of its leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AmeriGas",
+                    "regionServed",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderTitle",
+                    "Vice President"
+                ]
+            ]
+        },
+        "text": [
+            "Vice President is a United States leadership title, and AmeriGas provides its services in the United States.",
+            "AmeriGas serves all regions of the United States, with one leadership title for the United States being Vice President.",
+            "AmeriGas serves the US, where Vice President is one of the titles of the government's leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id19",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ],
+                [
+                    "Chinabank",
+                    "location",
+                    "Philippines"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in the Insular Government of the Philippine Islands, currently still remaining in the Philippines.",
+            "Chinabank, which is located in the Philippines, was founded in the Insular Government of the Philippine Islands.",
+            "Chinabank was founded in the Philippines' Insular Government, and is still located there."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id20",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ],
+                [
+                    "Insular Government of the Philippine Islands",
+                    "foundingDate",
+                    "1901-07-01"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in the Insular Government of the Philippine Islands, which was founded on July 1st, 1901.",
+            "Chinabank was founded in the Insular Government of the Philippine Islands, which was established on July 1, 1901.",
+            "Chinabank was founded in the Insular Government of the Philippine Islands on 07-01-1901."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded in Manila in the Insular Government of the Philippine Islands.",
+            "Chinabank was founded in Manila, in the Insular Government of the Philippine Islands.",
+            "Manila, the Insular Government of the Philippine Islands, is the founding location of Chinabank."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ],
+                [
+                    "Chinabank",
+                    "type",
+                    "Public company"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is a public company that was founded in Manila.",
+            "Chinabank is a publicly traded company which was founded in Manila.",
+            "Chinabank was founded in Manila, but is now a publicly traded company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Insular Government of the Philippine Islands"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank was founded on 1920-08-16 in the Insular Government of the Philippine Islands.",
+            "Founded on August16, 1920, Chinabank began in the Insular Government of the Philippine Islands.",
+            "Chinabank was founded on 08-16-1920 in the Insular Government of the Philippine Islands."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id24",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank, which was founded on 08-16-1920, has a net income of 15,100,000,000.",
+            "Chinabank, a company founded on 1920-08-16, currently boasts a net income of 15100000000.",
+            "The net income of Chinabank which was founded August 16, 1920 is 15,100,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id25",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfEmployees",
+                    "5594"
+                ]
+            ]
+        },
+        "text": [
+            "Founded on 08-16-1920, Chinabank has 5594 employees.",
+            "Founded on August 16th, 1920; Chinabank employs 5594 people.",
+            "There are currently 5594 workers employed at Chinabank, which was established on August 16, 1920."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id26",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "foundingDate",
+                    "1920-08-16"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ]
+            ]
+        },
+        "text": [
+            "Founded August 16, 1920, Chinabank currently has 295 locations.",
+            "Chinabank, which was founded on August 16, 1920, has 295 banking centers.",
+            "Chinabank, which was founded on 1920-08-16, has 295 branches."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id27",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "leaderName",
+                    "Pantaleon Alvarez"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is located in the Philippines, which is led by Pantaleon Alvarez.",
+            "Chinabank's location is the Philippines where Pantaleon Alvarez is the leader.",
+            "Chinabank is located in the Philippines, where Pantaleon Alvarez is a political leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id28",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "leaderTitle",
+                    "President"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank is located in the Philippines whose leader has the title of president.",
+            "The title of the leader of the Philippines is president, and Chinabank is located there.",
+            "Chinabank's location is in the Philippines where The President is the leader's title."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id29",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ],
+                [
+                    "Chinabank",
+                    "foundationPlace",
+                    "Manila"
+                ]
+            ]
+        },
+        "text": [
+            "After being founded in Manila, Chinabank now has 295 locations.",
+            "Chinabank has 295 locations, but Manila is the place of its founding.",
+            "Chinabank, founded in Manila, has 295 branches."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id30",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfEmployees",
+                    "5594"
+                ]
+            ]
+        },
+        "text": [
+            "With 5594 total employees, Chinabank operates in the banking service.",
+            "Chinabank is a banking service company with 5594 employees.",
+            "Employing 5594 people, Chinabank administers banking services to consumers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id31",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Chinabank",
+                    "service",
+                    "Banking"
+                ],
+                [
+                    "Chinabank",
+                    "numberOfLocations",
+                    "295"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank provides banking services to customers and has 295 banking centers.",
+            "Chinabank has 295 branches in the banking service industry.",
+            "Chinabank offers banking service across its 295 locations."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id32",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Mass Media"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, founded 01/01/2000, is in the mass media industry.",
+            "Founded on january 1, 2000, GMA New Media's industry is mass media.",
+            "Founded on 01-01-2000, GMA New Media is a mass media industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id33",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "GMA Network Center"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, which was founded on 01/01/2000, is located in the GMA Network Center.",
+            "GMA New Media, which was founded on 01-01-2000, has its headquarters in the GMA Network Center.",
+            "GMA New Media, which was founded on January 1, 2000, is located inside GMA Network Center."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id34",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "foundingDate",
+                    "2000-01-01"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a media company that was founded on 01-01-2000.",
+            "GMA New Media, Inc., which was founded on January 1, 2000, is a media company.",
+            "GMA New Media is a media company which was founded on 01/01/2000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id35",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainment"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media not only offers applications in the entertainment industry, but also produces web services.",
+            "GMA New Media is an entertainment company that makes web sites.",
+            "GMA New Media is an entertainment industry that offers services concerning the World Wide Web."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id36",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainment"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, Inc. is a media company that offers applications in the entertainment industry.",
+            "GMA New Media, a media company, is also an entertainment industry.",
+            "GMA New Media, Inc. is a media company in the entertainment industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id37",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "industry",
+                    "Entertainment"
+                ]
+            ]
+        },
+        "text": [
+            "The key person on GMA New Media, an entertainment industry company, is Felipe Gozon.",
+            "GMA New Media is an entertainment industry with Felipe Gozon as a key person.",
+            "Felipe Gozon, is a key person of GMA New Media, which offers applications in the entertainment industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id38",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon is the key person for the media company, GMA New Media.",
+            "GMA New Media is a media company where Felipe Gozon is a key person.",
+            "GMA New Media, Inc. is a media company where Felipe Gozon is the key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id39",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is located in Quezon city of the Philippines.",
+            "GMA New Media is located in the Philippines, with its headquarters in Quezon City.",
+            "GMA New Media is located in Quezon City, Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id40",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, which is located in the Philippines, produces web services.",
+            "The Philippines houses GMA New Media, a company which offers services involving the World Wide Web.",
+            "GMA New Media, located in the Philippines, makes web sites."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id41",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a media company located in the Philippines.",
+            "GMA New Media, Inc. which is located in the Philippines, is a media company.",
+            "GMA New Media, Inc. is a media company located in the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id42",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Philippines"
+                ],
+                [
+                    "Philippines",
+                    "leaderTitle",
+                    "President"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is located in the Philippines, where the President is the title of the leader.",
+            "GMA New Media is located in the Philippines, which is led by the President.",
+            "GMA New Media is located in the Philippines where the title of the leader is president."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id43",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "location",
+                    "Quezon City"
+                ],
+                [
+                    "Quezon City",
+                    "areaTotal",
+                    "165.33"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is located in Quezon City, which has a total area of 165.33.",
+            "Quezon City has a total area of 165.33. GMA New Media headquarters are located in Quezon City.",
+            "GMA New Media is located in the city of Quezon, which has a total area of 165.33."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id44",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "parentCompany",
+                    "GMA Network (company)"
+                ],
+                [
+                    "GMA Network (company)",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ]
+            ]
+        },
+        "text": [
+            "GMA Network, the parent company of GMA New Media, is headed by Felipe Gozon.",
+            "Felipe Gozon is a key person within the GMA Network company, the parent company to GMA New Media.",
+            "With GMA New Media, Inc as a subsidiary, GMA Network features Felipe Gozon as a key person."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id45",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "Mobile Applications"
+                ],
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is a company that offers products such as mobile applications, but they also make web sites.",
+            "GMA New Media produces both webservices and mobile apps.",
+            "GMA New Media makes mobile applications, more broadly offering services concerning the World Wide Web."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id46",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Founded on 2001-01-01, Hypermarcas is in the pharmaceutical industry.",
+            "Hypermarcas is a pharmaceutical company that was founded on January 1, 2001.",
+            "Hypermarcas, which was founded on January 1, 2001, is in the pharmaceuticals industry."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id47",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ]
+            ]
+        },
+        "text": [
+            "Managed by their CEO, Hypermarcas is in the pharmaceuticals industry.",
+            "With their CEO as a key person, Hypermarcas is in the pharmaceutical industry.",
+            "The CEO is the key person in Hypermarcas, which is a pharmaceutical company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id48",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas was founded on January 1st, 2001. The key persona in Hypermarcas is their CEO.",
+            "The CEO is the key person in Hypermarcas, which was founded on January 1, 2001.",
+            "Hypermarcas was founded on January 1, 2001 under the management of the CEO."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id49",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas has 10252 employees, but the key employee is the CEO.",
+            "While the key person at Hypermarcas is the CEO, they also employ 10252 people as well.",
+            "Hypermarcas is managed by their CEO and has 10252."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id50",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Brazil",
+                    "leaderTitle",
+                    "Vice President"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is located in Brazil, a country led by the Vice President.",
+            "Hypermarcas is located in Brazil, where Vice President is the name of a leader title.",
+            "Hypermarcas is located in Brazil, a country with Vice President as a leadership title."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id51",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Founded on 2001-01-01, Hypermarcas is located in Brazil.",
+            "Hypermarcas, which is located in Brazil, was founded on January 1, 2001.",
+            "Hypermarcas, which is a company founded on January 1, 2001, is located in Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id52",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, which is located in Brazil, calls its CEO its key person.",
+            "The key person of brazilian company, Hypermarcas, is their CEO.",
+            "Hypermarcas is located in Brazil and managed by their CEO."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id53",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "location",
+                    "Brazil"
+                ],
+                [
+                    "Hypermarcas",
+                    "location",
+                    "São Paulo"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is located in São Paulo, Brazil.",
+            "Hypermarcas is located in Sao Paulo, Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id54",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, which has 10252 employees, produces healthcare products.",
+            "Hypermarcas, a company selling healthcare products, has 10252 employees.",
+            "Hypermarcas employs 10,252 people for making healthcare products."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id55",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Cosmetics"
+                ],
+                [
+                    "Hypermarcas",
+                    "revenue",
+                    "1800000000"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a company which sells cosmetics; their revenue is $1,800,000,000.",
+            "Hypermarcas makes $1,800,000,000 a year, in part from its production of cosmetics products.",
+            "Hypermarcas earns 1800000000 annually by selling cosmetics."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id56",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "foundingDate",
+                    "2001-01-01"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is the company founded on January 1, 2001, their main product is drugs.",
+            "Hypermarcas, founded on January 1, 2001, produces pharmaceutical drugs.",
+            "Hypermarcas, which was founded on 2001-01-01, makes drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id57",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "industry",
+                    "Pharmaceuticals"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a drug maker in the pharmaceutical industry.",
+            "Hypermarcas is in the pharmaceuticals industry. Their main product is drugs.",
+            "Hypermarcas is a pharmeceutical company which produces drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id58",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "keyPerson",
+                    "CEO"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas, whose key person is their CEO, produces pharmaceutical drugs.",
+            "The CEO is the head of the drugmaker, Hypermarcas.",
+            "Hypermarcas is managed by their CEO and their main product is drugs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id59",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Drugs"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas produces pharmaceutical drugs, more specifically healthcare products.",
+            "Hypermarcas sells healthcare products of which the main product is drugs.",
+            "Hypermarcas makes drugs, more specifically producing healthcare products."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id60",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "numberOfEmployees",
+                    "10252"
+                ]
+            ]
+        },
+        "text": [
+            "Hypermarcas is a type of S.A. corporation that has 10252 employees.",
+            "Hypermarcas is an S.A. corporation which employs 10,252 people.",
+            "The S.A. (corporation) of Hypermarcas employs a total of 10252 people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id61",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Hypermarcas",
+                    "type",
+                    "S.A. (corporation)"
+                ],
+                [
+                    "Hypermarcas",
+                    "product",
+                    "Healthcare"
+                ]
+            ]
+        },
+        "text": [
+            "A type of S.A. corporation, Hypermarcas, is in the business of producing healthcare products.",
+            "Hypermarcas is an S.A. corporation that makes healthcare products.",
+            "Hypermarcas is a S.A corporation that sells healthcare products."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id62",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "La Crosse, Wisconsin",
+                    "areaTotal",
+                    "58.38"
+                ]
+            ]
+        },
+        "text": [
+            "La Crosse, Wisconsin, where Trane was founded, has the total area of 58.38 square kilometers.",
+            "Trane was founded in La Crosse, Wisconsin, an American city with a total area of 58.38.",
+            "Trane is founded in La Crosse, Wisconsin, a place with total area of 58.38."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id63",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "La Crosse, Wisconsin",
+                    "leaderTitle",
+                    "Mayor"
+                ]
+            ]
+        },
+        "text": [
+            "Trane was founded in La Crosse WI, which is led by a mayor.",
+            "La Crosse, Wisconsin, led by a Mayor, is where Trane was founded.",
+            "Trane was founded in La Crosse, Wisconsin, which is governed by a mayor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id64",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is an HVAC manufacturer founded in La Crosse, Wisconsin.",
+            "Trane is a company that produces HVAC that was founded in La Crosse, Wisconsin.",
+            "Trane was founded in La Crosse, Wisconsin and they produce HVAC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id65",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ]
+            ]
+        },
+        "text": [
+            "The material building industry Trane was founded on New Years Day in 1913.",
+            "Trane is a company specializing in building materials that was founded on 1913-01-01.",
+            "Founded on 01-01-1913, trane's industry is building materials."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id66",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "foundingDate",
+                    "1913-01-01"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ]
+            ]
+        },
+        "text": [
+            "The founding date of Trane, Ireland is 1913-01-01.",
+            "Trane, which is a company in Ireland, was founded on 1913-01-01.",
+            "Trane, located in Ireland, was founded on 01-01-1913."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id67",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "foundationPlace",
+                    "La Crosse, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "The company Trane was founded in La Crosse, Wisconsin, but is now located in Ireland.",
+            "Trane was founded in La Crosse, Wisconsin, but is currently located in Ireland.",
+            "Trane is located in Ireland, but was founded in La Crosse, Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id68",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Ireland"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, which manufactures HVAC, is located in Ireland.",
+            "Trane is a company that produces HVAC in Ireland.",
+            "Trane, which produces HVAC in its line of products, is a company located in Ireland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id69",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a subsidiary that is located in Swords, Dublin.",
+            "Trane is a subsidiary located in Swords, Dublin.",
+            "Trane is a subsidiary company that is located in Swords, Dublin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id70",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "numberOfEmployees",
+                    "29000"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane produces HVAC, employing 29,000 people.",
+            "There are 29,000 employees at HVAC producer Trane.",
+            "Trane employ 29000 people that produce products such as HVAC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id71",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "In Swords, Dublin, the company Trane produces systems for building management.",
+            "Trane is located in Swords, Dublin and they manufacture building management systems.",
+            "Trane is a company located in Swords, Dublin that makes building management systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id72",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ]
+            ]
+        },
+        "text": [
+            "Trane produces HVAC and building management systems.",
+            "Trane is a producer of building management systems including HVAC products.",
+            "Trane produces building management systems and HVAC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id73",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, which produces building management systems, has a revenue of $10,264,000,000.",
+            "Trane makes building management systems, their revenue is 10264000000.",
+            "Trane manufactures building management systems, with a revenue of $10,264,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id74",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "Building Management System"
+                ],
+                [
+                    "Trane",
+                    "type",
+                    "Subsidiary"
+                ]
+            ]
+        },
+        "text": [
+            "Trane is a subsidiary company that makes building management systems.",
+            "The Trane company is a subsidiary that manufactures building management systems.",
+            "Trane is a subsidiary that produces building management systems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id75",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "product",
+                    "HVAC"
+                ],
+                [
+                    "Trane",
+                    "industry",
+                    "Building materials"
+                ]
+            ]
+        },
+        "text": [
+            "Trane, a building materials supplier, produces HVAC.",
+            "The Trane industry is building materials, and they manufacture HVAC.",
+            "Trane is in the building materials industry and one of their products is HVAC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id76",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Trane",
+                    "revenue",
+                    "10264000000"
+                ],
+                [
+                    "Trane",
+                    "location",
+                    "Swords, Dublin"
+                ]
+            ]
+        },
+        "text": [
+            "With a revenue of $10,264,000,000, Trane is located in Swords, Dublin.",
+            "The location of Trane is Swords, Dublin and has a revenue of 10264000000.",
+            "Trane, which is located in Swords, Dublin, has a revenue of $10,264,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id77",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "White American"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas's home country is the US, where one of the ethnic groups is White Americans.",
+            "AmeriGas works in the country of the United States which has an ethnic grouping of White-American.",
+            "AmeriGas is working in the United States where White American is one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id78",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "leaderName",
+                    "Paul Ryan"
+                ],
+                [
+                    "AmeriGas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "AmeriGas is working in the United States where Paul Ryan is the name of one of the government leaders.",
+            "AmeriGas works in the US, where Paul Ryan is the leader.",
+            "AmeriGas is located in the United States, one of whose leaders is named Paul Ryan."
+        ]
+    }
+]

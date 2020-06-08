@@ -1,0 +1,148 @@
+[
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Accademia di Architettura di Mendrisio",
+                    "academicStaffSize",
+                    "100"
+                ]
+            ]
+        },
+        "text": [
+            "The academic staff size of Accademia di Architettura di Mendrisio is 100.",
+            "The academic staff number 100 at the Accademia di Architettura di Mendrisio.",
+            "The Accademia di Architettura di Mendrisio has an academic staff of 100."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acharya Institute of Technology",
+                    "campus",
+                    "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+                ]
+            ]
+        },
+        "text": [
+            "The campus address for the Acharya Institute of Technology is: Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.",
+            "The Acharya Institute of Technology campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.",
+            "The campus of the Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alba Iulia",
+                    "country",
+                    "Romania"
+                ]
+            ]
+        },
+        "text": [
+            "Alba Iulia is located in Romania.",
+            "Alba Iulia is in the country of Romania.",
+            "Alba Iulia is in Romania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alba Iulia",
+                    "isPartOf",
+                    "Alba County"
+                ]
+            ]
+        },
+        "text": [
+            "Alba Iulia is part of the county of Alba.",
+            "Alba Iulia is part of Alba County."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Romania",
+                    "patronSaint",
+                    "Andrew the Apos"
+                ]
+            ]
+        },
+        "text": [
+            "The patron saint of Romania is Andrew the Apostle.",
+            "Andrew the Apostle is the patron saint of Romania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "academicStaffSize",
+                    "737"
+                ]
+            ]
+        },
+        "text": [
+            "The academic staff of the School of Business and Social Sciences at the Aarhus University number 737.",
+            "The School of Business and Social Sciences at the Aarhus University has academic staff size of 737.",
+            "The School of Business and Social Sciences at the Aarhus University has an academic staff of 737."
+        ]
+    },
+    {
+        "mr": {
+            "category": "University",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "School of Business and Social Sciences at the Aarhus University",
+                    "country",
+                    "Denmark"
+                ]
+            ]
+        },
+        "text": [
+            "The Aarhus University School of Business and Social Sciences is in the country of Denmark.",
+            "The School of Business and Social Sciences at the Aarhus University is situated in Denmark.",
+            "The School of Business and Social Sciences at the Aarhus University is located in Denmark.",
+            "The School of Business and Social Sciences at the Aarhus University is in Denmark."
+        ]
+    }
+]

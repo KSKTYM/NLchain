@@ -1,0 +1,835 @@
+[
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Boogaard",
+                    "height",
+                    "1.905"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "birthPlace",
+                    "Regina, Saskatchewan"
+                ],
+                [
+                    "Aaron Boogaard",
+                    "club",
+                    "Wichita Thunder"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Boogaard was born in Regina, Saskatchewan and plays for Wichita Thunder. He is 1.905 m high.",
+            "Aaron Boogaard's birthplace is Regina, Saskatchewan and he is 1.905m high. He played for the club Wichita Thunder.",
+            "Aaron Boogaard, who plays for Wichita Thunder, is 1.905 tall and was born in Regina, Saskatchewan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "VfL Wolfsburg"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen II"
+                ],
+                [
+                    "Aaron Hunt",
+                    "youthclub",
+                    "Goslarer SC 08"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt's youth club was Goslarer SC 08, his club is VfL Wolfsburg and he plays for SV Werder Bremen II.",
+            "Aaron Hunt, who plays for Vfl Wolfsburg, used to play for both, the Goslarer SC 08 youth team and SV Werder Bremen II.",
+            "Aaron Hunt, whose club is VfL Wolfsburg, used to play for, the Goslarer SC 08 youth team and SV Werder Bremen II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "VfL Wolfsburg"
+                ],
+                [
+                    "Aaron Hunt",
+                    "youthclub",
+                    "Goslarer SC 08"
+                ],
+                [
+                    "Aaron Hunt",
+                    "club",
+                    "SV Werder Bremen"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Hunt plays for Vfl Wolfsburg and SV Werder Bremen. He was a member of the Goslarer SC 08 youth team.",
+            "Aaron Hunt represented the club Goslarer SC 08 at youth level and has since played for both SV Werder Bremen and Vfl Wolfsburg.",
+            "Aaron Hunt's club is VfL Wolfsburg but he previously played for both SV Werder Bremen and Goslarer SC 08 youth team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Abel Hernández",
+                    "youthclub",
+                    "Central Español"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "U.S. Città di Palermo"
+                ],
+                [
+                    "Abel Hernández",
+                    "club",
+                    "Peñarol"
+                ]
+            ]
+        },
+        "text": [
+            "Abel Hernandez played youth football for Central Espanol. He has since been associated with clubs US Citta di Palermo and Penarol.",
+            "Abel Hernández played football at youth level for Central Español. At senior level he has played for US Citta di Palermo and Penarol.",
+            "Abel Hernández plays football for U.S. Città di Palermo, having previously played for Penarol and at youth level for Central Español."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id5",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Iraq national football team"
+                ],
+                [
+                    "Esteghlal Ahvaz F.C.",
+                    "manager",
+                    "Adnan Hamad"
+                ],
+                [
+                    "Ahmad Kadhim Assad",
+                    "club",
+                    "Esteghlal Ahvaz F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Ahmad Kadhim Assad, who formerly played for Esteghlal Ahvaz FC, plays for the Iraq national football team which is managed by Adnan Hamad.",
+            "Ahmad Kadhim Assad is part of the Esteghlal Ahvaz F.C. in the Iraq national football team. Esteghlal Ahvaz F.C. manages Adnan Hamad.",
+            "Iraqi national football team player, Ahmad Kadhim Assad played for Esteghlal Ahvaz F.C., the manager of which, is Adnan Hamad."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "draftRound",
+                    "2"
+                ],
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "Tennessee Titans"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftPick",
+                    "39"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers used to play for Tennessee Titans and has the draft pick number 39 and draft round 2.",
+            "Akeem Ayers formerly played for the Tennessee Titans, and was 39 in the draft pick round 2.",
+            "Akeem Ayers, whose former team was Tennessee Titans, was in draft pick 39, in draft round 2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftRound",
+                    "2"
+                ],
+                [
+                    "Akeem Ayers",
+                    "draftPick",
+                    "39"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Ayers used to play for the St. Louis Rams. He was number 39 in the draft pick in draft round 2.",
+            "Akeem Ayers, who formerly played for St Louis Rams, was number 39 in the draft pick and in draft round 2.",
+            "St Louis Rams is the former team of Akeem Ayers, who was drat pick 39, in the draft round, 2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id8",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akeem Ayers",
+                    "formerTeam",
+                    "St. Louis Rams"
+                ],
+                [
+                    "St. Louis Rams",
+                    "city",
+                    "St. Louis"
+                ],
+                [
+                    "Akeem Ayers",
+                    "debutTeam",
+                    "Tennessee Titans"
+                ]
+            ]
+        },
+        "text": [
+            "American Football team, St. Louis Rams, are based in the city of St. Louis. It is the former team of Akeem Ayersm, whose debut team, was the Tennessee Titans.",
+            "Akeem Ayers' former team is St. Louis Rams. Who are based in the city of St. Louis. He debuted with the Tennessee Titans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Akeem Dent",
+                    "debutTeam",
+                    "Atlanta Falcons"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthDate",
+                    "1987-09-27"
+                ],
+                [
+                    "Akeem Dent",
+                    "birthPlace",
+                    "Atlanta, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Dent, who made his debut with the Atlanta Falcons, was born in Atlanta, Georgia on 27 September 1987.",
+            "Akeem Dent, who was born on 27 September 1987 in Atlanta, Georgia, made his debut with the Atlanta Falcons.",
+            "Akeem Dent, who was born in Atlanta Georgia on 27 September 1987, made his debut with the Atlanta Falcons."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id10",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akeem Priestley",
+                    "birthPlace",
+                    "Jamaica"
+                ],
+                [
+                    "Jamaica",
+                    "leaderName",
+                    "Patrick Allen (politician)"
+                ],
+                [
+                    "Jamaica",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "Jamaica, whose queen is Elizabeth II, is led by Patrick Allen and is the birth place of Akeem Priestley.",
+            "Patrick Allen and Elizabeth II led Jamaica, is the birthplace of Akeem Priestley.",
+            "Jamaica, which is led by Patrick Allen and Elizabeth II, is the birthplace of Akeem Priestley."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id11",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al-Khor Sports Club"
+                ],
+                [
+                    "Al-Khor Sports Club",
+                    "ground",
+                    "Al Khor"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Shorta SC"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul Zahra plays for Al Shorta SC and for Al-Khor Sports Club located in Al-Khor.",
+            "Alaa Abdul-Zahra's club is Al Shorta SC, but he is in the Al-Khor Sports Club whose ground is in Al Khor.",
+            "Al-Khor Sports Club is located in Al-Khor, one of the members of it, is Alaa Abdul Zahra, who is also part of, Al Shorta SC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id12",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Al Kharaitiyat SC"
+                ],
+                [
+                    "Al Kharaitiyat SC",
+                    "ground",
+                    "Al Khor"
+                ],
+                [
+                    "Alaa Abdul-Zahra",
+                    "club",
+                    "Shabab Al-Ordon Club"
+                ]
+            ]
+        },
+        "text": [
+            "Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he plays for Al Kharaitiyat SC at their home ground Al Khor.",
+            "Alaa Abdul-Zahra's clubs are Shabab Al-Ordon and also Al Kharaitiyat SC whose ground is Al Khor.",
+            "Shabab Al-Ordon Club is one of the clubs of Alaa Abdul Zahra, Another is, AL Kharaitiyat SC which is located in Al Khor."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "birthDate",
+                    "1989-01-01"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Crewe Alexandra F.C."
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Aldershot Town F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Footballer, Alan Martin was born on January 1st 1989 and he is a footballer for the Crewe Alexandra FC and for the Aldershot Town F.C.",
+            "Alan Martin (footballer), born 1st January 1989, plays for the club, Crewe Alexandra F.C. He has also played for Aldershot Town FC.",
+            "Footballer Alan Martin was born on 01/01/1989. plays for Crewe Alexandra F.C and Aldershot Town F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id14",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Hamilton Academical F.C."
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "birthDate",
+                    "1989-01-01"
+                ],
+                [
+                    "Alan Martin (footballer)",
+                    "club",
+                    "Crewe Alexandra F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Alan Martin, born on the 1st January 1989, played for Crewe Alexandra FC. and Hamilton Academical FC.",
+            "Alan Martin was born on 1 January 1989 and plays football for Hamilton Academical FC and Crewe Alexandra FC.",
+            "Footballer, Alan Martin, born 1st January 1989, used to play for Hamilton Academical F.C and now plays for Crewe Alexandra F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id15",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthYear",
+                    "1995"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthDate",
+                    "1995-09-02"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Tampere, Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr was born in Tampere, Finland on 2 September 1995.",
+            "Aleksander Barkov Jr. was born on the 2nd September 1995 in Tampere, Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id16",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthYear",
+                    "1995"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "club",
+                    "Florida Panthers"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthDate",
+                    "1995-09-02"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr was born on 2 September 1995 and has played for the Florida Panthers.",
+            "Aleksander Barkov Jr who plays for the Florida Panthers was born on 2 September 1995.",
+            "Aleksander Barkov Jr., who was born on the 2nd September 1995, played for the Florida Panthers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id17",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksander Barkov, Jr.",
+                    "club",
+                    "Florida Panthers"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthDate",
+                    "1995-09-02"
+                ],
+                [
+                    "Aleksander Barkov, Jr.",
+                    "birthPlace",
+                    "Tampere, Finland"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksander Barkov Jr was born in Tampere, Finland on 1995-09-02 and he plays for the Florida Panthers.",
+            "Born September 2, 1995, Aleksander Barkov Jr of Tampere, Finland, played for the Florida Panthers.",
+            "Aleksander Barkov Jr was born on 2 September 1995 in Tampere, Finland and his club is the Florida Panthers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "birthDate",
+                    "1989-02-24"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Kuban Krasnodar"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Dynamo Moscow"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov was born on 24th February 1989 and he plays for FC Kuban Krasnodar as well as for FC Dynamo Moscow.",
+            "Aleksandr Prudnikov, who was born on 24 February 1989, plays for FC Dynamo Moscow and FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov's date of birth is 1989-02-24 and he plays for the FC Kuban Krasnodar club but his club is FC Dynamo Moscow."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Spartak Moscow"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "birthDate",
+                    "1989-02-24"
+                ],
+                [
+                    "Aleksandr Prudnikov",
+                    "club",
+                    "FC Kuban Krasnodar"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Prudnikov was born on 24 February 1989 and his club is the FC Spartak Moscow, but he also plays for FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov, who was born on 24 February 1989, is attached to FC Spartak Moscow and plays for FC Kuban Krasnodar.",
+            "Aleksandr Prudnikov was born on 24th February 1989 and he played for FC Spartak Moscow but currently plays for FC Kuban Krasnodar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id20",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "Olympique Lyonnais"
+                ],
+                [
+                    "Olympique Lyonnais",
+                    "ground",
+                    "Parc Olympique Lyonnais"
+                ],
+                [
+                    "Aleksandre Guruli",
+                    "club",
+                    "AZAL PFK"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandre Guruli's club is Olympique Lyonnais, whose home ground is the Parc Olympique Lyonnais stadium. He also plays for AZAL PFK.",
+            "AZAL PFK player, Aleksandre Guruli, played for the Olympique Lyonnais club, the home ground of which, is the Parc Olympique Lyonnais stadium."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id21",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "A.C. Milan"
+                ],
+                [
+                    "A.C. Milan",
+                    "manager",
+                    "Siniša Mihajlović"
+                ],
+                [
+                    "Alessio Romagnoli",
+                    "club",
+                    "U.C. Sampdoria"
+                ]
+            ]
+        },
+        "text": [
+            "Alessio Romagnoli plays for A.C. Milan, managed by Siniša Mihajlović and also played for UC Sampdoria.",
+            "Alessio Romagnoli, who is connected to UC Sampdoria, plays for A.C. Milan which, is managed by, Siniša Mihajlović.",
+            "Siniša Mihajlović is the manager for A.C. Milan, of which Alessio Romagnoli is a member. Alessio Romagnoli plays for the club U.C. Sampdoria."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alex Plante",
+                    "birthYear",
+                    "1989"
+                ],
+                [
+                    "Alex Plante",
+                    "club",
+                    "Anyang Halla"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Manitoba"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante ws born in Manitoba in 1989 and has played for the club Anyang Halla.",
+            "Alex Plante was born in 1989 in Manitoba and his club is called Anyang Halla.",
+            "Alex Plante was born in 1989 in Manitoba and has played for the club Anyang Halla."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id23",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alex Tyus",
+                    "league",
+                    "Turkish Basketball Super League"
+                ],
+                [
+                    "Alex Tyus",
+                    "club",
+                    "Maccabi Ashdod B.C."
+                ],
+                [
+                    "Maccabi Ashdod B.C.",
+                    "coach",
+                    "Zvi Sherf"
+                ]
+            ]
+        },
+        "text": [
+            "The league Alex Tyus plays in is the Turkish Basketball Super League. His club is Maccabi Ashdod BC which is coached by, Zvi Sherf.",
+            "Alex Tyus plays for Maccabi Ashdod B.C who are coached by Zvi Sherf and are part of the Turkish Basketball Super League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id24",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Canada",
+                    "anthem",
+                    "O Canada"
+                ],
+                [
+                    "Canada",
+                    "leaderName",
+                    "Elizabeth II"
+                ],
+                [
+                    "Alex Plante",
+                    "birthPlace",
+                    "Canada"
+                ]
+            ]
+        },
+        "text": [
+            "Alex Plante was born in Canada; where the national anthem is O Canada and the leader is, Elizabeth II.",
+            "Alex Plante was born in Canada, where the leader is Elizabeth II and the national anthem is O Canada.",
+            "Canada, the birthplace of Alex Plante, is led by Elizabeth II and has a national anthem known as \"O Canada\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id25",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "FC Torpedo Moscow",
+                    "season",
+                    "2014–15 Russian Premier League"
+                ],
+                [
+                    "Aleksandr Chumakov",
+                    "club",
+                    "FC Torpedo Moscow"
+                ],
+                [
+                    "FC Torpedo Moscow",
+                    "manager",
+                    "Valery Petrakov"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandr Chumakov's club was FC Torpedo Moscow. The club, which is managed by Valery Petrakov, played the 2014–15 season in the Russian Premier League.",
+            "Aleksandr Chumakov plays for FC Torpedo Moscow who are managed by Valery Petrakov and played in the 2014-15 Russian Premier league.",
+            "Aleksandr Chumakov's club was FC Torpedo Moscow, the manager of which, is Valery Petrakov. FC Torpedo Moscow played in the 2014-15 Russian Premier League."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id26",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Real Madrid Castilla",
+                    "manager",
+                    "Luis Miguel Ramis"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Real Madrid Castilla"
+                ],
+                [
+                    "Abner (footballer)",
+                    "club",
+                    "Coritiba Foot Ball Club"
+                ]
+            ]
+        },
+        "text": [
+            "Abner who is a player for the Coritiba Football Club also plays for Real Madrid Castilla which is managed by Luis Miguel Ramis.",
+            "The footballer Abner plays for Coritiba Football Club and also Real Madrid Castilla which is managed by Luis Miguel Ramis.",
+            "Abner plays for the Coritiba Football Club having previously played for Real Madrid Castilla, a club that has been managed by Luis Miguel Ramis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Athlete",
+            "eid": "Id27",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "United Petrotrin F.C.",
+                    "ground",
+                    "Palo Seco"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "Trinidad and Tobago national under-20 football team"
+                ],
+                [
+                    "Akeem Adams",
+                    "club",
+                    "United Petrotrin F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Akeem Adams, who has represented Trinidad and Tobago at under 20 level, played for United Petrotrin FC, whose ground is Palo Seco.",
+            "Akeem Adams, who plays for the Trinidad and Tobago national under-20 football team previously played for United Petrotrin FC whose ground is at Palo Seco.",
+            "Akeem Adams played for United Petrotrin F.C., who play their home games at Palo Seco ground. He also played for the Trinidad and Tobago national under 20 team."
+        ]
+    }
+]

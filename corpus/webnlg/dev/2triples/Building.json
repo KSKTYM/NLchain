@@ -1,0 +1,564 @@
+[
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id1",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "11 Diagonal Street",
+                    "location",
+                    "South Africa"
+                ],
+                [
+                    "South Africa",
+                    "ethnicGroup",
+                    "Coloured"
+                ]
+            ]
+        },
+        "text": [
+            "11 Diagonal Street is in South Africa. One South African group is the Coloured.",
+            "The address, 11 Diagonal Street is located in South Africa which is home to some coloured people."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "200 Public Square",
+                    "location",
+                    "Cleveland"
+                ],
+                [
+                    "200 Public Square",
+                    "floorCount",
+                    "45"
+                ]
+            ]
+        },
+        "text": [
+            "There are 45 floors at 200 Public Square in Cleveland.",
+            "200 Public square, Cleveland, has a floor count of 45."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "20 Fenchurch Street",
+                    "location",
+                    "London"
+                ],
+                [
+                    "London",
+                    "leaderTitle",
+                    "European Parliament"
+                ]
+            ]
+        },
+        "text": [
+            "20 Fenchurch Street is located in London, which is currently led by the European Parliament.",
+            "20 Fenchurch Street is located in London, which is led via the European Parliament.",
+            "20 Fenchurch Street is located in London which is led by the European Parliament."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "250 Delaware Avenue",
+                    "location",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "leaderName",
+                    "Barack Obama"
+                ]
+            ]
+        },
+        "text": [
+            "250 Delaware Avenue is located in the United States, the leader of which was Barack Obama.",
+            "250 Delaware Avenue is located in the United States - which is led by Barack Obama."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "300 North LaSalle",
+                    "location",
+                    "Illinois"
+                ],
+                [
+                    "300 North LaSalle",
+                    "floorCount",
+                    "60"
+                ]
+            ]
+        },
+        "text": [
+            "There are 60 floors at 300 North LaSalle in Illinois.",
+            "300 North LaSalle in Illinois has 60 floors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "location",
+                    "North Wall, Dublin"
+                ],
+                [
+                    "3Arena",
+                    "architect",
+                    "HOK SVE"
+                ]
+            ]
+        },
+        "text": [
+            "HOK SVE was the architect of the 3Arena at North Wall, Dublin.",
+            "3Arena is located at North Wall, Dublin, and was built by HOK SVE.",
+            "The 3Arena is located at North Wall, Dublin and was designed by HOK SVE."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainment"
+                ],
+                [
+                    "3Arena",
+                    "location",
+                    "East Link Bridge"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena at East Link Bridge is owned by Live Nation Entertainment.",
+            "3Arena is located at East Link Bridge and is owned by Live Nation Entertainment."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id8",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "3Arena",
+                    "owner",
+                    "Live Nation Entertainment"
+                ],
+                [
+                    "Live Nation Entertainment",
+                    "location",
+                    "Beverly Hills, California"
+                ]
+            ]
+        },
+        "text": [
+            "3Arena, owned by Live Nation Entertainment, is located in Beverly Hills, California.",
+            "Live Nation Entertainment from Beverly Hills, California, are the owners of 3Arena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "tenant",
+                    "Marriott International"
+                ],
+                [
+                    "AC Hotel Bella Sky Copenhagen",
+                    "floorCount",
+                    "23"
+                ]
+            ]
+        },
+        "text": [
+            "Marriott International is the tenant of AC Hotel Bella Sky Copenhagen and it has 23 floors.",
+            "The tenant of the AC Hotel Bella Sky Copenhagen, which has 23 floors, is the Marriott International Hotel."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Addis Ababa City Hall",
+                    "currentTenants",
+                    "Government of Addis Ababa"
+                ],
+                [
+                    "Addis Ababa City Hall",
+                    "height",
+                    "42 m"
+                ]
+            ]
+        },
+        "text": [
+            "Addis Ababa City Hall is 42 m high and houses the Government of Addis Ababa.",
+            "The \" Government of Addis Ababa\" are the current tenants of Addis Ababa City Hall which is 42 metres high.",
+            "Addis Ababa City Hall is 42 m high and is occupied by the Government of Addis Adaba."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "architecturalStyle",
+                    "Tudor and Jacabian"
+                ],
+                [
+                    "Adisham Hall",
+                    "location",
+                    "Haputale, Sri Lanka"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall's architectural style is Tudor and Jacabian and the building is located in Haputale, Sri Lanka.",
+            "Adisham Hall, Haputale, Sri Lanka, is Tudor and Jacabian in style."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id12",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Adisham Hall",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "language",
+                    "Tamil language"
+                ]
+            ]
+        },
+        "text": [
+            "Adisham Hall is located in Sri Lanka, where they speak the Tamil language.",
+            "Adisham Hall is located in the country of Sri Lanka where they speak Tamil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "buildingStartDate",
+                    "30 March 2007"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "address",
+                    "101 Ukrop Way"
+                ]
+            ]
+        },
+        "text": [
+            "The construction of Alan B Miller Hall, 101 Ukrop Way, began on 30th March 2007.",
+            "Alan B. Miller Hall's building start date was in 30th March 2007 and is located at 101 Ukrop Way.",
+            "Alan B. Miller Hall at 101 Ukrop Way opened on March 30, 2007."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "owner",
+                    "College of William &amp; Mary"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "location",
+                    "Williamsburg, Virginia"
+                ]
+            ]
+        },
+        "text": [
+            "Alan B Miller Hall is owned by The College of William and Mary and located in Williamsburg, Virginia.",
+            "Alan B. Miller Hall in Williamsburg, Virginia is owned by The College of William and Mary.",
+            "The College of William and Mary is the owner of the Alan B. Miller Hall in Williamsburg, Virginia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alan B. Miller Hall",
+                    "tenant",
+                    "Mason School of Business"
+                ],
+                [
+                    "Alan B. Miller Hall",
+                    "architect",
+                    "Robert A. M. Stern"
+                ]
+            ]
+        },
+        "text": [
+            "Robert A. M. Stern is the architect of the Alan B. Miller Hall where the Mason School of Business is located.",
+            "Robert A M Stern designed Alan B Miller Hall and the Mason School of Business is a tenant there.",
+            "Mason School of Business is a tenant of the Alan B. Miller Hall, which was designed by Robert A.M. Stern."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Ampara Hospital",
+                    "region",
+                    "Ampara District"
+                ]
+            ]
+        },
+        "text": [
+            "Ampara Hospital is located in the Ampara District in Sri Lanka.",
+            "Ampara Hospital is located in the Ampara District of Sri Lanka."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ampara Hospital",
+                    "country",
+                    "Sri Lanka"
+                ],
+                [
+                    "Sri Lanka",
+                    "capital",
+                    "Sri Jayawardenepura Kotte"
+                ]
+            ]
+        },
+        "text": [
+            "Sri Jayawardenepura Kotte is the capital of Sri Lanka, where Ampara Hospital is located.",
+            "Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura Kotte.",
+            "Ampara Hospital is located in Sri Lanka where the capital is Sri Jayawardenepura Kotte."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id18",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "location",
+                    "U.S. Route 83"
+                ],
+                [
+                    "Asher and Mary Isabelle Richardson House",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "88002539"
+                ]
+            ]
+        },
+        "text": [
+            "The Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and has the reference number 88002539 in the National Register of Historic Places.",
+            "The National Register of Historic Places has the Asher and Mary Isabelle Richardson House, located at U.S. Route 83, referenced at 88002539.",
+            "Asher and Mary Isabelle Richardson House has the reference number 88002539 in the National Register of Historic Places, and is located at U.S. Route 83."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id19",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Asilomar Blvd., Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "ReferenceNumber in the National Register of Historic Places",
+                    "87000823"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds, Asilomar Blvd., Pacific Grove, California has a reference number in the National Register of Historic Places of: 87000823.",
+            "Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and its reference number is 87000823 in the National Register of Historic Places.",
+            "\"87000823\" is Asilomar Conference Grounds' reference number in the National Register of Historic Places, and it is located on Asilomar Blvd, Pacific Grove, California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asilomar Conference Grounds",
+                    "location",
+                    "Pacific Grove, California"
+                ],
+                [
+                    "Asilomar Conference Grounds",
+                    "added to the National Register of Historic Places",
+                    "1987-02-27"
+                ]
+            ]
+        },
+        "text": [
+            "Asilomar Conference Grounds at Pacific Grove, California was added to the National Register of Historic Places on February the 27nd 1987.",
+            "Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.",
+            "Asilomar Conference Grounds, Pacific Grove, California was added to the National Register of Historic Places on February 27, 1987."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Asser Levy Public Baths",
+                    "location",
+                    "23rd Street (Manhattan)"
+                ],
+                [
+                    "Asser Levy Public Baths",
+                    "yearOfConstruction",
+                    "1904"
+                ]
+            ]
+        },
+        "text": [
+            "Asser Levy Public Baths is located on 23rd Street, Manhattan, and was constructed in 1904.",
+            "Asser Levy Public Baths which was built in 1904 is located at 23rd Street in Manhattan.",
+            "The Asser Levy Public Baths, constructed in 1904, is located at 23rd Street (Manhattan)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Building",
+            "eid": "Id22",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Gujarat",
+                    "leaderName",
+                    "Anandiben Patel"
+                ],
+                [
+                    "Amdavad ni Gufa",
+                    "location",
+                    "Gujarat"
+                ]
+            ]
+        },
+        "text": [
+            "Anandiben Patel was the leader of Gujarat where Amdavad ni Gufa is located.",
+            "Amdavad ni Gufa is located in Gujarat and its leader is Anandiben Patel.",
+            "Amdavad ni Gufa is in Gujarat and its leader is Anandiben Patel."
+        ]
+    }
+]

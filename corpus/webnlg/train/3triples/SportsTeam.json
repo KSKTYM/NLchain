@@ -1,0 +1,5233 @@
+[
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id1",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "1. FC Köln",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "1. FC Köln",
+                    "numberOfMembers",
+                    "50000"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger is manager of 1. FC Köln which has 50000 members and participated in the 2014 season.",
+            "The manager of 1. FC Koln is Peter Stoger. The team has 50000 members and played in the 2014 season.",
+            "1. FC Koln, whose manage is peter Stoger, participated in 2014 and now have 50000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "1. FC Köln",
+                    "season",
+                    "2014–15 Bundesliga"
+                ],
+                [
+                    "1. FC Köln",
+                    "numberOfMembers",
+                    "50000"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger is manager of 1. FC Köln who were in the 2014–15 Bundesliga season and have 50000 members.",
+            "The manager of 1. FC Koln is Peter Stoger. They have 50000 members and played the 2014-15 season in the Bundesliga.",
+            "1. FC Köln were in the 2014–15 Bundesliga season, its manager is Peter Stoger and have 50000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id3",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "Austria national football team"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "FK Austria Wien"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of 1. FC Koln is Peter Stoger who plays for the Austria national football team and is a member of the FK Austria Wien soccer club.",
+            "Peter Stoger is currently at FK Austria Wien and manages FC Koln, he also plays international football for Austria.",
+            "Peter Stoger is the manager of FC Koln, he plays for the Austria national football team and FK Austria Wien also."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id4",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SC Wiener Neustadt"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "Austria national football team"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger is manager of 1. FC Köln and has played for SC Wiener Neustadt and the Austria national football team.",
+            "Peter Stoger is the manager of FC Koln and plays for both SC Wiener Neustadt and the Austria national football team.",
+            "The manager of 1. FC Koln is Peter Stoger who is affiliated with the SC Wiener Neustadt club and plays for the Austria national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id5",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SC Wiener Neustadt"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "FK Austria Wien"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger is manager of 1. FC Köln and is affiliated with SC Wiener Neustadt. He is currently at the FK Austria Wien club.",
+            "The manager of 1. FC Koln is Peter Stoger who plays for SC Wiener Neustadt and is at the FK Austria Wien club.",
+            "Peter Stoger plays for SC Wiener Neustadt and FK Austria Wien while also being a manager at 1. FC Koln."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id6",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "league",
+                    "3. Liga"
+                ],
+                [
+                    "1. FC Magdeburg",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "1. FC Magdeburg",
+                    "numberOfMembers",
+                    "27250"
+                ]
+            ]
+        },
+        "text": [
+            "1 FC Magdeburg has 27250 members and played in the 3 Liga League in the 2014 season.",
+            "1 FC Magdeburg is in the 3 Liga league. They played in the 2014 season and have 27250 members.",
+            "1 FC Magdeburg is in the 3 Liga league, it played in the 2014 season and has 27250 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id7",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "league",
+                    "3. Liga"
+                ],
+                [
+                    "1. FC Magdeburg",
+                    "season",
+                    "2014–15 Regionalliga"
+                ],
+                [
+                    "1. FC Magdeburg",
+                    "numberOfMembers",
+                    "27250"
+                ]
+            ]
+        },
+        "text": [
+            "1 FC Magdeburg has 27250 members and are in the 3 Liga league. During the 2014-2015 they played in the Regionalliga.",
+            "1 FC Magdeburg is in the 3 Liga league, they played in the Regionalliga in 2014-15 season and have 27250 members.",
+            "1 FC Magdeburg, with 27250 members, is in the 3 Liga league and was in Regionalliga in 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id8",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Lokomotive Leipzig"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "Berliner AK 07"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of FC Magdeburg is Jens Härtel who used to play for Berliner AK 07 and currently plays for 1. FC Lokomotive Leipzig.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg. He first played for FC Lokomotive Leipzig and later for Berliner AK 07.",
+            "Jens Härtel's club is Berliner AK 07; the first club he played for was FC Lokomotive Leipzig and he has been the manager of 1 FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id9",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Lokomotive Leipzig"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "RB Leipzig"
+                ]
+            ]
+        },
+        "text": [
+            "The first club Jens Härtel played for was FC Lokomotive Leipzig. He also played for RB Leipzig and was the manager of 1 FC Magdeburg.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg, playing for 1. FC Lokomotive Leipzig, and previously for RB Leipzig.",
+            "Jens Härtel is in the RB Leipzig club, started with FC Lokomotive Leipzig and has managed 1 FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id10",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Lokomotive Leipzig"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Babelsberg 03"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of FC Magdeburg is Jens Härtel who also plays for 1. FC Lokomotive Leipzig and SV Babelsberg 03.",
+            "FC Magdeburg manager Jens Hartel is a former professional who first played for FC Lokomotive Leipzig, and later, for SV Babelsberg 03.",
+            "The first club Jens Hartel played for was F.C Lokomotive Leipzig, he is part of the SV Babelsberg 03 club and manages FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id11",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Union Berlin"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Germania Schöneiche"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Hartel, who plays for SV Germania Schoneiche, is part of 1. FC Union Berlin and has been the manager of 1 FC Magdeburg.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg and is part of the club 1. FC Union Berlin. He also plays for SV Germania Schoneiche.",
+            "The manager of FC Magdeburg is Jens Härtel who is part of the club 1. FC Union Berlin and plays for SV Germania Schoneiche."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id12",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "Berliner AK 07"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Union Berlin"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of FC Magdeburg is Jens Härtel who played for Berliner AK 07 and belongs to the club 1. FC Union Berlin.",
+            "The manager of FC Magdeburg is Jens Härtel. His club is Berliner AK 07 and he is also part of the club 1. FC Union Berlin.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg and is part of the clubs Berliner AK 07 and 1. FC Union Berlin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id13",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "Berliner AK 07"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "FC Sachsen Leipzig"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel (Berliner AK 07) played for FC Sachsen Leipzig, has been the manager of 1 FC Magdeburg.",
+            "The manager of FC Magdeburg is Jens Härtel who has represented the club FC Sachsen Leipzig and played for Berliner AK 07.",
+            "The manager of 1 FC Magdeburg is Jens Härtel, whose club is Berliner AK 07, and he has also represented FC Sachsen Leipzig."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "Berliner AK 07"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Babelsberg 03"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel is part of the SV Babelsberg 03 club. He previously managed 1 FC Magdeburg and played for Berliner AK 07.",
+            "Jens Härtel is part of the SV Babelsberg 03 club, played for Berliner AK 07 and manages FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id15",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "RB Leipzig"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Union Berlin"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel was previously the manager of 1 FC Magdeburg. He is in the RB Leipzig club and is part of the club 1. FC Union Berlin.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg and played for RB Leipzig. He is part of the club 1. FC Union Berlin.",
+            "The manager of FC Magdeburg is Jens Härtel who played for RB Leipzig and is part of the club 1. FC Union Berlin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id16",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Babelsberg 03"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "1. FC Union Berlin"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel has played for SV Babelsberg 03 and 1. FC Union Berlin. He is manager of 1 FC Magdeburg.",
+            "Jens Härtel has been the manager of 1 FC Magdeburg. He plays for SV Babelsberg 03 and is part of the club 1. FC Union Berlin.",
+            "The manager of FC Magdeburg is Jens Härtel, who is part of the SV Babelsberg 03 and 1. FC Union Berlin clubs."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id17",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "1. FC Magdeburg",
+                    "manager",
+                    "Jens Härtel"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "SV Babelsberg 03"
+                ],
+                [
+                    "Jens Härtel",
+                    "club",
+                    "FC Sachsen Leipzig"
+                ]
+            ]
+        },
+        "text": [
+            "Jens Härtel is part of the SV Babelsberg 03 club. He has also been manager of 1 FC Magdeburg and represented FC Sachsen Leipzig.",
+            "The manager of FC Magdeburg is Jens Härtel who plays for SV Babelsberg 03 and has represented the club FC Sachsen Leipzig.",
+            "Jens Hartel, who played for FC Sachsen Leipzig and now plays for SV Babelsberg 03, is the manager at FC Magdeburg."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id18",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Cesena"
+                ],
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ],
+                [
+                    "Serie B",
+                    "champions",
+                    "Carpi F.C. 1909"
+                ]
+            ]
+        },
+        "text": [
+            "AC Cesena ground is in Cesena and they play in the Serie B league whose champions are Carpi FC 1909.",
+            "A.C. Cesena's ground is in Cesena and they play in Serie B which has a previous champion of Carpi F.C. 1909.",
+            "A.C. Cesena is in the Serie B league (with Carpi FC 1909 as champions) and has a ground in Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ],
+                [
+                    "A.C. Cesena",
+                    "numberOfMembers",
+                    "23900"
+                ]
+            ]
+        },
+        "text": [
+            "23900 member club A.C. Cesena plays in Italy in Serie B.",
+            "A.C. Cesena's ground is located in Italy, they have 23900 members and play in the Serie B league.",
+            "A.C. Cesena is in the Serie B league. They have 23900 members and their ground is located in Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ],
+                [
+                    "A.C. Cesena",
+                    "numberOfMembers",
+                    "23900"
+                ],
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Stadio Dino Manuzzi"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Cesena's ground is the Stadio Dino Manuzzi. They have 23900 members and play in the Serie B league.",
+            "A.C. Cesena play in Serie B, they have 23900 members and their ground is Stadio Dino Manuzzi.",
+            "A.C. Cesena, with 23900 members, is in the Serie B league and has a ground called Stadio Dino Manuzzi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id21",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ],
+                [
+                    "Serie B",
+                    "champions",
+                    "Carpi F.C. 1909"
+                ],
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "AC Cesena play in the Serie B league which has been won by Carpi F.C. 1909 in the past. Their ground is located in Italy.",
+            "A.C. Cesena's ground is located in Italy and they are part of the Serie B league which was previously won by Carpi FC 1909.",
+            "AC Cesena, whose ground is located in Italy, are in the Serie B league. Carpi FC 1909 are previous champions of Serie B."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id22",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "league",
+                    "Serie B"
+                ],
+                [
+                    "Serie B",
+                    "champions",
+                    "Carpi F.C. 1909"
+                ],
+                [
+                    "A.C. Cesena",
+                    "ground",
+                    "Stadio Dino Manuzzi"
+                ]
+            ]
+        },
+        "text": [
+            "A.C.Cesena plays in Stadio Dino Manuzzi and is also the in the Serie B league, and the Carpi F.C. 1909 won the championship Serie B division.",
+            "A.C. Cesena's ground is the Stadio Dino Manuzzi and they played in Serie B but lost to Carpi FC 1909.",
+            "With grounds at the Stadio Dino Manuzzi, A.C. Cesena play in Serie B. Carpi FC 1909 are previous champions of that league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id23",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Vigor Lamezia"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Calcio Catania"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago manages A.C. Cesena and is attached to the club Vigor Lamezia although he plays for Calcio Catania.",
+            "Massimo Drago has been the manager of A C Cesena, is attached to the club Vigor Lamezia and his club was Calcio Catania.",
+            "Massimo Drago, manager of A.C. Cesena, is part of clubs Vigor Lamezia and Calcio Catania."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id24",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "fullname",
+                    "Associazione Calcio ChievoVerona S.r.l."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona, Italy"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "numberOfMembers",
+                    "39371"
+                ]
+            ]
+        },
+        "text": [
+            "Verona, Italy is the home to A.C. Chievo Verona which has 39371 members and the full name of \"Associazione Calcio ChievoVerona S.r.l.\"",
+            "Associazione Calcio Chievo Verona S.r.l. (abbreviated to A.C. Chievo Verona) has 39371 members and are based in Verona, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "fullname",
+                    "Associazione Calcio ChievoVerona S.r.l."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "numberOfMembers",
+                    "39371"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Calcio Chievo Verona S.r.l., or shortly A.C. Chievo Verona, is at the ground Verona and has 39371 members.",
+            "The full name of AC Chievo Verona is \"Associazione Calcio ChievoVerona S.r.l.\" and play at their ground in Verona where they have 39371 members.",
+            "The full name of AC Chievo Verona, which has 39371 members and plays in Verona, is \"Associazione Calcio ChievoVerona S.r.l.\""
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Stadio Marc'Antonio Bentegodi"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "fullname",
+                    "Associazione Calcio ChievoVerona S.r.l."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "numberOfMembers",
+                    "39371"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and they have 39371 members while their home ground is Stadio Marc'Antonio Bentegodi.",
+            "The full name of AC Chievo Verona is \"Associazione Calcio ChievoVerona S.r.l.\" Their home ground is Stadio Marc'Antonio Bentegodi and they have 39371 members.",
+            "Associazione Calcio ChievoVerona S.r.l. (abbreviated to A.C. Chievo Verona) has 39371 members and its home ground is Stadio Marc'Antonio Bentegodi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id27",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "manager",
+                    "Rolando Maran"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Calcio Catania"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Calcio Chievo Verona is managed by Rolando Maran, who is a member of the Calcio Catania and plays at the Carrarese Calcio.",
+            "Rolando Maran has managed AC Chievo Verona and is a member of the Calcio Catania. He currently plays at the Carrarese Calcio.",
+            "Rolando Maran is attached to the club Calcio Catania, plays at Carrarese Calcio and is manager of A.C. Chievo Verona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id28",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "manager",
+                    "Rolando Maran"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "F.C. Bari 1908"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Calcio Chievo Verona is managed by Rolando Maran, who has previously worked at FC Bari 1908 and Carrarese Calcio.",
+            "Associazione Calcio Cheivo Verona manager Rolando Maran has formerly worked at FC Bari 1908, and is a member of the Carrarese Calcio club.",
+            "Rolando Maran has managed AC Chievo Verona and plays for both F.C. Bari 1908 and Carrarese Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id29",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "manager",
+                    "Rolando Maran"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Unione Triestina 2012 S.S.D."
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Calcio Chievo Verona is managed by Rolando Maran, who plays for Unione Triestina 2012 S.S.D at the Carrarese Calcio.",
+            "Rolando Maran plays for Unione Triestina 2012 S.S.D and Carrarese Calcio. He has also managed AC Chievo Verona.",
+            "The manager of A.C. Chievo Verona is Rolando Maran who is in the following clubs: Unione Triestina 2012 S.S.D. and Carrarese Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id30",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "manager",
+                    "Rolando Maran"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Varese Calcio S.S.D."
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.C. Chievo Verona is Rolando Maran, who is in Varese Calcio S.S.D. club and plays for Carrarese Calcio.",
+            "The manager of A.C. Chievo Verona is Rolando Maran who is in the Carrarese Calcio club and plays for Varese Calcio S.S.D.",
+            "Rolando Maran plays for both Varese Calcio S.S.D. and Carrarese Calcio and has managed AC Chievo Verona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id31",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Chievo Verona",
+                    "manager",
+                    "Rolando Maran"
+                ],
+                [
+                    "Rolando Maran",
+                    "placeOfBirth",
+                    "Italy"
+                ],
+                [
+                    "Rolando Maran",
+                    "club",
+                    "Carrarese Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Calcio Chievo Verona is managed by Rolando Maran, who was born in Italy and is in the Carrarese Calcio club.",
+            "Rolando Maran (born in Italy), has managed AC Chievo Verona and played for Carrarese Calcio.",
+            "Rolando Maran (born: Italy) plays for Carrarese Clacio and manages Associazione Calcio ChievoVerona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id32",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "fullname",
+                    "Associazione Calcio Lumezzane SpA"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "numberOfMembers",
+                    "4150"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "league",
+                    "Lega Pro"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane, they have 4150 members and play in the Lega Pro league.",
+            "The full name of A.C. Lumezzane is Associazione Calcio Lumezzane SpA, they have 4150 members and play in the Lega Pro league.",
+            "Associazione Calcio Lumezzane SpA (A.C. Lumezzane) has 4150 members and plays in the Lega Pro league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id33",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "league",
+                    "Lega Pro/A"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "season",
+                    "2014–15 Lega Pro"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "numberOfMembers",
+                    "4150"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Lumezzane has 4150 members and has played in the Lega Pro/A during the 2014-2015 season.",
+            "A.C. Lumezzane, with 4150 members, is in the Lega Pro/A league and played during the 2014-15 season.",
+            "A.C Lumezzane play in the Lega Pro/A 2014-15 season. They have 4150 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id34",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "league",
+                    "Lega Pro"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "season",
+                    "2014–15 Lega Pro"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "numberOfMembers",
+                    "4150"
+                ]
+            ]
+        },
+        "text": [
+            "Lumezzane played in the Lega Pro during the 2014-2015 season and has 4150 members.",
+            "A.C. Lumezzane has 4150 members, played in the Lega Pro during the 2014-15 season and still play in the same league.",
+            "A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro in 2014-2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id35",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Chievo Verona"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "F.C. Bari 1908"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.C. Lumezzane is Michele Marcolini who was at FC Bari 1908 but currently plays for A.C. Chievo Verona.",
+            "Michele Marcolini was at FC Bari 1908, his club is A.C. Chievo Verona and is now a manager at A.C. Lumezzane."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id36",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Chievo Verona"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Torino F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.C. Lumezzane is Michele Marcolini. He plays for A.C. Chievo Verona and is at Torino F.C. club.",
+            "Michele Marcolini manages the A.C. Lumezzane and plays for both A.C. Chievo Verona and Torino F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id37",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Chievo Verona"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Vicenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini has been manager of AC Lumezzane he is part of A.C&gt; Chievo Verona and plays for Vicenza Calcio.",
+            "Michele Marcolini manages the A.C. Lumezzane, plays for A.C. Chievo Verona and previously played for Vicenza Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id38",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Atalanta B.C."
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "A.C. Chievo Verona"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini has managed A.C. Lumezzane and played for Atalanta B.C. and A.C. Chievo Verona.",
+            "Michele Marcolini has been the manager of AC Lumezzane and his club is A.C. Chievo Verona but he plays for Atalanta B.C.",
+            "Michele Marcolini plays for both Atalanta B.C. and A.C. Chievo Verona and has been manager of AC Lumezzane."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id39",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "F.C. Bari 1908"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Vicenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini manages the A.C. Lumezzane, plays for F.C. Bari 1908 and once played for Vicenza Calcio.",
+            "Michele Marcolini has been manager of AC Lumezzane and was at FC Bari 1908. He is in the Vicenza Calcio club.",
+            "Michele Marcolini has been manager of AC Lumezzane; he also plays for F.C. Bari 1908 and has played for Vicenza Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id40",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Torino F.C."
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Atalanta B.C."
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini has played for Atalanta BC. He now manages the AC Lumezzane and is at the Torino FC club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id41",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Torino F.C."
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "F.C. Bari 1908"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.C. Lumezzane is Michele Marcolini who plays for Torino F.C. and as been associated with F.C. Bari 1908.",
+            "Michele Marcolini is at the Torino F.C. club. He has been manager of AC Lumezzane and was previously at FC Bari 1908.",
+            "Michele Marcolini has been manager of AC Lumezzane; he also is associated with Torino F.C. and F.C. Bari 1908."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id42",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "manager",
+                    "Michele Marcolini"
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Torino F.C."
+                ],
+                [
+                    "Michele Marcolini",
+                    "club",
+                    "Vicenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Michele Marcolini manages the A.C. Lumezzane but also plays for Torino F.C. and Vicenza Calcio.",
+            "Michele Marcolini has been manager of AC Lumezzane and plays for both Torino F.C. and Vicenza Calcio.",
+            "Michele Marcolini manages the A.C. Lumezzane and plays for Torino F.C. He is also in the Vicenza Calcio club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id43",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.C. Lumezzane",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "league",
+                    "Lega Pro"
+                ],
+                [
+                    "A.C. Lumezzane",
+                    "numberOfMembers",
+                    "4150"
+                ]
+            ]
+        },
+        "text": [
+            "The A.C. Lumezzane has 4150 members and play in the Lega Pro League. They also played in the 2014 season.",
+            "A.C. Lumezzane, with 4150 members, plays in the Lega Pro, and were active in 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id44",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Isidro Metapán"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Metapán, El Salvador"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "numberOfMembers",
+                    "10000"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. Isidro Metapán is located in Metapán, El Salvador. It has 10000 members.",
+            "A.D. Isidro Metapán has 10000 members and their ground is in Metapan, El Salvador. Their full name is Isidro Metapan.",
+            "The full name of A.D. Isidro Metapan is Isidro Metapan. Their ground is located in Metapán, El Salvador and they have 10000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id45",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Isidro Metapán"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Metapán"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "numberOfMembers",
+                    "10000"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.D. Isidro Metapan is Isidro Metapan, their ground is in Metapán and they have 10000 members.",
+            "The full name of A.D. Isidro Metapan which has 10000 members, is Isidro Metapan and their ground is in Metapan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id46",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Metapán, El Salvador"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "numberOfMembers",
+                    "10000"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Asociación Deportiva"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. Isidro Metapan's full name is \"Asociación Deportiva\". They have 10000 members and their ground is in Metapan, El Salvador.",
+            "10000 member strong club AD Isidro Metapan Deportiva - Asociacion Deportiva - plays at Metapan, El Salvador.",
+            "Asociacion Deportiva (abbreviated to A.D. Isidro Metapan) has 10000 members and has its ground in Metapan, El Salvador."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id47",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Estadio Jorge Calero Suárez"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "numberOfMembers",
+                    "10000"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Asociación Deportiva"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. (Asociacion Deportiva) Isidro Metapan play at the Estadio Jorge Calero Suarez and has 10000 members.",
+            "A.D. Isidro Metapan play at the Estadio Jorge Calero Suarez, they have 10000 members and the full name of the club is \"Asociación Deportiva\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id48",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "ground",
+                    "Metapán"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "numberOfMembers",
+                    "10000"
+                ],
+                [
+                    "A.D. Isidro Metapán",
+                    "fullname",
+                    "Asociación Deportiva"
+                ]
+            ]
+        },
+        "text": [
+            "The Asociacion Deportiva is now known as A.D. Isidro Metapan and has 10000 members and plays in Metapan.",
+            "A.D. Isidro Metapán's ground is in Metapán, they have 10000 members and the full name Asociación Deportiva.",
+            "The full name of A.D. Isidro Metapan is Asociacion Deportiva, they have 10000 members and play at their ground at Metapán."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id49",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.D. Isidro Metapán",
+                    "manager",
+                    "Jorge Humberto Rodríguez"
+                ],
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "FC Dallas"
+                ],
+                [
+                    "Jorge Humberto Rodríguez",
+                    "club",
+                    "El Salvador national football team"
+                ]
+            ]
+        },
+        "text": [
+            "A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez who plays for FC Dallas and the El Salvador national football team.",
+            "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, he plays for the El Salvador national football team and FC Dallas.",
+            "Jorge Humberto Rodriguez has been manager of A D Isidro Metapán and is a member of the club FC Dallas, as well as of the El Salvador national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id50",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis is located in Greece where the capital is Athens and the leader is Nikos Voutsis.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece, capital of which is Athens and the leader is Nikos Voutsis.",
+            "Greece, led by Nikos Voutsis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id51",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece. The capital of the country is Athens and the leader is Prokopis Pavlopoulos.",
+            "A.E Dimitra Efxeinoupolis is located in Greece whose leader is Prokopis Pavlopoulos and the capital is Athens.",
+            "A.E Dimitra Efxeinoupolis is located in Greece. The country's capital is Athens and the leader is Prokopis Pavlopoulos."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id52",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "capital",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where the leader is Alexis Tsipras and the capital city is Athens.",
+            "A.E Dimitra Efxeinoupolis is located in Greece, the capital of which is Athens and the country is headed by Alexis Tsipras.",
+            "Athens is Greece's capital (led by Alexis Tsipras). Greece is the location of A.E. Dimitra Efxeinoupolis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id53",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek language"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where they speak Greek. The leader of Greece is Alexis Tsipras.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where they speak Greek and the leader is Alexis Tsipras.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece whose leader is Alexis Tsipras and spoken language is Greek."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id54",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where two of the leaders are Alexis Tsipras and Nikos Voutsis.",
+            "A.E Dimitra Efxeinoupolis is located in Greece where the leader is Nikos Voutsis and Alexis Tsipras is at the head.",
+            "A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Alexis Tsipras and/or Nikos Voutsis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id55",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Alexis Tsipras"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece where two of the leaders are Alexis Tsipras and Prokopis Pavlopoulos.",
+            "The A.E Dimitra Efxeinoupolis club is located in Greece, where the leader is Alexis Tsipras and/or Prokopis Pavlopoulos."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id56",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Nikos Voutsis"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek language"
+                ]
+            ]
+        },
+        "text": [
+            "The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Nikos Voutsis and uses the Greek language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id57",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "location",
+                    "Greece"
+                ],
+                [
+                    "Greece",
+                    "leader",
+                    "Prokopis Pavlopoulos"
+                ],
+                [
+                    "Greece",
+                    "language",
+                    "Greek language"
+                ]
+            ]
+        },
+        "text": [
+            "Prokopis Pavlopoulos is a leader in Greece where the Greek language is spoken. The country is the location of AE Dimitra Efxeinoupolis club.",
+            "A.E Dimitra Efxeinoupolis is located in Greece, which leader is Prokopis Pavlopoulos and the language is Greek."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id58",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "numberOfMembers",
+                    "1500"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "ground",
+                    "Efxeinoupoli"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "league",
+                    "A EPSTH 2nd GROUP"
+                ]
+            ]
+        },
+        "text": [
+            "A.E Dimitra Efxeinoupolis ground is in the town of Efxeinoupoli. It has 1500 members and plays in the A EPSTH 2nd GROUP.",
+            "A.E Dimitra Efxeinoupolis, which has 1500 members, is in the league EPSTH 2nd GROUP and their ground is located in the town of Efxeinoupoli.",
+            "A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP, with 1500 members their ground is located in the town of Efxeinoupoli."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id59",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "numberOfMembers",
+                    "1500"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "ground",
+                    "Efxeinoupoli"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "AE Dimitra Efxeinoupolis played in the 2014 season and has 1500 members. Their ground is located in the town of Efxeinoupoli.",
+            "A.E Dimitra Efxeinoupolis played in season 2014. They have 1500 members and their ground is located in the town of Efxeinoupoli.",
+            "AE Dimitra Efxeinoupolis has 1500 members and their ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli. They were in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id60",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "numberOfMembers",
+                    "1500"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "ground",
+                    "Efxeinoupoli"
+                ],
+                [
+                    "A.E Dimitra Efxeinoupolis",
+                    "season",
+                    "2014–15 A EPSTH, Greece"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli and has 1500 member. They were in the 2014–15 A EPSTH Greece season.",
+            "The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli. They have 1500 members and were in the 2014-15 A EPSTH, Greece.",
+            "A.E Dimitra Efxeinoupolis have 1500 members and were in the 2014-15 A EPSTH, Greece. Their home ground is located in Efxeinoupoli."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id61",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "Jepson Way,"
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "numberOfMembers",
+                    "1500"
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "fullname",
+                    "Association Football Club Blackpool"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Blackpool full name is \"Association Football Club Blackpool,\" they have 1500 members and their grounds are at Jepson Way.",
+            "AFC Blackpool has the full name \"Association Football Club Blackpool\". They have 1500 members and their grounds are Jepson Way."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id62",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "ground",
+                    "The Mechanics,"
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "numberOfMembers",
+                    "1500"
+                ],
+                [
+                    "A.F.C. Blackpool",
+                    "fullname",
+                    "Association Football Club Blackpool"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Blackpool full name is \"Association Football Club Blackpool\". They have 1500 members and their ground is The Mechanics.",
+            "The full name of A.F.C. Blackpool is Association Football Club Blackpool. Their ground is The Mechanics. and they have 1500 members.",
+            "AFC Blackpool, with 1500 members, has the full name \"Association Football Club Blackpool\", and its ground is called \"The Mechanics\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id63",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Bury F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker, who used to play for Bury FC and has represented the club KV Mechelen.",
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who played for Bury FC and currently for KV Mechelen.",
+            "AFC Blackpool have had Stuart Parker as their manager who plays for Bury FC and has represented the club KV Mechelen."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id64",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Blackburn Rovers F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who is attached to Chesterfield football club and plays for Blackburn Rovers F.C.",
+            "Stuart Parker (footballer) plays for Blackburn Rovers F.C. Manages A.F.C. Blackpool and is a member of Chesterfield F.C.",
+            "Footballer Stuart Parker was at Blackburn Rovers FC, he is a member of the Chesterfield F.C. and currently manages A.F.C. Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id65",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Bury F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who played for both Chesterfield FC and Bury FC.",
+            "AFC Blackpool have had Stuart Parker as their manager, he was a footballer for Chesterfield FC. and Bury FC.",
+            "Stuart Parker was a footballer for Chesterfield FC and now plays for Bury FC and is the manager at A.F.C. Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id66",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Drogheda United F.C."
+                ]
+            ]
+        },
+        "text": [
+            "AFC Blackpool have had Stuart Parker as their manager. He is attached to Chesterfield football club and was at Drogheda United FC.",
+            "Stuart Parker (footballer) was at Drogheda United F.C. is a member of the Chesterfield F.C. and now manages A.F.C. Blackpool.",
+            "Stuart Parker was a footballer for Chesterfield FC and is a footballer with the Drogheda United F.C, he also had managed AFC Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id67",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Stockport County F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Stuart Parker is a member of the Chesterfield football club as well as a player for Stockport County F.C. and also managers the A.F.C. Blackpool organization.",
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer). In the past he played for Chesterfield FC. and Stockport County FC.",
+            "AFC Blackpool have had Stuart Parker as their manager. He is a member of the Chesterfield F.C and was previously at Stockport County F.C."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id68",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Irlam Town F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Chesterfield F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer). He is attached to Irlam Town Football Club and a member of the Chesterfield F.C.",
+            "AFC Blackpool manager Stuart Parker is also attached to Irlam Town and Chesterfield football clubs.",
+            "Stuart Parker was once a manager at AFC Blackpool and a footballer for Chesterfield FC but is now attached to Irlam Town Football Club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id69",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Irlam Town F.C."
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Runcorn F.C. Halton"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker who plays for Runcorn F.C. Halton and is attached to Irlam Town Football Club.",
+            "The manager of A.F.C. Blackpool is Stuart Parker who is a member of the Irlam Town F.C and was a player for Runcorn FC Halton.",
+            "Stuart Parker once played for Runcorn FC Halton, is attached to Irlam Town Football Club and is now a manager of A.F.C. Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id70",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Drogheda United F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who was at Drogheda United FC but is currently part of the KV Mechelen club.",
+            "AFC Blackpool have had Stuart Parker as their manager, he is part of the KV Mechelen club and played with the Drogheda United F.C.",
+            "Stuart Parker, who used to play at Drogheda United FC and now plays for KV Mechelen, is the manager of A.F.C. Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id71",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Runcorn F.C. Halton"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker (footballer) who has represented the club KV Mechelen and also played for Runcorn FC Halton.",
+            "Stuart Parker has represented the club KV Mechelen and was manager for AFC Blackpool, He plays for Runcorn F.C. Halton.",
+            "Stuart Parker the football player is part of the KV Mechelen club, plays for Runcorn F.C. Halton and has managed AFC Blackpool."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id72",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Blackpool",
+                    "manager",
+                    "Stuart Parker (footballer)"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "KV Mechelen"
+                ],
+                [
+                    "Stuart Parker (footballer)",
+                    "club",
+                    "Stockport County F.C."
+                ]
+            ]
+        },
+        "text": [
+            "The manager of A.F.C. Blackpool is Stuart Parker who once played for Stockport County FC and currently plays for KV Mechelen.",
+            "Stuart Parker is the manager of AFC Blackpool. He own club was Stockport County FC and he has represented KV Mechelen.",
+            "AFC Blackpool have had Stuart Parker as their manager. He has also represented the club KV Mechelen and once played for Stockport County FC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id73",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Kellamergh Park"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "fullname",
+                    "Association Football Club Fylde"
+                ]
+            ]
+        },
+        "text": [
+            "A.F.C. Fylde's ground is Kellamergh Park. They have 3180 members and the full name of \"Association Football Club Fylde\".",
+            "The full name of the A.F.C. Fylde is \"Association Football Club Fylde,\" they have 3180 members and their ground is Kellamergh Park.",
+            "AFC Fylde has the full name \"Association Football Club Fylde\", its grounds are Kellamergh Park and it has 3180 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id74",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Warton, Fylde, Lancashire"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "fullname",
+                    "Association Football Club Fylde"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AFC Fylde, the 3180 member strong club, is Association Football Club Fylde. Their ground is at Warton, Fylde, Lancashire.",
+            "Association Football Club Fylde (abbreviated to A.F.C. Fylde) has 3180 members and are based at Warton, Fylde, Lancashire.",
+            "A.F.C. Fylde (its full name is \"Association Football Club Fylde\"), which has 3180 members, is based at Warton, Fylde, Lancashire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id75",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "The Fylde"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "fullname",
+                    "Association Football Club Fylde"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde has the full name \"Association Football Club Fylde\" and has 3180. Their home ground is called The Fylde.",
+            "AFC Fylde, who play at The Fylde, has 3180 members and the full name Association Football Club Fylde.",
+            "3180 member club, Association Football Club \"AFC\" Fylde plays at a ground called The Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id76",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "manager",
+                    "Dave Challinor"
+                ],
+                [
+                    "Dave Challinor",
+                    "club",
+                    "Tranmere Rovers F.C."
+                ],
+                [
+                    "Dave Challinor",
+                    "club",
+                    "Colwyn Bay F.C."
+                ]
+            ]
+        },
+        "text": [
+            "AFC Fylde's manager is Dave Challinor who is affiliated with Tranmere Rovers F.C. and plays for Colwyn Bay F.C. club.",
+            "Dave Challinor is at Colwyn Bay FC and manages A.F.C. Fylde. He is also affiliated with Tranmere Rovers F.C.",
+            "Dave Challinor is affiliated with Tranmere Rovers F.C., plays for Colwyn Bay F.C. and is manager of AFC Fylde."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id77",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "fullname",
+                    "Association Football Club Fylde"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Bryning Lane"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of the A.F.C. Fylde is \"Association Football Club Fylde\" they are based at Bryning Lane and have 3180 members.",
+            "AFC Fylde has the full name \"Association Football Club Fylde,\" they have 3180 members and are based at Bryning Lane.",
+            "AFC Fylde has the full name \"Association Football Club Fylde\", they are based at Bryning Lane and have 3180 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id78",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.F.C. Fylde",
+                    "numberOfMembers",
+                    "3180"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "ground",
+                    "Lancashire"
+                ],
+                [
+                    "A.F.C. Fylde",
+                    "fullname",
+                    "Association Football Club Fylde"
+                ]
+            ]
+        },
+        "text": [
+            "Association Football Club Fylde (abbreviated to AFC Fylde) has 3180 members and its ground is in Lancashire.",
+            "AFC Fylde has the full name \"Association Football Club Fylde\", its ground can be found in the county of Lancashire and it has 3180 members.",
+            "Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is in Lancashire."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id79",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "fullname",
+                    "Associazione Sportiva Gubbio 1910 Srl"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "numberOfMembers",
+                    "5300"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "season",
+                    "2014–15 Lega Pro"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl. It was a part of the 2014–15 Lega Pro season and has 5300 members.",
+            "A.S. Gubbio 1910, which stands for Associazione Sportiva Gubbio 1910 Srl., has 5300 members and was in the Lega Pro in the 2014-15 season.",
+            "A.s Gubbio 1910 (Associazione Sportiva Gubbio 1910 Srl.), with 5300 members, participated in the 2014-15 Lega Pro season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id80",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Gubbio 1910",
+                    "fullname",
+                    "Associazione Sportiva Gubbio 1910 Srl"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "numberOfMembers",
+                    "5300"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AS Gubbio 1910 is \"Associazione Sportiva Gubbio 1910 Srl\", they have 5300 members and played in the 2014 season.",
+            "Associazione Sportiva Gubbio 1910 Srl (abbreviated to A.S. Gubbio 1910) has 5300 members and competed in the 2014 season.",
+            "The full name of AS Gubbio 1910 is \"Associazione Sportiva Gubbio 1910 Srl\". It competed in the 2014 season and has 5300 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id81",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Livorno, Italy"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Associazione Sportiva"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of A.S. Livorno Calcio is Associazione Sportiva, their ground is in Livorno Italy and they have 19,238 members.",
+            "Livorno, Italy is the location of the ground of AS Livorno Calcio which has 19238 members and the full name of Associazione Sportiva.",
+            "Associazione Sportiva Livorno Calcio is the full name of A.S.Livorno Calcio. They have 19238 members and their ground is in Livorno, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id82",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Livorno"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Associazione Sportiva"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Sportiva Livorno Calcio is the full name of A.S.Livorno Calcio. They have 19238 members and their ground is in Livorno."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id83",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Livorno"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Livorno Calcio S.p.A."
+                ]
+            ]
+        },
+        "text": [
+            "Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio. They have 19238 members and grounds in Livorno.",
+            "The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A. Its ground is in Livorno and it has 19238 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id84",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Stadio Armando Picchi"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Associazione Sportiva"
+                ]
+            ]
+        },
+        "text": [
+            "Associazione Sportiva Calcio, better known as A.S Livorno Calcio, is a 19238 member club whose ground is the Stadio Armando Picchi.",
+            "The home ground of A S Livorno Calcio (full name Associazione Sportiva), which has 19238 members, is the Stadio Armando Picchi.",
+            "The A.S. Livorno Calcio (Associazione Sportiva), with 19238 members, has the Stadio Armando Picchi as its home ground."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id85",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "ground",
+                    "Stadio Armando Picchi"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "numberOfMembers",
+                    "19238"
+                ],
+                [
+                    "A.S. Livorno Calcio",
+                    "fullname",
+                    "Livorno Calcio S.p.A."
+                ]
+            ]
+        },
+        "text": [
+            "The AS Livorno Calcio has 19238 members and the full name of Livorno Calcio S.p.A. Their ground is known as Stadio Armando Picchi.",
+            "Livorno Calcio S.p.A., abbreviated to A.S. Livorno Calcio, has 19238 members and has the ground Stadio Armando Picchi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id86",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "A.S. Roma"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Genoa C.F.C."
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio are managed by Christian Panucci who plays for A.S. Roma and is attached to the club Genoa CFC.",
+            "Christian Panucci played football for Genoa C.F.C. and now manages A.S. Livorno Calcio and plays at the A.S. Roma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id87",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "A.S. Roma"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Italy national football team"
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci was a former player for the Italy national football team, now plays for A.S. Roma as well as manages A.S, Livorno Calcio.",
+            "A.S Livorno Calcio is managed by Christian Panucci who is in the A.S. Roma club and also plays for the Italian national football team.",
+            "Christian Panucci is in the A.S. Roma club, plays for the Italian national football team and manages A.S. Livorno Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id88",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "A.S. Roma"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Real Madrid C.F."
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio are managed by Christian Panucci who plays for A.S. Roma and was attached to the Real Madrid CF club.",
+            "Christian Panucci, who manages A.S. Livorno Calcio, used to play for both A.S. Roma and Real Madrid CF.",
+            "A.S. Livorno Calcio are managed by Christian Panucci, who is in the A.S. Roma club, and was attached to the Real Madrid CF club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id89",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Genoa C.F.C."
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Chelsea F.C."
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio are managed by Christian Panucci who has played for Chelsea FC and is attached to the club Genoa CFC.",
+            "Christian Panucci played football for Genoa C.F.C. and Chelsea F.C. Today he manages A.S. Livorno Calcio.",
+            "Christian Panucci has played for Chelsea FC and Genoa C.F.C. and now manages A.S. Livorno Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id90",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Genoa C.F.C."
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Inter Milan"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio are managed by Christian Panucci who plays for Inter Milan and previously for football for Genoa C.F.C.",
+            "A.S. Livorno Calcio are managed by Christian Panucci who has played for Inter Milan and is attached to the club Genoa CFC.",
+            "Christian Panucci played football for Genoa C.F.C. and Inter Milan, but now manages A.S. Livorno Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id91",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Genoa C.F.C."
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Italy national football team"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Livorno Calcio are managed by Christian Panucci who played football for Genoa C.F.C. and the Italy national football team.",
+            "Christian Panucci plays for Genoa C.F.C. and the Italian national team, he also manages A.S. Livorno.",
+            "A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team and is attached to the club Genoa CFC."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id92",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Livorno Calcio",
+                    "manager",
+                    "Christian Panucci"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Italy national football team"
+                ],
+                [
+                    "Christian Panucci",
+                    "club",
+                    "Inter Milan"
+                ]
+            ]
+        },
+        "text": [
+            "Christian Panucci played for the Italy national football team and Inter Milan as well as managing A.S. Livorno Calcio.",
+            "A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team and Inter Milan.",
+            "A.S. Livorno Calcio are managed by Christian Panucci who plays for the Italy national football team and previously for Inter Milan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id93",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "numberOfMembers",
+                    "70634"
+                ],
+                [
+                    "A.S. Roma",
+                    "fullname",
+                    "Associazione Sportiva Roma S.p.A."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Rome"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma's full name is Associazione Sportiva Roma S.p.A. They have 70634 members and their ground is located in Rome.",
+            "AS Roma has 70634 members and has a ground in Rome. Their full name is Associazione Sportiva Roma S.p.A.",
+            "The full name of A.S. Roma is Associazione Sportiva Roma S.p.A. They have 70634 members and their ground is in Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id94",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "A.S. Roma",
+                    "numberOfMembers",
+                    "70634"
+                ],
+                [
+                    "A.S. Roma",
+                    "fullname",
+                    "Associazione Sportiva Roma S.p.A."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Stadio Olimpico"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma play at the Stadio Olimpico, have 70634 members and their full name is Associazione Sportiva Roma S.p.A.",
+            "Associazione Sportiva Roma S.p.A.(abbreviated to A.S.Roma) has 70634 members and its ground is Stadio Olimpico.",
+            "Associazione Sportiva Roma S.p.A., or A.S Roma for short, has the Stadio Olimpico as its ground and 70634 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id95",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "manager",
+                    "Paulo Sousa"
+                ],
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Juventus F.C."
+                ],
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Maccabi Tel Aviv F.C."
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa is the manager of the ACF Fiorentina but played for Maccabi Tel Aviv FC. His club is Juventus.",
+            "Paulo Sousa plays for Juventus F.C. and Maccabi Tel Aviv F.C. while also managing ACF Fiorentina.",
+            "Paulo Sousa played for Juventus FC and now plays for Maccabi Tel Aviv F.C while managing ACF Fiorentina."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id96",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "manager",
+                    "Paulo Sousa"
+                ],
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Maccabi Tel Aviv F.C."
+                ],
+                [
+                    "Paulo Sousa",
+                    "club",
+                    "Portugal national football team"
+                ]
+            ]
+        },
+        "text": [
+            "Paulo Sousa is the manager of the ACF Fiorentina. He plays for Maccabi Tel Aviv F.C. and is also a member of the Portugal National Football Team.",
+            "The manager of ACF Fiorentina is Paulo Sousa who plays for Maccabi Tel Aviv F.C. and also the Portugal national football team.",
+            "Paulo Sousa is the manager of the ACF Fiorentina. He has played for Maccabi Tel Aviv F.C and is a member of the Portugal National Football Team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id97",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "numberOfMembers",
+                    "47290"
+                ],
+                [
+                    "ACF Fiorentina",
+                    "fullname",
+                    "ACF Fiorentina S.p.A."
+                ],
+                [
+                    "ACF Fiorentina",
+                    "season",
+                    "2014"
+                ]
+            ]
+        },
+        "text": [
+            "ACF Fiorentina (full name: ACF Fiorentina S.p.A.) competed in the 2014 season and their ground holds 47290 fans.",
+            "ACF Fiorentina, who competed in the 2014 season has the full name of ACF Fiorentina S.p.A. They currently have 47290 members.",
+            "ACF Fiorentina full name is ACF Fiorentina S.p.A.; they have 47290 members and competed in the 2014 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id98",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "ACF Fiorentina",
+                    "numberOfMembers",
+                    "47290"
+                ],
+                [
+                    "ACF Fiorentina",
+                    "fullname",
+                    "ACF Fiorentina S.p.A."
+                ],
+                [
+                    "ACF Fiorentina",
+                    "season",
+                    "2014–15 Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of ACF Fiorentina is ACF Fiorentina S.p.A., they have 47290 members and played the 2014-15 season in Serie A.",
+            "The full name of ACF Fiorentia is \"ACF Fiorentina S.p.A.\"; they played the 2014-15 season in Serie A and have 47290 members.",
+            "ACF Fiorentina, or ACF Fiorentina S.p.A., has 47290 members and played in the 2014-15 Serie A season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id99",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "league",
+                    "Superleague Greece"
+                ],
+                [
+                    "Superleague Greece",
+                    "champions",
+                    "Olympiacos F.C."
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Athens"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens FC whose grounds are in Athens compete in the Superleague Greece, the champion of which is Olympiacos F.C.",
+            "AEK Athens F.C. whose grounds are in Athens, play in the Superleague Greece, the previous champions of which were Olympiacos FC.",
+            "AEK Athens F.C., with their ground in Athens, play in the Superleague Greece in which Olympiacos F.C. were past champions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id100",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "league",
+                    "Superleague Greece"
+                ],
+                [
+                    "Superleague Greece",
+                    "champions",
+                    "Olympiacos F.C."
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Olympic Stadium (Athens)"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens F.C. is in the Superleague of Greece (previous champions: Olympiacos), and their home ground is The Olympic Stadium (Athens).",
+            "The ground for AEK Athens FC is the Olympic Stadium (Athens) and they compete in the Superleague Greece. Previous champions of the superleague are Olympiacos FC.",
+            "AEK Athens FC compete in the Superleague Greece, whose previous champions are Olympiacos FC. Their home ground is the Olympic Stadium (Athens)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id101",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "numberOfMembers",
+                    "69618"
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Greece"
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "league",
+                    "Superleague Greece"
+                ]
+            ]
+        },
+        "text": [
+            "AEK Athens FC, whose home ground is in Greece, has 69618 members and compete in the Superleague Greece.",
+            "AEK Athens F.C has 69618 members, has its grounds in Greece and plays in the Superleague Greece.",
+            "AEK Athens F.C., with 69618 members, play in the Superleague Greece. Their ground is in Athens."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id102",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AEK Athens F.C.",
+                    "numberOfMembers",
+                    "69618"
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "ground",
+                    "Olympic Stadium (Athens)"
+                ],
+                [
+                    "AEK Athens F.C.",
+                    "league",
+                    "Superleague Greece"
+                ]
+            ]
+        },
+        "text": [
+            "The Olympic Stadium (Athens) is the home ground of AEK Athens FC who compete in the Superleague Greece. The club has 69618 members.",
+            "AEK Athens F.C. is in the Superleague of Greece and has 69618 members. Their ground is the Olympic Stadium in Athens.",
+            "The Olympic Stadium (Athens), is the home ground of AEK Athens FC, have 69618 members and are in the Superleague of Greece."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id103",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "numberOfMembers",
+                    "53502"
+                ],
+                [
+                    "AFC Ajax",
+                    "season",
+                    "2014–15 Eredivisie"
+                ],
+                [
+                    "AFC Ajax",
+                    "fullname",
+                    "Amsterdamsche Football Club Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AFC Ajax is Amsterdamsche Football Club Ajax. They have 53502 members and were in the Eredivisie for the season 2014-2015.",
+            "The full name of AFC Ajax is Amsterdamsche Football Club Ajax, they played in the 2014-15 Eredivisie season and have 53502 members.",
+            "The full name of AFC Ajax is \"Amsterdamsche Football Club Ajax\". It were in the Eredivisie for the season 2014-2015 and has 53502 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id104",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "AFC Ajax",
+                    "numberOfMembers",
+                    "53502"
+                ],
+                [
+                    "AFC Ajax",
+                    "fullname",
+                    "Amsterdamsche Football Club Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "Amsterdamsche Football Club Ajax (abbreviated to AFC Ajax) has 53502 members and played in season 2014.",
+            "The full name of AFC Ajax is Amsterdamsche Football Club Ajax, they have 53502 members and played in season 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id105",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekomst"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "operator",
+                    "AFC Ajax"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Ajax Youth Academy"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst where Ajax Youth Academy also play.",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, tenanted by Ajax Youth Academy and operated by AFC Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id106",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekomst"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "operator",
+                    "AFC Ajax"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax. The tenant of the ground is Jong Ajax.",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, operated by AFC Ajax. The tenant is Jong Ajax.",
+            "AFC Ajax and amateur's ground is Sportpark De Toekomst. Jong Ajax are the tenants of the De Toekomst Sportpark."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id107",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekomst"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "owner",
+                    "AFC Ajax N.V."
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax N.V. own Sportpark De Toekomst where Jong Ajax is the tenant. It is the ground of AFC Ajaz (amateurs).",
+            "AFC Ajax (amateur) play as Sportpark De Toekomst, which is owned by AFC Ajax N.V., with Jong Ajax as the tenant."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id108",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekomst"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Ajax Youth Academy"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "owner",
+                    "AFC Ajax N.V."
+                ]
+            ]
+        },
+        "text": [
+            "Ajax Youth Academy is a tenant of Sportpark De Toekomst which is owned by AFC Ajax NV and is the ground for AFC Ajax (amateurs).",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, tenanted by Ajax Youth Academy and owned by AFC Ajax N.V.",
+            "AFC Ajax N.V. own Sportpark De Toekomst who in turn host both the Ajax Youth Academy and AFC Ajax (amateurs)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id109",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "ground",
+                    "Sportpark De Toekomst"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Ajax Youth Academy"
+                ],
+                [
+                    "Sportpark De Toekomst",
+                    "tenant",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst of which both Ajax Youth Academy and Jong Ajax are tenants.",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst where the Ajax Youth Academy and Jong Ajax are also tenants of.",
+            "AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, tenanted by Ajax Youth Academy (Jong Ajax)."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id110",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "numberOfMembers",
+                    "5000"
+                ],
+                [
+                    "AFC Ajax (amateurs)",
+                    "season",
+                    "2014–15 Topklasse"
+                ],
+                [
+                    "AFC Ajax (amateurs)",
+                    "fullname",
+                    "Amsterdamsche Football Club Ajax Amateurs"
+                ]
+            ]
+        },
+        "text": [
+            "The Amsterdamsche Football Club Ajax Amateurs is now known as AFC Ajax and has 5000 members and has played in the 2014-15 Topklasse season.",
+            "The AFC Ajax (amateurs) complete name is the \"Amsterdamsche Football Club Ajax Amateurs. They play in the Topklasse in the 2014-2015 season and have 5000 members.",
+            "The full name of AFC Ajax (amateurs) is \"Amsterdamsche Football Club Ajax Amateurs\" they have 5000 members and played in the 2014-15 Topklasse season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id111",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AFC Ajax (amateurs)",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "AFC Ajax (amateurs)",
+                    "numberOfMembers",
+                    "5000"
+                ],
+                [
+                    "AFC Ajax (amateurs)",
+                    "fullname",
+                    "Amsterdamsche Football Club Ajax Amateurs"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AFC Ajax (amateurs) is \"Amsterdamsche Football Club Ajax Amateurs\", they have 5000 members and played in the 2014 season.",
+            "AFC Ajax (Amateurs) competed in the 2014 season and has 5000 members. Their full name is Amsterdamsche Football Club Ajax Amateurs.",
+            "Amsterdamsche Football Club Ajax Amateurs (abbreviated to AFC Ajax (amateurs), competed in the 2014 season and has 5000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id112",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "fullname",
+                    "AZAL Peşəkar Futbol Klubu"
+                ],
+                [
+                    "AZAL PFK",
+                    "season",
+                    "2014"
+                ],
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu, they have 3500 members and were in the 2014 season.",
+            "The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu. They competed in the 2014 season and have 3500 members.",
+            "AZAL PFK stands for \"AZAL Peşəkar Futbol Klubu\". They competed in the season 2014 and have 3500 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id113",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "fullname",
+                    "AZAL Peşəkar Futbol Klubu"
+                ],
+                [
+                    "AZAL PFK",
+                    "season",
+                    "2014–15 Azerbaijan Premier League"
+                ],
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ]
+            ]
+        },
+        "text": [
+            "AZAL PFK stands for \"AZAL Peşəkar Futbol Klubu\" and they have 3500 members. AZAL PFK Bakou is playing in the Azerbaijan Premier League, 2014–15.",
+            "AZAL PFK's full name is AZAL Peşəkar Futbol Klubu. They played in the Azerbaijan PremierLeague, 2014–15 and have 3500 members.",
+            "The AZAL PFK (abbreviated from \"AZAL Peşəkar Futbol Klubu\"), with 3500 members, competed in the Azerbaijan Premier League in 2014-15."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id114",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZAL PFK",
+                    "league",
+                    "Azerbaijan Premier League"
+                ],
+                [
+                    "Azerbaijan Premier League",
+                    "champions",
+                    "Qarabağ FK"
+                ],
+                [
+                    "AZAL PFK",
+                    "numberOfMembers",
+                    "3500"
+                ]
+            ]
+        },
+        "text": [
+            "The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK.",
+            "Qarabag FK are champions of the Azerbaijan Premier League which AZAL PFK play in and they have 3500 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id115",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "fullname",
+                    "Alkmaar Zaanstreek"
+                ],
+                [
+                    "AZ Alkmaar",
+                    "season",
+                    "2014–15 Eredivisie"
+                ],
+                [
+                    "AZ Alkmaar",
+                    "numberOfMembers",
+                    "17023"
+                ]
+            ]
+        },
+        "text": [
+            "AZ Alkmaar has 17023 members and played in the Eredivisie in the 2014-15 season. Their full name is Alkmaar Zaanstreek.",
+            "Alkmaar \"AZ\" Zaanstreek, the 17023 member strong club, played in the Eredivisie in 2014-15.",
+            "Alkmaar Zaanstreek (abbreviated to AZ Alkmaar) has 17023 members and played in the Eredivisie in 2014-15."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id116",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "ADO Den Haag"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "De Graafschap"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom is the manager of AZ Alkmaar as well as a player for ADO Den Haag and De Graafschap.",
+            "John van den Brom manages the AZ Alkmaar as well as playing for the ADO Den Haag and the De Graafschap.",
+            "John van den Brom has been manager of AZ Alkmaar, he plays for both ADO Den Haag and De Graafschap."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id117",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "AFC Ajax"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom was manager of AZ Alkmaar and now plays for AFC and Jong Ajax.",
+            "John van den Brom manages for the AZ Alkmaar, plays for AFC Ajax and is in the Jong Ajax Club.",
+            "John van den Brom is the manager of AZ Alkmaar and plays for AFC Ajax and Jong Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id118",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "AFC Ajax"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "R.S.C. Anderlecht"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for AFC Ajax and R.S.C. Anderlecht. He is also the manager of AZ Alkmaar.",
+            "John van den Brom has been manager of AZ Alkmaar and plays for AFC Ajax and R.S.C. Anderlecht.",
+            "John van den Brom manages the AZ Alkmaar and plays for both R.S.C. Anderlecht and AFC Ajax."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id119",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "AFC Ajax"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "Vitesse Arnhem"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom has been manager of AZ Alkmaar, he is in Vitesse Arnhem and plays for AFC Ajax.",
+            "John van den Brom has been manager of AZ Alkmaar and plays for both AFC Ajax and Vitesse Arnhem."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id120",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "R.S.C. Anderlecht"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "De Graafschap"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom manages the AZ Alkmaar and plays for both R.S.C. Anderlecht and De Graafschap.",
+            "The manager of AZ Alkmaar is john van den Brom who plays for both R.S.C. Anderlecht and De Graafschap.",
+            "John van den Brom has been manager of AZ Alkmaar and plays for both R.S.C. Anderlecht and De Graafschap."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id121",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "R.S.C. Anderlecht"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "Netherlands national football team"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom played for the Netherlands national football team. He now plays for RSC Anderlecht and is manager of AZ Alkmaar.",
+            "John van den Brom plays for the Netherlands football team and RSC Anderlecht, and manages AZ Alkmaar.",
+            "John van den Brom has been manager of AZ Alkmaar and plays for R.S.C. Anderlecht. He previously played for the Netherlands national football team."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id122",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "R.S.C. Anderlecht"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "İstanbulspor A.Ş."
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom is a player in İstanbulspor A.Ş but also manages the AZ Alkmaar and plays for R.S.C. Anderlecht.",
+            "John van den Brom is a player in İstanbulspor A.Ş. and plays for R.S.C. Anderlecht as well as managing AZ Alkmaar.",
+            "John van den Brom plays for R.S.C. Anderlecht and Istanbulspor A.S. He is also manager of AZ Alkmaar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id123",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "Vitesse Arnhem"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "ADO Den Haag"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom is the manager of AZ Alkmaar. He plays for Vitesse Arnhem and ADO Den Haag.",
+            "John van den Brom manages the AZ Alkmaar and plays for both Vitesse Arnhem and ADO Den Haag."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id124",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "AZ Alkmaar",
+                    "manager",
+                    "John van den Brom"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "Vitesse Arnhem"
+                ],
+                [
+                    "John van den Brom",
+                    "club",
+                    "Jong Ajax"
+                ]
+            ]
+        },
+        "text": [
+            "John van den Brom plays for Vitesse Arnhem and in the Jong Ajax club. He is also the manager of AZ Alkmaar.",
+            "John van den Brom plays for both Vitesse Arnhem and Jong Ajax. He has also managed AZ Alkmaar.",
+            "John van den Brom, who is a member of the Jong Ajax club and plays for Vitesse Arnhem, has been manager of AZ Alkmaar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id125",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Brazil"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "fullname",
+                    "Agremiação Sportiva Arapiraquense"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil. Their full name is\"Agremiação Sportiva Arapiraquense\".",
+            "Agremiação Sportiva Arapiraquense's full name is \"Agremiação Sportiva Arapiraquense\". They play in the Campeonato Brasileiro Série C league, Brazil.",
+            "Agrremiacao Sportiva Arapiraquense (abbr. Agremiacao Sportiva Arapiraquense) play in the Campeonato Brasileiro Serie C League which is based in Brazil."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id126",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Brazil"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "manager",
+                    "Vica"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense are managed by Vica and play in the Campeonato Brasileiro Série C league in Brazil.",
+            "Agremiação Sportiva Arapiraquense play in Brazil's Campeonato Brasileiro Série C league and are managed by Vica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id127",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Brazil"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil. Their stadium holds 17000 fans.",
+            "Agremiação Sportiva Arapiraquense, who have 17000 members, play in the Campeonato Brasileiro Série C league based in Brazil.",
+            "Agremiação Sportiva Arapiraquense has 17000 members and play in the Brazilian Campeonato Brasileiro Série C league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id128",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Brazil"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil in 2015.",
+            "Agremiação Sportiva Arapiraquense play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event.",
+            "Agremiação Sportiva Arapiraquense play in the Brazilian-based Campeonato Brasileiro Série C league and they played in the 2015 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id129",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "league",
+                    "Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Campeonato Brasileiro Série C",
+                    "country",
+                    "Brazil"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015 Campeonato Brasileiro Série C"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, which is based in Brazil and also competed in the 2015 Campeonato Brasileiro Serie C.",
+            "Agremiacao Sportiva Arapiraquense play in the Campeonato Brasileiro Serie C League in Brazil, specifically in 2015.",
+            "Agremiação Sportiva Arapiraquense play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id130",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "nickname",
+                    "Alvinegro"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ]
+            ]
+        },
+        "text": [
+            "The nickname of Agremiacao Sportiva Arapiraquense is \"Alvinegro\", they played in 2015 and they have 17,000 members.",
+            "Alvinegro is the nickname of Agremiação Sportiva Arapiraquense. They have 17000 members and play in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id131",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "nickname",
+                    "Alvinegro"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015 Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense (nickname: Alvinegro) competed in the 2015 Campeonato Brasileiro Série C and their ground holds 17000 fans.",
+            "The nickname of Agremiacao Sportiva Arapiraquense is \"Alvinegro\", they were in Campeonato Brasileiro Serie C in 2015 and have 17000 members.",
+            "Agremiação Sportiva Arapiraquense, whose nickname is Alvinegro, has 17000 members and took part in Campeonato Brasileiro Serie C in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id132",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "nickname",
+                    "Asa Gigante"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ]
+            ]
+        },
+        "text": [
+            "The Agremiação Sportiva Arapiraquense is nicknamed Asa Gigante. They have 17000 members and played in the 2015 season.",
+            "Agremiacao Sportiva Arapiraquense have the nickname Asa Gigante, they played in the 2015 season and have 17000 members.",
+            "The Agremiação Sportiva Arapiraquense (nicknamed Asa Gigante) has 17000 members and play in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id133",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015 Campeonato Brasileiro Série C"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "fullname",
+                    "Agremiação Sportiva Arapiraquense"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of Agremiação Sportiva Arapiraquense is \"Agremiação Sportiva Arapiraquense\". The club has 17000 members and competed in the 2015 Campeonato Brasileiro Série C.",
+            "The Agremiação Sportiva Arapiraquense's full name is \"Agremiação Sportiva Arapiraquense\". It has 17000 members and it was in Campeonato Brasileiro Serie C in 2015.",
+            "Agremiação Sportiva Arapiraquense's full name is \"Agremiação Sportiva Arapiraquense\". They competed in the 2015 Campeonato Brasileiro Série C and have 17000 members."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id134",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "season",
+                    "2015"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "numberOfMembers",
+                    "17000"
+                ],
+                [
+                    "Agremiação Sportiva Arapiraquense",
+                    "fullname",
+                    "Agremiação Sportiva Arapiraquense"
+                ]
+            ]
+        },
+        "text": [
+            "Agremiação Sportiva Arapiraquense, full name is\"Agremiação Sportiva Arapiraquense\". The club has 17000 members and played in the 2015 season.",
+            "Agremiação Sportiva Arapiraquense (Agremiação Sportiva Arapiraquense) played in the 2015 season and has 17000 members.",
+            "Agremiacao Sportiva Arapiraquense has 17000 members and played in 2015."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id135",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "Akron, Ohio"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "league",
+                    "Premier Development League"
+                ],
+                [
+                    "Premier Development League",
+                    "champions",
+                    "K-W United FC"
+                ]
+            ]
+        },
+        "text": [
+            "The Akron Summit Assault team is based in Akron, Ohio and play in the Premier Development League where K-W United FC were previous champions.",
+            "Akron Summit Assault (Akron, Ohio) played in the Premier Development League, which K-W United FC were champions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id136",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "Akron, Ohio",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron, Ohio, US.",
+            "Akron Summit Assault play at the St. Vincent-St. Mary High School in the city of Akron, Ohio, USA.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School which is located in the city of Akron, Ohio, U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id137",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron, Ohio, which is part of Summit County, Ohio.",
+            "Akron Summit Assault has its grounds at St. Vincent-St. Mary High School which is in Akron, Ohio, part of Summit County, Ohio.",
+            "St. Vincent-St. Mary High School, located in Akron, Ohio; Summit County, is home to Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id138",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "Akron, Ohio",
+                    "leader",
+                    "Dan Horrigan"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Dan Horrigan is the governor of Akron, Ohio which has St. Vincent-St. Mary High School located in it, and inside the high school is the Akron Summit Assault organization.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School in Akron, Ohio where Dan Horrigan is the leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id139",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "Akron, Ohio",
+                    "location",
+                    "Summit County, Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St. Vincent–St. Mary High School is in Akron, Ohio which is in Summit County and home to the ground of Akron Summit Assault.",
+            "St. Vincent-St. Mary High School, Akron (a summit county in Ohio) - is home to the Akron Summit Assault's ground.",
+            "St Vincent-St Mary High School is the ground of Akron Summit Assault, Akron Summit County Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id140",
+            "shape": "(X (X (X (X))))",
+            "shape_type": "chain",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "Akron, Ohio",
+                    "location",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is located at St Vincent-St Mary High School, Akron, Ohio, United States.",
+            "St Vincent-St Mary High School (Akron, Ohio, US) is the ground of Akron Summit Assault.",
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron Ohio, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id141",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault's ground is St. Vincent-St. Mary High School in the city of Akron, Ohio, United States.",
+            "In Akron, Ohio, USA, the Akron Summit Assault organization is located inside the St. Vincent-St. Mary High School.",
+            "St Vincent-St Mary High School (loc: Akron, Ohio, US) is the ground of Akron Summit Assault."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id142",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "city",
+                    "Akron, Ohio"
+                ]
+            ]
+        },
+        "text": [
+            "St Vincent-St Mary High School in Akron, Ohio, is the ground of Akron Summit Assault.",
+            "St Vincent-St Mary High School is the ground of Akron Summit Assault, Akron Ohio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id143",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "ground",
+                    "St. Vincent–St. Mary High School"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "state",
+                    "Ohio"
+                ],
+                [
+                    "St. Vincent–St. Mary High School",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron Summit Assault is located at the St. Vincent-St. Mary High school in Ohio, US.",
+            "St. Vincent-St. Mary High School is in Ohio in the United States and is the ground of Akron Summit Assault.",
+            "St Vincent-St Mary High School is the ground of Akron Summit Assault, in the state of Ohio in the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id144",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "manager",
+                    "Denzil Antonio"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "season",
+                    "2011"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "numberOfMembers",
+                    "3000"
+                ]
+            ]
+        },
+        "text": [
+            "Denzil Antonio is the manager of Akron Summit Assault who are in season 2011 and have 3000 members.",
+            "Akron Summit Assault are in season 2011 and have 3000 members. Their manager is Denzil Antonio.",
+            "Akron Summit Assault (managed by Denzil Antonio), has 3000 members and was in the 2011 season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id145",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Akron Summit Assault",
+                    "numberOfMembers",
+                    "3000"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "manager",
+                    "Denzil Antonio"
+                ],
+                [
+                    "Akron Summit Assault",
+                    "season",
+                    "2011 PDL season"
+                ]
+            ]
+        },
+        "text": [
+            "Denzil Antonio is the manager of Akron Summit Assault which has 3000 members and played in the 2011 PDL season.",
+            "Denzil Antonio is the manager of Akron Summit Assault which has 3000 members and plays in the 2011 PDL season.",
+            "Akron Summit Assault, with 3000 members managed by Denzil Antonio, play in the 2011 PDL season."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id146",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "capital",
+                    "Rome"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian language"
+                ]
+            ]
+        },
+        "text": [
+            "In Italy they speak Italian and is the home to the ground of A.S. Gubbio 1910 as well as the capital city of Rome."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id147",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "capital",
+                    "Rome"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "In Italy the capital is Rome, the leader is Sergio Mattarella and the ground of A.S. Gubbio 1910 is located there.",
+            "The ground of A.S. Gubbio 1910 is located in Italy. The capital of the country is Rome and its leader is Sergio Mattarella."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id148",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Rome"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Italy is where Italian people live, Rome is the capital and the ground of A.S. Gubbio 1910 can be found there.",
+            "The ground of A.S. Gubbio 1910 is located in Italy where the people are known as Italians and the capital city is Rome.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and its people called Italians."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id149",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian language"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy where they speak Italian. The leader of the country is Pietro Grasso.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, the country's leader is leader is Pietro Grasso and obviously they speak Italian there.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Pietro Grasso and Italian is the spoken language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id150",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "capital",
+                    "Rome"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, whose leader is Pietro Grasso and capital is Rome.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and its leader is Pietro Grasso."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id151",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "demonym",
+                    "Italians"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader of the Italians.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, the country of Italians where the leader is Pietro Grasso.",
+            "Italy (led by Pietro Grasso) is home to the Italian people and A.S. Gubbio 1910."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id152",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Pietro Grasso"
+                ],
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Pietro Grasso and Sergio Mattarella are leaders in Italy where the ground of AS Gubbio 1910 is located.",
+            "The ground of A.S. Gubbio 1910 is located in Italy. The leader of Italy is Pietro Grasso and/or Sergio Mattarella.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, where Sergio Mattarella and Pietro Grasso are leaders."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id153",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Italy",
+                    "leader",
+                    "Sergio Mattarella"
+                ],
+                [
+                    "A.S. Gubbio 1910",
+                    "ground",
+                    "Italy"
+                ],
+                [
+                    "Italy",
+                    "language",
+                    "Italian language"
+                ]
+            ]
+        },
+        "text": [
+            "The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language.",
+            "The ground of A.S. Gubbio 1910 is located in Italy, whose leader is Sergio Mattarella and where they speak Italian.",
+            "The ground of A.S. Gubbio 1910 is located in Italy. The country's leader is Sergio Mattarella and there they speak Italian."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id154",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "Empoli F.C."
+                ],
+                [
+                    "A.S. Roma",
+                    "manager",
+                    "Luciano Spalletti"
+                ],
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "Virtus Entella"
+                ]
+            ]
+        },
+        "text": [
+            "Luciano Spalletti played for Empoli F.C. and Virtus Entella. He has also been manager of AS Roma.",
+            "Luciano Spalletti is a manager for the AS Roma club and plays for Empoli F. C. as well as Virtus Entella.",
+            "Luciano Spalletti plays for Empoli F.C. and Virtus Entella while managing A.S. Roma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id155",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "Udinese Calcio"
+                ],
+                [
+                    "A.S. Roma",
+                    "manager",
+                    "Luciano Spalletti"
+                ],
+                [
+                    "Luciano Spalletti",
+                    "club",
+                    "Virtus Entella"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of AS Roma, Luciano Spalletti, plays for Udinese Calcio and was at the club Virtus Entella.",
+            "Luciano Spalletti manages AS Roma and also plays for Udinese Calcio and Virtus Entella.",
+            "Luciano Spalletti played for Udinese Calcio. He now manages A.S. Roma and plays for Virtus Entella."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id156",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "S.S. Chieti Calcio"
+                ],
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "A.S.D. S.S. Nola 1925"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago has been the manager of A C Cesena whose club is the S.S. Chieti Calcio. and played for A.S.D. S.S. Nola 1925.",
+            "Massimo Drago has been the manager of A C Cesena and plays for both S.S. Chieti Calcio and A.S.D. S.S. Nola 1925.",
+            "Massimo Drago played for. A.S.D. S.S. Nola 1925, he now plays for S.S. Chieti Calcio and manages A.C. Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id157",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "U.S. Castrovillari Calcio"
+                ],
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "A.S.D. Licata 1931"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago has been the manager of A C Cesena and was at the club ASD Licata 1931 but he currently plays for U.S Castrovillari Calcio.",
+            "Massimo Drago was once a player for US Castrovillari Calcio and has been the manager of A C Cesena. He was also at the club ASD Licata 1931.",
+            "Massimo Drago was at the club ASD Licata 1931. He currently plays for U.S Castrovillari Calcio and manages A.C. Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id158",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "U.S. Castrovillari Calcio"
+                ],
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Calcio Catania"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago's club was Calcio Catania and he played for US Castrovillari Calcio. He is now the manager of A.C. Cesena.",
+            "Massimo Drago once played for US Castrovillari Calcio, is in the club Calcio Catania and manages A.C. Cesena."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id159",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "U.S. Castrovillari Calcio"
+                ],
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Delfino Pescara 1936"
+                ]
+            ]
+        },
+        "text": [
+            "A.C. Cesena's manager Massimo Drago was once a player for US Castrovillari Calcio and is now attached to the club Delfino Pescara 1936.",
+            "Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena. He is also attached to the club Delfino Pescara 1936.",
+            "Massimo Drago plays for U.S Castrovillari Calcio; he has been the manager of A C Cesena and is attached to the club Delfino Pescara 1936."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id160",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Massimo Drago",
+                    "club",
+                    "Vigor Lamezia"
+                ],
+                [
+                    "A.C. Cesena",
+                    "manager",
+                    "Massimo Drago"
+                ],
+                [
+                    "Massimo Drago",
+                    "club",
+                    "S.S.D. Potenza Calcio"
+                ]
+            ]
+        },
+        "text": [
+            "Massimo Drago manages A.C. Cesena and is a former player of Vigor Lamezia and S.S.D. Potenza Calcio.",
+            "Attached to the club Vigor Lamezia, Massimo Drago manages A.C. Cesena and once played for the club SSD Potenza Calcio."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id161",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "FC Admira Wacker Mödling"
+                ],
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SC Wiener Neustadt"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 FC Koln. He also plays for FC Admira Wacker Modling.",
+            "Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Koln and is affiliated with the SC Wiener Neustadt club.",
+            "Peter Stöger is the manager of 1. FC Koln, his club is the FC Admira Wacker Mödling and he is affiliated with the SC Wiener Neustadt club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id162",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SK Rapid Wien"
+                ],
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SC Wiener Neustadt"
+                ]
+            ]
+        },
+        "text": [
+            "Peter Stöger, manager of FC Koln plays for both SK Rapid Wien and SC Wiener Neustadt.",
+            "Peter Stöger, previously of SK Rapid Wien, is affiliated with the SC Wiener Neustadt club and manages 1. FC Koln."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id163",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SK Vorwärts Steyr"
+                ],
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "First Vienna FC"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of 1. FC Koln is Peter Stoger who played football for SK Vorwärts Steyr and is attached to the club First Vienna FC.",
+            "Peter Stoger (football), First Vienna FC, now a manager of 1. FC Koln, played for SK Vorwarts Steyr."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id164",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SK Vorwärts Steyr"
+                ],
+                [
+                    "1. FC Köln",
+                    "manager",
+                    "Peter Stöger"
+                ],
+                [
+                    "Peter Stöger",
+                    "club",
+                    "SC Wiener Neustadt"
+                ]
+            ]
+        },
+        "text": [
+            "The manager of 1. FC Koln is Peter Stoger, he has played for SC Wiener Neustadt and is in the SK Vorwärts Steyr club.",
+            "Peter Stöger is in the SK Vorwärts Steyr club, is manager of 1. FC Köln and is affiliated with the SC Wiener Neustadt club."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id165",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona, Italy"
+                ]
+            ]
+        },
+        "text": [
+            "Verona, Italy is the home to A.C. Chievo Verona who played in Serie A where the champions were Juventus F.C.",
+            "Verona, Italy is the home to A.C. Chievo Verona who is in the league, Juventus FC have been Serie A champions.",
+            "Verona, Italy is home to A.C. Chievo Verona who play in Serie A. Juventus FC have previously been champions of Serie A."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id166",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Stadio Marc'Antonio Bentegodi"
+                ]
+            ]
+        },
+        "text": [
+            "AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi. They play in the Serie A league of which Juventus FC have been champions.",
+            "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi. They play in the Serie A league, which was won by Juventus F.C.",
+            "The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, they are in the Serie A league, of which Juventus FC have been champions."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id167",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "league",
+                    "Serie A"
+                ],
+                [
+                    "A.C. Chievo Verona",
+                    "ground",
+                    "Verona"
+                ]
+            ]
+        },
+        "text": [
+            "With grounds in Verona, AC Chievo Verona play in the Serie A league, of which Juventus FC have been champions.",
+            "A.C. Chievo Verona's playing ground is at Verona and they play in Serie A, where Juventus FC have been champions.",
+            "Juventus F.C. are former champions of Serie A. A.C. Chievo Verona is in that league now and play in Verona."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id168",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Rome, Italy"
+                ],
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "A.S. Roma plays in the Serie A league in Rome, Italy but the Serie A champions are Juventus F.C.",
+            "A.S. Roma's ground is in Rome, Italy and they played in Serie A where the champions were Juventus F.C.",
+            "Juventus F.C. are former champions of Serie A. AS Roma also play in the same league, their ground is in Rome, Italy."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id169",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Rome"
+                ],
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma, who have a ground in Rome, play in Serie A alongside Juventus FC who are former champions.",
+            "A.S. Roma play their home games in Serie A in Rome, the current champions are Juventus.",
+            "With grounds in Rome, A.S. Roma play in Serie A. Juventus FC have been champions of that league."
+        ]
+    },
+    {
+        "mr": {
+            "category": "SportsTeam",
+            "eid": "Id170",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Serie A",
+                    "champions",
+                    "Juventus F.C."
+                ],
+                [
+                    "A.S. Roma",
+                    "ground",
+                    "Stadio Olimpico"
+                ],
+                [
+                    "A.S. Roma",
+                    "league",
+                    "Serie A"
+                ]
+            ]
+        },
+        "text": [
+            "AS Roma, whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions.",
+            "Juventus FC have been Serie A champions. A.S. Roma, whose ground is Stadio Olimpico also play in the same league.",
+            "The Serie A champions are Juventus F.C. A.S Roma also play in the same league and their ground is Stadio Olimpico."
+        ]
+    }
+]

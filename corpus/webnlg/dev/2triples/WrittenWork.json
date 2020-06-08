@@ -1,0 +1,671 @@
+[
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "1634: The Bavarian Crisis",
+                    "precededBy",
+                    "Grantville Gazette III"
+                ],
+                [
+                    "1634: The Bavarian Crisis",
+                    "author",
+                    "Virginia DeMarce and Eric Flint"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette III.",
+            "1634: the Bavarian Crisis, authored by Virginia DeMarce and Eric Flint, was preceded by Grantville Gazette III."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "author",
+                    "Eric Flint"
+                ],
+                [
+                    "1634: The Ram Rebellion",
+                    "mediaType",
+                    "E-book"
+                ]
+            ]
+        },
+        "text": [
+            "Eric Flint is the author of '1634: The Ram Rebellion' which can be found as an E book.",
+            "1634: The Ram Rebellion available as an E-Book is written by Eric Flint."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "1634: The Ram Rebellion",
+                    "author",
+                    "Eric Flint"
+                ],
+                [
+                    "1634: The Ram Rebellion",
+                    "mediaType",
+                    "Hardcover"
+                ]
+            ]
+        },
+        "text": [
+            "1634: The Ram Rebellion was written by Eric Flint and can be found in hardcover.",
+            "The book titled 1634: The Ram Rebellion is a hardcover book by Eric Flint.",
+            "1634: The Ram Rebellion, available in hardcover was written by Eric Flint."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "ACM Transactions on Information Systems",
+                    "abbreviation",
+                    "ACM Trans. Inf. Syst."
+                ],
+                [
+                    "ACM Transactions on Information Systems",
+                    "CODEN code",
+                    "ATISET"
+                ]
+            ]
+        },
+        "text": [
+            "ACM Transactions on Information Systems with the CODEN ATISET is abbreviated as ACM Trans. Inf. Syst.",
+            "ACM Transactions on Information Systems (abbreviated to ACM Trans. Inf. Syst.) has the CODEN code \"ATISET\"."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id5",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AIDS (journal)",
+                    "country",
+                    "United Kingdom"
+                ],
+                [
+                    "United Kingdom",
+                    "leaderName",
+                    "Elizabeth II"
+                ]
+            ]
+        },
+        "text": [
+            "AIDS journal is from the United Kingdom whose leader is Elizabeth II.",
+            "The AIDS journal was published in the United Kingdom whose leader is Elizabeth II.",
+            "The AIDS journal was published in the United Kingdom, where the leader is Elizabeth II."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id6",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Fortress of Grey Ice",
+                    "author",
+                    "J. V. Jones"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "ISBN number",
+                    "0-7653-0633-6"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice was written by J. V. Jones and has the ISBN number 0-7653-0633-6.",
+            "J.V. Jones authored A Fortress of Grey Ice, which has the ISBN number 0-7653-0633-6.",
+            "J. V. Jones is the author of \"A Fortress of Grey Ice,\" ISBN number 0-7653-0633-6."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id7",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "mediaType",
+                    "Print"
+                ],
+                [
+                    "A Glastonbury Romance",
+                    "ISBN number",
+                    "0-7156-3648-0"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance has the ISBN number 0-7156-3648-0 and is in print.",
+            "A Glastonbury Romance with ISBN 0-7156-3648-0 is available in print.",
+            "The ISBN number of the currently in print book, \"A Glastonbury Romance,\" is 0-7156-3648-0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id8",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "mediaType",
+                    "Hardcover"
+                ],
+                [
+                    "A Glastonbury Romance",
+                    "ISBN number",
+                    "0-7156-3648-0"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance identified by ISBN 0-7156-3648-0 was published in hardcover.",
+            "\"A Glastonbury Romance \" can be found in hardcover with the ISBN number 0-7156-3648-0.",
+            "A hardcover copy of A Glastonbury Romance is available with the ISBN number 0-7156-3648-0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Glastonbury Romance",
+                    "numberOfPages",
+                    "1174"
+                ],
+                [
+                    "A Glastonbury Romance",
+                    "mediaType",
+                    "Print"
+                ]
+            ]
+        },
+        "text": [
+            "A Glastonbury Romance has 1174 pages and is available in print.",
+            "A Glastonbury Romance, currently in print, has 1174 pages.",
+            "A Glastonbury Romance, 1174 pages, is available in print."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Long Long Way",
+                    "OCLC number",
+                    "57392246"
+                ],
+                [
+                    "A Long Long Way",
+                    "ISBN number",
+                    "0-670-03380-4"
+                ]
+            ]
+        },
+        "text": [
+            "The ISBN number of A Long Long Way is 0-670-03380-4, and its OCLC number is 57392246.",
+            "The OCLC number of A Long Long Way is 57392246 and the ISBN number is 0-670-03380-4.",
+            "The ISBN number of A Long Long Way is 0-670-03380-4; the OCLC number is 57392246."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id11",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups.",
+            "A Loyal Character Dancer is published in the United States, which includes among its ethnic groups Asian Americans.",
+            "A Loyal Character Dancer is published in the United States, where many Asian Americans live."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id12",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "A Loyal Character Dancer",
+                    "publisher",
+                    "Soho Press"
+                ],
+                [
+                    "Soho Press",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Loyal Character Dancer is published by Soho Press which is located in the United States.",
+            "A Loyal Character Dancer was published by Soho Press, based in the United States.",
+            "A Loyal Character Dancer was published by Soho Press in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id13",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "author",
+                    "Diane Duane"
+                ],
+                [
+                    "A Wizard of Mars",
+                    "OCLC number",
+                    "318875313"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars was written by Diane Duane with on OCLC number 318875313.",
+            "Diane Duane wrote A Wizard of Mars which has the OCLC number of 318875313."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "mediaType",
+                    "Hardcover"
+                ],
+                [
+                    "A Wizard of Mars",
+                    "ISBN number",
+                    "978-0-15-204770-2"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars is published in Hardcover and has the ISBN number 978-0-15-204770-2.",
+            "A Wizard of Mars was published in hardback and has the ISBN number 978-0-15-204770-2.",
+            "A Wizard of Mars has the ISBN number 978-0-15-204770-2 and was published in hardback."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A Wizard of Mars",
+                    "numberOfPages",
+                    "560"
+                ],
+                [
+                    "A Wizard of Mars",
+                    "ISBN number",
+                    "978-0-15-204770-2"
+                ]
+            ]
+        },
+        "text": [
+            "A Wizard of Mars is 560 pages long and has the ISBN number 978-0-15-204770-2.",
+            "A Wizard of Mars has 560 pages and the ISBN number 978-0-15-204770-2.",
+            "A Wizard of Mars with ISBN number \"978-0-15-204770-2 contains 560 pages."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "country",
+                    "Australians"
+                ],
+                [
+                    "Above the Veil",
+                    "precededBy",
+                    "Aenir"
+                ]
+            ]
+        },
+        "text": [
+            "Aenir and its sequel Above the Veil are examples of Australian literature.",
+            "Above the Veil, preceded by Aenir, is from the country of Australia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id17",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Aenir",
+                    "followedBy",
+                    "Above the Veil"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil followed the book Aenir and is written in English.",
+            "The book Aenir was followed up by Above the Veil, which is written in English.",
+            "The novel Aenir was followed by Above the Veil written in English."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id18",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Above the Veil",
+                    "precededBy",
+                    "Aenir"
+                ],
+                [
+                    "Aenir",
+                    "precededBy",
+                    "Castle (novel)"
+                ]
+            ]
+        },
+        "text": [
+            "Above the Veil is the sequel to Aenir, which was written after Castle.",
+            "Above the Veil is the sequel to Aenir, which was preceded by the novel Castle.",
+            "Above the Veil was preceded by Aenir which was preceded by the novel Castle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Acta Mathematica Hungarica",
+                    "publisher",
+                    "Springer Science+Business Media"
+                ],
+                [
+                    "Springer Science+Business Media",
+                    "founder",
+                    "Julius Springer"
+                ]
+            ]
+        },
+        "text": [
+            "Acta Mathematica Hungarica is the publisher of Springer Science+Business Media, founded by Julius Springer.",
+            "Springer Science and Business Media, founded by Julius Springer, publishes Acta Mathematica Hungarica.",
+            "Springer Science+Business Media founded by Julius Springer is the publisher of Acta Mathematica Hungarica."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "CODEN code",
+                    "ASCQAG"
+                ],
+                [
+                    "Administrative Science Quarterly",
+                    "abbreviation",
+                    "Admin. Sci. Q."
+                ]
+            ]
+        },
+        "text": [
+            "The Administrative Science Quarterly has a Coden code of \"ASCQAG\" and the abbreviation of Admin. Sci. Q.",
+            "Administrative Science Quarterly, abbreviated Admin. Sci. Q., has a Coden code of \"ASCQAG\".",
+            "The code for Administrative Science Quarterly (abbreviated as Admin. Sci. Q.) is ASCQAG."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id21",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Administrative Science Quarterly",
+                    "publisher",
+                    "Cornell University"
+                ],
+                [
+                    "Cornell University",
+                    "affiliation",
+                    "Association of Public and Land-grant Universities"
+                ]
+            ]
+        },
+        "text": [
+            "Cornell University is affiliated with the Association of Public and Land-grant Universities and published Administrative Science Quarterly.",
+            "Cornell University, affiliated with the Association of Public and Land-grant Universities, is publisher of Administrative Science Quarterly.",
+            "Cornell University, affiliated with the Association of Public and Land-grant Universities, is the publisher of the Administrative Science Quarterly."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id22",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aenir",
+                    "author",
+                    "Garth Nix"
+                ],
+                [
+                    "Aenir",
+                    "ISBN number",
+                    "0-439-17684-0"
+                ]
+            ]
+        },
+        "text": [
+            "Written by Garth Nix, Aenir, has the ISBN number of \"0-439-17684-0.",
+            "Aenir was written by Garth Nix and has the ISBN number of 0-439-17684-0.",
+            "Aenir was written by Garth Nix and has the ISBN number 0-439-17684-0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "mediaType",
+                    "Hardcover"
+                ],
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "ISBN number",
+                    "0-439-92550-9"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians is published in Hardcover and has the ISBN number 0-439-92550-9.",
+            "The hardcover edition of, \"Alcatraz Versus the Evil Librarians\", has ISBN number 0-439-92550-9."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id24",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "numberOfPages",
+                    "320"
+                ],
+                [
+                    "Alcatraz Versus the Evil Librarians",
+                    "ISBN number",
+                    "0-439-92550-9"
+                ]
+            ]
+        },
+        "text": [
+            "Alcatraz Versus the Evil Librarians, which is identified by ISBN 0-439-92550-9, has 320 pages.",
+            "Alcatraz Versus the Evil Librarians has the ISBN number 0-439-92550-9 and is 320 pages long.",
+            "The ISBN number of the 320-page long Alcatraz Versus the Evil Librarians is 0-439-92550-9."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id25",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "HIV",
+                    "family",
+                    "Orthoretrovirinae"
+                ],
+                [
+                    "AIDS (journal)",
+                    "academicDiscipline",
+                    "HIV"
+                ]
+            ]
+        },
+        "text": [
+            "AIDS (journal) comes under the academic discipline HIV which belongs to the family Orthoretrovirinae.",
+            "The AIDS (journal) is the academic discipline of HIV, a disease part of the Orthoretrovirinae family.",
+            "AIDS (journal) comes under the academic discipline HIV which is part of the family of orthoretrovirinae."
+        ]
+    },
+    {
+        "mr": {
+            "category": "WrittenWork",
+            "eid": "Id26",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "A Fortress of Grey Ice",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "A Fortress of Grey Ice is from the United States where the language is English.",
+            "A Fortress of Grey Ice is from the United States, which has English as one of its languages."
+        ]
+    }
+]

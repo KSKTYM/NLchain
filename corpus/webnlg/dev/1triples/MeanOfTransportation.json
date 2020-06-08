@@ -1,0 +1,772 @@
+[
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "alternativeName",
+                    "Dodge Coronet"
+                ]
+            ]
+        },
+        "text": [
+            "Dodge Coronet is the alternative name for the 1955 Dodge.",
+            "The 1955 Dodge is also named the Dodge Coronet."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "1955 Dodge",
+                    "engine",
+                    "230 (cubic inches)"
+                ]
+            ]
+        },
+        "text": [
+            "The 1955 Dodge engine is 230 cubic inches.",
+            "The size of the engine in the 1955 Dodge is 230 cubic inches.",
+            "The 1955 Dodge has an engine size of 230 cubic inches."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDA Cruises",
+                    "location",
+                    "Rostock"
+                ]
+            ]
+        },
+        "text": [
+            "The location of AIDA Cruises is Rostock.",
+            "AIDA Cruises are located at Rostock.",
+            "AIDA Cruises is based in Rostock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "activeYearsStartDate",
+                    "2009-03-22"
+                ]
+            ]
+        },
+        "text": [
+            "AIDAluna service was started on the 22nd of March, 2009."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAluna",
+                    "shipClass",
+                    "Sphinx class cruise ship"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAluna is a Sphinx class cruise ship."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "builder",
+                    "Meyer Werf"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella was built by Meyer Werft.",
+            "AIDAstella was built by Meyer Werft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "christeningDate",
+                    "2013-03-16"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella was christened on the 16th of March, 2013.",
+            "The AIDAstella was christened in March 16 2013.",
+            "The christening date of AIDAstella is 2013-03-16."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "shipInService",
+                    "2013-03-17"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella ship was put in service on March 17, 2013."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "engine",
+                    "Four-stroke engin"
+                ]
+            ]
+        },
+        "text": [
+            "The ALCO RS-3 has a four-stroke engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "manufacturer",
+                    "Alliant Techsystems"
+                ]
+            ]
+        },
+        "text": [
+            "The ALV X-1 was manufactured by Alliant Techsystems.",
+            "Alliant Techsystems makes the ALV X-1.",
+            "Alliant Techsystems is the manufacturer of the ALV X-1."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "relatedMeanOfTransportation",
+                    "AMC Ambassado"
+                ]
+            ]
+        },
+        "text": [
+            "The AMC Matador is related to the AMC Ambassador.",
+            "The AMC Matador and the AMC Ambassador are relative means of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "productionEndYear",
+                    "1958"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT Coupé's final year of production was 1958.",
+            "The last Abarth 1000 GT Coupé rolled off the production line in 1958."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id13",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "engine",
+                    "3.5 (litres)"
+                ]
+            ]
+        },
+        "text": [
+            "The engine size of the Acura TLX is 3.5 litres.",
+            "The Acura TLX has a 3.5 litre engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id14",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "engine",
+                    "Honda K engin"
+                ]
+            ]
+        },
+        "text": [
+            "The Acura TLX has a Honda K engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id15",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "transmission",
+                    "9-speed ZF 9HP automatic (V6)"
+                ]
+            ]
+        },
+        "text": [
+            "The transmission of the Acura TLX is a 9-speed ZF 9HP automatic (V6).",
+            "The Acura TLX has a 9-speed ZF 9HP automatic (V6) transmission."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id16",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "class",
+                    "Executive ca"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 is an executive class car.",
+            "The Alfa Romeo 164 is an executive car.",
+            "The Alfa Romeo 164 is classified as an executive type car."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id17",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Fiat Croma"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164 and the Fiat Croma are similar means of transport.",
+            "The Alfa Romeo 164 and the Fiat Croma are related means of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id18",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "maidenVoyage",
+                    "1855-07-07"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra had its maiden voyage on the 7th of July 1855.",
+            "The Alhambra made its maiden voyage on July 7th 1855.",
+            "Alhambra ship's first journey took place on 07/07/1855.",
+            "The Alhambra had its first trip on July 7, 1855.",
+            "Alhambra has its maiden voyage on July 7th, 1855."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id19",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "shipBeam",
+                    "8.3"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra ship beam is 8.3m.",
+            "The Alhambra has a ship beam of 8.3m.",
+            "The Alhambra has an 8.3m ship beam."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id20",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Alhambra",
+                    "topSpeed",
+                    "18.52"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra had a top speed of 18.52 km/h.",
+            "The Alhambra has a top speed of 18.52.",
+            "The top speed of the Alhambra is 18.52."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id21",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "finalFlight",
+                    "2014-10-28"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket's final flight was on the 28th October 2014.",
+            "The final flight of the Antares rocket was on 2014-10-28."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id22",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "maidenFlight",
+                    "2005-08-11"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 had its first voyage August 11, 2005.",
+            "Ariane 5 had its maiden flight on August 11th 2005."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id23",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "Airbus Defence and Spac"
+                ]
+            ]
+        },
+        "text": [
+            "The Ariane 5 was manufactured by Airbus Defence and Space.",
+            "The manufacturer of the Ariane 5 was The Airbus Defence and Space."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id24",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "countryOrigin",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "The Atlas II originated from the U.S.",
+            "Atlas II originates from the United States.",
+            "The Atlas II is from the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id25",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Atlas II",
+                    "finalFlight",
+                    "1998-03-16"
+                ]
+            ]
+        },
+        "text": [
+            "Atlas II had its final flight on March 16th 1998.",
+            "The final flight of Atlas II was on 1998-03-16.",
+            "The final flight of the Atlas II was on the 16th March 1998."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id26",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi",
+                    "division",
+                    "Audi e-tron"
+                ]
+            ]
+        },
+        "text": [
+            "Audi e-tron is a division of Audi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id27",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Audi A1",
+                    "assembly",
+                    "Audi Brussels"
+                ]
+            ]
+        },
+        "text": [
+            "The Audi A1 is assembled by Audi Brussels.",
+            "The Audi A1 is assembled at Audi Brussels."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id28",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "foundationPlace",
+                    "California"
+                ]
+            ]
+        },
+        "text": [
+            "Caterpillar Inc was founded in California.",
+            "The foundation place of Caterpillar Inc. was California.",
+            "The company, Caterpillar, Inc. was founded in California."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id29",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "keyPerson",
+                    "Douglas R. Oberhelman"
+                ]
+            ]
+        },
+        "text": [
+            "The key person of Caterpillar Inc. is Douglas R. Oberhelman.",
+            "Douglas R. Oberhelman is a key person at Caterpillar Inc.",
+            "Douglas R Oberhelman is a key person at Caterpillar Inc."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id30",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "location",
+                    "Peoria, Illinois"
+                ]
+            ]
+        },
+        "text": [
+            "Caterpillar Inc. is located in Peoria, Illinois.",
+            "Caterpillar Inc. is in Peoria, Illinois."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id31",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Delta II",
+                    "launchSite",
+                    "Cape Canaveral Air Force Station"
+                ]
+            ]
+        },
+        "text": [
+            "The Delta II was launched at the Cape Canaveral Air Force Station.",
+            "The Delta II was launched at Cape Canaveral Air Force Station."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id32",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Finland",
+                    "language",
+                    "Sami languages"
+                ]
+            ]
+        },
+        "text": [
+            "One of the languages in Finland is Sami.",
+            "Sami languages are spoken in Finland."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id33",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Germany",
+                    "leaderName",
+                    "Stanislaw Tillich"
+                ]
+            ]
+        },
+        "text": [
+            "The leader of Germany is Stanislaw Tillich.",
+            "Stanislaw Tillich is a leader of Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id34",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Guiana Space Centre",
+                    "headquarter",
+                    "Kourou, French Guiana"
+                ]
+            ]
+        },
+        "text": [
+            "The Guiana Space Centre has its headquarters at Kourou in French Guiana.",
+            "The Guiana Space Centre's headquarters are located in Kourou, French Guiana.",
+            "The headquarters of the Guiana Space Centre is in Kourou, French Guiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id35",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Honda",
+                    "division",
+                    "Acura"
+                ]
+            ]
+        },
+        "text": [
+            "Acura is a division of the Honda Co.",
+            "Acura is a division of Honda."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id36",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Lancia Thema",
+                    "relatedMeanOfTransportation",
+                    "Alfa Romeo 164"
+                ]
+            ]
+        },
+        "text": [
+            "The Lancia Thema is related to the Alfa Romeo 164.",
+            "Lancia Thema is a mean of transportation compared to Alfa Romeo 164.",
+            "The Lancia Thema and the Alfa Romeo 164 are related means of transportation."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id37",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Meyer Werft",
+                    "location",
+                    "Germany"
+                ]
+            ]
+        },
+        "text": [
+            "Meyer Werft is located in Germany."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id38",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Meyer Werft",
+                    "location",
+                    "Papenburg"
+                ]
+            ]
+        },
+        "text": [
+            "The location of Meyer Werft is Papenburg.",
+            "Meyer Werft is located in Papenburg.",
+            "Meyer Werft is situated in Papenburg."
+        ]
+    }
+]

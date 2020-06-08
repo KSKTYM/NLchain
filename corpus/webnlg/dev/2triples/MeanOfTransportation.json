@@ -1,0 +1,704 @@
+[
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id1",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "christeningDate",
+                    "2005-04-07"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "length",
+                    "125800.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "A-Rosa Luna is 125800.0 millimetres long and was christened on April 7th, 2005.",
+            "The A-Rosa Luna was christened on the 7th of April 2005 and is 125800.0 mm in length.",
+            "The A-Rosa Luna is 125800.0 millimetres in length and was christened on the 7th of April 2005."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id2",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "A-Rosa Luna",
+                    "shipClass",
+                    "Cruise ship"
+                ],
+                [
+                    "A-Rosa Luna",
+                    "length",
+                    "125800.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The A-Rosa Luna is 125800.0 millimetres in length and classed as a cruise ship.",
+            "The A-Rosa Luna which is 125.8 metres long, is classed as a Cruise ship.",
+            "The A-Rosa Luna cruise ship is 125800.0 millimetres in length."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id3",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AIDA Cruises",
+                    "location",
+                    "Rostock"
+                ],
+                [
+                    "AIDAluna",
+                    "operator",
+                    "AIDA Cruises"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAluna is operated by AIDA Cruises which are located at Rostock.",
+            "AIDA Cruises, located in Rostock, are the operator of the ship AIDAluna.",
+            "AIDAluna is operated by AIDA Cruises from Rostock."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id4",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "AIDAstella",
+                    "christeningDate",
+                    "2013-03-16"
+                ],
+                [
+                    "AIDAstella",
+                    "length",
+                    "253260.0 (millimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The AIDAstella is 253.26m long and was launched March 16th 2013.",
+            "The AIDAstella was christened on the 16th of March, 2013 and is 253260.0 millimetres long.",
+            "AIDAstella is 253260.0 millimetres in length and was christened on 2013-03-16."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "ALCO RS-3",
+                    "builder",
+                    "Montreal Locomotive Works"
+                ],
+                [
+                    "ALCO RS-3",
+                    "engine",
+                    "Four-stroke engine"
+                ]
+            ]
+        },
+        "text": [
+            "Montreal Locomotive Works is the builder of the ALCO RS-3 which has a four-stroke engine.",
+            "The ALCO RS-3 built by the Montreal Locomotive Works has a four-stroke engine.",
+            "The ALCO RS-3 has a four-stroke engine and was built by the Montreal Locomotive Works."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "ALV X-1",
+                    "manufacturer",
+                    "Alliant Techsystems"
+                ],
+                [
+                    "Alliant Techsystems",
+                    "product",
+                    "AGM-88 HARM"
+                ]
+            ]
+        },
+        "text": [
+            "Alliant Techsystems makes the ALV X-1 and also produces the AgM-88 HARM.",
+            "AGM-88 HARM is produced by Alliant Techsystems which is the manufacturer of the ALV X-1.",
+            "The ALV X-1 and the AgM-88 HARM were manufactured by Alliant Techsystems."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "designer",
+                    "Richard A. Teague"
+                ],
+                [
+                    "Richard A. Teague",
+                    "employer",
+                    "Chrysler"
+                ]
+            ]
+        },
+        "text": [
+            "Richard A. Teague is employed by Chrysler and designed the AMC Matador.",
+            "Richard A. Teague is the Chrysler employee who designed the AMC Matador.",
+            "The AMC Matador was designed by Richard A Teague who workes for Chrysler."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id8",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "AMC Matador",
+                    "designer",
+                    "Richard A. Teague"
+                ],
+                [
+                    "Richard A. Teague",
+                    "employer",
+                    "General Motors"
+                ]
+            ]
+        },
+        "text": [
+            "Richard A. Teague, who works for General Motors, designed the AMC Matador.",
+            "Richard A Teague works for General Motors and designed the AMC Matador.",
+            "The AMC Matador was designed by Richard A Teague who is employed by General Motors."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "length",
+                    "192000.0 (millimetres)"
+                ],
+                [
+                    "ARA Veinticinco de Mayo (V-2)",
+                    "country",
+                    "Argentina"
+                ]
+            ]
+        },
+        "text": [
+            "The ARA Veinticinco de Mayo (V-2) is 192000.0 millimetres long and comes from Argentina.",
+            "The ARA Veinticinco de Mayo (V-2) which is derived from Argentina has a length of 192000 millimetres.",
+            "The ARA Veinticinco de Mayo (V-2) is from Argentina and has a length of 192000 millimetres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id10",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Abarth 1000 GT Coupé",
+                    "designer",
+                    "Gruppo Bertone"
+                ],
+                [
+                    "Abarth 1000 GT Coupé",
+                    "manufacturer",
+                    "Abarth"
+                ]
+            ]
+        },
+        "text": [
+            "The Abarth 1000 GT Coupe was made by Abarth and designed by Gruppo Bertone.",
+            "The Abarth 1000 GT Coupé was manufactured by Abarth and designed by Gruppo Bertone.",
+            "The Abarth 1000 GT Coupé was designed by Gruppo Bertone and made by Abarth."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "manufacturer",
+                    "Honda"
+                ],
+                [
+                    "Acura TLX",
+                    "engine",
+                    "Honda J engine"
+                ]
+            ]
+        },
+        "text": [
+            "Honda is the manufacturer of the Acura TLX and has a Honda J engine.",
+            "Honda makes the Acura TLX which has the Honda J engine type.",
+            "The Honda manufactured, Acura TLX, has a Honda J type engine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Acura TLX",
+                    "manufacturer",
+                    "Honda"
+                ],
+                [
+                    "Acura TLX",
+                    "engine",
+                    "Inline-four engine"
+                ]
+            ]
+        },
+        "text": [
+            "Honda is the manufacturer of the Acura TLX which has an Inline-four engine.",
+            "The Acura TLX has an Inline-four engine and is made by Honda.",
+            "The Acura TLX which has an Inline-four engine is manufactured by Honda."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id13",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Finland"
+                ],
+                [
+                    "Finland",
+                    "leaderName",
+                    "Sauli Niinistö"
+                ]
+            ]
+        },
+        "text": [
+            "The icebreaker Aleksey Chirikov was built in Finland, where Sauli Niinisto is a leader.",
+            "The icebreaker ship Aleksey Chirikov was built in Finland which is led by Sauli Niinisto.",
+            "Aleksey Chirikov, an icebreaker, was built in Finland whose leader is Sauli Niinistö."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id14",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "shipBeam",
+                    "21.2"
+                ],
+                [
+                    "Aleksey Chirikov (icebreaker)",
+                    "builder",
+                    "Arctech Helsinki Shipyard"
+                ]
+            ]
+        },
+        "text": [
+            "The icebreaker Aleksey Chirikov was built at the Arctech Helsinki shipyard has a ship beam of 21.2m.",
+            "Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov and has a ship beam of 21.2 metres.",
+            "Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov, whose ship beam is 21.2."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alfa Romeo 164",
+                    "relatedMeanOfTransportation",
+                    "Fiat Croma"
+                ],
+                [
+                    "Alfa Romeo 164",
+                    "assembly",
+                    "Milan"
+                ]
+            ]
+        },
+        "text": [
+            "The Alfa Romeo 164, which was assembled in Milan, and the Fiat Croma are related means of transportation.",
+            "The Alfa Romeo 164, assembled in Milan, and the Fiat Croma are related means of transportation.",
+            "Milan assembled, Alfa Romeo 164, is a similar means of transport to the Fiat Croma."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id16",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Alhambra",
+                    "powerType",
+                    "Humphrys, Tennant and Dykes"
+                ],
+                [
+                    "Humphrys, Tennant and Dykes",
+                    "location",
+                    "Deptford"
+                ]
+            ]
+        },
+        "text": [
+            "Humphrys, Tennant and Dykes are located in Deptford and power the Alhambra.",
+            "Humphrys, Tennant &amp; Dykes is in Deptford and the Alhambra is powered by one of their engines.",
+            "The Alhambra is powered by a Humphrys, Tennant and Dykes engine, they are located in Deptford."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id17",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alhambra",
+                    "shipBeam",
+                    "8.3 m"
+                ],
+                [
+                    "Alhambra",
+                    "shipLaunch",
+                    "1855-05-31"
+                ]
+            ]
+        },
+        "text": [
+            "The Alhambra was launched May 31st 1855 and had a beam of 8.3m.",
+            "The ship. Alhambra. was launched on the 31st May 1855 and has a ship beam of 8.3m.",
+            "The Alhambra, with an 8.3m ship beam, was launched May 31, 1955."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id18",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alvis Speed 25",
+                    "transmission",
+                    "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"
+                ],
+                [
+                    "Alvis Speed 25",
+                    "engine",
+                    "4387.0 (cubicCentimetres)"
+                ]
+            ]
+        },
+        "text": [
+            "The Alvis Speed 25 has a 4387.00 cc engine and an impressive transmission coined as \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle\".",
+            "The Alvis Speed 25 has an engine of 4387 cubic centimeters and a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.",
+            "The Alvis Speed 25, which has a 4387.0 cubic centimetres engine, has a transmission system that comprises of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "American Motors",
+                    "fate",
+                    "Eagle (automobile)"
+                ],
+                [
+                    "AMC Matador",
+                    "manufacturer",
+                    "American Motors"
+                ]
+            ]
+        },
+        "text": [
+            "Eagle was the successor for American Motors who make the AMC Matador.",
+            "American Motors Co, who manufactured the AMC Matador, was succeeded by Eagle.",
+            "American Motors Co was succeeded by Eagle and manufactured AMC Matador."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id20",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "comparable",
+                    "Delta II"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport Launch Pad 0"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket is comparable with the Delta II and was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.",
+            "Comparable with the Delta II, the Antares rocket, was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.",
+            "The Antares rocket, launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, is similar to the Delta II rocket."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id21",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Antares (rocket)",
+                    "maidenFlight",
+                    "2014-01-09"
+                ],
+                [
+                    "Antares (rocket)",
+                    "launchSite",
+                    "Mid-Atlantic Regional Spaceport"
+                ]
+            ]
+        },
+        "text": [
+            "The Antares rocket is launched from the Mid-Atlantic Regional Spaceport and its first voyage was on January 9th 2014.",
+            "The Antares rocket had its maiden flight on January 9th 2014 and was launched from the Mid-Atlantic Regional Spaceport.",
+            "The rocker Antares was launched on its maiden flight from the Mid-Atlantic Regional Spaceport on 9 January 2014."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id22",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Ariane 5",
+                    "manufacturer",
+                    "Airbus Defence and Space"
+                ],
+                [
+                    "Airbus Defence and Space",
+                    "parentCompany",
+                    "Airbus Group"
+                ]
+            ]
+        },
+        "text": [
+            "Airbus Group is the parent company of Airbus Defence &amp; Space; where Ariane 5 was manufactured.",
+            "The Airbus Group is the parent company of Airbus Defence and Space who manufactured the Ariane 5.",
+            "The Airbus Defence and Space, whose parent company is Airbus Group, made the Ariane 5."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id23",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Aston Martin V8",
+                    "relatedMeanOfTransportation",
+                    "Aston Martin RHAM/1"
+                ],
+                [
+                    "Aston Martin V8",
+                    "successor",
+                    "Aston Martin Virage"
+                ]
+            ]
+        },
+        "text": [
+            "The Aston Martin Virage succeeded the Aston Martin V8 which is a related means of transport to the Aston Martin RHAM/1.",
+            "The Aston Martin V8, which was succeeded by the Aston Martin Virage, and the Aston Martin RHAM/1 are related means of transportation.",
+            "The Aston Martin Virage succeeded the Aston Martin V8 which is related to the Aston Martin RHAM/1."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id24",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlas II",
+                    "launchSite",
+                    "Cape Canaveral Air Force Station"
+                ],
+                [
+                    "Atlas II",
+                    "manufacturer",
+                    "Lockheed Martin"
+                ]
+            ]
+        },
+        "text": [
+            "The Lockheed Martin manufactured Atlas II was launched from Cape Canaveral Air Force Station.",
+            "The Atlas II, manufactured by Lockheed Martin, was launched from Cape Canaveral Air Force Station.",
+            "The Atlas II was manufactured by Lockheed Martin and launched from the Cape Canaveral Air Force Station."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id25",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Audi A1",
+                    "manufacturer",
+                    "Audi"
+                ],
+                [
+                    "Audi",
+                    "subsidiary",
+                    "Ducati"
+                ]
+            ]
+        },
+        "text": [
+            "Audi A1 is made by Audi who also own Ducati.",
+            "The Audi A1 is made by Audi who also own Ducati.",
+            "Ducati is a subsidiary of Audi, which is the manufacturer of the Audi A1."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id26",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Audi A1",
+                    "manufacturer",
+                    "Audi"
+                ],
+                [
+                    "Audi A1",
+                    "relatedMeanOfTransportation",
+                    "SEAT Ibiza"
+                ]
+            ]
+        },
+        "text": [
+            "The Seat Ibiza and the Audi A1, built by Audi, are both cars.",
+            "The Seat Ibiza and the Audi manufactured Audi A1 are both cars and therefore a related means of transportation.",
+            "The Audi A1, which is manufactured by Audi, and the Seat Ibiza are similar means of transport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "MeanOfTransportation",
+            "eid": "Id27",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Caterpillar Inc.",
+                    "keyPerson",
+                    "Douglas R. Oberhelman"
+                ],
+                [
+                    "AIDAluna",
+                    "powerType",
+                    "Caterpillar Inc."
+                ]
+            ]
+        },
+        "text": [
+            "Douglas R Oberhelman is a person at Caterpillar Inc. where the AIDAluna is manufactured.",
+            "The power type of the AIDAluna is an engine manufactured by Caterpillar Inc where Douglas R Oberhelman is a key person.",
+            "Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna."
+        ]
+    }
+]

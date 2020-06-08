@@ -1,0 +1,961 @@
+[
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id1",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kids Imagine Nation"
+                ],
+                [
+                    "Aaron Bertram",
+                    "associatedBand/associatedMusicalArtist",
+                    "Suburban Legends"
+                ],
+                [
+                    "Suburban Legends",
+                    "genre",
+                    "Pop music"
+                ]
+            ]
+        },
+        "text": [
+            "An artist with the band Kids Imagine Nation, Aaron Bertram plays for the Suburban Legends band which plays pop music.",
+            "Aaron Bertram plays for the Suburban Legends pop music band. He is an artist with the band Kids Imagine Nation.",
+            "Aaron Bertram plays for the Kids Imagine Nation band and the Suburban Legends, a pop music band."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id2",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Deer",
+                    "genre",
+                    "Indie rock"
+                ],
+                [
+                    "Aaron Deer",
+                    "origin",
+                    "Indiana"
+                ],
+                [
+                    "Aaron Deer",
+                    "origin",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Deer was born in Indiana, United States and his musical genre is indie rock.",
+            "From Indiana (United States), Aaron Deer's musical genre is, indie rock.",
+            "American Aaron Deer is an Indie rock musician from Indiana."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Twilight (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Greymachine"
+                ],
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black metal"
+                ]
+            ]
+        },
+        "text": [
+            "Black Metal music is Aaron Turner's thing and he plays for Twilight band. Mr. Turner is also associated with Greymachine, the band.",
+            "Aaron Turner's music genre is Black Metal and he played with the Twilight band. He is also associated with the Greymachine band.",
+            "Aaron Turner; performs black metal music, played with the band Twilight and played for the Greymachine band."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id4",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Twilight (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Greymachine"
+                ],
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Drone music"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner plays drone music and played with the bands Twilight and Greymachine.",
+            "Aaron Turner; played with the band Twilight, is part of the drone music genre and is associated with the group Greymachine.",
+            "Aaron Turner played with the band Twilight, is associated with the group Greymachine, and plays drone music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id5",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Twilight (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Sumac (band)"
+                ],
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black metal"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner played with the bands Twilight and Sumac. He performs black metal music.",
+            "Aaron Turner played with the bands Twilight and Sumac and Black Metal is his music genre.",
+            "Aaron Turner played with the bands Twilight and Sumac. He is a Black metal musician."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id6",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black metal"
+                ],
+                [
+                    "Aaron Turner",
+                    "associatedBand/associatedMusicalArtist",
+                    "Sumac (band)"
+                ],
+                [
+                    "Black metal",
+                    "musicFusionGenre",
+                    "Death metal"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner performed with the band Sumac and is a Black metal musician. Death metal is a musical fusion of black metal.",
+            "Aaron Turner performed with the band Sumac, his musical style being Black Metal; a musical fusion of black metal is Death Metal.",
+            "Black metal music Aaron Turner performs with Sumac. Death metal is fused with Black metal."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id7",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Aaron Turner",
+                    "genre",
+                    "Black metal"
+                ],
+                [
+                    "Aaron Turner",
+                    "instrument",
+                    "Electric guitar"
+                ],
+                [
+                    "Black metal",
+                    "musicFusionGenre",
+                    "Death metal"
+                ]
+            ]
+        },
+        "text": [
+            "Aaron Turner plays electric guitar in the Black Metal genre. Death metal is a fusion of black metal.",
+            "Death metal is a musical fusion of black metal, the music played by electric guitarist, Aaron Turner.",
+            "Death metal is a musical fusion of the black metal music performed by Aaron Turner on the electric guitar."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id8",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Abradab",
+                    "genre",
+                    "Hip hop music"
+                ],
+                [
+                    "Hip hop music",
+                    "musicSubgenre",
+                    "Gangsta rap"
+                ],
+                [
+                    "Hip hop music",
+                    "derivative",
+                    "Drum and bass"
+                ]
+            ]
+        },
+        "text": [
+            "Abradab performs hip hop music which has the sub genre Gangsta rap. Drum and bass derives its sounds from hip hop music.",
+            "The musical genre of Abradab is hip hop music, from which Drum and bass derives its sounds. Hip hop music has a sub genre called Gangsta rap.",
+            "Hip Hop music, which includes Gangsta Rap and Drum and Bass, is the genre of Abradab."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id9",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ace Wilder",
+                    "recordLabel",
+                    "Warner Music Group"
+                ],
+                [
+                    "Ace Wilder",
+                    "birthPlace",
+                    "Sweden"
+                ],
+                [
+                    "Ace Wilder",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Ace Wilder, born in Sweden, is a solo singer on the record label Warner Music group.",
+            "Ace Wilder (of Sweden) is a solo singer and his record label is Warner Music Group.",
+            "Sweden is the birthplace of Ace Wilder who has a background as a solo singer. Ace Wilder uses the record label Warner Music group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id10",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agustín Barboza",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Agustín Barboza",
+                    "genre",
+                    "Guarania (music)"
+                ],
+                [
+                    "Agustín Barboza",
+                    "recordLabel",
+                    "Philips Records"
+                ]
+            ]
+        },
+        "text": [
+            "Agustin Barboza is a solo singer who performs Guarania and signed to Philips Records.",
+            "Agustin Barboza (who started out as a solo singer), is is a Guarania artiste under the record labe; Philips Records.",
+            "Agustin Barboza has a background in solo singing and plays Guarania style under the signature of Philips Records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Agustín Barboza",
+                    "birthPlace",
+                    "Paraguay"
+                ],
+                [
+                    "Agustín Barboza",
+                    "birthDate",
+                    "1913-05-05"
+                ],
+                [
+                    "Agustín Barboza",
+                    "birthPlace",
+                    "Asunción"
+                ]
+            ]
+        },
+        "text": [
+            "Agustin Barboza was born on the 5th May, 1913, in Asuncion which is in Paraguay.",
+            "Agustin Barboza was born on March 5, 1913 in Asuncion, in Paraguay.",
+            "Agustin Barboza was born in Asuncion Paraguay on March 5, 1913."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Ahmet Ertegun",
+                    "genre",
+                    "Blues"
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "origin",
+                    "United States"
+                ],
+                [
+                    "Ahmet Ertegun",
+                    "origin",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Ahmet Ertegun performs blues music and is from Washington D.C., United States.",
+            "Ahmet Ertegun, who is from Washington D.C. in the United States, plays the blues."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id13",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Al Anderson (NRBQ band)",
+                    "associatedBand/associatedMusicalArtist",
+                    "NRBQ"
+                ],
+                [
+                    "Al Anderson (NRBQ band)",
+                    "associatedBand/associatedMusicalArtist",
+                    "The Wildweeds"
+                ],
+                [
+                    "Al Anderson (NRBQ band)",
+                    "activeYearsStartYear",
+                    "1966"
+                ]
+            ]
+        },
+        "text": [
+            "Al Anderson, who plays with the band NRBQ, once played with The Wildweeds. 1966 is the year when Al Aderson, from the band NRQB, became active.",
+            "Al Anderson, who began his musical career in 1966, once played with The Wildweeds and is now a member of the band NRBQ.",
+            "Al Anderson became active in 1966. He plays with the band NRBQ and was previously a member of The Wildweeds."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alan Frew",
+                    "genre",
+                    "Rock music"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Country music"
+                ],
+                [
+                    "Rock music",
+                    "stylisticOrigin",
+                    "Folk music"
+                ]
+            ]
+        },
+        "text": [
+            "Alan Frews' musical genre is rock music. The genre originated from country music and has its stylistic origins in folk music.",
+            "Alan Frew's genre is Rock music. It originated from country music and has its stylistic origins in folk music.",
+            "Rock music is performed by Alan Frew and originated from folk music and country music."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id15",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Albennie Jones",
+                    "genre",
+                    "Jazz"
+                ],
+                [
+                    "Albennie Jones",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Albennie Jones",
+                    "birthPlace",
+                    "Errata, Mississippi"
+                ]
+            ]
+        },
+        "text": [
+            "Born in Errata, Mississippi, Albennie Jones is a Jazz musician and solo singer.",
+            "Albennie Jones was born in Errata, Mississippi. She is a jazz artist who has a background as a solo singer.",
+            "Albennie Jones is a solo singer who performs jazz music. She was born in Errata, Mississippi."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id16",
+            "shape": "(X (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Albennie Jones",
+                    "genre",
+                    "Jazz"
+                ],
+                [
+                    "Jazz",
+                    "stylisticOrigin",
+                    "Blues"
+                ],
+                [
+                    "Jazz",
+                    "musicFusionGenre",
+                    "Afrobeat"
+                ]
+            ]
+        },
+        "text": [
+            "Albennie Jones plays Jazz music which originated from Blues music. A fusion of Jazz is Afrobeat music.",
+            "Albennie Jones is a Jazz musician. Jazz comes from Blues music and the Afrobeat is a fusion genre of that music.",
+            "Albennie Jones plays jazz which originates from Blues music. Afrobeat music also has elements of Jazz."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id17",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "Bebi Dol"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kornelije Kovač"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "genre",
+                    "Pop music"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovač, whose musical genre is Pop, is in same band with Kornelije Kovač and is associated with the musical artist Bebi Dol.",
+            "Aleksandra Kovač, a performer of pop music, is associated with the musical artists Bebi Dol and Kornelije Kovač.",
+            "Aleksandra Kovač is associated with the musical artists Bebi Dol and Kornelije Kovac. Her musical genre is Pop."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id18",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "Bebi Dol"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "K2 (Kovač sisters duo)"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovač is an artist for the band K2 and is associated with the musical artist Bebi Dol. The musical genre of Aleksandra Kovac is rhythm and blues.",
+            "Aleksandra Kovac; is an exponent of Rhythm and blues, is an artist for the band K2 and is associated with the musical artist Bebi Dol.",
+            "Rhythm and blues artist Aleksandra Kovač, who is part of the K2 Kovač sisters duo, is associated with musical artist Bebi Dol."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Aleksandra Kovač",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "Bebi Dol"
+                ],
+                [
+                    "Aleksandra Kovač",
+                    "associatedBand/associatedMusicalArtist",
+                    "Kornelije Kovač"
+                ]
+            ]
+        },
+        "text": [
+            "Aleksandra Kovac's genre is Rhythm and blues and he is in the same band with Kornelije Kovač. He is also associated with the musical artist Bebi Dol.",
+            "Aleksandra Kovac, an exponent of Rhythm and blues, is associated with the musical artists Bebi Dol and Kornelije Kovač.",
+            "The musical genre of Aleksandra Kovac is rhythm and blues. Aleksandra Kovač is associated with the musical artists Bebi Dol and Kornelije Kovač."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "London"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "birthPlace",
+                    "Manchester"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "birthPlace",
+                    "England"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Garth Jones was born in Manchester (England) and died in London.",
+            "Alfred Garth Jones was born in Manchester, in England, and died in London.",
+            "Alfred Garth Jones was born in Manchester, England and he passed away in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "London"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "nationality",
+                    "United Kingdom"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "birthPlace",
+                    "Manchester"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Garth Jones was born in Manchester in the UK, and died in London.",
+            "Alfred Garth Jones, was born in Manchester, in the United Kingdom and died in London.",
+            "Alfred Garth Jones was born in Manchester, United Kingdom and he passed away in London."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id22",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "Sidcup"
+                ],
+                [
+                    "Alfred Garth Jones",
+                    "deathPlace",
+                    "London"
+                ],
+                [
+                    "London",
+                    "leaderName",
+                    "Boris Johnson"
+                ]
+            ]
+        },
+        "text": [
+            "Alfred Garth Jones died in Sidcup, London (led by Boris Johnson).",
+            "Alfred Garth Jones died in Sidcup, London. Boris Johnson is a leader in the city.",
+            "Alfred Garth Jones died in Sidcup in London where Boris Johnson is a leader."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id23",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Alfredo Zitarrosa",
+                    "recordLabel",
+                    "RCA Records"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "genre",
+                    "Zamba (artform)"
+                ],
+                [
+                    "Alfredo Zitarrosa",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Alfredo Zitarrosa, whose record label is RCA Records, is in the genre is Zamba which is considered an art form and has a background as a solo singer.",
+            "Solo singer, Alfredo Zitarrosa has a recording label in RCA Records and his genre is Zamba.",
+            "Starting out as a solo singer, Alfredo Zitarrosa has a recording label with RCA Records. Alfredo Zitarrosa's genre is Zamba which is considered an art form."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id24",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Alison O'Donnell",
+                    "genre",
+                    "Jazz"
+                ],
+                [
+                    "Jazz",
+                    "derivative",
+                    "Funk"
+                ],
+                [
+                    "Alison O'Donnell",
+                    "recordLabel",
+                    "Static Caravan Recordings"
+                ]
+            ]
+        },
+        "text": [
+            "Jazz musician Alison O'Donnell is signed with Static Caravan Recordings. Jazz is the origin of Funk.",
+            "Funk is a derivative of Jazz, the music Alison O'Donnell performs. Alison O'Donnell recorded on the record label, Static Caravan Recordings.",
+            "Funk is a derivative of Jazz, the music Alison O'Donnell plays. Alison O'Donnell recorded on the record label, Static Caravan Recordings."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id25",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Allen Forrest",
+                    "genre",
+                    "Acoustic music"
+                ],
+                [
+                    "Allen Forrest",
+                    "birthPlace",
+                    "Fort Campbell, KY, raised in Dothan, AL"
+                ],
+                [
+                    "Allen Forrest",
+                    "background",
+                    "solo singer"
+                ]
+            ]
+        },
+        "text": [
+            "Allen Forrest, a solo singer who performs acoustic music, was born in Fort Campbell, KY and was raised in the town of Dothan, AL.",
+            "Allen Forrest was born in Fort Campbell, KY and was raised in Dothan, AL. He was originally a solo singer and now plays acoustic music.",
+            "Allen Forrest was born in Fort Campbell, Kentucky but was raised in Dothan, Alabama. He plays acoustic music and was a solo singer."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id26",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Billy Iuso"
+                ],
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Voice of the Wetlands All-Stars"
+                ],
+                [
+                    "Anders Osborne",
+                    "associatedBand/associatedMusicalArtist",
+                    "Tab Benoit"
+                ]
+            ]
+        },
+        "text": [
+            "Anders Osborne has worked with Tab Benoit and is associated with the Voice of the Wetlands All-Stars and Billy Iuso.",
+            "Anders Osborne is associated with the musical artist Billy Iuso, with the band Voice of the Wetlands All-Stars and with Tab Benoit.",
+            "Associated with Tab Benoit, Anders Osborne is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id27",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Anders Osborne",
+                    "recordLabel",
+                    "Alligator Records"
+                ],
+                [
+                    "Anders Osborne",
+                    "recordLabel",
+                    "Okeh Records"
+                ],
+                [
+                    "Anders Osborne",
+                    "genre",
+                    "Rock music"
+                ]
+            ]
+        },
+        "text": [
+            "Rock musician Anders Osborne has previously been signed to the record labels Alligator Records and Okeh Records.",
+            "Once signed with the record label Alligator Records, Anders Osborne, is signed to the record label Okeh Records and is an exponent of Rock music.",
+            "An exponent of Rock music, Anders Osborne's record labels are Okeh Records and Alligator Records."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id28",
+            "shape": "(X (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 3,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Andra (singer)",
+                    "associatedBand/associatedMusicalArtist",
+                    "Puya (singer)"
+                ],
+                [
+                    "Andra (singer)",
+                    "associatedBand/associatedMusicalArtist",
+                    "CRBL"
+                ]
+            ]
+        },
+        "text": [
+            "The singer Andra's genre is Rhythm and blues. She is associated with the band CRBL and with the singer Puya.",
+            "Rhythm and Blues singer Andra is associated with the band CRBL and knows Puya.",
+            "Rhythm and blues singer, Andra, is associated with the singer Puya and the band CRBL."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id29",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Andra (singer)",
+                    "genre",
+                    "Rhythm and blues"
+                ],
+                [
+                    "Andra (singer)",
+                    "background",
+                    "solo singer"
+                ],
+                [
+                    "Rhythm and blues",
+                    "derivative",
+                    "Disco"
+                ]
+            ]
+        },
+        "text": [
+            "Starting her career as a solo singer, Andra's genre is Rhythm and blues, a derivative of which, is Disco.",
+            "Andra began her career as a solo singer and is a rhythm and blues singer. Disco derives from rhythm and blues.",
+            "Andra is a solo singer whose genre is Rhythm and blues. Disco is a derivative of rhythm and blues."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id30",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Jwaydan Moyine"
+                ],
+                [
+                    "Christian Burns",
+                    "genre",
+                    "House music"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Christian Burns"
+                ]
+            ]
+        },
+        "text": [
+            "Christian Burns plays house music and is associated with Andrew Rayel. Mr. Rayel is connected with Jwaydan Moyine, musician.",
+            "Musicians Andrew Rayel and Christian Burns are associates and while the latter plays house music, the former is associated with musician Jwaydan Moyine."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Artist",
+            "eid": "Id31",
+            "shape": "(X (X) (X (X)))",
+            "shape_type": "mixed",
+            "size": 3,
+            "triple": [
+                [
+                    "Armin van Buuren",
+                    "genre",
+                    "House music"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Armin van Buuren"
+                ],
+                [
+                    "Andrew Rayel",
+                    "associatedBand/associatedMusicalArtist",
+                    "Jwaydan Moyine"
+                ]
+            ]
+        },
+        "text": [
+            "Andrew Rayel is associated with the musicians Jwaydan Moyine and Armin van Buuren (who plays House music).",
+            "Andrew Rayel is associated with the musician Jwaydan Moyine and house musician, Armin van Buuren.",
+            "Armin van Buuren performs house music and is associated with the musical artist Andrew Rayel who is associated with the musician Jwaydan Moyine."
+        ]
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id1",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Brazil",
+                    "leaderName",
+                    "Cármen Lúcia"
+                ]
+            ]
+        },
+        "text": [
+            "Cármen Lúcia is the leader of Brazil.",
+            "The leader of Brazil is Cármen Lúcia.",
+            "The name of the leader of Brazil is Cármen Lúcia."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id2",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Chinabank",
+                    "netIncome",
+                    "15100000000"
+                ]
+            ]
+        },
+        "text": [
+            "Chinabank has a net income of 15,100,000,000.",
+            "Chinabank’s net income has been 15100000000 currently.",
+            "The net income of Chinabank is 15,100,000,000."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id3",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "keyPerson",
+                    "Felipe Gozon"
+                ]
+            ]
+        },
+        "text": [
+            "Felipe Gozon is the key person of GMA New Media.",
+            "Felipe Gozon is a key person in GMA New Media.",
+            "The key person on GMA New Media is Felipe Gozon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id4",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "product",
+                    "World Wide Web"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media produces web services.",
+            "GMA New Media offers services concerning the World Wide Web.",
+            "GMA New Media makes web sites.",
+            "GMA New Media is a company that offers products related to the World Wide Web.",
+            "GMA New Media produces websites."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id5",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "GMA New Media",
+                    "type",
+                    "Media company"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media, Inc. is a media company.",
+            "GMA New Media is a media company."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id6",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "La Crosse, Wisconsin",
+                    "areaTotal",
+                    "58.38"
+                ]
+            ]
+        },
+        "text": [
+            "La Crosse is a city in the U.S. state of Wisconsin, and the city has a total area of 58.38.",
+            "The total area of La Crosse Wisconsin is 58.38 square kilometers.",
+            "The total area of LaCrosse Wisconsin is 58.38.",
+            "La Crosse, Wisconsin has a total area of 58.38."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id7",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippine Entertainment Portal",
+                    "parentCompany",
+                    "GMA New Media"
+                ]
+            ]
+        },
+        "text": [
+            "GMA New Media is the parent company of Philippine Entertainment Portal.",
+            "Philippine Entertainment Portal is a branch of GMA New Media.",
+            "Philippine Entertainment Portal's parent company is GMA New Media."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id8",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "ethnicGroup",
+                    "Pangasinense peo"
+                ]
+            ]
+        },
+        "text": [
+            "Pangasinense people are the ethnic group of the Philippines.",
+            "The ethnic group in the Philippines is called the Pangasinense people.",
+            "The ethnic group of the Philippines is Pangasinense.",
+            "The Pangasinense people are an ethnic group native to the Philippines."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id9",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Philippines",
+                    "leaderName",
+                    "Rodrigo Du"
+                ]
+            ]
+        },
+        "text": [
+            "Rodrigo Duterte is the leader's name of the Philippines.",
+            "Rodrigo Duterte is the leader of the Philippines.",
+            "Rodrigo Duterte is the leader of the Philippines .",
+            "The leader of the Philippines is named Rodrigo Duterte."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id10",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Swords, Dublin",
+                    "isPartOf",
+                    "Dublin (European Parliament constituency)"
+                ]
+            ]
+        },
+        "text": [
+            "Swords, Dublin is part of the Dublin European Parliament constituency.",
+            "Swords belongs to the Dublin constituency of the European Parliament.",
+            "Swords is a part of the Dublin European Parliamentary constituency."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id11",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "Swords, Dublin",
+                    "leaderTitle",
+                    "County Manag"
+                ]
+            ]
+        },
+        "text": [
+            "The title of the leader of Swords, Dublin is County Manager.",
+            "The County Manager is the leader of Swords, Dublin.",
+            "The leader title of Swords, Dublin is County Manager.",
+            "Swords, Dublin is led by a county manager."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Company",
+            "eid": "Id12",
+            "shape": "(X (X))",
+            "shape_type": "NA",
+            "size": 1,
+            "triple": [
+                [
+                    "United States",
+                    "longName",
+                    "United States of America"
+                ]
+            ]
+        },
+        "text": [
+            "The full name of the United States is the United States of America.",
+            "The long name of the United States is the United States of America.",
+            "The long name of the United States is the United States of America ."
+        ]
+    }
+]

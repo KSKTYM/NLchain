@@ -1,0 +1,898 @@
+[
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id1",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Abilene Regional Airport",
+                    "cityServed",
+                    "Abilene, Texas"
+                ],
+                [
+                    "Abilene, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Abilene Regional Airport",
+                    "runwayLength",
+                    "1121.0"
+                ],
+                [
+                    "Abilene, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "With a runway length of 1,121 metres, Abilene regional airport serves Abilene, Texas, in the United States.",
+            "Abilene, Texas is served by the Abilene regional airport in the U.S. Its runway is 1121 long.",
+            "Abilene, Texas, United States, is served by Abilene Regional Airport, which has a runway length of 1121.0."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id2",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "Alcobendas"
+                ],
+                [
+                    "ENAIRE",
+                    "locationCity",
+                    "Madrid"
+                ],
+                [
+                    "Alcobendas",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "operatingOrganisation",
+                    "ENAIRE"
+                ]
+            ]
+        },
+        "text": [
+            "Adolfo Suarez Madrid Barajas Airport is located in Alcobendas, Spain, and operated by the Madrid-based ENAIRE.",
+            "Adolfo Suarez Madrid-Barajas Airport is located in Alcobendas, Spain. The airport is operated by ENAIRE.",
+            "Adolfo Suárez Madrid–Barajas Airport, operated by Madrid's ENAIRE, is located in Alcobendas, Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id3",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "runwayName",
+                    "18R/36L"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "runwayLength",
+                    "3500.0"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "operatingOrganisation",
+                    "ENAIRE"
+                ]
+            ]
+        },
+        "text": [
+            "Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The runway name is 18R/36L and is 3,500 in length.",
+            "Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. ENAIRE operates this Airport. 18R/36L is the runway name and its length is 3500.",
+            "Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and run by ENAIRE. Its runway name is 18R/36L and it is 3500 m long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id4",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Agra Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "167.94"
+                ],
+                [
+                    "Agra Airport",
+                    "location",
+                    "Uttar Pradesh"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "isPartOf",
+                    "Awadh"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "isPartOf",
+                    "Bundelkhand"
+                ]
+            ]
+        },
+        "text": [
+            "Agra airport is in Uttar Pradesh, which is part of Awadh and Bundelkhand, is located 167.94 metres above sea level.",
+            "Agra Airport is 167.94 metres above sea level and located in Uttar Pradesh, part of Awadh and Bundelkhand."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id5",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Agra Airport",
+                    "location",
+                    "Uttar Pradesh"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "isPartOf",
+                    "Awadh"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "leaderName",
+                    "Ram Naik"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "isPartOf",
+                    "Bundelkhand"
+                ]
+            ]
+        },
+        "text": [
+            "Agra airport is located in Uttar Pradesh (led by Ram Naik) which is part of Awadh and Bundelkhand.",
+            "Ram Naik is the leader in Uttar Pradesh where Agra airport is located and is part of Awadh and Bundelkhand.",
+            "Agra airport is located in Uttar Pradesh which is part of Awadh and also Bundelkhand, and led by Ram Naik."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id6",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "operatingOrganisation",
+                    "United States Air Forc"
+                ],
+                [
+                    "United States Air Force",
+                    "attackAircraft",
+                    "Lockheed AC-130"
+                ],
+                [
+                    "United States Air Force",
+                    "aircraftFighter",
+                    "General Dynamics F-16 Fighting Falcon"
+                ],
+                [
+                    "United States Air Force",
+                    "battles",
+                    "1986 United States bombing of Libya"
+                ]
+            ]
+        },
+        "text": [
+            "Al Asad airbase is operated bt the United States Air Force which carried out the 1986 United States bombing of Libya. Its aircraft fighter is General Dynamics F-16 Fighting Falcon and the Lockheed AC-130 can be found on USAF aircraft carriers.",
+            "Al Asad airbase is operated by the United States air force who were involved in the 1986 bombing of Libya, and deploy the aircraft fighter General Dynamics F-16 Fighting Falcon and have the Lockheed AC130 on their aircraft carriers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id7",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "operatingOrganisation",
+                    "United States Air Forc"
+                ],
+                [
+                    "United States Air Force",
+                    "attackAircraft",
+                    "Lockheed AC-130"
+                ],
+                [
+                    "United States Air Force",
+                    "aircraftFighter",
+                    "General Dynamics F-16 Fighting Falcon"
+                ],
+                [
+                    "United States Air Force",
+                    "battles",
+                    "Operation Enduring Freedo"
+                ]
+            ]
+        },
+        "text": [
+            "Al Asad airbase is operated by the United States Air Force who participated in the battles during Operation Enduring Freedom. They deploy the Lockheed AC-130 on their aircraft carriers and also make use of the aircraft fighter General Dynamics F-16 Fighting Falcon.",
+            "The United States Air Force is the operating organisation for Al Asad airbase and has the Lockheed AC-130 and General Dynamics F-16 Fighting Falcon as aircraft. One of their battles was Operation Enduring Freedom.",
+            "Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 aircraft carriers. The General Dynamics F-16 Fighting Falcon is an aircraft used by the USAF and they were involved in the Operation Enduring Freedom."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id8",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "operatingOrganisation",
+                    "United States Air Forc"
+                ],
+                [
+                    "United States Air Force",
+                    "attackAircraft",
+                    "Lockheed AC-130"
+                ],
+                [
+                    "United States Air Force",
+                    "aircraftFighter",
+                    "McDonnell Douglas F-15 Eag"
+                ],
+                [
+                    "United States Air Force",
+                    "battles",
+                    "Operation Enduring Freedo"
+                ]
+            ]
+        },
+        "text": [
+            "Al Asad Airbase is operated by the United States Air Force who deploy the Lockheed AC-130 as an attack aircraft and the McDonnell Douglas F-15 Eagle as a fighter aircraft. They also fought in the battles of Operation Enduring Freedom.",
+            "Operation Enduring Freedom was a battle involving the United States Air Force who operate Al Asad Airbase. They deploy the Lockheed AC-130 on their aircraft carriers and the McDonnell Douglas F-15 Eagle as a fighter aircraft.",
+            "Al Asad airbase is operated by the United States Air Force which was involved in Operation Enduring Freedom. The Lockheed AC-130 and McDonnell Douglas F-15 Eagle are two of their aircraft."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id9",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Al Asad Airbase",
+                    "operatingOrganisation",
+                    "United States Air Forc"
+                ],
+                [
+                    "United States Air Force",
+                    "battles",
+                    "Invasion of Grenada"
+                ],
+                [
+                    "United States Air Force",
+                    "attackAircraft",
+                    "Lockheed AC-130"
+                ],
+                [
+                    "United States Air Force",
+                    "aircraftFighter",
+                    "General Dynamics F-16 Fighting Falcon"
+                ]
+            ]
+        },
+        "text": [
+            "Al Asad airbase is operated by the United States Air Force who took part in the noted battles at the invasion of Grenada. They deploy the Lockheed AC-130 attack aircraft and the General Dynamics F-16 Fighting Falcon as an aircraft fighter.",
+            "The United States Air Force, which is the operating organisation for Al Asad airbase was involved in battles at the Invasion of Grenada. They deploy the Lockheed AC-130 attack aircraft and the General Dynamics F-16 Fighting Falcon.",
+            "The United States Air Force, who fought in the Invasion of Grenada operates the Al Asad Airbase. The USAF fly Lockheed AC-130 aircraft from aircraft carriers, in addition to the General Dynamics F-16 Fighting Falcon."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id10",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Allama Iqbal International Airport",
+                    "operatingOrganisation",
+                    "Pakistan Civil Aviation Authority"
+                ],
+                [
+                    "Pakistan Civil Aviation Authority",
+                    "headquarter",
+                    "Jinnah International Airpo"
+                ],
+                [
+                    "Allama Iqbal International Airport",
+                    "location",
+                    "Punjab, Pakistan"
+                ],
+                [
+                    "Punjab, Pakistan",
+                    "leaderTitle",
+                    "Provincial Assembly of the Punjab"
+                ]
+            ]
+        },
+        "text": [
+            "The Pakistan Civil Aviation Authority has headquarters at Jinnah International airport and governs the Allama Iqbal International Airport in Punjab, Pakistan which is led by the Provincial Assembly of the Punjab.",
+            "The Allama Iqbal International Airport is located in Punjab, Pakistan which is led by the Provincial Assembly of the Punjab. The airport is governed by the Pakistan Civil Aviation Authority headquartered in Jinnah International Airport.",
+            "Allama Iqbal International Airport is located in Punjab, Pakistan which is led by the Provincial Assembly of Punjab. The airport is operated by the Pakistan Civil Aviation Authority whose headquarters is in the Jinnah International Airport."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id11",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Alpena County Regional Airport",
+                    "location",
+                    "Maple Ridge Township, Alpena County, Michigan"
+                ],
+                [
+                    "Alpena County Regional Airport",
+                    "runwayLength",
+                    "1533.0"
+                ],
+                [
+                    "Alpena County Regional Airport",
+                    "cityServed",
+                    "Alpena, Michigan"
+                ],
+                [
+                    "Alpena County Regional Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "210"
+                ]
+            ]
+        },
+        "text": [
+            "Alpena County Regional Airport serves Alpena, Michigan and is located at Maple Ridge Township, Alpena County, Michigan. It has a runway length of 1533.0 and is 210 metres above sea level.",
+            "Alpena County Regional Airport is located in Maple Ridge Township, Alpena County and serves the city of Alpena, Michigan. It is located 210 metres above sea level and has a runway length of 1533.0.",
+            "Alpena, Michigan, is served by the Alpena County Regional Airport in Maple Ridge Township. The runway length is 1533.0 and the elevation is 210 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id12",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Amsterdam Airport Schiphol",
+                    "cityServed",
+                    "Amsterda"
+                ],
+                [
+                    "Amsterdam Airport Schiphol",
+                    "runwayName",
+                    "06/24 'Kaagbaan'"
+                ],
+                [
+                    "Amsterdam Airport Schiphol",
+                    "runwayLength",
+                    "2014.0"
+                ],
+                [
+                    "Amsterdam Airport Schiphol",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "-3.3528"
+                ]
+            ]
+        },
+        "text": [
+            "The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level. It has a runway length of 2014.0 meters and 06/24, Kaagbaan, is the runway name.",
+            "Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. Amsterdam Airport Schiphol's runway length is 2014.0 and it has the runway name, 06/24 Kaagbaan."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id13",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "location",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "language",
+                    "English languag"
+                ],
+                [
+                    "Texas",
+                    "demonym",
+                    "Texan"
+                ],
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County Airport, Texas is in the United States. The inhabitants of Texas, Texans, speak English.",
+            "Andrews County Airport is located in Texas within the United States, the people of Texas are referred to as Texans and the local language is English.",
+            "Texas is the location of Andrews County airport and is in the United States. The inhabitants are known as Texans and they speak the English language."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id14",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "location",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "language",
+                    "Spanish languag"
+                ],
+                [
+                    "Texas",
+                    "demonym",
+                    "Texan"
+                ],
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County airport is in Texas, United States, where the people are known as Texans and Spanish is spoken.",
+            "Texans are the people from Texas in the United States where Spanish is spoken and Andrews County airport is located.",
+            "Andrews County Airport is located in Texas, United States. The people of Texas are called Texans and Spanish language is spoken there."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id15",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Andrews County Airport",
+                    "location",
+                    "Texas"
+                ],
+                [
+                    "Texas",
+                    "largestCity",
+                    "Houston"
+                ],
+                [
+                    "Texas",
+                    "capital",
+                    "Austin, Texas"
+                ],
+                [
+                    "Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Andrews County Airport is located in Texas in the United States. In Texas, the capital city is Austin and the largest city is Houston.",
+            "Andrews County airport in the US is located in Texas where the capital is Austin and the largest city is Houston.",
+            "Andrews County airport is located in Texas, United States, where Houston is the largest city and Austin is the capital."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id16",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Angola International Airport",
+                    "location",
+                    "Ícolo e Bengo"
+                ],
+                [
+                    "Ícolo e Bengo",
+                    "country",
+                    "Angola"
+                ],
+                [
+                    "Ícolo e Bengo",
+                    "isPartOf",
+                    "Luanda Provinc"
+                ],
+                [
+                    "Angola International Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "159"
+                ]
+            ]
+        },
+        "text": [
+            "At 159 meters above sea level, Angola International Airport is located at Ícolo e Bengo, part of Luanda Province, in Angola.",
+            "Angola International airport, situated 159 metres above sea level, is located at Ícolo e Bengo, part of Luanda Province in Angola.",
+            "Angola International Airport is located in Ícolo e Bengo in Luanda Province, Angola. It is 159 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id17",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Antwerp International Airport",
+                    "operatingOrganisation",
+                    "Flemish Governmen"
+                ],
+                [
+                    "Antwerp International Airport",
+                    "owner",
+                    "Flemish Region"
+                ],
+                [
+                    "Antwerp International Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "12.0"
+                ],
+                [
+                    "Antwerp International Airport",
+                    "runwayLength",
+                    "600.0"
+                ]
+            ]
+        },
+        "text": [
+            "Antwerp International Airport is operated by the Flemish government, owned by the flemish region, has an elevation of 12.0 metres above sea level, and its runway length is 600.0.",
+            "The Flemish government operate Antwerp International Airport which is owned by the Flemish region. The airport has an elevation of 12.0 metres above sea level and a runway length of 600.0.",
+            "Antwerp International Airport is owned by the Flemish Region and operated by the Flemish Government. The airport has a runway length of 600.00 and is 12 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id18",
+            "shape": "(X (X (X)) (X (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Appleton International Airport",
+                    "location",
+                    "Greenville, Wisconsin"
+                ],
+                [
+                    "Greenville, Wisconsin",
+                    "isPartOf",
+                    "Ellington, Wisconsin"
+                ],
+                [
+                    "Appleton, Wisconsin",
+                    "isPartOf",
+                    "Little Chute, Wisconsin"
+                ],
+                [
+                    "Appleton International Airport",
+                    "cityServed",
+                    "Appleton, Wisconsin"
+                ]
+            ]
+        },
+        "text": [
+            "Appleton International Airport is located in Greenville, Wisconsin, which is part of Ellington. It serves Appleton, which is located in Little Chute, Wisconsin.",
+            "Appleton (part of which is known as Little Chute) is served by Appleton International airport which is located in Greenville (part of which is known as Ellington), Wisconsin."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id19",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "3rd runway SurfaceType",
+                    "Poacea"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "34.0"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "runwayName",
+                    "07/25"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "runwayLength",
+                    "518.0"
+                ]
+            ]
+        },
+        "text": [
+            "Ardmore Airport (New Zealand) has a 3rd runway made of poaceae and is 34 metres above sea level. The runway name is 07/25 and has a length of 518.0.",
+            "Ardmore Airport (New Zealand) is located 34 meters above sea level and has a 3rd runway made of poaceae which is 518.0 in length and has the name 07/25.",
+            "Ardmore Airport, New Zealand is elevated 34.0 meters above sea level and its 3rd runway is made of poaceae. The runway name of the airport is 07/25 and it's 518.0 meters long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id20",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "runwayLength",
+                    "1411.0"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "3rd runway SurfaceType",
+                    "Poacea"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "34.0"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "runwayName",
+                    "03L/21R"
+                ]
+            ]
+        },
+        "text": [
+            "Ardmore Airport in New Zealand is 34 meters above sea level and has a 3rd runway made of poaceae. The runway name is 03L/21R and is 1411.0 in length.",
+            "Ardmore Airport (New Zealand) has a 3rd runway made of poaceae and a runway length of 1411. It is 34 metres above sea level and a runway name of 03L/21R.",
+            "The 3rd runway (03L/21R) at Ardmore Airport in New Zealand is made of Poaceae. It is 34 meters above sea level and 1411 long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id21",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Ashgabat International Airport",
+                    "operatingOrganisation",
+                    "Turkmenistan Airlines"
+                ],
+                [
+                    "Ashgabat International Airport",
+                    "location",
+                    "Ashgaba"
+                ],
+                [
+                    "Ashgabat International Airport",
+                    "runwayLength",
+                    "2989.0"
+                ],
+                [
+                    "Ashgabat International Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "211"
+                ]
+            ]
+        },
+        "text": [
+            "Ashgabat International Airport located in Ashgabat has a runway of length 2989.0 meters. The airport is operated by Turkmenistan Airlines and has an elevation of 211 metres above sea level.",
+            "Turkmenistan airlines are the operating organisation for Ashgabat International Airport which is 211 metres above sea level and has a runway length of 2989.0 metres.",
+            "The operating organization for Ashgabat International Airport in Ashgabat is Turkmenistan Airlines. The runway length is 2989.0 and the airport is 211 metres above sea level."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id22",
+            "shape": "(X (X) (X) (X) (X))",
+            "shape_type": "sibling",
+            "size": 4,
+            "triple": [
+                [
+                    "Atlantic City International Airport",
+                    "runwayLength",
+                    "3048.0"
+                ],
+                [
+                    "Atlantic City International Airport",
+                    "operatingOrganisation",
+                    "Port Authority of New York and New Jersey"
+                ],
+                [
+                    "Atlantic City International Airport",
+                    "elevationAboveTheSeaLevel (in metres)",
+                    "23.0"
+                ],
+                [
+                    "Atlantic City International Airport",
+                    "runwayName",
+                    "4/22"
+                ]
+            ]
+        },
+        "text": [
+            "The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport which is 23 metres above sea level. The runway name is 4/22 and it has a length of 3048.0.",
+            "The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey and is 23 metres above sea level. The runway name is 4/22 and its length is 3048.0.",
+            "The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey. Its runway name is 4/22, is 23 meters above sea level and is 3048 long."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id23",
+            "shape": "(X (X) (X (X (X))))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "ENAIRE",
+                    "locationCity",
+                    "Madrid"
+                ],
+                [
+                    "Madrid",
+                    "country",
+                    "Spain"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "location",
+                    "San Sebastián de los Reyes"
+                ],
+                [
+                    "Adolfo Suárez Madrid–Barajas Airport",
+                    "operatingOrganisation",
+                    "ENAIRE"
+                ]
+            ]
+        },
+        "text": [
+            "Operated by ENAIRE (Madrid, Spain), the Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.",
+            "ENAIRE is located in Madrid, which, in turn, is a city in Spain. It operates Adolfo Suarez Madrid-Barajas Airport in San Sebastian de los Reyes.",
+            "ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas Airport, which is located in San Sebastian de los Reyes. ENAIRE is located in Madrid, Spain."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id24",
+            "shape": "(X (X) (X (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Egg Harbor Township, New Jersey",
+                    "isPartOf",
+                    "New Jersey"
+                ],
+                [
+                    "Atlantic City International Airport",
+                    "runwayLength",
+                    "3048.0"
+                ],
+                [
+                    "Atlantic City International Airport",
+                    "location",
+                    "Egg Harbor Township, New Jersey"
+                ],
+                [
+                    "Egg Harbor Township, New Jersey",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Egg Harbor Township is in New Jersey, in the United States and is where Atlantic City International Airport is located. This airport has a runway length of 3048.0.",
+            "Egg Harbor Township, New Jersey is part of New Jersey in the United States. It is where Atlantic City International Airport (with a runway length of 3048.0) is located.",
+            "Atlantic City Airport (runway length 3048.0) is located in Egg Harbor Township, which is part of New Jersey in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "Airport",
+            "eid": "Id25",
+            "shape": "(X (X (X) (X) (X)))",
+            "shape_type": "mixed",
+            "size": 4,
+            "triple": [
+                [
+                    "Poaceae",
+                    "class",
+                    "Monocotyledon"
+                ],
+                [
+                    "Poaceae",
+                    "division",
+                    "Flowering plan"
+                ],
+                [
+                    "Poaceae",
+                    "order",
+                    "Commelinids"
+                ],
+                [
+                    "Ardmore Airport (New Zealand)",
+                    "2nd runway SurfaceType",
+                    "Poacea"
+                ]
+            ]
+        },
+        "text": [
+            "Poaceae, of the class Monocotyledon and the order of commelinids belongs to the division of flowering plants and is used as the surface of the second runway of Ardmore airport, New Zealand.",
+            "The surface type of the second runway of Ardmore Airport, New Zealand is Poaceae. Poaceae is a flowering plant of the order of Commelinids and the class of Monocotyledon.",
+            "The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae. Poaceae is a flowering plant in the class of Monocotyledon in the order of Commelinids."
+        ]
+    }
+]

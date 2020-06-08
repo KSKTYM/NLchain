@@ -1,0 +1,592 @@
+[
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id1",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Georgia",
+                    "isPartOf",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Albany, Georgia is in the United States, home to a number of ethnic groups including, African Americans.",
+            "Albany, Georgia is part of the United States of America where one of the ethnic groups are the African Americans.",
+            "Albany, Georgia, is in the United States where African Americans are one of the ethnic groups."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id2",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Albany, Oregon",
+                    "isPartOf",
+                    "Oregon"
+                ],
+                [
+                    "Oregon",
+                    "largestCity",
+                    "Portland, Oregon"
+                ]
+            ]
+        },
+        "text": [
+            "Portland is the largest city in Oregon which also includes Albany.",
+            "Portland is the largest city in Oregon, the state which is home to Albany.",
+            "Albany is a city in Oregon along with Portland which is the largest."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id3",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Alexandria, Indiana",
+                    "areaTotal",
+                    "6.81 (square kilometres)"
+                ],
+                [
+                    "Alexandria, Indiana",
+                    "populationDensity",
+                    "755.3 (inhabitants per square kilometre)"
+                ]
+            ]
+        },
+        "text": [
+            "Alexandria, Indiana (total area 6.81 sq km), has a population density of 755.3 inhabitants per square kilometre.",
+            "Alexandria, Indiana, covers an area of 6.81 sq kilometres and has a population density of 755.3 inhabitants per sq km.",
+            "The population density of Alexandria, Indiana, is 755.3 (inhabitants per square kilometer) and it occupies 6.81 square kilometers."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id4",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Amarillo, Texas",
+                    "isPartOf",
+                    "Potter County, Texas"
+                ],
+                [
+                    "Potter County, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Amarillo can be located in Potter County, Texas which is in the United States of America.",
+            "Amarillo is part of Potter County, Texas, U.S.",
+            "Amarillo is located in Potter County, Texas in the United States of America."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id5",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Anaheim, California",
+                    "elevationAboveTheSeaLevel",
+                    "48.0"
+                ],
+                [
+                    "Anaheim, California",
+                    "areaTotal",
+                    "131.6 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Anaheim, California is situated at 48.0 above sea level and has a total area of 131.6 square kilometres.",
+            "Anaheim, California is situated at 48.0 above sea level and has a total area of 131.6 sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id6",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Anderson Township, Madison County, Indiana"
+                ],
+                [
+                    "Anderson Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is part of Anderson Township, Madison County, Indiana in the United States.",
+            "Anderson, Indiana is part of Anderson Township, Madison County, Indiana, in the United States.",
+            "Anderson is part of the Anderson Township, Madison County in Indiana United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id7",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Fall Creek Township, Madison County, Indiana"
+                ],
+                [
+                    "Fall Creek Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana, United States.",
+            "Anderson is part of Fall Creek Township, Madison County, Indiana in the U.S.",
+            "Anderson, is part of Fall Creek Township, Madison County, Indiana, in the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id8",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Anderson, Indiana",
+                    "isPartOf",
+                    "Union Township, Madison County, Indiana"
+                ],
+                [
+                    "Union Township, Madison County, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Anderson is part of Union Township, Madison County, Indiana, United States.",
+            "Anderson is part of Union Township, Madison County, Indiana in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id9",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Ann Arbor, Michigan",
+                    "populationDensity",
+                    "1580.7 (inhabitants per square kilometre)"
+                ],
+                [
+                    "Ann Arbor, Michigan",
+                    "areaTotal",
+                    "74.33 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor, Michigan has a population of 1580.7 per square kilometre and a total area of 74.33 square kilometres."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id10",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "African Americans"
+                ]
+            ]
+        },
+        "text": [
+            "The United States is the location of Atlanta and includes the African Americans among its ethnic groups.",
+            "The United States has the ethnic group of African Americans and is the location of Atlanta.",
+            "Atlanta is located in the United States where African Americans are an ethnic group."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id11",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Georgia (U.S. state)"
+                ],
+                [
+                    "Atlanta",
+                    "isPartOf",
+                    "Fulton County, Georgia"
+                ]
+            ]
+        },
+        "text": [
+            "Atlanta is part of Fulton County, Georgia, United States.",
+            "Atlanta is part of Fulton County, Georgia, US.",
+            "Atlanta is part of Fulton County, Georgia U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id12",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ],
+                [
+                    "Attica, Indiana",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Attica is located in the state of Indiana in the U.S.",
+            "Attica is part of Indiana in the US.",
+            "Attica is part of Indiana in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id13",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "capital",
+                    "Washington, D.C."
+                ]
+            ]
+        },
+        "text": [
+            "Washington DC is the capital of the United States, where Auburn, Alabama is located.",
+            "Auburn Alabama is in the United States with Washington, D.C. as the capital of the U.S."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id14",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Auburn, Alabama",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ]
+            ]
+        },
+        "text": [
+            "Auburn, Alabama is located in the United States, where one of the ethnic groups is Asian Americans.",
+            "Auburn, Alabama is located in the United States, a country where one of the ethnic groups is Asian Americans.",
+            "Auburn Alabama is in the United States, where one of the ethnic groups are Asian Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id15",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "areaOfLand",
+                    "686.0 (square kilometres)"
+                ],
+                [
+                    "Austin, Texas",
+                    "areaTotal",
+                    "703.95 (square kilometres)"
+                ]
+            ]
+        },
+        "text": [
+            "The area of Austin, Texas is 703.95km2 and the land area is 686km2.",
+            "Austin, Texas has a total area of 703.95 sq km including a land area of 686 sq km."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id16",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Travis County, Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is part of Travis County, Texas, is United States.",
+            "Austin is part of Travis County, which is in Texas, United States.",
+            "Austin is part of Travis County, in Texas, located within the country of the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id17",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Austin, Texas",
+                    "leaderTitle",
+                    "City Manager"
+                ]
+            ]
+        },
+        "text": [
+            "Austin, Texas is located within the country of the United States and is led by the City Manager.",
+            "The leader of Austin, Texas, United States is the City Manager.",
+            "Austin, Texas is in the United States and is led by the City manager."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id18",
+            "shape": "(X (X) (X))",
+            "shape_type": "sibling",
+            "size": 2,
+            "triple": [
+                [
+                    "Austin, Texas",
+                    "isPartOf",
+                    "Texas"
+                ],
+                [
+                    "Austin, Texas",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Austin is located in Texas, in the country of the United States.",
+            "Austin is part of the state of Texas in the United States.",
+            "Austin is part of the state of Texas, in the United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id19",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Indiana",
+                    "capital",
+                    "Indianapolis"
+                ],
+                [
+                    "Attica, Indiana",
+                    "isPartOf",
+                    "Indiana"
+                ]
+            ]
+        },
+        "text": [
+            "Attica is part of Indiana, where Indianapolis is the capital.",
+            "Attica is part of the state of Indiana where the capital is Indianapolis."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id20",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Michigan",
+                    "country",
+                    "United States"
+                ],
+                [
+                    "Ann Arbor, Michigan",
+                    "isPartOf",
+                    "Michigan"
+                ]
+            ]
+        },
+        "text": [
+            "Ann Arbor is part of Michigan in the United States.",
+            "Ann Arbor is part of Michigan, United States."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id21",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "Texas",
+                    "language",
+                    "English language"
+                ],
+                [
+                    "Arlington, Texas",
+                    "isPartOf",
+                    "Texas"
+                ]
+            ]
+        },
+        "text": [
+            "Arlington is part of Texas when English is spoken.",
+            "Arlington is part of the state of Texas, where English is used.",
+            "Arlington is part of the state of Texas where the English language is spoken."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id22",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "demonym",
+                    "Americans"
+                ],
+                [
+                    "Albuquerque, New Mexico",
+                    "country",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Albuquerque is in New Mexico, in the United States, of which the occupants are Americans.",
+            "Albuquerque, New Mexico is located in the United States where the Americans are living.",
+            "The United States is the location of Albuquerque, New Mexico and the inhabitants of the country are known as Americans."
+        ]
+    },
+    {
+        "mr": {
+            "category": "City",
+            "eid": "Id23",
+            "shape": "(X (X (X)))",
+            "shape_type": "chain",
+            "size": 2,
+            "triple": [
+                [
+                    "United States",
+                    "ethnicGroup",
+                    "Asian Americans"
+                ],
+                [
+                    "Akron, Ohio",
+                    "isPartOf",
+                    "United States"
+                ]
+            ]
+        },
+        "text": [
+            "Akron, Ohio is part of the United States, where Asian Americans are an ethnic group.",
+            "Akron Ohio is part of the United States where one of the ethnic groups are Asian Americans.",
+            "The United States include the ethnic group of Asian Americans and is the location of Akron, Ohio."
+        ]
+    }
+]
