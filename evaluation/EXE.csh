@@ -1,13 +1,14 @@
 #! /bin/csh
 
-# E2E
-python3 m_eval -mode NLG -p ../parameter/e2e/ -data ../corpus/e2e_test.tsv > RES-E2E-NLG.txt
-python3 m_eval -mode NLU -p ../parameter/e2e/ -data ../corpus/e2e_test.tsv > RES-E2E-NLU.txt
+set mode="nlg nlu"
+set data="atis e2e snips"
+set dir="test train"
 
-# ATIS
-python3 m_eval -mode NLG -p ../parameter/atis/ -data ../corpus/atis_test.tsv > RES-ATIS-NLG.txt
-python3 m_eval -mode NLU -p ../parameter/atis/ -data ../corpus/atis_test.tsv > RES-ATIS-NLU.txt
-
-# SNIPS
-python3 m_eval -mode NLG -p ../parameter/snips/ -data ../corpus/snips_test.tsv > RES-SNIPS-NLG.txt
-python3 m_eval -mode NLU -p ../parameter/snips/ -data ../corpus/snips_test.tsv > RES-SNIPS-NLU.txt
+foreach d ($data)
+    foreach m ($mode)
+	foreach r ($dir)
+	    python3 m_eval.py -mode "$m" -p ../parameter/"$d"/ -result "$r"/result_"$d"_chain_"$m".tsv -data ../corpus/"$d"_test.tsv > "$r"/RES_"$d"_chain_"$m".txt
+	    python3 m_eval.py -mode "$m" -p ../parameter/"$d"_"$m"/ -result "$r"/result_"$d"_"$m".tsv -data ../corpus/"$d"_test.tsv > "$r"/RES_"$d"_"$m".txt
+        end
+    end
+end
