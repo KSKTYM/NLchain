@@ -19,7 +19,7 @@ if __name__ == '__main__':
                 attribute = a_mr[j].split('[')[0].rstrip(' ').lstrip(' ')
                 if (attribute != '') and ((attribute in a_attribute) is False):
                     a_attribute.append(attribute)
-    a_attribute.sort()
+    #a_attribute.sort()
     for i in range(len(a_attribute)):
         fo.write(a_attribute[i]+'\n')
     fo.close()
