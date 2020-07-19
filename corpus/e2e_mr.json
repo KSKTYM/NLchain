@@ -1,0 +1,128 @@
+[
+    {
+        "attribute": "name",
+        "value": [
+            "no",
+            "The Vaults",
+            "The Cambridge Blue",
+            "The Eagle",
+            "The Mill",
+            "Loch Fyne",
+            "Bibimbap House",
+            "The Rice Boat",
+            "The Wrestlers",
+            "Aromi",
+            "The Phoenix",
+            "Browns Cambridge",
+            "Taste of Cambridge",
+            "Cocum",
+            "The Dumpling Tree",
+            "The Punter",
+            "The Golden Curry",
+            "Alimentum",
+            "Midsummer House",
+            "Blue Spice",
+            "Strada",
+            "The Waterman",
+            "Zizzi",
+            "Green Man",
+            "Clowns",
+            "Giraffe",
+            "The Olive Grove",
+            "The Twenty Two",
+            "The Cricketers",
+            "Wildwood",
+            "The Golden Palace",
+            "The Plough",
+            "Cotto",
+            "Fitzbillies",
+            "Travellers Rest Beefeater"
+        ]
+    },
+    {
+        "attribute": "eatType",
+        "value": [
+            "no",
+            "pub",
+            "coffee shop",
+            "restaurant"
+        ]
+    },
+    {
+        "attribute": "food",
+        "value": [
+            "no",
+            "English",
+            "Japanese",
+            "French",
+            "Fast food",
+            "Italian",
+            "Indian",
+            "Chinese"
+        ]
+    },
+    {
+        "attribute": "priceRange",
+        "value": [
+            "no",
+            "more than £30",
+            "cheap",
+            "less than £20",
+            "£20-25",
+            "moderate",
+            "high"
+        ]
+    },
+    {
+        "attribute": "customer rating",
+        "value": [
+            "no",
+            "5 out of 5",
+            "low",
+            "high",
+            "average",
+            "3 out of 5",
+            "1 out of 5"
+        ]
+    },
+    {
+        "attribute": "area",
+        "value": [
+            "no",
+            "riverside",
+            "city centre"
+        ]
+    },
+    {
+        "attribute": "familyFriendly",
+        "value": [
+            "no",
+            "yes"
+        ]
+    },
+    {
+        "attribute": "near",
+        "value": [
+            "no",
+            "Café Adriatic",
+            "Café Brazil",
+            "Burger King",
+            "The Sorrento",
+            "The Rice Boat",
+            "Clare Hall",
+            "Raja Indian Cuisine",
+            "Café Rouge",
+            "Yippee Noodle Bar",
+            "The Portland Arms",
+            "All Bar One",
+            "Express by Holiday Inn",
+            "The Bakers",
+            "Café Sicilia",
+            "Avalon",
+            "The Six Bells",
+            "Ranch",
+            "Crowne Plaza Hotel",
+            "Rainbow Vegetarian Café"
+        ]
+    }
+]
