@@ -12,13 +12,13 @@ NLG(Natural Language Generation)とNLU(Natural Language Understanding)のチェ�
    * 学習用コーパスデータ
 
  * evaluation/
-   * 評価プログラム及びデータ → 未実装
+   * 評価プログラム及びデータ
 
  * model/
    * ネットワークモデルコード
 
  * parameter/
-   * ネットワークパラメータ
+   * 学習済ネットワークパラメータ
 
  * inference/
    * 推論コード
@@ -37,10 +37,14 @@ NLG(Natural Language Generation)とNLU(Natural Language Understanding)のチェ�
    * torchtext
  
 3. 実行方法
+ * コーパス生成
+   * corpus/script/EXE-E2E.csh を実行する
  * 学習
-   * training/EXE-##.csh を参照のこと
+   * training/EXE-E2E.csh を実行する
  * 推論
    * inference/README.md を参照のこと
+ * 評価
+   * evaluation/EXE.csh を実行する
 
 4. Reference
  * Speech Chain
