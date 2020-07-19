@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import argparse
+import os
 import sys
 
 import torch
@@ -37,24 +38,50 @@ def initialize_weights(m):
     if hasattr(m, 'weight') and m.weight.dim() > 1:
         nn.init.xavier_uniform_(m.weight.data)
 
-def train_nlg(model_nlg, iterator, optimizer, criterion, clip):
+def train_nlg(model_nlg, iterator, optimizer, criterion, clip, verbose_flag):
     model_nlg.train()
     epoch_loss = 0
     
     for i, batch in enumerate(iterator):
         mr = batch.mr
         sen = batch.sen
+        if verbose_flag is True:
+            print('***** i : '+str(i)+' *****')
+            print('(1) sen: '+str(sen.size()))
+            print(sen)
+            print('(2) mr: '+str(mr.size()))
+            print(mr)
+            print('(3) sen[:,:-1]')
+            print(sen[:,:-1])
+            print('(4) mr[:,:-1]')
+            print(mr[:,:-1])
+
         optimizer.zero_grad()
         output, _ = model_nlg(mr, sen[:,:-1])
         #output = [batch size, sen len - 1, output dim]
+        if verbose_flag is True:
+            print('(5) output_nlg: '+str(output.size()))
+            print(output)
+
         #sen = [batch size, sen len]
         output_dim = output.shape[-1]
         output = output.contiguous().view(-1, output_dim)
+        if verbose_flag is True:
+            print('(7) output_nlg: '+str(output.size()))
+            print(output)
+
         sen = sen[:,1:].contiguous().view(-1)
         #output = [batch size * sen len - 1, output dim]
         #sen = [batch size * sen len - 1]
+        if verbose_flag is True:
+            print('(9) sen:'+str(sen.size()))
+            print(sen)
             
         loss = criterion(output, sen)
+        if verbose_flag is True:
+            print('(11) loss_nlg: '+str(loss.size()))
+            print(loss)
+
         loss.backward()
         torch.nn.utils.clip_grad_norm_(model_nlg.parameters(), clip)
         optimizer.step()
@@ -62,24 +89,50 @@ def train_nlg(model_nlg, iterator, optimizer, criterion, clip):
         
     return epoch_loss / len(iterator)
 
-def train_nlu(model_nlu, iterator, optimizer, criterion, clip):
+def train_nlu(model_nlu, iterator, optimizer, criterion, clip, verbose_flag):
     model_nlu.train()
     epoch_loss = 0
 
     for i, batch in enumerate(iterator):
         sen = batch.sen
         mr = batch.mr
+        if verbose_flag is True:
+            print('***** i : '+str(i)+' *****')
+            print('(1) sen: '+str(sen.size()))
+            print(sen)
+            print('(2) mr: '+str(mr.size()))
+            print(mr)
+            print('(3) sen[:,:-1]')
+            print(sen[:,:-1])
+            print('(4) mr[:,:-1]')
+            print(mr[:,:-1])
+
         optimizer.zero_grad()
         output, _ = model_nlu(sen, mr[:,:-1])
         #output = [batch size, mr len - 1, output dim]
+        if verbose_flag is True:
+            print('(6) output_nlu: '+str(output.size()))
+            print(output)
+
         #mr = [batch size, mr len]
         output_dim = output.shape[-1]
         output = output.contiguous().view(-1, output_dim)
+        if verbose_flag is True:
+            print('(8) output_nlu: '+str(output.size()))
+            print(output)
+
         mr = mr[:,1:].contiguous().view(-1)
         #output = [batch size * mr len - 1, output dim]
         #mr = [batch size * mr len - 1]
+        if verbose_flag is True:
+            print('(10) mr:'+str(mr.size()))
+            print(mr)
             
         loss = criterion(output, mr)
+        if verbose_flag is True:
+            print('(12) loss_nlu: '+str(loss.size()))
+            print(loss)
+
         loss.backward()
         torch.nn.utils.clip_grad_norm_(model_nlu.parameters(), clip)
         optimizer.step()
@@ -158,6 +211,7 @@ if __name__ == '__main__':
     parser.add_argument('-p', help='parameter directory\'s name', default='../parameter/')
     parser.add_argument('-path', help='training data directory\'s name', default='../corpus/')
     parser.add_argument('-file', help='training data file name', default='nlc_transformer')
+    parser.add_argument('-mode', help='training mode{nlu|nlg|chain}', default='chain')
     parser.add_argument('-seed', help='seed number', type=int, default=1234)
     parser.add_argument('-epoch', help='epoch number', type=int, default=10)
     parser.add_argument('-batch', help='batch size', type=int, default=128)
@@ -165,39 +219,42 @@ if __name__ == '__main__':
     parser.add_argument('-beta', help='beta parameter', type=float, default=1.0)
     parser.add_argument('-graph', help='show attention graph', action='store_true')
     parser.add_argument('-v', help='verbose(print debug)', action='store_true')
-    parser.add_argument('-nlu', help='NLP only', action='store_true')
-    parser.add_argument('-nlg', help='NLG only', action='store_true')
+    parser.add_argument('-eval', help='evalation with test data', action='store_true')
     args = parser.parse_args()
 
     print('** NLchain **')
+    print(' training mode           : '+str(args.mode))
     print(' training data directory : '+str(args.path))
     print(' training data file      : '+str(args.file))
+
     print(' parameter directory     : '+str(args.p))
     print(' random seed number      : '+str(args.seed))
     print(' epoch number            : '+str(args.epoch))
     print(' batch size              : '+str(args.batch))
     print(' alpha parameter         : '+str(args.alpha))
     print(' beta parameter          : '+str(args.beta))
+
     if args.graph is True:
         print(' show graph              : ON')
     if args.v is True:
         print(' verbose (print debug)   : ON')
 
-    if args.nlu is True:
+    # output directory
+    if not os.path.exists(args.p):
+        os.mkdir(args.p)
+
+    if args.mode.lower() == 'nlu':
         chain_flag = False
         nlu_flag = True
         nlg_flag = False
-        print(' [NLU only]')
-    elif args.nlg is True:
+    elif args.mode.lower() == 'nlg':
         chain_flag = False
         nlu_flag = False
         nlg_flag = True
-        print(' [NLG only]')
-    else:
+    elif args.mode.lower() == 'chain':
         chain_flag = True
         nlu_flag = True
         nlg_flag = True
-        print(' [NL chain]')
 
     SEED = args.seed
     random.seed(SEED)
@@ -207,8 +264,7 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     tokenizer = Tokenizer()
 
-    # NLU: TRG->SRC, NLG: SRC->TRG
-    # SRC: MR, TRG: Sentence
+    # NLU: MR->SEN, NLG: SEN->MR
     MR = Field(tokenize = tokenizer.mr,
                init_token = '<sos>', 
                eos_token = '<eos>', 
@@ -220,22 +276,41 @@ if __name__ == '__main__':
                 lower = True, 
                 batch_first = True)
 
-    train_data, valid_data, test_data = torchtext.data.TabularDataset.splits(
-        path=args.path,
-        train=args.file+'_train.tsv',
-        validation=args.file+'_valid.tsv',
-        test=args.file+'_test.tsv',
-        format='tsv',
-        fields=[('mr', MR), ('sen', SEN)])
-    MR.build_vocab(train_data, min_freq = 1)
-    SEN.build_vocab(train_data, min_freq = 1)
+    if chain_flag is False:
+        train_data, valid_data, test_data = torchtext.data.TabularDataset.splits(
+            path=args.path,
+            train=args.file+'_train.tsv',
+            validation=args.file+'_valid.tsv',
+            test=args.file+'_test.tsv',
+            format='tsv',
+            fields=[('mr', MR), ('sen', SEN)])
+    else:
+        train_data, valid_data, test_data = torchtext.data.TabularDataset.splits(
+            path=args.path,
+            train=args.file+'_train_aug.tsv',
+            validation=args.file+'_valid.tsv',
+            test=args.file+'_test.tsv',
+            format='tsv',
+            fields=[('mr', MR), ('sen', SEN)])
 
+    #MR.build_vocab(train_data, min_freq = 1)
+    #SEN.build_vocab(train_data, min_freq = 1)
+    MR.build_vocab(train_data, min_freq = 0)
+    SEN.build_vocab(train_data, min_freq = 0)
+
+    '''
+    f = open('hoge_'+args.mode+'.json', 'w', encoding='utf-8')
+    json.dump(SEN.vocab.itos, f, ensure_ascii=False)
+    f.close()
+    '''
+    print(str(len(MR.vocab.itos)))#81
+    print(str(len(SEN.vocab.itos)))#2500
     if args.v is True:
-        print(str(len(MR.vocab.itos)))#80
+        print(str(len(MR.vocab.itos)))#81
         print(MR.vocab.itos)
         print(str(len(MR.vocab.stoi)))
         print(MR.vocab.stoi)
-        print(str(len(SEN.vocab.itos)))#2267
+        print(str(len(SEN.vocab.itos)))#2500
         print(SEN.vocab.itos)
         print(str(len(SEN.vocab.stoi)))
         print(SEN.vocab.stoi)
@@ -304,27 +379,34 @@ if __name__ == '__main__':
     MR_PAD_IDX = MR.vocab.stoi[MR.pad_token]
     SEN_PAD_IDX = SEN.vocab.stoi[SEN.pad_token]
 
-    if nlg_flag is True:
-        model_nlg = Seq2Seq(enc_nlg, dec_nlg, MR_PAD_IDX, SEN_PAD_IDX, device).to(device)
-        print('The model (nlg) has {} trainable parameters'.format(count_parameters(model_nlg)))
-        model_nlg.apply(initialize_weights);
+    if chain_flag is False:
+        if nlg_flag is True:
+            model_nlg = Seq2Seq(enc_nlg, dec_nlg, MR_PAD_IDX, SEN_PAD_IDX, device).to(device)
+            print('The model (nlg) has {} trainable parameters'.format(count_parameters(model_nlg)))
+            model_nlg.apply(initialize_weights);
+            optimizer_nlg = torch.optim.Adam(model_nlg.parameters(), lr = LEARNING_RATE)
+            criterion_nlg = nn.CrossEntropyLoss(ignore_index = SEN_PAD_IDX)
+            a_performance = {'train_loss_nlg': [], 'valid_loss_nlg': []}
+        if nlu_flag is True:
+            model_nlu = Seq2Seq(enc_nlu, dec_nlu, SEN_PAD_IDX, MR_PAD_IDX, device).to(device)
+            print('The model (nlu) has {} trainable parameters'.format(count_parameters(model_nlu)))
+            model_nlu.apply(initialize_weights);
+            optimizer_nlu = torch.optim.Adam(model_nlu.parameters(), lr = LEARNING_RATE)
+            criterion_nlu = nn.CrossEntropyLoss(ignore_index = MR_PAD_IDX)
+            a_performance = {'train_loss_nlu': [], 'valid_loss_nlu': []}
+    else:
+        f = open(args.p+'/best_model_nlg.pkl', 'rb')
+        model_nlg = cloudpickle.load(f)
+        f.close()
         optimizer_nlg = torch.optim.Adam(model_nlg.parameters(), lr = LEARNING_RATE)
         criterion_nlg = nn.CrossEntropyLoss(ignore_index = SEN_PAD_IDX)
 
-    if nlu_flag is True:
-        model_nlu = Seq2Seq(enc_nlu, dec_nlu, SEN_PAD_IDX, MR_PAD_IDX, device).to(device)
-        print('The model (nlu) has {} trainable parameters'.format(count_parameters(model_nlu)))
-        model_nlu.apply(initialize_weights);
+        f = open(args.p+'/best_model_nlu.pkl', 'rb')
+        model_nlu = cloudpickle.load(f)
+        f.close()
         optimizer_nlu = torch.optim.Adam(model_nlu.parameters(), lr = LEARNING_RATE)
         criterion_nlu = nn.CrossEntropyLoss(ignore_index = MR_PAD_IDX)
-
-    if chain_flag is True:
         a_performance = {'train_loss_nlg': [], 'valid_loss_nlg': [], 'train_loss_nlu': [], 'valid_loss_nlu': []}
-    else:
-        if (nlg_flag is True):
-            a_performance = {'train_loss_nlg': [], 'valid_loss_nlg': []}
-        elif (nlu_flag is True):
-            a_performance = {'train_loss_nlu': [], 'valid_loss_nlu': []}
 
     if nlg_flag is True:
         best_valid_loss_nlg = float('inf')
@@ -334,14 +416,82 @@ if __name__ == '__main__':
         best_epoch_nlu = 0
 
     print('** NL training **')
-    if chain_flag is True:
+    if chain_flag is False:
+        if nlg_flag is True:
+            # NLG only
+            for epoch in range(N_EPOCHS):
+                print('Epoch: {} begin ...'.format(epoch))
+                start_time = time.time()
+
+                train_loss_nlg = train_nlg(model_nlg, train_iterator, optimizer_nlg, criterion_nlg, CLIP, args.v)
+                valid_loss_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
+                end_time = time.time()
+                epoch_mins, epoch_secs = epoch_time(start_time, end_time)
+    
+                if valid_loss_nlg < best_valid_loss_nlg:
+                    best_valid_loss_nlg = valid_loss_nlg
+                    best_epoch_nlg = epoch
+                    torch.save(model_nlg.state_dict(), args.p+'/best_model_nlg.pt')
+    
+                    f = open(args.p+'/best_model_nlg.pkl', 'wb')
+                    cloudpickle.dump(model_nlg, f)
+                    f.close()
+                    f = open(args.p+'/best_epoch_nlg.txt', 'w')
+                    f.write(str(epoch))
+                    f.close()
+
+                f = open(args.p+'/model_nlg_'+str(epoch)+'.pkl', 'wb')
+                cloudpickle.dump(model_nlg, f)
+                f.close()
+
+                print('Epoch: {} end | Time: {}m {}s'.format(epoch, epoch_mins, epoch_secs))
+                print('-NLG-')
+                print('\tTrain Loss: {} | Train PPL: {}'.format(train_loss_nlg, math.exp(train_loss_nlg)))
+                print('\t Val. Loss: {} |  Val. PPL: {}'.format(valid_loss_nlg, math.exp(valid_loss_nlg)))
+                a_performance['train_loss_nlg'].append(train_loss_nlg)
+                a_performance['valid_loss_nlg'].append(valid_loss_nlg)
+
+        elif nlu_flag is True:
+            # NLU only
+            for epoch in range(N_EPOCHS):
+                print('Epoch: {} begin ...'.format(epoch))
+                start_time = time.time()
+
+                train_loss_nlu = train_nlu(model_nlu, train_iterator, optimizer_nlu, criterion_nlu, CLIP, args.v)
+                valid_loss_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
+                end_time = time.time()
+                epoch_mins, epoch_secs = epoch_time(start_time, end_time)
+    
+                if valid_loss_nlu < best_valid_loss_nlu:
+                    best_valid_loss_nlu = valid_loss_nlu
+                    best_epoch_nlu = epoch
+                    torch.save(model_nlu.state_dict(), args.p+'/best_model_nlu.pt')
+    
+                    f = open(args.p+'/best_model_nlu.pkl', 'wb')
+                    cloudpickle.dump(model_nlu, f)
+                    f.close()
+                    f = open(args.p+'/best_epoch_nlu.txt', 'w')
+                    f.write(str(epoch))
+                    f.close()
+
+                f = open(args.p+'/model_nlu_'+str(epoch)+'.pkl', 'wb')
+                cloudpickle.dump(model_nlu, f)
+                f.close()
+
+                print('Epoch: {} end | Time: {}m {}s'.format(epoch, epoch_mins, epoch_secs))
+                print('-NLU-')
+                print('\tTrain Loss: {} | Train PPL: {}'.format(train_loss_nlu, math.exp(train_loss_nlu)))
+                print('\t Val. Loss: {} |  Val. PPL: {}'.format(valid_loss_nlu, math.exp(valid_loss_nlu)))
+                a_performance['train_loss_nlu'].append(train_loss_nlu)
+                a_performance['valid_loss_nlu'].append(valid_loss_nlu)
+    else:
         # NLchain
         for epoch in range(N_EPOCHS):
             print('Epoch: {} begin ...'.format(epoch))
             start_time = time.time()
 
-            #train_loss_nlg = train_nlg(model_nlg, train_iterator, optimizer_nlg, criterion_nlg, CLIP)
-            #train_loss_nlu = train_nlu(model_nlu, train_iterator, optimizer_nlu, criterion_nlu, CLIP)
+            #train_loss_nlg = train_nlg(model_nlg, train_iterator, optimizer_nlg, criterion_nlg, CLIP, args.v)
+            #train_loss_nlu = train_nlu(model_nlu, train_iterator, optimizer_nlu, criterion_nlu, CLIP, args.v)
 
             ## A. Supervised training with sentence-MR data pairs
             # NLU
@@ -534,34 +684,32 @@ if __name__ == '__main__':
             if valid_loss_nlg < best_valid_loss_nlg:
                 best_valid_loss_nlg = valid_loss_nlg
                 best_epoch_nlg = epoch
-                torch.save(model_nlg.state_dict(), args.p+'/model_nlg.pt')
+                torch.save(model_nlg.state_dict(), args.p+'/best_model_chain_nlg.pt')
 
-                #f = open(args.p+'/model_nlg.pkl', 'wb')
-                f = open(args.p+'/best_model_nlg.pkl', 'wb')
+                f = open(args.p+'/best_model_chain_nlg.pkl', 'wb')
                 cloudpickle.dump(model_nlg, f)
                 f.close()
-                f = open(args.p+'/best_epoch_nlg.txt', 'w')
+                f = open(args.p+'/best_epoch_chain_nlg.txt', 'w')
                 f.write(str(epoch))
                 f.close()
 
-            f = open(args.p+'/model_nlg_'+str(epoch)+'.pkl', 'wb')
+            f = open(args.p+'/model_chain_nlg_'+str(epoch)+'.pkl', 'wb')
             cloudpickle.dump(model_nlg, f)
             f.close()
 
             if valid_loss_nlu < best_valid_loss_nlu:
                 best_valid_loss_nlu = valid_loss_nlu
                 best_epoch_nlu = epoch
-                torch.save(model_nlu.state_dict(), args.p+'/model_nlu.pt')
+                torch.save(model_nlu.state_dict(), args.p+'/best_model_chain_nlu.pt')
     
-                #f = open(args.p+'/model_nlu.pkl', 'wb')
-                f = open(args.p+'/best_model_nlu.pkl', 'wb')
+                f = open(args.p+'/best_model_chain_nlu.pkl', 'wb')
                 cloudpickle.dump(model_nlu, f)
                 f.close()
-                f = open(args.p+'/best_epoch_nlu.txt', 'w')
+                f = open(args.p+'/best_epoch_chain_nlu.txt', 'w')
                 f.write(str(epoch))
                 f.close()
 
-            f = open(args.p+'/model_nlu_'+str(epoch)+'.pkl', 'wb')
+            f = open(args.p+'/model_chain_nlu_'+str(epoch)+'.pkl', 'wb')
             cloudpickle.dump(model_nlu, f)
             f.close()
 
@@ -571,74 +719,6 @@ if __name__ == '__main__':
             print('\t Val. Loss: {} |  Val. PPL: {}'.format(valid_loss_nlg, math.exp(valid_loss_nlg)))
             a_performance['train_loss_nlg'].append(train_loss_nlg)
             a_performance['valid_loss_nlg'].append(valid_loss_nlg)
-            print('-NLU-')
-            print('\tTrain Loss: {} | Train PPL: {}'.format(train_loss_nlu, math.exp(train_loss_nlu)))
-            print('\t Val. Loss: {} |  Val. PPL: {}'.format(valid_loss_nlu, math.exp(valid_loss_nlu)))
-            a_performance['train_loss_nlu'].append(train_loss_nlu)
-            a_performance['valid_loss_nlu'].append(valid_loss_nlu)
-
-    elif nlg_flag is True:
-        # NLG only
-        for epoch in range(N_EPOCHS):
-            print('Epoch: {} begin ...'.format(epoch))
-            start_time = time.time()
-
-            train_loss_nlg = train_nlg(model_nlg, train_iterator, optimizer_nlg, criterion_nlg, CLIP)
-            valid_loss_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
-            end_time = time.time()
-            epoch_mins, epoch_secs = epoch_time(start_time, end_time)
-    
-            if valid_loss_nlg < best_valid_loss_nlg:
-                best_valid_loss_nlg = valid_loss_nlg
-                best_epoch_nlg = epoch
-                torch.save(model_nlg.state_dict(), args.p+'/model_nlg.pt')
-    
-                f = open(args.p+'/best_model_nlg.pkl', 'wb')
-                cloudpickle.dump(model_nlg, f)
-                f.close()
-                f = open(args.p+'/best_epoch_nlg.txt', 'w')
-                f.write(str(epoch))
-                f.close()
-
-            f = open(args.p+'/model_nlg_'+str(epoch)+'.pkl', 'wb')
-            cloudpickle.dump(model_nlg, f)
-            f.close()
-
-            print('Epoch: {} end | Time: {}m {}s'.format(epoch, epoch_mins, epoch_secs))
-            print('-NLG-')
-            print('\tTrain Loss: {} | Train PPL: {}'.format(train_loss_nlg, math.exp(train_loss_nlg)))
-            print('\t Val. Loss: {} |  Val. PPL: {}'.format(valid_loss_nlg, math.exp(valid_loss_nlg)))
-            a_performance['train_loss_nlg'].append(train_loss_nlg)
-            a_performance['valid_loss_nlg'].append(valid_loss_nlg)
-
-    elif nlu_flag is True:
-        # NLU only
-        for epoch in range(N_EPOCHS):
-            print('Epoch: {} begin ...'.format(epoch))
-            start_time = time.time()
-
-            train_loss_nlu = train_nlu(model_nlu, train_iterator, optimizer_nlu, criterion_nlu, CLIP)
-            valid_loss_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
-            end_time = time.time()
-            epoch_mins, epoch_secs = epoch_time(start_time, end_time)
-    
-            if valid_loss_nlu < best_valid_loss_nlu:
-                best_valid_loss_nlu = valid_loss_nlu
-                best_epoch_nlu = epoch
-                torch.save(model_nlu.state_dict(), args.p+'/model_nlu.pt')
-    
-                f = open(args.p+'/best_model_nlu.pkl', 'wb')
-                cloudpickle.dump(model_nlu, f)
-                f.close()
-                f = open(args.p+'/best_epoch_nlu.txt', 'w')
-                f.write(str(epoch))
-                f.close()
-
-            f = open(args.p+'/model_nlu_'+str(epoch)+'.pkl', 'wb')
-            cloudpickle.dump(model_nlu, f)
-            f.close()
-
-            print('Epoch: {} end | Time: {}m {}s'.format(epoch, epoch_mins, epoch_secs))
             print('-NLU-')
             print('\tTrain Loss: {} | Train PPL: {}'.format(train_loss_nlu, math.exp(train_loss_nlu)))
             print('\t Val. Loss: {} |  Val. PPL: {}'.format(valid_loss_nlu, math.exp(valid_loss_nlu)))
@@ -657,13 +737,19 @@ if __name__ == '__main__':
 
     # check training performance
     if nlg_flag is True:
-        model_nlg.load_state_dict(torch.load(args.p+'/model_nlg.pt'))
+        if chain_flag is False:
+            model_nlg.load_state_dict(torch.load(args.p+'/best_model_nlg.pt'))
+        else:
+            model_nlg.load_state_dict(torch.load(args.p+'/best_model_chain_nlg.pt'))
         test_loss_nlg = evaluate_nlg(model_nlg, test_iterator, criterion_nlg)
         print('-NLG-')
         print('| Test Loss: {} | Test PPL: {} | Epoch: {}'.format(test_loss_nlg, math.exp(test_loss_nlg), best_epoch_nlg))
 
     if nlu_flag is True:
-        model_nlu.load_state_dict(torch.load(args.p+'/model_nlu.pt'))
+        if chain_flag is False:
+            model_nlu.load_state_dict(torch.load(args.p+'/best_model_nlu.pt'))
+        else:
+            model_nlu.load_state_dict(torch.load(args.p+'/best_model_chain_nlu.pt'))
         test_loss_nlu = evaluate_nlu(model_nlu, test_iterator, criterion_nlu)
         print('-NLU-')
         print('| Test Loss: {} | Test PPL: {} | Epoch: {}'.format(test_loss_nlu, math.exp(test_loss_nlu), best_epoch_nlu))
@@ -698,20 +784,21 @@ if __name__ == '__main__':
             NLG.display_attention(mr, translation, attention)
 
         # test data
-        f = open(args.p+'/test_nlg.tsv', 'w', encoding='utf-8')
-        f.write('mr\tsen(correct)\tsen(predict)\n')
-        for example_idx in range(len(test_data.examples)):
-            print('** NLG: test data (idx: '+str(example_idx)+') *')
-            mr = vars(test_data.examples[example_idx])['mr']
-            sen = vars(test_data.examples[example_idx])['sen']
-            print('mr = {}'.format(mr))
-            print('sen(correct) = {}'.format(sen))
-            translation, attention = NLG.translate_sentence(mr, MR, SEN, model_nlg, device)
-            print('sen(predict) = {}'.format(translation))
-            f.write(str(mr)+'\t'+str(sen)+'\t'+str(translation)+'\n')
-            if args.graph is True:
-                NLG.display_attention(mr, translation, attention)
-        f.close()
+        if args.eval is True:
+            f = open(args.p+'/test_nlg.tsv', 'w', encoding='utf-8')
+            f.write('mr\tsen(correct)\tsen(predict)\n')
+            for example_idx in range(len(test_data.examples)):
+                print('** NLG: test data (idx: '+str(example_idx)+') *')
+                mr = vars(test_data.examples[example_idx])['mr']
+                sen = vars(test_data.examples[example_idx])['sen']
+                print('mr = {}'.format(mr))
+                print('sen(correct) = {}'.format(sen))
+                translation, attention = NLG.translate_sentence(mr, MR, SEN, model_nlg, device)
+                print('sen(predict) = {}'.format(translation))
+                f.write(str(mr)+'\t'+str(sen)+'\t'+str(translation)+'\n')
+                if args.graph is True:
+                    NLG.display_attention(mr, translation, attention)
+            f.close()
         '''
         # BLUE score (NLG)
         bleu_score = calculate_bleu(test_data, MR, SEN, model_nlg, device)
@@ -748,18 +835,19 @@ if __name__ == '__main__':
             NLU.display_attention(sen, translation, attention)
 
         # test data
-        f = open(args.p+'/test_nlu.tsv', 'w', encoding='utf-8')
-        f.write('sen\tmr(correct)\tmr(predict)\n')
-        for example_idx in range(len(test_data.examples)):
-            print('** NLU: test data (idx: '+str(example_idx)+') *')
-            sen = vars(test_data.examples[example_idx])['sen']
-            mr = vars(test_data.examples[example_idx])['mr']
-            print('sen = {}'.format(sen))
-            print('mr(correct) = {}'.format(mr))
-            translation, attention = NLU.translate_sentence(sen, SEN, MR, model_nlu, device)
-            print('mr(predict) = {}'.format(translation))
-            f.write(str(sen)+'\t'+str(mr)+'\t'+str(translation)+'\n')
-            if args.graph is True:
-                NLU.display_attention(sen, translation, attention)
-        f.close()
+        if args.eval is True:
+            f = open(args.p+'/test_nlu.tsv', 'w', encoding='utf-8')
+            f.write('sen\tmr(correct)\tmr(predict)\n')
+            for example_idx in range(len(test_data.examples)):
+                print('** NLU: test data (idx: '+str(example_idx)+') *')
+                sen = vars(test_data.examples[example_idx])['sen']
+                mr = vars(test_data.examples[example_idx])['mr']
+                print('sen = {}'.format(sen))
+                print('mr(correct) = {}'.format(mr))
+                translation, attention = NLU.translate_sentence(sen, SEN, MR, model_nlu, device)
+                print('mr(predict) = {}'.format(translation))
+                f.write(str(sen)+'\t'+str(mr)+'\t'+str(translation)+'\n')
+                if args.graph is True:
+                    NLU.display_attention(sen, translation, attention)
+            f.close()
     print('** done **')
