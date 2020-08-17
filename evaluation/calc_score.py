@@ -3,6 +3,9 @@
 import argparse
 import sys
 import nltk
+sys.path.append('..')
+from common.tokenizer import Tokenizer
+
 '''
 # METEOR
 # need nltk.download('wordnet') before using meteor_score()
@@ -20,6 +23,7 @@ if __name__ == '__main__':
     parser.add_argument('-i', help='input file name')
     parser.add_argument('-o', help='output file name')
     args = parser.parse_args()
+    tokenizer = Tokenizer()
 
     fi = open(args.i, 'r', encoding='utf-8')
     a_input = fi.readlines()
@@ -60,8 +64,10 @@ if __name__ == '__main__':
             text_predict = a_input[i].rstrip('\n').split('\t')[2].lower()
 
             a_mr = mr.split('|')
+            '''
             a_text_correct = text_correct.split(' ')
             a_text_predict = text_predict.split(' ')
+            '''
 
             # precision
             precision_flag = True
@@ -69,19 +75,32 @@ if __name__ == '__main__':
                 precision_flag = False
 
             # bleu
-            a_text_correct = []
+            #a_text_correct = []
+            a_text_correct_bleu = []
+            a_text_correct_meteor = []
             s = max(1, i-2)
             e = min(len(a_input)-1, i+3)
+
             for j in range(s, e):
                 if mr == a_input[j].rstrip('\n').split('\t')[0].lower():
-                    a_text_correct.append(a_input[j].rstrip('\n').split('\t')[1].lower())
+                    #a_text_correct.append(a_input[j].rstrip('\n').split('\t')[1].lower())
+                    a_text_correct_meteor.append(a_input[j].rstrip('\n').split('\t')[1].lower())
+            '''
             #score_bleu = nltk.translate.bleu_score.sentence_bleu([text_correct], text_predict)
             score_bleu = nltk.translate.bleu_score.sentence_bleu(a_text_correct, text_predict)
+            '''
+            for j in range(s, e):
+                if mr == a_input[j].rstrip('\n').split('\t')[0].lower():
+                    text_tmp = a_input[j].rstrip('\n').split('\t')[1].lower()
+                    a_text_correct_bleu.append(tokenizer.text(text_tmp))
+            a_text_predict = tokenizer.text(text_predict)
+            score_bleu = nltk.translate.bleu_score.sentence_bleu(a_text_correct_bleu, a_text_predict)
             total_score_bleu += score_bleu
 
             # meteor
             #score_meteor = nltk.translate.meteor_score.single_meteor_score(text_correct, text_predict)
-            score_meteor = nltk.translate.meteor_score.meteor_score(a_text_correct, text_predict)
+            #score_meteor = nltk.translate.meteor_score.meteor_score(a_text_correct, text_predict)
+            score_meteor = nltk.translate.meteor_score.meteor_score(a_text_correct_meteor, text_predict)
             total_score_meteor += score_meteor
 
             # slot drop (tmp)
@@ -99,6 +118,7 @@ if __name__ == '__main__':
                     if (word != '') and ((word in a_word) is False):
                         a_word.append(word)
 
+            a_text_correct = text_correct.split(' ')
             for j in range(len(a_text_correct)):
                 word = a_text_correct[j]
                 if (word != '') and ((word in a_word) is False):
