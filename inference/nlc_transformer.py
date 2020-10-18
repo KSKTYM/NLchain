@@ -12,35 +12,43 @@ sys.path.append('..')
 from common.tokenizer import Tokenizer
 
 import cloudpickle
-import dill
+#import dill
 import re
 
 class NLC():
-    def __init__(self, param_dir, method_conv):
+    def __init__(self, param_dir, method_conv, chain_flag=False):
         self.tokenizer = Tokenizer()
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         if method_conv == 'NLG':
-            #f = open(param_dir+'/model_nlg.pkl', 'rb')
-            f = open(param_dir+'/best_model_nlg.pkl', 'rb')
-            self.model = cloudpickle.load(f)
-            f.close()
-            f = open(param_dir+'/MR.field', 'rb')
-            self.SRC = dill.load(f)
-            f.close()
-            f = open(param_dir+'/SEN.field', 'rb')
-            self.TRG = dill.load(f)
-            f.close()
+            if chain_flag is False:
+                f_model = open(param_dir+'/best_model_nlg.pkl', 'rb')
+                f_MR = open(param_dir+'/best_MR_nlg.pkl', 'rb')
+                f_SEN = open(param_dir+'/best_SEN_nlg.pkl', 'rb')
+            else:
+                f_model = open(param_dir+'/best_model_chain_nlg.pkl', 'rb')
+                f_MR = open(param_dir+'/best_MR_chain_nlg.pkl', 'rb')
+                f_SEN = open(param_dir+'/best_SEN_chain_nlg.pkl', 'rb')
+            self.model = cloudpickle.load(f_model)
+            self.SRC = cloudpickle.load(f_MR)
+            self.TRG = cloudpickle.load(f_SEN)
+            f_model.close()
+            f_MR.close()
+            f_SEN.close()
         else:
-            #f = open(param_dir+'/model_nlu.pkl', 'rb')
-            f = open(param_dir+'/best_model_nlu.pkl', 'rb')
-            self.model = cloudpickle.load(f)
-            f.close()
-            f = open(param_dir+'/SEN.field', 'rb')
-            self.SRC = dill.load(f)
-            f.close()
-            f = open(param_dir+'/MR.field', 'rb')
-            self.TRG = dill.load(f)
-            f.close()
+            if chain_flag is False:
+                f_model = open(param_dir+'/best_model_nlu.pkl', 'rb')
+                f_SEN = open(param_dir+'/best_SEN_nlu.pkl', 'rb')
+                f_MR = open(param_dir+'/best_MR_nlu.pkl', 'rb')
+            else:
+                f_model = open(param_dir+'/best_model_chain_nlu.pkl', 'rb')
+                f_SEN = open(param_dir+'/best_SEN_chain_nlu.pkl', 'rb')
+                f_MR = open(param_dir+'/best_MR_chain_nlu.pkl', 'rb')
+            self.model = cloudpickle.load(f_model)
+            self.SRC = cloudpickle.load(f_SEN)
+            self.TRG = cloudpickle.load(f_MR)
+            f_model.close()
+            f_SEN.close()
+            f_MR.close()
 
     def translate_sentence(self, sentence, src_field, trg_field, model, device, max_len = 50):
         model.eval()
