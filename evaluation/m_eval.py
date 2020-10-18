@@ -18,6 +18,7 @@ if __name__ == '__main__':
     parser.add_argument('-p', help='parameter directory\'s name', default='../parameter/e2e')
     parser.add_argument('-data', help='evaluation test data', default='../corpus/e2e_test.tsv')
     parser.add_argument('-result', help='result file', default='result.tsv')
+    parser.add_argument('-chain', help='NL chain', action='store_true')
     parser.add_argument('-d', help='display attention map', action='store_true')
     args = parser.parse_args()
 
@@ -26,10 +27,11 @@ if __name__ == '__main__':
     print(' parameter  : '+args.p)
     print(' test data  : '+args.data)
     print(' result file: '+args.result)
+    print(' chain mode : '+str(args.chain))
     if args.mode.lower() == 'nlg':
-        NLG = NLC(args.p, args.mode.upper())
+        NLG = NLC(args.p, args.mode.upper(), args.chain)
     else:
-        NLU = NLC(args.p, args.mode.upper())
+        NLU = NLC(args.p, args.mode.upper(), args.chain)
 
     f_test = open(args.data, 'r', encoding='utf-8')
     a_input = f_test.readlines()
@@ -39,9 +41,12 @@ if __name__ == '__main__':
     fo.write('input\toutput(correct)\toutput(predict)\tresult\n')
     num_ok = 0
     count = 0
-    total_score_bleu = 0.0
-    total_score_meteor = 0.0
-    total_score = [[0]*5]*8
+    '''
+    TP = 0
+    TN = 0
+    FP = 0
+    FN = 0
+    '''
     for i in range(len(a_input)):
         mr = a_input[i].rstrip('\n').split('\t')[0]
         text = a_input[i].rstrip('\n').split('\t')[1]
@@ -52,14 +57,7 @@ if __name__ == '__main__':
             fo.write(mr+'\t'+text+'\t'+nlg_text+'\t')
             if text.lower() != nlg_text.lower():
                 flag = False
-            fo.write(str(flag)+'\t')
-            score_bleu = nltk.translate.bleu_score.sentence_bleu([text.lower()], nlg_text.lower())
-            fo.write(str(100*score_bleu)+'\t')
-            total_score_bleu += score_bleu
-            score_meteor = nltk.translate.meteor_score.single_meteor_score(text.lower(), nlg_text.lower())
-            fo.write(str(100*score_meteor)+'\n')
-            total_score_meteor += score_meteor
-
+            fo.write(str(flag)+'\n')
         else:
             nlu_mr = NLU.convert(text, args.mode.upper(), args.d)
             input_data = text.split(' ')
@@ -67,53 +65,71 @@ if __name__ == '__main__':
             a_mr = mr.lower().split('|')
             a_nlu_mr = nlu_mr.lower().split('|')
 
-            # precision
+            length_min = min(len(a_mr), len(a_nlu_mr))
+            length_max = max(len(a_mr), len(a_nlu_mr))
+
             if len(a_mr) != len(a_nlu_mr):
                 flag = False
+            for j in range(length_min):
+                if a_mr[j] != a_nlu_mr[j]:
+                    flag = False
+                    break
+            fo.write(str(flag)+'\n')
+            '''
+            if len(a_mr) == len(a_nlu_mr):
+                mode = 0
+            elif len(a_mr) < len(a_nlu_mr):
+                mode = 1
             else:
-                for j in range(len(a_mr)):
-                    if a_mr[j] != a_nlu_mr[j]:
-                        flag = False
-                        break
-            fo.write(str(flag)+'\t')
-            a_score = [[0]*5]*8
-
-            len_mr = len(a_mr)
-            if len_mr > len(a_nlu_mr):
-                len_mr = len(a_nlu_mr)
-            for j in range(len_mr):
-                if a_mr[j] == 'no':
-                    if a_nlu_mr[j] == 'no':
-                        score = 0
+                mode = 2
+            for j in range(length_min):
+                if a_mr[j] != '':
+                    if a_mr[j] == a_nlu_mr[j]:
+                        TP += 1
                     else:
-                        score = 1
+                        FN += 1
                 else:
-                    if a_nlu_mr[j] == 'no':
-                        score = 2
-                    elif a_nlu_mr[j] == a_mr[j]:
-                        score = 3
+                    if a_mr[j] == a_nlu_mr[j]:
+                        TN += 1
                     else:
-                        score = 4
-                a_score[j][score] = 1
-                total_score[j][score] += 1
-            for j in range(len_mr, 8):
-                if a_mr[j] == 'no':
-                    score = 1
-                else:
-                    score = 4
-                a_score[j][score] = 1
-                total_score[j][score] += 1
-            for j in range(8):
-                for k in range(5):
-                    fo.write('\t'+str(a_score[j][k]))
-            fo.write('\n')
-
+                        FP += 1
+            for j in range(length_min, length_max):
+                if mode == 1:
+                    FP += 1
+                elif mode == 2:
+                    FN += 1
+            '''
         if flag is True:
             num_ok += 1
         count += 1
 
+    '''
+    if args.mode.lower() == 'nlu':
+        if TP + FP > 0:
+            precision = TP / (TP + FP)
+        else:
+            precision = 0
+        if TP + FN > 0:
+            recall = TP / (TP + FN)
+        else:
+            recall = 0
+        if precision + recall > 0:
+            f1score = (2.0 * precision * recall) / (precision + recall)
+        else:
+            f1score = 0
+        if TP + FP + FN > 0:
+            accuracy = TP / (TP + FP + FN)
+        else:
+            accuracy = 0
+    '''
     print('** result **')
-    print(' score = '+str(100.0*num_ok/count))
-    fo.write(str(100.0*num_ok/count)+'\n')
+    print(' score(frame) = '+str(100.0*num_ok/count))
+    '''
+    if args.mode.lower() == 'nlu':
+        print(' f1score = '+str(f1score))
+        print(' precision = '+str(precision))
+        print(' recall = '+str(recall))
+        print(' accuracy = '+str(accuracy))
+    '''
     print('** done **')
     fo.close()
