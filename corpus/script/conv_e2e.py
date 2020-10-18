@@ -6,6 +6,7 @@ import argparse
 #import sys
 #sys.path.append('../..')
 #from common.tokenizer import Tokenizer
+import numpy
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -51,7 +52,12 @@ if __name__ == '__main__':
                     attribute = a_mr_tmp[j].split('[')[0]
                     value = a_mr_tmp[j].split('[')[1].rstrip(']')
                     if ((attribute in a_attribute_list) is False):
+                        '''
+                        #no
                         a_attribute_list[attribute] = {'order': -1, 'before': [], 'after': [], 'value': ['no']}
+                        '''
+                        #empty
+                        a_attribute_list[attribute] = {'order': -1, 'before': [], 'after': [], 'value': []}
         else:
             print(str(i)+': '+a_input[i].rstrip('\n'))
 
@@ -89,6 +95,10 @@ if __name__ == '__main__':
     for attribute in a_attribute_list:
         a_attribute_list[attribute]['order'] = len(a_attribute_list[attribute]['before'])
 
+    #f = open('attribute_listC.json', 'w', encoding='utf-8')
+    #json.dump(a_attribute_list, f, ensure_ascii=False, indent=4)
+    #f.close()
+
     # (train2-3) MR data output
     a_mrdata = []
     num = 0
@@ -104,7 +114,6 @@ if __name__ == '__main__':
 
     # (train3) training dataset
     a_traindata = []
-    a_text = {}
     for i in range(1, len(a_input)):
         traindata = {}
         if len(a_input[i].rstrip('\n').split('",')) > 1:
@@ -113,8 +122,9 @@ if __name__ == '__main__':
             text = text_tmp.lstrip('\"').rstrip('\"').replace('.', '. ').replace('  ', ' ').rstrip(' ')
             if (text.endswith('?') is False) and (text.endswith('.') is False):
                 text += '.'
-                print(text)
-            #a_token_text = tokenizer.text(text)
+                #print(text)
+
+            #traindata = {'text': text, 'mr': []}
             traindata['text'] = text
             traindata['mr'] = []
             # mr
@@ -128,7 +138,12 @@ if __name__ == '__main__':
                     a_mr.append({'attribute': attribute, 'value': value})
 
             for k in range(len(a_mrdata)):
+                '''
+                #no
                 traindata['mr'].append({'attribute': '', 'value': 'no', 'replace': False})
+                '''
+                #empty
+                traindata['mr'].append({'attribute': '', 'value': '', 'replace': False})
                 for j in range(len(a_mr)):
                     if a_mrdata[k]['attribute'] == a_mr[j]['attribute']:
                         traindata['mr'][k]['attribute'] = a_mr[j]['attribute']
@@ -140,7 +155,10 @@ if __name__ == '__main__':
                             traindata['mr'][k]['replace'] = True
                         break
             a_traindata.append(traindata)
+    del a_input
+    count_train = 0
     fo = open(args.otrain, 'w', encoding='utf-8')
+    a_text = {}
     for i in range(len(a_traindata)):
         if ((a_traindata[i]['text'] in a_text) is False):
             a_text[a_traindata[i]['text']] = True
@@ -151,11 +169,12 @@ if __name__ == '__main__':
             fo.write('\t')
             fo.write(a_traindata[i]['text'])
             fo.write('\n')
+            count_train += 1
     fo.close()
-    del a_input
 
     # (train4) augmented dataset
     fo = open(args.otrain_aug, 'w', encoding='utf-8')
+    '''
     # copy original training data
     fi_tmp = open(args.otrain, 'r', encoding='utf-8')
     a_input = fi_tmp.readlines()
@@ -163,8 +182,9 @@ if __name__ == '__main__':
     for i in range(len(a_input)):
         fo.write(a_input[i])
     del a_input
+    '''
+    count_train_aug = 0
     for i in range(len(a_traindata)):
-
         for j in range(len(a_traindata[i]['mr'])):
             attribute = a_traindata[i]['mr'][j]['attribute']
             if (attribute == 'familyFriendly') or \
@@ -196,8 +216,23 @@ if __name__ == '__main__':
                         fo.write('\t')
                         fo.write(text_new)
                         fo.write('\n')
-
+                        count_train_aug += 1
     fo.close()                        
+
+    # small version
+    indices = numpy.arange(count_train_aug)
+    numpy.random.seed(1234)
+    numpy.random.shuffle(indices)
+    count_output = count_train * 4
+    fi = open(args.otrain_aug, 'r', encoding='utf-8')
+    a_input = fi.readlines()
+    fi.close()
+    fname = args.otrain_aug.rstrip('.tsv')+'_small.tsv'
+    fo = open(fname, 'w', encoding='utf-8')
+    for i in range(count_output):
+        fo.write(a_input[indices[i]].rstrip('\n')+'\n')
+    fo.close()
+
     del a_text
     del a_traindata
     del a_attribute_list
@@ -215,7 +250,7 @@ if __name__ == '__main__':
             text = text_tmp.lstrip('\"').rstrip('\"').replace('.', '. ').replace('  ', ' ').rstrip(' ')
             if (text.endswith('?') is False) and (text.endswith('.') is False):
                 text += '.'
-                print(text)
+                #print(text)
             validdata['text'] = text
             validdata['mr'] = []
             # mr
@@ -229,7 +264,12 @@ if __name__ == '__main__':
                     a_mr.append({'attribute': attribute, 'value': value})
 
             for k in range(len(a_mrdata)):
+                '''
+                #no
                 validdata['mr'].append({'attribute': '', 'value': 'no'})
+                '''
+                #empty
+                validdata['mr'].append({'attribute': '', 'value': ''})
                 for j in range(len(a_mr)):
                     if a_mrdata[k]['attribute'] == a_mr[j]['attribute']:
                         validdata['mr'][k]['attribute'] = a_mr[j]['attribute']
@@ -253,7 +293,7 @@ if __name__ == '__main__':
     del a_text
     del a_validdata
 
-    ## testation dataset
+    ## test dataset
     fi = open(args.itest, 'r', encoding='utf-8')
     a_input = fi.readlines()
     fi.close()
@@ -266,7 +306,7 @@ if __name__ == '__main__':
             text = text_tmp.lstrip('\"').rstrip('\"').replace('.', '. ').replace('  ', ' ').rstrip(' ')
             if (text.endswith('?') is False) and (text.endswith('.') is False):
                 text += '.'
-                print(text)
+                #print(text)
             testdata['text'] = text
             testdata['mr'] = []
             # mr
@@ -280,7 +320,12 @@ if __name__ == '__main__':
                     a_mr.append({'attribute': attribute, 'value': value})
 
             for k in range(len(a_mrdata)):
+                '''
+                #no
                 testdata['mr'].append({'attribute': '', 'value': 'no'})
+                '''
+                #empty
+                testdata['mr'].append({'attribute': '', 'value': ''})
                 for j in range(len(a_mr)):
                     if a_mrdata[k]['attribute'] == a_mr[j]['attribute']:
                         testdata['mr'][k]['attribute'] = a_mr[j]['attribute']

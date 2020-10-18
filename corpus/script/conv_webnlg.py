@@ -90,15 +90,19 @@ if __name__ == '__main__':
 
     for data in a_data:
         out_mr = data['mr']['category']
-        out_mr += '|'
+        out_mr += '\t'
+        #out_mr += '|'
         out_mr += data['mr']['shape']
-        out_mr += '|'
+        out_mr += '\t'
+        #out_mr += '|'
         out_mr += data['mr']['shape_type']
-        out_mr += '|'
+        out_mr += '\t'
+        #out_mr += '|'
         out_mr += str(data['mr']['size'])
         for j in range(len(data['mr']['triple'])):
             for k in range(len(data['mr']['triple'][j])):
-                out_mr += '|'
+                out_mr += '\t'
+                #out_mr += '|'
                 out_mr += data['mr']['triple'][j][k]
             #if j < len(data['mr']['triple']) - 1:
                 #out_mr += '|<sep>'
