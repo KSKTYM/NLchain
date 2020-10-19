@@ -694,8 +694,8 @@ if __name__ == '__main__':
     else:
         # NLchain
         if (args.mode.lower() == 'chain_a') or (args.mode.lower() == 'chain_c'):
-            best_valid_loss_nlg = float('inf')
-            best_valid_loss_nlu = float('inf')
+            best_valid_loss_chain_nlg = float('inf')
+            best_valid_loss_chain_nlu = float('inf')
             best_epoch_nlg = 0
             best_epoch_nlu = 0
 
@@ -708,28 +708,41 @@ if __name__ == '__main__':
                 train_loss_nlg = train_nlg(model_nlg, train_iterator, optimizer_nlg, criterion_nlg, CLIP, args.v)
                 train_loss_nlu = train_nlu(model_nlu, train_iterator, optimizer_nlu, criterion_nlu, CLIP, args.v)
 
+                # validation (supervised)
+                valid_loss_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
+                valid_loss_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
+                accuracy, precision, recall, f1score, correct = calculate_valid(args.p, valid_data, SEN, MR, model_nlu, device, False)
+
                 # unsupervised training w/ unpaired data
                 train_loss_chain_nlg, train_loss_chain_nlu = train_chain(model_nlg, model_nlu, train_aug_iterator, optimizer_nlg, optimizer_nlu, criterion_nlg, criterion_nlu, CLIP, args.beta, args.v)
 
-                # validation
-                valid_loss_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
-                valid_loss_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
+                # validation (unsupervised)
+                valid_loss_chain_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
+                valid_loss_chain_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
     
-                best_valid_loss_nlg, best_epoch_nlg = save_best_nlg(args.p, best_valid_loss_nlg, best_epoch_nlg, valid_loss_nlg, epoch, model_nlg, MR, SEN, True)
-                best_valid_loss_nlu, best_epoch_nlu = save_best_nlu(args.p, best_valid_loss_nlu, best_epoch_nlu, valid_loss_nlu, epoch, model_nlu, MR, SEN, True)
-                accuracy, precision, recall, f1score, correct = calculate_valid(args.p, valid_data, SEN, MR, model_nlu, device, chain_flag)
+                best_valid_loss_chain_nlg, best_epoch_nlg = save_best_nlg(args.p, best_valid_loss_chain_nlg, best_epoch_nlg, valid_loss_chain_nlg, epoch, model_nlg, MR, SEN, True)
+                best_valid_loss_chain_nlu, best_epoch_nlu = save_best_nlu(args.p, best_valid_loss_chain_nlu, best_epoch_nlu, valid_loss_chain_nlu, epoch, model_nlu, MR, SEN, True)
+                accuracy_chain, precision_chain, recall_chain, f1score_chain, correct_chain = calculate_valid(args.p, valid_data, SEN, MR, model_nlu, device, True)
 
                 a_performance['train_loss_chain_nlu'].append(train_loss_chain_nlu)
                 a_performance['train_loss_chain_nlg'].append(train_loss_chain_nlg)
+                a_performance['valid_loss_chain_nlu'].append(valid_loss_chain_nlu)
+                a_performance['valid_loss_chain_nlg'].append(valid_loss_chain_nlg)
                 a_performance['train_loss_nlg'].append(train_loss_nlg)
-                a_performance['valid_loss_nlg'].append(valid_loss_nlg)
                 a_performance['train_loss_nlu'].append(train_loss_nlu)
+                a_performance['valid_loss_nlg'].append(valid_loss_nlg)
                 a_performance['valid_loss_nlu'].append(valid_loss_nlu)
                 a_performance['accuracy_nlu'].append(accuracy)
                 a_performance['precision_nlu'].append(precision)
                 a_performance['recall_nlu'].append(recall)
                 a_performance['f1score_nlu'].append(f1score)
                 a_performance['correct_nlu'].append(correct)
+                a_performance['accuracy_chain_nlu'].append(accuracy_chain)
+                a_performance['precision_chain_nlu'].append(precision_chain)
+                a_performance['recall_chain_nlu'].append(recall_chain)
+                a_performance['f1score_chain_nlu'].append(f1score_chain)
+                a_performance['correct_chain_nlu'].append(correct_chain)
+
                 f = open(args.p+'/performance.json', 'w', encoding='utf-8')
                 json.dump(a_performance, f, ensure_ascii=False, sort_keys=True)
                 f.close()
@@ -739,12 +752,14 @@ if __name__ == '__main__':
                 print('Epoch(NLU/NLG+NLchain): {} end | Time: {}m {}s'.format(epoch, epoch_mins, epoch_secs))
                 print('-NLG-')
                 print('\tTrain        Loss: {} | PPL: {}'.format(train_loss_nlg, math.exp(train_loss_nlg)))
+                print('\tValid        Loss: {} | PPL: {}'.format(valid_loss_nlg, math.exp(valid_loss_nlg)))
                 print('\tTrain(chain) Loss: {} | PPL: {}'.format(train_loss_chain_nlg, math.exp(train_loss_chain_nlg)))
-                print('\tValidation   Loss: {} | PPL: {}'.format(valid_loss_nlg, math.exp(valid_loss_nlg)))
+                print('\tValid(chain) Loss: {} | PPL: {}'.format(valid_loss_chain_nlg, math.exp(valid_loss_chain_nlg)))
                 print('-NLU-')
                 print('\tTrain        Loss: {} | PPL: {}'.format(train_loss_nlu, math.exp(train_loss_nlu)))
+                print('\tValid        Loss: {} | PPL: {}'.format(valid_loss_nlu, math.exp(valid_loss_nlu)))
                 print('\tTrain(chain) Loss: {} | PPL: {}'.format(train_loss_chain_nlu, math.exp(train_loss_chain_nlu)))
-                print('\tValidation   Loss: {} | PPL: {}'.format(valid_loss_nlu, math.exp(valid_loss_nlu)))
+                print('\tValid(chain) Loss: {} | PPL: {}'.format(valid_loss_chain_nlu, math.exp(valid_loss_chain_nlu)))
 
         if args.mode.lower() == 'chain_b':
             # (B) alternateness
@@ -802,8 +817,8 @@ if __name__ == '__main__':
             '''
 
             # unsupervised training w/ unpaired data
-            best_valid_loss_nlg = float('inf')
-            best_valid_loss_nlu = float('inf')
+            best_valid_loss_chain_nlg = float('inf')
+            best_valid_loss_chain_nlu = float('inf')
             best_epoch_nlg = 0
             best_epoch_nlu = 0
             for epoch in range(N_EPOCHS):
@@ -814,17 +829,17 @@ if __name__ == '__main__':
                 train_loss_chain_nlg, train_loss_chain_nlu = train_chain(model_nlg, model_nlu, train_aug_iterator, optimizer_nlg, optimizer_nlu, criterion_nlg, criterion_nlu, CLIP, args.beta, args.v)
 
                 # validation
-                valid_loss_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
-                valid_loss_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
+                valid_loss_chain_nlg = evaluate_nlg(model_nlg, valid_iterator, criterion_nlg)
+                valid_loss_chain_nlu = evaluate_nlu(model_nlu, valid_iterator, criterion_nlu)
     
-                best_valid_loss_nlg, best_epoch_nlg = save_best_nlg(args.p, best_valid_loss_nlg, best_epoch_nlg, valid_loss_nlg, epoch, model_nlg, MR, SEN, True)
-                best_valid_loss_nlu, best_epoch_nlu = save_best_nlu(args.p, best_valid_loss_nlu, best_epoch_nlu, valid_loss_nlu, epoch, model_nlu, MR, SEN, True)
+                best_valid_loss_chain_nlg, best_epoch_nlg = save_best_nlg(args.p, best_valid_loss_chain_nlg, best_epoch_nlg, valid_loss_chain_nlg, epoch, model_nlg, MR, SEN, True)
+                best_valid_loss_chain_nlu, best_epoch_nlu = save_best_nlu(args.p, best_valid_loss_chain_nlu, best_epoch_nlu, valid_loss_chain_nlu, epoch, model_nlu, MR, SEN, True)
                 accuracy, precision, recall, f1score, correct = calculate_valid(args.p, valid_data, SEN, MR, model_nlu, device, chain_flag)
 
                 a_performance['train_loss_chain_nlg'].append(train_loss_chain_nlg)
                 a_performance['train_loss_chain_nlu'].append(train_loss_chain_nlu)
-                a_performance['valid_loss_chain_nlg'].append(valid_loss_nlg)
-                a_performance['valid_loss_chain_nlu'].append(valid_loss_nlu)
+                a_performance['valid_loss_chain_nlg'].append(valid_loss_chain_nlg)
+                a_performance['valid_loss_chain_nlu'].append(valid_loss_chain_nlu)
                 a_performance['accuracy_chain_nlu'].append(accuracy)
                 a_performance['precision_chain_nlu'].append(precision)
                 a_performance['recall_chain_nlu'].append(recall)
@@ -839,10 +854,10 @@ if __name__ == '__main__':
                 print('Epoch(NLchain): {} end | Time: {}m {}s'.format(epoch, epoch_mins, epoch_secs))
                 print('-NLG-')
                 print('\tTrain(chain) Loss: {} | PPL: {}'.format(train_loss_chain_nlg, math.exp(train_loss_chain_nlg)))
-                print('\tValidation   Loss: {} | PPL: {}'.format(valid_loss_nlg, math.exp(valid_loss_nlg)))
+                print('\tValid(chain) Loss: {} | PPL: {}'.format(valid_loss_chain_nlg, math.exp(valid_loss_chain_nlg)))
                 print('-NLU-')
                 print('\tTrain(chain) Loss: {} | PPL: {}'.format(train_loss_chain_nlu, math.exp(train_loss_chain_nlu)))
-                print('\tValidation   Loss: {} | PPL: {}'.format(valid_loss_nlu, math.exp(valid_loss_nlu)))
+                print('\tValid(chain) Loss: {} | PPL: {}'.format(valid_loss_chain_nlu, math.exp(valid_loss_chain_nlu)))
 
     # check training performance
     if nlg_flag is True:
